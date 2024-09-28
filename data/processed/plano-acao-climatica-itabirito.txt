@@ -1,0 +1,2603 @@
+
+
+--- Page 1 ---
+
+PLANO DE AÇÃO CLIMÁTICA
+
+--- Page 2 ---
+
+Nota explicativa: este documento foi desenvolvido pelo ICLEI – Governos Locais pela
+Sustentabilidade – em parceria com a Prefeitura Municipal de Itabirito (MG), como parte do
+projeto de Conformidade Climática compacta.
+
+--- Page 3 ---
+
+PLANO DE AÇÃO CLIMÁTICA
+
+--- Page 4 ---
+
+ICLEI América do Sul
+Rodrigo Perpétuo, Secretário Executivo
+Rodrigo Corradi, Secretário Executivo Adjunto
+Maria Fernandes Caldas, Senior Fellow - Desenvolvimento Urbano Sustentável
+Armelle Cibaka, Gerente de Planejamento, Gestão e Conhecimento
+Ana Wernke, Coordenadora de Relações Institucionais e Advocacy
+Keila Ferreira, Coordenadora de Baixo Carbono e Resiliência
+Iris Coluna, Assessora de Medição, Reporte e Verificação
+Marília Israel, Assessora de Biodiversidade
+Amanda Vargas, Analista de Comunicação
+Isadora Buchala, Analista de Resiliência
+Kaccnny Carvalho, Analista de Medição, Reporte e Verificação
+Eduardo Azevedo, Assistente de Relações Institucionais e Advocacy
+Vinícius Guimarães, Assistente de Relações Institucionais e Advocacy
+Carolina Diniz, Assistente de Baixo Carbono e Resiliência
+Tiago Mello, Assistente de Medição, Reporte e Verificação
+Gustavo Barbosa, Assistente de Comunicação
+Jonathan Freitas, Assistente de Comunicação
+Lucas Rocha, Estagiário de Baixo Carbono e Resiliência
+Colaboração
+Leta Vieira
+Leonardo Batista de Andrade
+Marcelo Vieira Frayha
+Edição e Diagramação
+Porto’s Informática, Edição
+Israel Silvino Batista Neto, Diagramação
+Prefeitura de Itabirito, Fotos de capa e de conteúdo
+Prefeitura Municipal de Itabirito
+Orlando Amorim Caldeira, Prefeito de Itabirito
+Secretaria de Meio Ambiente e Desenvolvimento Sustentável
+Frederico Arthur Souza Leite, Secretário de Meio Ambiente e Desenvolvimento Sustentável
+Alessandra de Oliveira Paranhos, Assessora Técnica
+Secretaria Municipal de Planejamento e Orçamento
+Débora Francisca Costa de Aguiar, Secretária Municipal de Planejamento e Orçamento
+
+--- Page 5 ---
+
+Em plena era de mudança climática somos desafiados a superar o nosso melhor
+como agentes políticos, gestores, empreendedores e sociedade. A mudança do clima
+exige uma ação coordenada, integrada e estruturada para proteger a população dos
+desastres que, sob nenhum aspecto, são naturais, mas sim provocados pela ação
+humana e precisamos reverter esse modelo para tornar nossas cidades cada vez mais
+sustentáveis.
+É com muito orgulho que apresentamos o Plano de Ação Climática de Itabirito,
+o primeiro município brasileiro a elaborar a Conformidade Climática Compacta em
+parceria com ICLEI América do Sul. Neste processo, instituímos o Comitê de Governança
+Climática, instância que será responsável pelo monitoramento destas ações, que, como
+a situação exige é multidisciplinar, envolvendo todas as secretarias do Município e outros
+órgãos públicos que, de alguma forma, estão envolvidas com a questão climática e com
+a resposta a desastres, mas também com representantes da sociedade civil, empresas e
+movimentos sociais.
+Mas a conclusão deste trabalho é apenas o começo. Nossa missão é implementar
+e monitorar este Plano com ajuda de toda a população, fazer a nossa parte para tornar
+Itabirito um lugar cada vez mais seguro e melhor de se viver. Não é mais possível
+crescimento econômico sem proteção ambiental, nosso município está na vanguarda das
+cidades inteligentes em busca de promoção de igualdade, equidade e sustentabilidade.
+Sigo confiante no espírito inovador e solidário dos cidadãos Itabiritenses, certo de que,
+juntos, faremos de Itabirito uma referência de sustentabilidade e lugar seguro para nós
+e para as próximas gerações.
+Orlando Amorim Caldeira
+Prefeito Municipal de Itabirito
+
+--- Page 6 ---
+
+A Natureza se expressa de variadas formas.
+Se pararmos para escutar, se concentrarmos nossa atenção no momento
+presente, ouviremos o chamado para realizarmos uma mudança coletiva.
+Necessário se faz repensarmos nossas atitudes de consumo, processos
+produtivos, a geração de energia, projetos de mobilidade e, principalmente,
+remodelarmos os espaços urbanos. Tal modelagem deve considerar a conformidade
+climática, o conforto térmico, a qualidade de vida para todas as espécies, com
+foco na restauração e conservação dos biomas naturais, a casa da biodiversidade
+brasileira.
+O centenário Município de Itabirito mais uma vez se apresenta como
+protagonista na Região do Alto Rio das Velhas e no Estado de Minas Gerais.
+Diariamente, buscamos o desenvolvimento de programas direcionados para
+alcançarmos o crescimento econômico, verde e circular, a redução das emissões
+de GEE e a preservação dos recursos naturais. Neste sentido, a elaboração deste
+PLAC servirá tal qual um manual de instruções, uma constituição de ações a serem
+desenvolvidas por agentes públicos, setor privado e sociedade civil organizada.
+Agradecemos ao Prefeito de Itabirito, Exmo. Sr. Orlando Amorim Caldeira, por
+abraçar essa política e se comprometer no cumprimento deste PLAC. Ao ICLEI,
+na pessoa de seu Secretário Executivo para a América do Sul, Rodrigo Perpétuo,
+nossos agradecimentos por abrir as portas em diversas mesas de discussão, onde
+podemos aprender e compartilhar boas práticas. Este legado para a atual e as
+futuras gerações demonstra o alinhamento de Itabirito com os ODS 2030 e o Acordo
+de Paris. Estamos conectados e atentos aos sinais da natureza!
+Frederico Arthur Souza Leite
+Secretário Municipal de Meio Ambiente e Desenvolvimento Sustentável
+
+--- Page 7 ---
+
+A preservação do meio ambiente e a prevenção das alterações climáticas
+são caminhos fundamentais a serem percorridos para prevenir grandes desastres
+para todos os povos e as futuras gerações.
+Diversos recursos são utilizados para evitar crises ambientais e as ações
+devem partir também do nível local. Para lidar com essas demandas ambientais, os
+municípios devem se preparar criando estruturas adequadas.
+Pensando assim, nossa cidade tem avançado cada vez mais na busca de
+soluções para implementação de políticas públicas visando a neutralização de
+emissões liquidas de carbono até 2050.
+O Plano de Ação Climática do Município de Itabirito é uma importante
+conquista e avanço da política pública sustentável. Faz parte do planejamento
+estratégico do governo local que se preocupa com as gerações futuras e com a
+sociedade atual.
+Agradecemos a importante parceria e contribuição do ICLEI - Governos
+Locais para a Sustentabilidade, que durante todo o processo conduziu ações e as
+etapas técnicas para a consolidação das diretrizes climáticas no âmbito das políticas
+públicas do município de Itabirito.
+Este plano propiciará com que Itabirito cumpra os seus compromissos da
+Agenda Urbana e os assumidos na campanha Race TO Zero por meio de ações
+prioritárias e concretas consolidando assim as diretrizes climáticas no âmbito das
+políticas públicas do município.
+A Prefeitura de Itabirito através da Secretaria Municipal de Meio Ambiente e
+Sustentabilidade reforça cada dia o compromisso da gestão com a sustentabilidade,
+com a qualidade de vida atrelada ao desenvolvimento econômico. Reforça também
+o compromisso do governo RETO, rápido, eficiente, transparente e online.
+Débora Francisca Costa de Aguiar
+Secretaria Municipal de Planejamento e Orçamento
+
+--- Page 8 ---
+
+Itabirito é uma cidade que se destaca por seu comprometimento com a
+sustentabilidade e a responsabilidade com que vem conduzindo as medidas de
+enfrentamento da crise climática.
+Em parceria com o ICLEI, realizou a Análise de Emissões de Gases de Efeito Estufa,
+cujo conteúdo permite orientar as necessárias ações de mitigação e, também, a Análise
+de Risco e Vulnerabilidade Climática, que se constitui em estudo fundamental para a
+tomada de decisões de investimento e adaptação, considerando os impactos da crise
+climática em seu território. Com esses insumos, a cidade elaborou seu Plano de Ação
+Climática, com estratégias, ações e metas para enfrentar os novos desafios impostos
+pela mudança do clima, nos horizontes de curto, médio e longo prazos. A formulação
+desses documentos foi um processo coletivo, amparado em um modelo de governança
+climática formalmente instituído no Município, em uma organização que envolve os
+representantes dos órgãos municipais e da sociedade civil, com objetivo de acompanhar
+e monitorar o andamento e o resultado das ações climáticas estabelecidas no Plano.
+As cidades estão no centro da crise climática, mas, ao mesmo tempo, representam
+a oportunidade mais estratégica para seu enfrentamento. Portanto, ao elaborar o Plano
+de Ação Climática e os demais estudos e processos que compõem a Conformidade
+Climática, estruturando as ações para mitigar as emissões de GEE e ampliar a resiliência
+da cidade aos impactos climáticos, Itabirito entra para o rol das cidades pioneiras no
+país e o ICLEI América do Sul se orgulha de ser parceiro da cidade nesta inciativa. Que
+a experiência de Itabirito possa inspirar outros governos locais e que juntos possamos
+somar para tornar nossas cidades cada vez mais sustentáveis.
+Rodrigo Perpétuo
+Secretário Executivo do ICLEI América do Sul
+
+--- Page 9 ---
+
+Lista de Siglas
+AEGEEc Análise de Emissões de Gases de Efeito Estufa compacta
+AFOLU Agricultura, Florestas e Outros Usos do Solo
+APA Área de Proteção Ambiental
+APP Área de Preservação Permanente
+ARVCc Análise de Risco e Vulnerabilidade Climática compacta
+BR Rodovia Federal
+CBH Rio da Velhas Comitê da Bacia Hidrográfica do Rio das Velhas
+CEA Centro de Educação Ambiental
+COP Conferência das Partes
+DOTS Desenvolvimento Urbano Orientado ao Transporte Sustentável
+FIEMG Federação das Indústrias do Estado de Minas Gerais
+FJP Fundação João Pinheiro
+GCC Green Climate Cities
+GEE Gases de Efeito Estufa
+GIZ Deutsche Gesellschaft für Internationale Zusammenarbeit
+IBGE Instituto Brasileiro de Geografia e Estatísticas
+ICLEI Governos Locais pela Sustentabilidade
+IDHM Índice de Desenvolvimento Humano Municipal
+INEP Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+IPCC Painel Intergovernamental sobre Mudanças Climáticas
+IPEA Instituto de Pesquisa Econômica Aplicada
+IPPU Processos Industriais e Uso de Produtos
+MIDR Ministério da Integração e do Desenvolvimento Regional
+MG Minas Gerais
+ODS Objetivos de Desenvolvimento Sustentável
+ONU Organização das Nações Unidas
+ONU - Habitat Programa das Nações Unidas para os Assentamentos Humano
+PDRS Plano de Desenvolvimento Rural Sustentável
+PIB Produto Interno Bruto
+PLACc Plano de Ação Climática compacto
+PLHIS Plano Local de Habitação de Interesse Social
+
+--- Page 10 ---
+
+PMRR Plano Municipal de Redução de Riscos
+PNUD Programa das Nações Unidas para o Desenvolvimento
+PROCONSULT Procuradoria Municipal Consultiva
+PSA Pagamento por Serviços Ambientais
+RMBH Região Metropolitana de Belo Horizonte
+SBN Soluções Baseadas na Natureza
+SEBRAE Serviço Brasileiro de Apoio às Micro e Pequenas Empresas
+SEEG Sistema de Estimativas de Emissões de Gases
+SEMAD Secretaria Municipal de Administração
+Secretaria Municipal de Meio Ambiente e Desenvolvimento
+SEMAM
+Sustentável
+SEMAR Secretaria Municipal de Agronegócio e Desenvolvimento Rural
+SEMCO Secretaria Municipal de Comunicação
+SEMCULT Secretaria Municipal de Patrimônio, Cultura e Turismo
+SEMDE Secretaria Municipal de Desenvolvimento Econômico
+SEMDES Secretaria Municipal de Desenvolvimento Social
+SEMED Secretaria Municipal de Educação
+SEMEL Secretaria Municipal de Esportes e Lazer
+SEMFA Secretaria Municipal de Fazenda e Tributação
+SEMFRO Secretaria Municipal de Gestão de Frotas
+SEMOS Secretaria Municipal de Obras, Serviços e Infrastrutura
+SEMSA Secretaria Municipal de Saúde
+SEPLAN Secretaria Municipal de Planejamento e Orçamento
+SEPUBH Secretaria Municipal de Política Urbana e Habitação
+SESMOB Secretaria Municipal de Segurança, Prevenção e Mobilidade Urbana
+SMUC Sistema Municipal de Unidades de Conservação
+SPD Sistema de Plantio Direto
+SUS Sistema Único de Saúde
+UFSC Universidade Federal de Santa Catarina
+UNDRR United Nations Office for Disaster Risk Reduction
+UNFCCC Conferência-Quadro das Nações Unidas sobre a Mudança do Clima
+UNU-EHS Institute for Environment and Human Security of United Nations University
+URBE Áreas Urbanas Especiais
+URPV Unidades de Recebimento de Pequenos Volumes
+UTE Unidade Territorial Estratégica
+
+--- Page 11 ---
+
+Lista de Figuras
+Figura 1. Localização do município de Itabirito 20
+Figura 2. Evolução do uso e da cobertura do solo ao longo dos últimos 30 anos
+em Itabirito 21
+Figuras 3 e 4. Rendimento nominal mensal per capita por setor censitário de
+Itabirito 24
+Figura 5. Estrutura de Governança Climática 27
+Figura 6. Risco climático crítico para Itabirito 33
+Figuras 7 e 8. Risco climático crítico para a sede municipal 34
+Figura 9. Metodologia Green Climate Cities (GCC) 36
+Lista de Gráficos
+Gráfico 1. Evolução do PIB per capita referente ao município de Itabirito (2010 - 2020) 22
+Gráfico 2. Evolução do IDHM referente ao município de Itabirito (1991-2010) 23
+Gráfico 3. Evolução das emissões brutas no município de Itabirito (2010-2019) 29
+Gráfico 4. Evolução das emissões líquidas no município de Itabirito (2010-2019) 29
+Gráfico 5. Evolução das emissões do setor de Energia estacionária (2010-2019) 30
+Gráfico 6. Evolução das emissões do setor de Transportes (2010-2019) 30
+Gráfico 7. Evolução das emissões do setor de Resíduos (2010-2019) 31
+Gráfico 8. Evolução das emissões brutas do setor de AFOLU (2010-2019) 31
+Gráfico 9. Evolução das emissões líquidas do setor de AFOLU (2010-2019) 31
+
+--- Page 12 ---
+
+Lista de Quadros
+Quadro 1. Os Cinco Caminhos do ICLEI para o Desenvolvimento Sustentável 18
+Quadro 2. Símbolos atribuídos aos Caminhos do ICLEI para o Desenvolvimento
+Sustentável 40
+Quadro 3. Símbolos atribuídos aos Objetivos de Desenvolvimento Sustentável
+da ONU 41
+Quadro 4. Ação 1 do Eixo Desenvolvimento de Baixo Carbono 43
+Quadro 5. Ação 2 do Eixo Desenvolvimento de Baixo Carbono 44
+Quadro 6. Ação 3 do Eixo Desenvolvimento de Baixo Carbono 46
+Quadro 7. Ação 4 do Eixo Desenvolvimento de Baixo Carbono 47
+Quadro 8. Ação 5 do Eixo Desenvolvimento de Baixo Carbono 48
+Quadro 9. Ação 6 do Eixo Desenvolvimento de Baixo Carbono 50
+Quadro 10. Ação 1 do Eixo Planejamento Sustentável e Resiliente 52
+Quadro 11. Ação 2 do Eixo Planejamento Sustentável e Resiliente 53
+Quadro 12. Ação 3 do Eixo Planejamento Sustentável e Resiliente 54
+Quadro 13. Ação 4 do Eixo Planejamento Sustentável e Resiliente 56
+Quadro 14. Ação 5 do Eixo Planejamento Sustentável e Resiliente 57
+Quadro 15. Ação 1 do Eixo Inclusão Socioeconômica e Participação Social 59
+Quadro 16. Ação 2 do Eixo Inclusão Socioeconômica e Participação Social 60
+Quadro 17. Ação 3 do Eixo Inclusão Socioeconômica e Participação Social 61
+Quadro 18. Ação 4 do Eixo Inclusão Socioeconômica e Participação Social 63
+Quadro 19. Ação 5 do Eixo Inclusão Socioeconômica e Participação Social 64
+Quadro 20. Ação 6 do Eixo Inclusão Socioeconômica e Participação Social 65
+Quadro 21. Ação 7 do Eixo Inclusão Socioeconômica e Participação Social 67
+
+--- Page 13 ---
+
+Lista de Quadros
+Quadro A1. Diagnóstico para Ação Climática sobre resíduos sólidos e reciclagem 73
+Quadro A2. Diagnóstico para Ação Climática sobre meio ambiente 74
+Quadro A3. Diagnóstico para Ação Climática sobre saneamento básico 76
+Quadro A4. Diagnóstico para Ação Climática sobre inundações 77
+Quadro A5. Diagnóstico para Ação Climática sobre cursos d’água e nascentes 78
+Quadro A6. Diagnóstico para Ação Climática sobre arboviroses 78
+Quadro A7. Diagnóstico para Ação Climática sobre mobilidade 79
+Quadro A8. Diagnóstico para Ação Climática sobre turismo 79
+Quadro A9. Diagnóstico para Ação Climática sobre política urbana 80
+Quadro A10. Diagnóstico para Ação Climática sobre agricultura 80
+Quadro A11. Diagnóstico para Ação Climática sobre emprego e renda 81
+Quadro A12. Diagnóstico para Ação Climática sobre geoprocessamento de dados 82
+Quadro A13. Diagnóstico para Ação Climática sobre emissões de GEE 83
+
+--- Page 14 ---
+
+SUMÁRIO
+APRESENTAÇÃO 16
+1. CONTEXTO LOCAL 19
+1.1 CARACTERIZAÇÃO TERRITORIAL 20
+1.2 CARACTERIZAÇÃO AMBIENTAL E USO DO SOLO 21
+1.3 CARACTERIZAÇÃO SOCIOECONÔMICA 22
+1.4 OCORRÊNCIAS DE DESASTRES 24
+2. CONFORMIDADE CLIMÁTICA DE ITABIRITO 26
+2.1 GOVERNANÇA CLIMÁTICA 27
+2.2 ANALÍSE DE EMISSÕES DE GASES DE EFEITO ESTUFA 28
+2.3 ANÁLISE DE RISCO E VULNERABILIDADE CLIMÁTICA 32
+3. PLANO DE AÇÃO CLIMÁTICA 35
+3.1 METODOLOGIA 36
+3.2 PROCESSO DE CONSTRUÇÃO 37
+3.3 EIXOS E AÇÕES 38
+3.3.1 Eixo Desenvolvimento de Baixo Carbono 42
+3.3.2 Eixo Planejamento Sustentável e Resiliente 51
+3.3.3 Eixo Inclusão Socioeconômica e Participação Social 58
+4. REFLEXÕES FINAIS 69
+REFERÊNCIAS BIBLIOGRÁFICAS 70
+ANEXO A - Diagnóstico para Ação Climática 73
+
+--- Page 15 ---
+
+O ICLEI – Governos Locais pela Sustentabilidade – é uma rede global de mais de 2.500
+governos locais e regionais comprometida com o desenvolvimento urbano sustentável.
+Ativo em mais de 130 países, o ICLEI influencia as políticas de sustentabilidade e
+impulsiona a ação para o desenvolvimento de baixo carbono, baseado na natureza,
+equitativo, resiliente e circular. A Rede e sua equipe de especialistas trabalham juntos
+aos seus associados, oferecendo acesso a conhecimento, parcerias e capacitações para
+gerar mudanças sistêmicas em prol da sustentabilidade urbana.
+Na América do Sul, o ICLEI conecta seus mais de 100 governos associados em 8 países
+a este movimento global. Em 2018, para continuar construindo fortes relações de apoio
+com seus associados, o Secretariado Regional abriu 2 Escritórios de Coordenação
+Nacional (na Argentina e na Colômbia). O Escritório na Argentina, é sediado na cidade
+de Rosário; e na Colômbia é sediado na Ruta N, polo de inovação da cidade de Medellín.
+Em 2020, foi aberto o Escritório ICLEI Brasil, com sede em São Paulo, na perspectiva de
+apoio à maior base de associados na América do Sul, que hoje congrega 95 governos
+subnacionais brasileiros, entre eles, 10 estados e 25 capitais brasileiras. Com o intuito de
+fortalecer a Agenda e de ficar mais próximo às regiões estratégicas no país, o ICLEI Brasil
+inaugurou, em 2021, os trabalhos dos Escritórios Subnacionais nas regiões Nordeste e
+Sul e no estado de Minas Gerais.
+
+--- Page 16 ---
+
+Apresentação
+A crise climática é um dos desafios mais complexos deste século. O relatório do Painel
+Intergovernamental sobre Mudanças Climáticas (IPCC, 2014) aponta a urgência de
+desenvolver mecanismos institucionais de ação para a adaptação dos ambientes urbanos.
+Essa necessidade foi reforçada no texto do Acordo de Paris, apresentado durante a
+21ª Conferência das Partes (COP-21) da Convenção-Quadro das Nações Unidas sobre
+Mudança do Clima (UNFCCC, 2015), em que a adaptação aparece como uma questão
+premente.
+Desenvolver mecanismos institucionais municipais capazes de promover ações de
+adaptação deve ser prioridade já que os municípios são os primeiros a sofrer e a responder
+aos impactos climáticos. Considerando que as cidades são sistemas dinâmicos, as ações
+de adaptação devem, necessariamente, considerar o contexto local.
+Dessa forma, o ponto de partida para uma gestão de risco assertiva, a construção da
+resiliência climática a longo prazo deve estar baseada na compreensão do conjunto de
+ameaças climáticas, além dos elementos de exposição e vulnerabilidade dos diferentes
+sistemas que compõem o ambiente urbano, de modo a subsidiar o desenvolvimento de
+políticas públicas responsivas e investimentos que minimizem riscos.
+Intervenções de adaptação visam reforçar a resiliência do sistema, melhorando a sua
+capacidade de responder ao estresse do clima e/ou reduzir possíveis entraves físicos e
+socioeconômicos, garantindo, assim, oportunidades adicionais para a sustentabilidade,
+crescimento e desenvolvimento.
+Ao longo do tempo, embasadas em projeções de risco, tais ações devem ser pensadas
+de forma eficiente, proativa e transversal, alinhadas ao planejamento urbano da cidade.
+Ademais, deve-se destacar o duplo dividendo proveniente destas intervenções, uma vez
+que investimentos em resiliência permitem não apenas a redução do risco climático, mas
+também a melhoria das infraestruturas urbanas e da qualidade de vida.
+Nesse contexto, a Conformidade Climática compacta é uma solução criada pelo
+ICLEI América do Sul para apoiar municípios com menos de 200 mil habitantes na
+promoção de um território sustentável, com foco na mitigação das emissões de Gases
+de Efeito Estufa (GEE), adaptação do território frente à crise climática e o aumento de
+resiliência local.
+16
+
+--- Page 17 ---
+
+Considerando as características específicas de municípios desse porte, são realizados
+estudos analíticos a partir de dados de acesso público que fornecem um retrato fidedigno
+da realidade local.
+Dessa forma, a Conformidade Climática compacta implica a estruturação de um sistema
+de Governança Climática e de estudos que permitem ao Município compreender o seu
+perfil de emissões de Gases de Efeito Estufa (Análise de Emissões de GEE), os riscos
+e vulnerabilidades que podem afetar seu território e população (Análise de Risco e
+Vulnerabilidade Climática) e, por fim, o planejamento para enfrentar a crise climática e
+implementar ações de mitigação e adaptação no município (Plano de Ação Climática -
+PLAC).
+O PLAC é um instrumento de alta relevância na busca da conformidade climática, pois
+denota alinhamento com o Acordo de Paris, objetivando a neutralização das emissões de
+GEE até o ano de 2050 e a resiliência aos efeitos adversos da crise climática. É realizada
+uma análise territorial inter e multissetorial visando identificar políticas, planos e projetos
+já existentes e operantes voltados à ação climática para, assim, definir metas ambiciosas
+e planejar ações e indicadores para o seu cumprimento e monitoramento.
+Sendo assim, o Plano de Ação Climática de Itabirito estabelece três eixos estratégicos:
+Desenvolvimento
+de baixo carbono
+Planejamento sustentável
+e resiliente
+Inclusão Socioeconômica
+e Participação Social
+17
+
+--- Page 18 ---
+
+Além disso, as ações foram estabelecidas em consonância com os cinco caminhos do
+ICLEI para o desenvolvimento sustentável, sendo sua defi nição apresentada pelo quadro
+abaixo.
+Quadro 1. Os Cinco Caminhos do ICLEI para o Desenvolvimento Sustentável.
+Desenvolvimento de baixo carbono: para conter a crise climática,
+estimular novas oportunidades econômicas e melhorar a saúde
+das pessoas e dos sistemas naturais.
+Desenvolvimento baseado na natureza: para proteger e melhorar
+a biodiversidade e os ecossistemas dentro e nos arredores de
+nossas cidades, que sustentam os aspectos essenciais das
+economias locais e do bem-estar e a resiliência das nossas
+comunidades.
+Desenvolvimento equitativo e centrado nas pessoas: para
+construir comunidades urbanas mais habitáveis e inclusivas e
+para enfrentar a pobreza.
+Desenvolvimento resiliente: para antecipar, impedir, absorver e
+recuperar dos choques e tensões, particularmente aqueles que
+geram rápidas mudanças ambientais, tecnológicas, sociais e
+demográfi cas, e para melhorar estruturas básicas de resposta.
+Desenvolvimento circular: novos modelos de produção e de
+consumo para construir sociedades sustentáveis, que utilizem
+recursos recicláveis, compartilháveis e regenerativos, para
+acabar com o modelo linear de produção, consumo e descarte
+e para atender às necessidades materiais e de desenvolvimento
+de uma população mundial crescente.
+Fonte: Acervo ICLEI.
+18
+
+--- Page 19 ---
+
+1.Contexto
+Local
+Este diagnóstico é composto pela apresentação do contexto geral a respeito de dados
+geográfi cos e políticos do município. As informações foram obtidas, majoritariamente,
+por meio de dados divulgados pelo Instituto Brasileiro de Geografi a e Estatística (IBGE)
+e por sítios eletrônicos ofi ciais do Município e compiladas no âmbito da elaboração dos
+estudos prévios para a Conformidade Climática de Itabirito.
+19
+
+--- Page 20 ---
+
+1.1 CARACTERIZAÇÃO TERRITORIAL
+O município de Itabirito está localizado no Quadrilátero Ferrífero, na região central do
+Estado de Minas Gerais (conforme ilustra a Figura 1), distante aproximadamente 55 km
+da capital mineira e integra o colar metropolitano, no entorno da Região Metropolitana
+de Belo Horizonte (RMBH).
+Figura 1. Localização do município de Itabirito.
+Fonte: Elaboração própria, 2023.
+De acordo com dados disponíveis no sítio eletrônico do Instituto Brasileiro de Geografi a
+e Estatísticas (IBGE, 2021a, 2021b), a unidade territorial do município é conformada
+por uma área de 544,027 km² e uma população estimada de 52.996 pessoas, o que
+corresponde à uma densidade demográfi ca de aproximadamente 97,41 hab./km².
+Itabirito apresenta 21,31 km² de área urbanizada (IBGE, 2022b), o que corresponde,
+aproximadamente, a 4% de toda área do município. Destaca-se que 87,3% dos domicílios
+particulares permanentes contam com esgotamento sanitário, 66,3% dos domicílios
+urbanos estão localizados em vias públicas com arborização e 39,5% desses domicílios
+estão localizados em vias públicas com urbanização adequada, isto é, com presença de
+bueiro, calçada, meio-fi o e pavimentação (IBGE, 2011).
+20
+
+--- Page 21 ---
+
+A ocupação do território está concentrada na sede municipal, onde estão localizadas
+as principais atividades, e também está distribuída em distritos (Acuruí, Bação e São
+Gonçalo do Monte) e nos demais núcleos urbanizados (denominados no Plano Diretor
+Municipal como Áreas Urbanas Especiais – URBE, a saber: Córrego do Bação; Cruz das
+Almas I e II; Marzagão I e II; Morro de São Vicente; Ribeirão do Eixo; e BR-040).
+1.2 CARACTERIZAÇÃO AMBIENTAL E USO DO SOLO
+Destaca-se a existência de importantes Unidades de Conservação distribuídas pelo
+território, sendo uma delas nacional (Parque da Serra do Gandarela) e as demais
+estaduais (Área de Proteção Ambiental - APA Sul RMBH; Estação Ecológica de Arêdes; e os
+monumentos naturais Serra da Moeda, Pico do Itabirito e Serra das Águas), fundamentais
+para a preservação do bioma Mata Atlântica.
+Além disso, Itabirito conta com um Sistema Municipal de Unidades de Conservação
+(SMUC), que foi instituído pela Lei Municipal n.º 3.453 (ITABIRITO, 2020). O Parque
+Ecológico Municipal, importante Unidade de Conservação, além de fazer divisa com o rio
+Itabirito, está localizado na sede urbana.
+Entretanto, a análise dos mapas apresentados na Figura 2, indica um aumento expressivo
+das áreas de mineração no território municipal, sendo importante ressaltar que algumas
+destas áreas se encontram inseridas em Unidades de Conservação.
+Figura 2. Evolução do uso e da cobertura do solo ao longo dos últimos 30 anos em Itabirito.
+Fonte: Elaboração própria a partir de Map Biomas (2023).
+21
+
+--- Page 22 ---
+
+Quanto à expansão urbana, destaca-se o aumento de área urbanizada no entorno da
+sede municipal e na região leste do município, onde localiza-se a fábrica da Coca-Cola
+FEMSA Brasil, lindeiro à rodovia BR-040.
+Sobre os aspectos hidrográficos, destaca-se que a sede municipal está localizada às
+margens do rio Itabirito, importante contribuinte da Bacia do Rio das Velhas. Situado na
+região do Alto Rio das Velhas, o Município, junto de Ouro Preto e Rio Acima, compõe uma
+das Unidades Territoriais Estratégicas (UTE) do Comitê da Bacia Hidrográfica do Rio das
+Velhas (CBH Rio das Velhas).
+1.3 CARACTERIZAÇÃO SOCIOECONÔMICA
+Itabirito, desde a sua fundação, tem sua economia diretamente relacionada à atividade
+minerária, em função da descoberta de ouro na região de Ouro Preto (ITABIRITO, [s.d.]).
+Atualmente, atividades relacionadas à exploração mineral permanecem como fortes
+contribuintes da economia municipal, atuando no território municipal mineradoras de
+pequeno a grande porte.
+Tendo em vista a finitude dos recursos minerais, o Município tem buscado promover a
+diversificação da economia local, a fim de garantir a arrecadação e geração de renda.
+Um exemplo é o Projeto Reconversão Produtiva, em parceria com a Federação das
+Indústrias do Estado de Minas Gerais (FIEMG) e com o Serviço Brasileiro de Apoio às
+Micro e Pequenas Empresas (SEBRAE).
+De acordo com dados do IBGE (2020), o município apresenta um Produto Interno Bruto
+(PIB) per capita de R$126.859,47 (conforme ilustra o Gráfico 1). Além disso, o PIB nominal
+do estado de MG (referente a 2020) foi de R$682,8 bilhões, tendo o município de Itabirito
+apresentado um ganho de participação de 0,4% em relação ao ano de 2019 (FJP, 2022).
+Evolução do PIB per capita referente ao município
+Gráfico 1.
+de Itabirito (2010-2020).
+Gráfico 1. Evolução do PIB per capita referente ao município de Itabirito (2010 - 2020).
+140.000.00
+120.000.00
+100.000.00
+80.000.00
+60.000.00
+40.000.00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Fonte: IBGE, em parceria com os Órgãos Estaduais de Estatística, Secretarias Estaduais de
+Fonte: IBGE, em parceria com os Órgãos Estaduais de Estatística, Secretarias
+EstaduGaoivse dren oG oev Seurnpoe rein Stuepnedrêinntceian ddêan Zcioan daa F Zroanncaa F rdaen Mcaa dnea uMsa, n2a0u2s0,. 2020.
+22
+
+--- Page 23 ---
+
+Em relação ao Índice de Desenvolvimento Humano Municipal (IDHM), de acordo com
+dados do Programa das Nações Unidas para o Desenvolvimento (PNUD; IPEA; FJP,
+2013), observa-se a evolução entre os anos de 1991, quando o município apresentava
+o resultado de 0,49, e 2010, quando o município atingiu o resultado de 0,73 (conforme
+ilustra o Gráfico 2). Com isto, Itabirito deixou de apresentar um IDHM considerado muito
+baixo e passou a apresentar um IDHM considerado alto, em uma escala que varia entre
+0 e 1, refletindo os desafios locais relativos à longevidade, educação e renda.
+Evolução do IDHM referente ao município de Itabirito (1991-2010).
+Gráfico 2.
+Gráfico 2. Evolução do IDHM referente ao município de Itabirito (1991-2010).
+0.800
+0.700
+0.600
+0.500
+0.400
+2011 2013 2019
+Fonte: IBGE a partir de dados do PNUD, IPEA e FJP (2013).
+Fonte: IBGE a partir de dados do PNUD, IPEA e FJP (2013).
+Em linhas gerais, destaca-se também que o salário médio mensal dos trabalhadores é
+de 2,4 salários-mínimos, sendo que 41,2% da população é caracterizada como ocupada
+(IBGE, 2022a). Além disso, 30,5% da população conta com rendimento nominal mensal
+per capita de até ½ salário mínimo (IBGE, 2011).
+23
+
+--- Page 24 ---
+
+Figuras 3 e 4. Rendimento nominal mensal per capita por setor censitário de Itabirito.
+Fonte: Elaboração própria a partir de IBGE (2011).
+Quanto à estrutura relativa à educação, no município há 23 estabelecimentos de ensino
+fundamental e 6 estabelecimentos de ensino médio (INEP, 2022), sendo que a taxa de
+alunos matriculados no ensino regular referente à população entre 6 e 14 anos residente
+no município é de 99,4% (IBGE, 2011).
+Em relação à estrutura de saúde, também de acordo com dados disponíveis no site do
+IBGE (2010), no município há 22 estabelecimentos de saúde que atendem via Sistema
+Único de Saúde (SUS), sendo que a taxa de mortalidade infantil é de 8 óbitos a cada mil
+nascidos vivos (MINISTÉRIO DA SAÚDE, 2020).
+1.4 OCORRÊNCIAS DE DESASTRES
+De acordo com o Atlas Digital de Desastres no Brasil (MIDR; UFSC, 2023), no período
+compreendido entre os anos de 1991 e 2021, foram registradas oito ocorrências de
+desastres no município, sendo seis delas de natureza hidrológica (chuva intensa,
+alagamento, inundação, enxurrada e movimento de massa), uma meteorológica (queda
+de granizo) e outra relacionada com doenças infecciosas. Esses eventos não incidiram
+em óbitos, mas deixaram 474 pessoas desabrigadas/ desalojadas. São estimados que
+24
+
+--- Page 25 ---
+
+9.840 pessoas tenham sido afetadas e que os danos seriam da ordem de 36,41 milhões
+de reais e os prejuízos de 15,59 milhões de reais.
+Destaca-se também as ocorrências de enxurradas, enchentes e inundações devido às
+chuvas intensas que acometeram Itabirito no início do ano de 2022, ocasião na qual o
+Município chegou a declarar estado de calamidade pública. Foram registrados índices de
+precipitações pluviométricas na ordem de 140mm em um só dia e, entre outros impactos,
+várias áreas e bairros da cidade ficaram sem acesso, tendo sido registrada, inclusive, a
+interdição da BR-040, rodovia que conecta Itabirito até Belo Horizonte (ITABIRITO, 2022a).
+Atualmente, Itabirito conta com o apoio de um Plano Municipal de Contingência,
+elaborado pela Defesa Civil (ITABIRITO, 2022b), tendo em vista o risco de acidentes
+naturais (inundações, enxurradas e deslizamentos) e tecnológicos (rompimento e/ou
+colapso de barragem), a fim de minimizar as consequências dos eventos. Por meio de
+observações estatísticas, foram desenhados cenários para a definição de intervenções,
+cujo mapeamento indicou as áreas para monitoramento. Para o risco de inundação,
+por exemplo, o Plano estabelece três níveis de cenários: atenção, alerta e emergência;
+sendo este último subdividido em: baixo (quando a ocorrência não atingir toda a cidade),
+moderado (quando indicar evacuação) e elevado (quando a situação estiver fora de
+controle). O limite do primeiro nível corresponde à elevação de 1 metro no nível do rio
+Itabirito em 3 horas.
+25
+
+--- Page 26 ---
+
+2.Conformidade
+Climática de
+Itabirito
+A seguir será apresentada a síntese dos estudos que precederam o Plano de Ação
+Climática, elaborados pelo ICLEI em parceria com a Prefeitura de Itabirito, no âmbito do
+projeto de Conformidade Climática compacta1.
+1 Mais informações sobre a Conformidade Climática compacta, criada pelo ICLEI América do
+Sul para municípios com até 200 mil habitantes, estão sendo apresentadas na Seção 1 deste
+documento.
+26
+
+--- Page 27 ---
+
+2.1 GOVERNANÇA CLIMÁTICA
+A estrutura de Governança Climática busca incluir atores estratégicos nos processos
+de acompanhamento da agenda climática municipal. Além disso, tem o objetivo de
+promover o engajamento dos atores que já participam de iniciativas relacionadas
+ao enfrentamento da crise climática. Assim, a mobilização é incentivada e mantida,
+facilitando trocas de conteúdos técnicos e promovendo a construção coletiva e a
+implementação fi dedigna de ações.
+Figura 5. Estrutura de Governança Climática.
+Fonte: ICLEI, 2023c.
+Para construir a Governança Climática no Município foram identifi cados os atores
+capazes de auxiliar na construção e na implementação de medidas e ações voltadas
+para o enfrentamento à crise climática, representantes do setor público, setor privado,
+academia, organizações sociais, dentre outros.
+O arranjo proposto tratou de organizar esses atores em duas instâncias, o Grupo
+Executivo e o Comitê de Diálogo.
+O Grupo Executivo é composto por representantes de secretarias e órgãos da
+administração direta e indireta do Município. É sua atribuição disponibilizar informações
+pertinentes à agenda climática municipal que se relacionem ao planejamento e o
+acompanhamento das ações estabelecidas no Plano de Ação Climática. É também de sua
+competência a mobilização e escuta pertinentes quanto às observações trazidas pelos
+membros do Comitê de Diálogo.
+27
+
+--- Page 28 ---
+
+O Comitê de Diálogo é constituído pelos representantes do Grupo Executivo e pelos
+representantes dos demais segmentos sociais mobilizados. É sua atribuição participar
+ativamente das reuniões com o Grupo Executivo, expressar as ponderações e observações
+que digam respeito a suas atividades e ações relacionadas ao andamento da agenda
+climática do município, opinando e contribuindo sobre os estudos, metas e avanços nas
+ações ambientais e climáticas empreendidas no território.
+Como resultado desta etapa, o Município criou o Comitê de Sustentabilidade e Mudanças
+Climáticas de Itabirito, instituído pelo Decreto Municipal n.º 14.822 (ITABIRITO, 2023).
+2.2 ANÁLISE DE EMISSÕES DE GASES DE EFEITO ESTUFA
+A Análise de Emissões de Gases de Efeito Estufa compacta (AEGEEc) tem por objetivo
+realizar um levantamento das emissões municipais a partir de dados secundários, de
+maneira a identificar os principais setores emissores e, assim, guiar ações municipais
+para a redução de emissões de GEE, contribuindo então para o enfrentamento da crise
+climática em nível local. Para o município de Itabirito, foram obtidos os dados a partir do
+Sistema de Estimativas de Emissões de Gases (SEEG)2.
+Para a caracterização do perfil de emissões e as variações observadas no município, os
+dados estão sistematizadas em cinco setores principais: Energia Estacionária; Transportes;
+Resíduos; Agricultura, Florestas e Outros Usos do Solo (AFOLU); e Processos Industriais e
+Uso de Produtos (IPPU)3. Cada setor compreende categorias individuais e subsetores e o
+total de emissões é estimado pela soma dessas subcategorias.
+As estimativas de emissões são calculadas como brutas e líquidas. A diferença entre elas
+se dá pelo fato de que as emissões brutas de GEE não consideram a remoção do Dióxido
+de Carbono pela alteração do uso do solo, enquanto as emissões líquidas descontam
+das emissões totais as remoções ocasionadas pela remoção de gases de carbono fixados
+pelo crescimento e manutenção da vegetação.
+A evolução das emissões brutas no período de 2010 a 2019 consta no Gráfico 3. No ano
+de 2019, foi observada uma emissão de 209 mil tCO2e, o que representa um crescimento
+de 27% em relação ao quantitativo observado no primeiro ano analisado. Destaca-se que
+o setor de Energia Estacionária foi o que mais cresceu, com um aumento de 65% nas
+emissões.
+2 Plataforma SEEG Municípios – disponível em: < https://plataforma.seeg.eco.br/map?cities=true >;
+acesso em: 03 mar. 2023. A seção contendo os dados do perfil das emissões de Itabirito está
+disponível em: < https://plataforma.seeg.eco.br/territories/mg-itabirito/card?year=2019&cities=true
+>; acesso em: 14 mar. 2023.
+3 Não há informações no SEEG Municípios sobre emissões geradas por atividades industriais no
+território de Itabirito, apenas como subsetor da categoria de Energia Estacionária, e por este
+motivo não foram estimadas as contribuições relacionadas ao setor de IPPU.
+28
+
+--- Page 29 ---
+
+A evolução das emissões líquidas neste mesmo período consta no Gráfico 4. Destaca-se a
+contribuição do setor de AFOLU para este cenário. No ano de 2017, foi identificado para
+este setor um quantitativo maior de remoções de GEE do que de emissões.
+Gráfico 3. Evolução das emissões brutas
+no município de Itabirito (2010-2019).
+Gráfico 3. Evolução das emissões brutas no município de Itabirito (2010-2019).
+FFoonnttee:: IICCLLEEII,, 22002233ab..
+Gráfico 4. Evolução das emissões líquidas no município de Itabirito (2010-2019).
+Fonte: ICLEI, 2023b.
+As emissões do setor de Energia Estacionária são oriundas da queima de combustíveis
+em atividades associadas à produção de energia e ao uso final desta energia em fontes
+fixas. Conforme ilustra o Gráfico 5, as maiores contribuições dos subsetores Industrial e
+Residencial foram observadas no ano de 2018. É importante ressaltar que as contribuições
+do subsetor Comercial foram pontuais e inferiores a 1%.
+O setor de Transportes contempla emissões relacionadas ao consumo de combustíveis
+em fontes móveis, que podem ser divididas em transporte rodoviário, ferroviário,
+hidroviário e outros. Conforme ilustra o Gráfico 6, as maiores contribuições ao perfil de
+emissões deste Setor estão relacionadas ao consumo de Diesel de Petróleo e Gasolina
+Automotiva.
+29
+2OC
+ed
+sadalenot
+ed
+serahliM
+Gráfico 4. Evolução das emissões líquidas no
+município de Itabirito (2010-2019).
+250,00
+200,00
+150,00
+100,00
+50,00
+0,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Energia estacionária Transportes Resíduos IPPU AFOLU
+Fonte: ICLEI, 2023a.
+2OC
+ed
+sadalenot
+ed
+serahliM
+250,00
+200,00
+150,00
+100,00
+50,00
+0,00
+-50,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Energia estacionária Transportes Resíduos IPPU AFOLU
+Gráfico 3. Evolução das emissões brutas
+no município de Itabirito (2010-2019).
+Fonte: ICLEI, 2023a.
+2OC
+ed
+sadalenot
+ed
+serahliM
+Gráfico 4. Evolução das emissões líquidas no
+município de Itabirito (2010-2019).
+250,00
+200,00
+150,00
+100,00
+50,00
+0,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Energia estacionária Transportes Resíduos IPPU AFOLU
+Fonte: ICLEI, 2023a.
+2OC
+ed
+sadalenot
+ed
+serahliM
+250,00
+200,00
+150,00
+100,00
+50,00
+0,00
+-50,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Energia estacionária Transportes Resíduos IPPU AFOLU
+
+--- Page 30 ---
+
+O setor de resíduos contempla emissões oriundas da decomposição da matéria orgânica
+e/ou por meio de queima, controlada ou não, no tratamento de resíduos sólidos e
+efluentes líquidos. Conforme ilustra o Gráfico 7, no período analisado, considerando o
+somatório de todos anos, as emissões oriundas do subsetor de Resíduos Sólidos, além
+de apresentarem um maior crescimento, também apresentaram uma contribuição mais
+significativa.
+Por fim, no setor de AFOLU são contempladas emissões e remoções pelo ganho ou perda
+de carbono relacionados à conversão do uso da terra e atividades de agropecuária
+(fermentação entérica, manejo de dejetos e outras atividades agrícolas). Conforme
+ilustram os gráficos 8 e 9, é possível inferir que a oscilação das emissões deste
+Setor esteja relacionada, majoritariamente, com o comportamento das emissões do
+subsetor de Mudança de Uso da Terra e Florestas, que considera emissões ocasionadas
+por Resíduos Florestais e as Alterações de Uso do Solo, que se trata, na prática, de
+desmatamento.
+Gráfico 5. Evolução das emissões do setor
+de Energia estacionária (2010-2019).
+Gráfico 5. Evolução das emissões do setor de Energia estacionária (2010-2019).
+FFoonnttee:: IICCLLEEII,, 22002233ab..
+Gráfico 6. Evolução das emissões do setor de Transportes (2010-2019).
+Fonte: ICLEI, 2023b.
+30
+2OC
+ed
+sadalenot
+ed
+serahliM
+Gráfico 6. Evolução das emissões do setor
+de Transportes (2010-2019).
+50,00
+40,00
+30,00
+20,00
+10,00
+0,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Industrial Residencial
+Fonte: ICLEI, 2023a.
+2OC
+ed
+sadalenot
+ed
+serahliM
+125,00
+100,00
+75,00
+50,00
+25,00
+0,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Diesel de petróleo Gasolina automotiva Óleo diesel Gasolina C Álcool hidratado
+Gráfico 5. Evolução das emissões do setor
+de Energia estacionária (2010-2019).
+Fonte: ICLEI, 2023a.
+2OC
+ed
+sadalenot
+ed
+serahliM
+Gráfico 6. Evolução das emissões do setor
+de Transportes (2010-2019).
+50,00
+40,00
+30,00
+20,00
+10,00
+0,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Industrial Residencial
+Fonte: ICLEI, 2023a.
+2OC
+ed
+sadalenot
+ed
+serahliM
+125,00
+100,00
+75,00
+50,00
+25,00
+0,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Diesel de petróleo Gasolina automotiva Óleo diesel Gasolina C Álcool hidratado
+
+--- Page 31 ---
+
+Gráfico 7. Evolução das emissões do setor
+de Resíduos (2010-2019).
+Gráfico 7. Evolução das emissões do setor de Resíduos (2010-2019).
+FFoonnttee:: IICCLLEEII,, 22002233ab..
+Gráfico 8. Evolução das emissões brutas do setor de AFOLU (2010-2019).
+Fonte: ICLEI, 2023b.
+Gráfico 9. Evolução das emissões líquidas do setor de AFOLU (2010-2019).
+Fonte: ICLEI, 2023b.
+31
+2OC
+ed
+sadalenot
+ed
+serahliM
+Gráfico 8. Evolução das emissões brutas do setor
+de AFOLU (2010-2019).
+25,00
+20,00
+15,00
+10,00
+5,00
+0,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Efluentes líquidos Resíduos sólidos
+Fonte: ICLEI, 2023a.
+2OC
+ed
+sadalenot
+ed
+serahliM
+100,00
+75,00
+50,00
+25,00
+0,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Agropecuária Mudança do Uso da Terra e Florestas
+Gráfico 7. Evolução das emissões do setor
+de Resíduos (2010-2019).
+Fonte: ICLEI, 2023a.
+2OC
+ed
+sadalenot
+ed
+serahliM
+Gráfico 8. Evolução das emissões brutas do setor
+de AFOLU (2010-2019).
+25,00
+20,00
+15,00
+10,00
+5,00
+0,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Efluentes líquidos Resíduos sólidos
+Fonte: ICLEI, 2023a.
+2OC
+ed
+sadalenot
+ed
+serahliM
+100,00
+75,00
+50,00
+25,00
+0,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Agropecuária Mudança do Uso da Terra e Florestas
+Gráfico 9.Evolução das emissões líquidas do setor de AFOLU (2010-2019).
+Fonte: ICLEI, 2023a.
+2OC
+ed
+sadalenot
+ed
+serahliM
+60,00
+40,00
+20,00
+0,00
+-20,00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Agropecuária Mudança do Uso da Terra e Florestas
+
+--- Page 32 ---
+
+2.3 ANÁLISE DE RISCO E VULNERABILIDADE CLIMÁTICA
+A Análise de Risco e Vulnerabilidade compacta (ARVCc) consiste na análise do conjunto
+de ameaças climáticas, elementos de exposição e vulnerabilidade e tem por objetivo
+apoiar o Município na construção de uma estrutura resiliente aos impactos de eventos
+extremos causados pela crise climática a partir da indicação de áreas estratégicas para
+a ação. Sendo assim, esta etapa, como referência ao processo de tomada de decisão
+dos gestores, é fundamental para subsidiar o desenvolvimento de políticas públicas e
+direcionar investimentos para a minimização de riscos.
+A metodologia de ARVCc foi desenvolvida pelo ICLEI baseada em estudos recentes, em
+especial o Método de Análise Participativa de Risco à Mudança do Clima (MINISTÉRIO
+DO MEIO AMBIENTE, 2018), o estudo The Vulnerability Sourcebook (GIZ, 2014), a
+ferramenta Scorecard (UNDRR, 2017) e a metodologia de planejamento do território
+desenvolvida por Buchala (2022).
+O risco climático crítico refere-se à sobreposição das análises realizadas com relação
+aos riscos de deslizamentos, inundações e vetores de arboviroses. Sendo assim, o
+risco muito alto resulta da combinação entre características de alta sensibilidade social
+e baixa capacidade de adaptação, que indica uma menor resiliência das regiões às
+possíveis perdas e danos associados à crise climática.
+O risco de deslizamentos se manifesta mais pontualmente, concentrado em áreas
+de encostas, onde observa-se maiores declividades e onde estão localizadas as áreas
+de mineração e solo exposto. Um ponto de atenção deve ser dado ao fato de existir
+urbanização próxima a tais áreas, o que indica possibilidade de risco à vida em caso
+de expansões não planejadas nestas zonas do território.
+O risco de inundação se mostra mais presente onde há concentração de pessoas próxima
+à presença de cursos d’água. Além disso, a densidade demográfica está diretamente
+relacionada com o nível de permeabilidade do solo, aumentando a vulnerabilidade.
+Nesse sentido, observa-se a concentração de áreas mais suscetíveis ao risco na sede
+municipal. Nessas áreas, o risco está relacionado, em especial, à proximidade com o rio
+Itabirito e à baixa declividade, típica de áreas de várzea.
+Já o risco de proliferação de vetores de arboviroses se manifesta de maneira mais
+homogênea em grande parte do município. Isso se deu pelo fato de grande parte dos
+indicadores ter característica binária, por exemplo, área em que há ou não cobertura
+de serviços de saúde, ou pela predisposição do território ao risco, contando com altas
+temperaturas.
+Os três riscos analisados foram considerados no cálculo do risco crítico. Entretanto, devido
+ao seu grande impacto sobre as áreas populadas de Itabirito, houve maior influência
+do mapeamento de inundações na composição deste indicador síntese. A natureza dos
+dados utilizados para o mapeamento do risco de inundação também favoreceu seu
+maior grau de detalhe e, consequentemente, maior variação de nível de risco.
+32
+
+--- Page 33 ---
+
+Sendo assim, observa-se a concentração de maior grau de risco climático crítico na sede
+municipal, com grandes áreas com risco alto ou muito alto. Entretanto, é importante
+ressaltar que outras localidades do município também necessitam de atenção, em especial
+a região noroeste. O risco climático crítico nesta área está relacionado, principalmente,
+ao risco de vetores de arboviroses, sendo necessária a atuação do Poder Público com o
+objetivo de evitar o agravamento do grau de risco ao longo dos anos.
+Figura 6. Risco climático crítico para Itabirito.
+Fonte: ICLEI, 2023b.
+A análise específica da área da sede municipal indica que podem ser impactados em
+função do risco crítico muito alto os bairros Centro, Esperança, Praia, Santa Efigênia e
+São Geraldo. Além destes, o bairro São José também pode ser indicado para intervenção
+prioritária, considerando o resultado obtido com a inclusão de mapeamento participativo.
+Essas áreas apresentam alto risco de inundação e estão associadas a índices negativos
+expressivos em termos de exposição e vulnerabilidade. Por fim, como pontos de atenção,
+destaca-se os bairros Calçada, Álvaro Maia, Distrito Industrial, Dona Lila e Novo Itabirito,
+considerando que nessas áreas é observado alto risco.
+33
+
+--- Page 34 ---
+
+Figuras 7 e 8. Risco climático crítico para a sede municipal.
+Fonte: ICLEI, 2023b.
+34
+
+--- Page 35 ---
+
+3.PLANO
+DE AÇÃO
+CLIMÁTICA
+35
+
+--- Page 36 ---
+
+3.1 METODOLOGIA
+Para a elaboração do Plano de Ação Climática compacto (PLACc) foi utilizada a metodologia
+Green Climate Cities (GCC)4, desenvolvida pelo ICLEI para a realização de projetos de
+conformidade climática. Esta metodologia fornece ferramentas, instrumentos, práticas
+recomendadas e suporte para gerenciamento dos processos. Além disso, é composta por
+três grandes etapas (Analisar, Agir e Acelerar) e nove sub etapas, conforme apresentado
+na Figura 9. A elaboração do PLACc está inserida na etapa “Agir” e na sub etapa “d”, que
+é desenvolver um Plano de Ação Climática.
+Figura 9. Metodologia Green Climate Cities (GCC).
+Fonte: Acervo ICLEI.
+De forma complementar à metodologia, para a elaboração do PLACc, também foi
+utilizada como base as premissas orientadoras do Programa das Nações Unidas para os
+Assentamentos Humanos (ONU-Habitat) para os Planos de Ação Climática, que devem
+ser ambiciosos, inclusivos, justos, abrangentes, integrados, relevantes, viáveis, baseados
+em evidências, transparentes e verifi cáveis (ONU-HABITAT, 2015).
+O desenvolvimento do PLACc seguiu as seguintes etapas, caracterizadas pela participação
+de atores municipais engajados no processo da Conformidade Climática de Itabirito:
+4 Mais informações em: < https://americadosul.iclei.org/atuacao/baixo-carbono-resiliencia/ >
+36
+
+--- Page 37 ---
+
+A seguir, serão apresentadas mais informações a respeito do desenvolvimento dessas
+etapas.
+Diagnóstico para Ação climática
+Levantamento de ações
+Priorização de ações
+Detalhamento das ações priorizadas.
+3.2 PROCESSO DE CONSTRUÇÃO
+Para o desenvolvimento do Plano de Ação Climática de Itabirito (PLACc-Itabirito),
+inicialmente, foi realizado o Diagnóstico para Ação Climática, um levantamento que
+apresenta uma pesquisa de planos, programas e projetos existentes no município e que
+apresentem relação com a agenda climática, oferecendo um panorama geral das lacunas
+e oportunidades que podem ser endereçadas pelas ações climáticas do PLACc.
+Esse levantamento foi realizado por meio da pesquisa de dados secundários, isto é,
+aqueles disponíveis online, com livre acesso, no portal digital da Prefeitura de Itabirito e
+na página da Câmara Municipal, a partir da consulta de notícias e legislação.
+Na sequência, este levantamento preliminar foi complementado por informações
+prestadas pelo Município, incluindo atualizações a respeito da vigência e implementação
+dos instrumentos e indicações de documentos complementares. Por fim, os dados
+coletados foram sistematizados e analisados com relação à sua contribuição à mitigação
+e adaptação, considerando os resultados de estudos prévios para a Conformidade
+Climática de Itabirito.
+Foram pesquisados aspectos relacionados à economia, ao meio ambiente, ao meio
+urbano, ao sistema hídrico, ao padrão de urbanização, ao perfil de emissões de Gases
+de Efeito Estufa, à incidência de arboviroses e às ocorrências de desastres climáticos. A
+relação dos planos, programas e projetos analisados para subsidiar este Diagnóstico
+estão em anexo.
+Destaca-se que o levantamento retrata a documentação e as informações disponíveis,
+referente à ação climática do Município, e não há a intenção de desenvolver uma pesquisa
+exaustiva. Trata-se de uma pesquisa objetiva, a fim de compreender a situação em que
+se encontra o Município com relação às temáticas voltadas à agenda climática.
+37
+
+--- Page 38 ---
+
+Paralelamente, foi realizado um levantamento inicial de ações climáticas que se adequam
+ao contexto local para o desenvolvimento do PLACc. Este levantamento foi feito por meio
+do conhecimento da equipe técnica do ICLEI, baseado em melhores práticas e soluções-
+referência já adotadas por outros Planos de Ação Climática, e da construção colaborativa
+com os atores municipais engajados no processo, via formulário digital.
+Este formulário esteve aberto no período compreendido entre os dias 11 e 25 de agosto
+de 2023, tendo como público alvo a sociedade civil, em especial os participantes da oficina
+presencial realizada para o lançamento do formulário e para coleta de contribuições.
+As ações levantadas foram agrupadas e organizadas de modo a garantir prioridades
+para as ações de maior impacto e abrangência populacional.
+Por fim, as ações selecionadas foram, em conjunto com o Município, desmembradas em
+subações e definidos os órgãos responsáveis e de apoio, metas e prazos de execução.
+Complementarmente, para cada ação, identificou-se sua relação com os Caminhos do
+ICLEI para o Desenvolvimento Sustentável e com os Objetivos de Desenvolvimento
+Sustentável (ODS) da Organização das Nações Unidas (ONU).
+3.3 EIXOS E AÇÕES
+A seguir serão apresentadas as 18 ações priorizadas que compõem o Plano de
+Ação Climática de Itabirito (PLACc-Itabirito). É importante ressaltar que as ações
+aqui apresentadas refletem as demandas identificadas por meio do formulário
+digital disponibilizado, pela coleta de contribuições em oficina presencial e pelos
+direcionamentos identificados com o Diagnóstico para Ação Climática, pela Análise
+de Emissões de Gases de Efeito Estufa compacta (AEGEEc) e pela Análise de Risco e
+Vulnerabilidade Climática compacta (ARVCc), estudos estes elaborados pelo ICLEI no
+âmbito do projeto de Conformidade Climática de Itabirito.
+Também é importante ressaltar que todas as ações do PLACc-Itabirito foram desenvolvidas,
+e precisam ser implementadas, considerando, acima de tudo, o conceito de justiça
+climática. Este conceito leva em conta que o impacto causado pelo aquecimento do
+planeta e as consequências da crise climática sobre territórios vulneráveis potencializa a
+pobreza e a desigualdade social.
+De acordo com o relatório Interconnected Disaster Risk, estima-se que entre 2021 e 2022
+os desastres ambientais causaram a morte de 10 mil pessoas e custaram mais 280
+bilhões de dólares (UNU-EHS, 2023). Esses eventos climáticos acontecem em vários
+países e devem ser cada vez mais frequentes e mais intensos, mas apresentam maior
+impacto na vida das pessoas em situação de vulnerabilidade (IPCC, 2022).
+A injustiça climática, ou injustiça socioambiental, está diretamente ligada às
+desigualdades, por fatores socioeconômicos, ambientais e culturais, que fazem com
+que determinados grupos da sociedade fiquem mais vulneráveis aos impactos da crise
+climática. De acordo com o IPCC (2022), essa vulnerabilidade pode ser agravada pela
+desigualdade e marginalização relacionadas a gênero, etnia, raça e população na linha
+da pobreza.
+38
+
+--- Page 39 ---
+
+Conforme mencionado anteriormente as ações foram organizadas em 3 eixos
+estratégicos:
+Desenvolvimento de baixo carbono
+Planejamento sustentável e resiliente
+Inclusão socioeconômica e participação social
+Em termos de prazos, vale destacar que foram considerados três horizontes temporais:
+• Curto prazo: até dezembro de 2024;
+• Médio prazo: até o ano de 2030, em referência à Nova Agenda Urbana e aos
+Objetivos de Desenvolvimento Sustentável (ODS) da ONU, sendo também um ano
+chave nos acordos internacionais para a redução de emissões;
+• Longo prazo: até o ano de 2040, a fim de garantir tempo hábil para contribuir,
+efetivamente, com o alcance das metas estabelecidas para 2050 pelo Acordo
+de Paris, considerado o mais importante tratado internacional e multilateral da
+atualidade sobre a crise climática.
+A seguir, estão indicadas as legendas referentes aos ícones utilizados nas fichas para
+estabelecer relação com os Caminhos do ICLEI para o Desenvolvimento Sustentável.
+39
+
+--- Page 40 ---
+
+Quadro 2. Símbolos atribuídos aos Caminhos do ICLEI para o Desenvolvimento Sustentável.
+Símbolo Caminho para o Desenvolvimento Sustentável (ICLEI)
+Desenvolvimento de baixo carbono.
+Desenvolvimento baseado na natureza.
+Desenvolvimento equitativo e centrado nas pessoas.
+Desenvolvimento resiliente.
+Desenvolvimento circular.
+Fonte: Acervo ICLEI.
+Em consonância com o programa Itabirito 2050 - visão para o futuro5, foram indicados os ODS
+relacionados. O Programa, sob gestão da Secretaria Municipal de Planejamento e Orçamento,
+contempla múltiplas políticas públicas por meio de ações de planejamento estratégico de curto,
+médio e longo prazo a fim de alcançar resultados mais assertivos ao longo dos anos; gestão
+dos recursos públicos visando a diversificação econômica, segurança, educação, saúde e o
+desenvolvimento para a atual e as próximas gerações. A seguir, estão indicadas as legendas com
+os ícones utilizados nas fichas em relação aos ODS da ONU.
+5 Mais informações em: < https://itabirito.mg.gov.br/indicadores/noticias >; acesso em: 09 nov. 2023.
+40
+
+--- Page 41 ---
+
+Quadro 3. Símbolos atribuídos aos Objetivos de Desenvolvimento Sustentável da ONU.
+Símbolo Objetivo de Desenvolvimento Sustentável (ONU)
+ODS 1: Erradicação da Pobreza
+ODS 2: Fome Zero e Agricultura Sustentável
+ODS 3: Saúde e Bem-Estar
+ODS 4: Educação de Qualidade
+ODS 5: Igualdade de Gênero
+ODS 6: Água Potável e Saneamento
+ODS 7: Energia Acessível e Limpa
+ODS 8: Trabalho Decente e Crescimento Econômico
+ODS 9: Indústria, Inovação e Infraestrutura
+ODS 10: Redução das Desigualdades
+ODS 11: Cidades e Comunidades Sustentáveis
+41
+
+--- Page 42 ---
+
+ODS 12: Consumo e Produção Sustentáveis
+ODS 13: Ação contra a Mudança Global do Clima
+ODS 14: Vida na Água
+ODS 15: Vida Terrestre
+ODS 16: Paz, Justiça e Instituições Eficazes
+ODS 17: Parcerias e Meios de Implementação
+Fonte: Nações Unidas no Brasil, 2022.
+3.3.1 Eixo Desenvolvimento de Baixo Carbono
+Sob a perspectiva da mitigação, este eixo estratégico tem como principal referência a
+Análise de Emissões de Gases de Efeito Estufa compacta (AEGEEc). De acordo com os
+resultados desta análise, conforme indicado na Seção 3 deste documento, evidencia-
+se o protagonismo do setor de Transportes para o perfil de emissões no município
+de Itabirito, seguido do setor referente à Agricultura, Florestas e Outros Usos do Solo
+(AFOLU), do setor de Energia Estacionária - substancialmente, pelas contribuições do
+subsetor Industrial - e, por fim, do setor de Resíduos.
+Como principais linhas de ação destacam-se: o desenvolvimento territorial sustentável e
+de baixo carbono, ressaltando a importância da redução de deslocamentos e a promoção
+de áreas verdes e preservação da biodiversidade; a agropecuária de baixo carbono,
+vinculada à cobertura vegetal; o uso de fontes renováveis e a eficiência energética; e a
+gestão integrada, sustentável e de baixo carbono de resíduos.
+42
+
+--- Page 43 ---
+
+Quadro 4. Ação 1 do Eixo Desenvolvimento de Baixo Carbono.
+Promover ações de redução das emissões de Gases de Efeito Estufa (GEE)
+Ação 1
+do setor de Transportes e do setor Industrial.
+Contexto
+Esta ação do PLACc tem por referência o protagonismo do setor de Transportes no perfil de
+emissões de GEE de Itabirito, conforme apontado na Seção 3 deste documento. Nesse con-
+texto, também estão sendo destacadas estratégias de mitigação relacionadas às emissões de
+GEE oriundas do subsetor Industrial, considerando a realidade socioeconômica municipal e seu
+impacto no setor de Energia Estacionária.
+Subações
+• Fortalecer a utilização de sistemas multimodais integrados, considerando especialmente a
+promoção da mobilidade ativa, por meio de campanhas de incentivo ao uso de bicicletas e
+da promoção da caminhabilidade, de forma alinhada com os princípios do Desenvolvimento
+Urbano Orientado ao Transporte Sustentável (DOTS);
+• Promover a substituição da frota utilizada pelo Município (ou terceirizada) e da frota do
+sistema de transporte público municipal por veículos com menor emissão de GEE;
+• Instituir regulamentação sobre a logística de cargas para que a sua distribuição dentro do
+território municipal seja realizada por veículos com menor emissão de GEE;
+• Garantir a implantação do centro de distribuição de carga, previsto no Plano de Mobilidade
+Urbana e promover a sua utilização;
+• Incentivar processos industriais mais eficientes, promovendo a captura e armazenamento de
+carbono e a fabricação de produtos com menor intensidade de carbono;
+• Promover a troca de experiências em ações ambientais e climáticas entre empresas do setor
+industrial.
+Metas
+• Ampliar e intensificar as ações de conscientização sobre a importância da mobilidade ativa a
+partir de 2024;
+• Ampliar os projetos de requalificação das vias para a promoção da caminhabilidade, até 2030;
+• Implementar rotas seguras de ciclovia e ciclofaixa conectando as áreas periféricas às áreas
+centrais, até 2030;
+• Criação de 5 novos pontos de bicicleta na área central e polos do município, até 2030;
+• Apresentar 80% da frota utilizada pelo Município composta por veículos de menor emissão,
+até 2030, e 100% do transporte público, até 2040;
+• Instituir regulamentação para garantir o transporte de carga de menor emissão, até 2040;
+• Inaugurar o centro de distribuição de carga até 2030;
+• Instituir e implementar programa de incentivo aos processos industriais mais eficientes até
+2025;
+• Ampliar as oportunidades de intercâmbio entre outros municípios, envolvendo as empresas
+a partir de 2024.
+43
+
+--- Page 44 ---
+
+Secretaria ou Órgão responsável
+Secretaria Municipal de Gestão de Frotas (SEMFRO); Secretaria Municipal de Meio Ambiente e
+Desenvolvimento Sustentável (SEMAM); e Secretaria Municipal de Planejamento e Orçamento
+(SEPLAN); e Secretaria Municipal de Segurança, Prevenção e Mobilidade Urbana (SESMOB).
+Secretaria ou Órgão de apoio
+Secretarias ou Órgãos de apoio Procuradoria Municipal Consultiva (PROCONSULT); Secretaria
+Municipal de Administração (SEMAD); Secretaria Municipal de Desenvolvimento Econômico
+(SEMDE); Secretaria Municipal de Esportes e Lazer (SEMEL); Secretaria Municipal de Fazenda e
+Tributação (SEMFA/ Licitações); Secretaria Municipal de Obras, Serviços e Infraestrutura (SEMOS);
+e Secretaria Municipal de Política Urbana e Habitação (SEPUBH).
+Prazo de execução
+Longo.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+Quadro 5. Ação 2 do Eixo Desenvolvimento de Baixo Carbono.
+Fomentar a utilização de fontes renováveis e a melhoria da eficiência
+Ação 2
+energética.
+Contexto
+Estão sendo instaladas usinas fotovoltaicas na sede e outros prédios administrativos da Prefeitura
+de Itabirito, com a perspectiva de geração de energia renovável excedente. Esta é uma importante
+iniciativa com potencial de conscientizar a população e promover a melhoria da qualidade
+ambiental. Ainda assim, esta ação do PLACc indica outras estratégias e formas de expandir essas
+práticas para outros setores.
+44
+
+--- Page 45 ---
+
+Subações
+• Implementar sistemas eficientes e de consumo consciente de energia em todas as edificações
+públicas, como a instalação de painéis solares e retrofits;
+• Facilitar o acesso às soluções eficientes de geração de energia e eficiência energética para
+populações de baixa renda;
+• Promover a qualificação profissional da população em geral, como incentivo às fontes
+renováveis de energia e à melhoria da eficiência energética nas edificações.
+Metas
+• Todos os edifícios públicos devem possuir sistemas fotovoltaicos até 2030, e todos devem
+estar certificados com etiqueta B, ou superior, em eficiência energética até 2040;
+• Até 2030, regulamentar a utilização de energia solar em habitação de interesse social;
+• Disponibilizar cursos de capacitação relacionados às fontes renováveis e à melhoria da
+eficiência energética, a partir de 2025.
+Secretaria ou Órgão responsável
+SEPLAN.
+Secretaria ou Órgão de apoio
+Secretaria Municipal de Comunicação (SEMCO); Secretaria Municipal de Desenvolvimento Social
+(SEMDES); Secretaria Municipal de Educação (SEMED); Secretaria Municipal de Saúde (SEMSA);
+SEMAD; SEMAM; e SEMOS.
+Prazo de execução
+Longo.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+45
+
+--- Page 46 ---
+
+Quadro 6. Ação 3 do Eixo Desenvolvimento de Baixo Carbono.
+Promover a gestão integrada, sustentável e de baixo carbono dos
+Ação 3
+resíduos sólidos.
+Contexto
+Itabirito apresenta amplo referencial que aborda questões relacionadas aos resíduos sólidos e à
+reciclagem, o que permite a diversidade de propostas constantes nesta ação do PLACc. Com os
+programas e projetos já existentes, o Município está preparado para avançar na implementação de
+subações, como as relacionadas à compostagem e a atividades mais complexas, que demandam
+mais recursos e maior prazo de execução.
+Subações
+• Promover a compostagem dos resíduos das feiras livres realizadas no território municipal e
+dos serviços de poda e jardinagem das áreas verdes municipais em parceria com centros de
+educação do Município;
+• Promover ações de incentivo e apoio técnico à compostagem na origem e a utilização dos
+seus subprodutos em domicílios e estabelecimentos comerciais;
+• Ampliar parcerias entre associações/ cooperativas de catadores e a Administração Pública
+Municipal para o custeio de despesas essenciais, infraestrutura adequada, prensas de
+resíduos e demais equipamentos necessários para o aumento da capacidade de tratamento;
+• Fortalecer a implantação de Unidades de Recebimento de Pequenos Volumes (URPV) e
+ecopontos pelo município;
+• Promover a recuperação energética de biogás em aterros sanitários.
+Metas
+• Implementar sistemas de compostagem e 3 unidades do Centro de Educação Ambiental
+(CEA) até 2025, ampliando para 6 até 2030;
+• Intensificar as ações junto aos restaurantes, a partir de 2024;
+• Ampliar a capacidade de tratamento de resíduos até 2030;
+• Criar 5 novos pontos de recebimento até 2030 e 15 até 2040, dando prioridade às áreas
+críticas;
+• Implementar sistemas de recuperação de biogás até 2040.
+Secretaria ou Órgão responsável
+SEMAM.
+Secretaria ou Órgão de apoio
+Secretaria Municipal de Agronegócio e Desenvolvimento Rural (SEMAR); SEMAD; SEMED; SEMFA/
+Licitações; SEMOS; e SEPLAN.
+46
+
+--- Page 47 ---
+
+Prazo de execução
+Longo.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+Quadro 7.Ação 4 do Eixo Desenvolvimento de Baixo Carbono.
+Ação 4 Preservar, conservar e recuperar os ecossistemas naturais do território.
+Contexto
+Itabirito possui legislação que aborda o tema da conservação da biodiversidade e a preservação
+e restauração dos ecossistemas naturais, fundamentais para a mitigação da crise climática, em
+especial o Sistema Municipal de Unidades de Conservação (SMUC) e o Viveiro Municipal. Além
+disso, a participação social já é um pressuposto para essas práticas, inseridas no âmbito desta
+ação do PLACc. Nesse sentido, são indicadas formas de garantir a sua plena implementação e
+direcionar as iniciativas para potencializar não só a mitigação, mas também a adaptação.
+Subações
+• Elaborar e implementar um plano de recuperação e conservação da biodiversidade e dos
+serviços ecossistêmicos, defi nindo áreas prioritárias;
+• Elaborar e implementar o Plano de Manejo do Parque Ecológico, previsto pela legislação que
+instituiu o Sistema Municipal de Unidades de Conservação (SMUC);
+• Fortalecer, no Viveiro Municipal, o cultivo de espécies da fl ora nativa e sementes crioulas,
+promovendo campanhas e atividades de plantio junto à escolas e comunidades e o
+direcionamento de mudas para áreas que apresentem risco de deslizamento;
+• Conectar as áreas verdes municipais por meio do plantio de espécies da fl ora nativa atrativas
+às espécies da fauna silvestre que promovam a polinização e dispersão de sementes.
+47
+
+--- Page 48 ---
+
+Metas
+• Elaborar Estratégia e Plano de Ação Local pela Biodiversidade até 2030;
+• Elaborar o Plano de Manejo do Parque Ecológico até 2024;
+• Realizar o plantio de 8 mil árvores anualmente a partir de 2024;
+• Até 2030, instituir e implementar corredor ecológico no território de Itabirito.
+Secretaria ou Órgão responsável
+SEMAM.
+Secretaria ou Órgão de apoio
+SEMAR; SEMDE; e SEMED.
+Prazo de execução
+Médio.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+Quadro 8. Ação 5 do Eixo Desenvolvimento de Baixo Carbono.
+Fomentar a Política Municipal de Serviços Ambientais e o Programa
+Ação 5
+Municipal de Pagamento por Serviços Ambientais (PSA).
+Contexto
+Itabirito instituiu a Política Municipal de Serviços Ambientais e o Programa Municipal de PSA
+visando fomentar ações de preservação e recuperação do meio ambiente e melhorias nos imóveis
+rurais pelos proprietários por meio da oferta de incentivos financeiros. A legislação municipal
+já especifica, entre os serviços ambientais, os serviços ecossistêmicos de provisão, regulação,
+48
+
+--- Page 49 ---
+
+culturais e de suporte. Sendo assim, esta ação do PLACc indica formas de potencializar a Política
+e o Programa, em consonância com o Plano de Ação Climática do Estado de Minas Gerais, em
+especial, a Ação 4 do eixo de Biodiversidade e Ecossistemas, que trata do PSA.
+Subações
+• Desenvolver, aprimorar e implementar diretrizes, critérios e instrumentos a fim de ampliar o
+Programa para áreas urbanas;
+• Ampliar e intensificar as ações de fomento à agricultura orgânica e agroecológica, integrando
+as práticas ao Programa Municipal de PSA;
+• Promover campanhas de comunicação e mobilização social, divulgando os benefícios
+do Programa, e de apoio técnico, a fim de ampliar o número de provedores de serviços
+ambientais.
+Metas
+• Até 2025, implementar o PSA Urbano;
+• Instituir e implementar programa em parceria com as escolas municipais até 2025, como
+fomento à agricultura orgânica e agroecológica, integrado ao Programa Municipal de PSA;
+• Realizar anualmente campanhas de promoção do PSA, a partir de 2024.
+Secretaria ou Órgão responsável
+SEMAM.
+Secretaria ou Órgão de apoio
+SEMAR; SEMED; e SEMCO.
+Prazo de execução
+Médio.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+49
+
+--- Page 50 ---
+
+Quadro 9. Ação 6 do Eixo Desenvolvimento de Baixo Carbono.
+Fortalecer a implementação do Plano Municipal de Desenvolvimento
+Ação 6 Rural Sustentável, em especial ações relacionadas ao Programa de
+Fomento à Produção Agrossilvopastoril e Geração de Renda.
+Contexto
+Destaca-se na legislação municipal relacionada à agropecuária o Plano de Desenvolvimento Rural
+Sustentável (PDRS). Ainda que o instrumento não tenha como foco diretor o enfrentamento da
+crise climática, ressalta-se questões que repercutem, por exemplo, na ampliação da resiliência,
+em especial, na geração de renda para populações mais vulneráveis. Sendo assim, esta ação do
+PLACc indica formas de vincular as práticas já existentes no âmbito do PDRS à agropecuária de
+baixo carbono.
+Subações
+• Fomentar um circuito de comercialização dos produtos oriundos das áreas rurais do
+município, como estratégia de promoção do turismo sustentável, com especial foco ao
+empreendedorismo de base comunitária e ao fortalecimento de cooperativas;
+• Promover a capacitação e assessoria técnica para a qualificação dos agricultores sobre
+soluções de Sistema de Plantio Direto (SPD), práticas de lavoura-pecuária-floresta e sistemas
+agroflorestais;
+• Incentivar a recuperação das áreas degradadas por atividade pecuária, a partir de metodologia
+e estudos regulamentados pelo Município;
+• Incentivar a adoção de tecnologias para o manejo de resíduos da atividade pecuária, como
+biodigestores e compostagem, e a utilização dos seus subprodutos, como bioenergia e
+biofertilizantes;
+• Incentivar o melhoramento genético dos animais, bem como o melhoramento da qualidade
+e da manipulação da dieta animal, a fim de reduzir as emissões de metano pelos rebanhos
+bovinos.
+Metas
+• Implementar o circuito de comercialização dos produtos, até 2025;
+• Ampliar o público-alvo dos cursos de capacitação e da assessoria técnica a partir de 2024;
+• Intensificar o mapeamento e monitoramento de áreas degradadas por atividade pecuária a
+partir de 2025;
+• Zerar as áreas degradadas por atividade pecuária, até 2040;
+• Implementar sistemas de biodigestores e compostagem, até 2030.
+• Até 2030, criar programa de capacitação sobre o manejo adequado de bovinos.
+Secretaria ou Órgão responsável
+SEMAM e SEMAR.
+50
+
+--- Page 51 ---
+
+Secretaria ou Órgão de apoio
+SEPLAN e SEPUBH.
+Prazo de execução
+Longo.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+3.3.2 Eixo Planejamento Sustentável e Resiliente
+O Sexto Relatório de Avaliação do IPCC (2022), indica a relevância da região onde
+está localizado o município de Itabirito para a conservação da biodiversidade.
+Entretanto, também é observada alta vulnerabilidade à crise climática, indicando
+a possibilidade do agravamento de deslizamentos pela perda de vegetação, da
+redução dos serviços ecossistêmicos, do aumento dos vetores de arboviroses, da
+redução da produtividade de agriculturas e do aumento gradual das ocorrências
+de inundações fluviais.
+Sob a perspectiva da adaptação, este eixo tem como principal referência a
+Análise de Risco e Vulnerabilidade Climática compacta (ARVCc), cuja síntese está
+sendo apresentada na Seção 3 deste documento. Este é o ponto de partida para
+a promoção de uma gestão de risco assertiva e de construção da resiliência
+climática a longo prazo, tendo em vista, em especial, o desenvolvimento baseado
+na natureza.
+51
+
+--- Page 52 ---
+
+Quadro 10. Ação 1 do Eixo Planejamento Sustentável e Resiliente.
+Ação 1 Promover ações para a resiliência e redução de riscos climáticos.
+Contexto
+A diversidade desta ação do PLACc toma por base os riscos climáticos, bem como a capacidade
+de adaptação do Município, estudados no âmbito da Análise de Risco e Vulnerabilidade Climática,
+cuja síntese está sendo apresentada na Seção 3 deste documento.
+Subações
+• Promover o uso de Soluções Baseadas na Natureza (SBN) na execução de obras, com especial
+foco nas obras da infraestrutura de drenagem;
+• Elaborar e implementar um Plano Municipal de Arborização Urbana, fomentando a
+conservação das árvores e massas arbóreas existentes e o plantio e desenvolvimento dos
+indivíduos arbóreos;
+• Fortalecer ações de prevenção e ampliar a capacidade dos serviços de saúde para tratamento
+das doenças transmitidas por arbovírus;
+• Promover a revisão periódica da análise de vulnerabilidades e riscos climáticos;
+• Promover a revisão periódica da análise de emissões de Gases de Efeito Estufa;
+• Fortalecer as atividades e sistemas de coleta e disponibilização de dados climáticos no
+território.
+Metas
+• A partir de 2025, formar e qualificar os técnicos municipais para o planejamento, implantação
+e manutenção de SBN;
+• Publicar o Plano Municipal de Arborização Urbana, até 2030;
+• Promover anualmente campanhas e cursos online para tratar da prevenção aos arbovírus a
+partir de 2024;
+• Intensificar o registro e monitoramento relativo aos casos de arboviroses a partir de 2024.
+• Até 2028, promover a revisão dos indicadores de risco e a atualização dos mapas;
+• Até 2027, promover a revisão dos indicadores de emissões e a análise do impacto da ação
+local;
+• Até 2025, concluir a implementação do projeto WebMapa, garantindo a sua atualização e a
+inserção de dados climáticos.
+Secretaria ou Órgão responsável
+Defesa Civil; SEMSA; e SEPUBH.
+Secretaria ou Órgão de apoio
+SEMAM; SEMDES; SEMED; SEMOS; SEPLAN; e Vigilância Ambiental.
+52
+
+--- Page 53 ---
+
+Prazo de execução
+Médio.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+Quadro 11. Ação 2 do Eixo Planejamento Sustentável e Resiliente.
+Fortalecer a implementação do Plano Municipal de Contingência
+Ação 2
+(PLAMCON) para a redução do risco de desastres, mantendo-o atualizado.
+Contexto
+O Plano Municipal de Contingência (PLAMCON) já figura como uma importante referência
+para a análise de vulnerabilidades e riscos climáticos do município. Periodicamente, Itabirito
+sofre, em especial, com inundações e há iniciativas para o enfrentamento das ocorrências de
+desastres. Nesse contexto, é fundamental um instrumento que seja capaz de planejar, organizar
+e coordenar essas iniciativas, a fim de garantir a segurança, principalmente, da população
+mais vulnerável.
+Subações
+• Fortalecer a estrutura de monitoramento meteorológico e eventos críticos e das operações
+de alerta precoce de desastres naturais;
+• Realizar treinamento e promover campanhas de sensibilização da população sobre os riscos
+geológico e hidrológico, com especial foco à população que ocupa áreas vulneráveis, para a
+possibilidade de evacuação do território.
+Metas
+• Instalar 5 novos pontos de coleta de dados meteorológicos e climáticos, até 2028; ampliando
+para 10 até 2035.
+• Intensificar as iniciativas de sensibilização a partir de 2024.
+53
+
+--- Page 54 ---
+
+Secretaria ou Órgão responsável
+Defesa Civil.
+Secretaria ou Órgão de apoio
+SEMAM; SEMCO; SEMOS; SEPLAN; e SEPUBH.
+Prazo de execução
+Longo.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+Quadro 12. Ação 3 do Eixo Planejamento Sustentável e Resiliente.
+Elaborar e implementar uma política municipal para requalificação e
+Ação 3
+proteção de nascentes e cursos d’água.
+Contexto
+O Município de Itabirito realiza projetos relacionados às nascentes e cursos d’água, vinculados a
+outros programas, como o de Pagamento por Serviços Ambientais (PSA), e mobilizando algumas
+instituições. O Programa Águas Integradas e o Projeto de Recuperação de Nascentes se articulam
+com o enfrentamento à crise climática por meio de ações educativas e de conscientização
+vinculadas às ações práticas que contribuem, diretamente, com a redução de riscos relativos às
+inundações, com a disponibilidade hídrica e, ainda, com a mitigação das emissões de Gases de
+Efeito Estufa (GEE).
+Nesse contexto, esta ação do PLACc tem por objetivo tratar da relação entre as pessoas e
+a natureza e o estreitamento da relação entre a cidade e os corpos hídricos, fortalecendo a
+preservação e conservação desses cursos d’água. Além disso, indica formas de promover os
+projetos existentes como política pública, com vistas à manutenção dos resultados já obtidos e
+da extensão para outras áreas e nascentes.
+54
+
+--- Page 55 ---
+
+Subações
+• Mapear as Áreas de Preservação Permanente (APP) localizadas dentro do território municipal;
+• Promover estudos sobre a disponibilidade quantitativa e qualitativa das águas subterrâneas
+e de superfície;
+• Promover campanhas de sensibilização e iniciativas de mapeamento participativo das
+nascentes e cursos d’água dentro do território municipal, tendo em vista a recuperação das
+relações humanas com as águas na cidade;
+• Implementar ações de manutenção de córregos em leito natural e de requalificação urbana e
+de corpos hídricos de forma integrada a soluções baseadas na natureza.
+Metas
+• Até 2026, adequar a legislação urbanística em relação ao mapeamento de APP;
+• A partir de 2026, periodicamente, publicar os estudos sobre a disponibilidade quantitativa e
+qualitativa das águas subterrâneas e de superfície;
+• Intensificar as iniciativas de sensibilização a partir de 2024;
+• Implantar parque linear entre os córregos Mata Porcos e Sardinha, passando pelo Rio Itabirito,
+até 2030.
+Secretaria ou Órgão responsável
+SEMAM.
+Secretaria ou Órgão de apoio
+SEMOS; SEPLAN; SEPUBH; e SESMOB.
+Prazo de execução
+Médio.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+55
+
+--- Page 56 ---
+
+Quadro 13. Ação 4 do Eixo Planejamento Sustentável e Resiliente.
+Promover a revisão do Plano Diretor e demais leis relacionadas à política
+Ação 4
+urbana, sob a perspectiva de fortalecimento da agenda climática.
+Contexto
+O desenvolvimento sustentável do Município demanda a aplicação da lente climática em toda a
+legislação urbanística, especialmente, no Plano Diretor, assim como, na legislação correlata e em
+políticas setoriais decorrentes, como habitação, mobilidade, saneamento, etc. É fundamental
+ressaltar que esta é uma oportunidade para ampliar a participação da sociedade na construção
+dessas diretrizes de desenvolvimento urbano dentro da nova realidade climática.
+Subações
+• Considerar itens sobre as emissões de Gases de Efeito Estufa e a vulnerabilidade e risco
+climáticos no escopo de elaboração e análise dos estudos necessários para o licenciamento
+ambiental ou urbanístico de empreendimentos;
+• Promover a revisão do Plano Diretor e de toda a legislação urbanística, considerando a
+aplicação da lente climática;
+• Promover o controle da expansão urbana sobre áreas de relevância ambiental, reduzindo a
+evolução e criação de áreas de risco;
+• Tratar de incentivos financeiros para a manutenção de áreas verdes e espécies arbóreas
+nativas em loteamentos privados;
+• Estabelecer parâmetros a fim de aumentar a eficiência energética nas edificações e incentivar
+soluções projetuais que contribuam para ampliar a sustentabilidade e resiliência.
+Metas
+• Instituir parâmetros de adaptação e mitigação em processos de licenciamento a partir de
+2024;
+• Até 2030, revisar o Código de Obras e o Código de Posturas; e regulamentar a utilização dos
+instrumentos urbanísticos previstos pelo Estatuto da Cidade (Lei Federal n.º 10.257, de 10 de
+julho de 2021) e no Plano Diretor vigente;
+• Até 2030, revisar o Plano Diretor; a lei sobre o perímetro urbano; e a lei de parcelamento, uso
+e ocupação do solo;
+• A partir de 2030, ampliar a fiscalização da expansão urbana, definindo roteiro específico para
+a Zona Rural;
+• Até 2026, criar selo de sustentabilidade ambiental.
+Secretaria ou Órgão responsável
+SEPUBH.
+56
+
+--- Page 57 ---
+
+Secretaria ou Órgão de apoio
+Defesa Civil; Gabinete de Governo Municipal; SEMAM; SEMOS; e SEPLAN.
+Prazo de execução
+Médio.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+Quadro 14. Ação 5 do Eixo Planejamento Sustentável e Resiliente.
+Ação 5 Fortalecer o Programa de Agricultura Urbana.
+Contexto
+Atualmente o Programa de Agricultura Urbana encontra-se vinculado ao Plano de
+Desenvolvimento Rural Sustentável. Por sua importância, esta ação do PLACc destaca a temática
+a fim de potencializar as iniciativas relacionadas à agricultura urbana sob a perspectiva do
+fortalecimento da segurança alimentar e da manutenção de serviços ecossistêmicos.
+Subações
+• Mapear, monitorar e destinar terrenos públicos ociosos de interesse para a implantação de
+hortas comunitárias;
+• Instituir regulamentação para o uso de espaços livres públicos como hortas comunitárias,
+promovendo campanhas de sensibilização das comunidades no entorno;
+• Apoiar técnica e financeiramente os agricultores urbaanos e familiares, com especial foco ao
+público jovem, a fim de beneficiá-los e incentivá-los a manterem as suas atividades.
+57
+
+--- Page 58 ---
+
+Metas
+• Realizar o mapeamento dos terrenos públicos ociosos de interesse para a implantação de
+hortas comunitárias, até 2026;
+• Instituir regulamentação para o uso de espaços livres públicos como hortas comunitárias, até
+2025;
+• Até 2030, implementar programa de apoio técnico e financeiro aos agricultores urbanos e
+familiares.
+Secretaria ou Órgão responsável
+SEMAM.
+Secretaria ou Órgão de apoio
+Gabinete; SEMAR; SEMOS; SEPLAN; e SEPUBH.
+Prazo de execução
+Médio.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+3.3.3 Eixo Inclusão Socioeconômica e Participação Social
+Este eixo relaciona as ações focadas na promoção da inclusão socioeconômica por
+meio do fomento a atividades sustentáveis e trata da mobilização e participação
+popular no planejamento, gestão e monitoramento das medidas de enfrentamento
+à gestão da crise climática. Este conceito reforça o comprometimento com o
+desenvolvimento sustentável destacando a perspectiva dos direitos humanos
+e da equidade social. Nesse contexto, a garantia da efetiva participação social
+58
+
+--- Page 59 ---
+
+potencializa a centralidade que se prospecta às pessoas, em especial as populações
+mais vulneráveis.
+Os cenários futuros analisados para a região do município de Itabirito indicam
+entraves relacionados ao contexto socioeconômico e a caracterização ambiental e
+de uso do solo no que tange à atividade minerária (ICLEI, 2023b). Por este motivo,
+caminhos relacionados ao desenvolvimento sustentável perpassam as ações
+deste eixo como alternativas para a reconversão produtiva e para a resiliência do
+município.
+A implementação das ações propostas neste eixo pressupõe uma ampla e contínua
+governança, escuta dos atores locais, promovendo a troca de saberes. Fomentar
+espaços de encontro entre o saber técnico e o saber popular é fundamental não só
+para a promoção da educação ambiental, mas também para a operacionalização
+do PLACc.
+Quadro 15. Ação 1 do Eixo Inclusão Socioeconômica e Participação Social.
+Elaborar um programa para implementação de políticas públicas
+Ação 1 integradas a fim de promover a adaptação da população mais vulnerável
+à crise climática.
+Contexto
+Considerando que a crise climática afeta as comunidades de modo geral e, sobremaneira, a
+população mais vulnerável, esta ação do PLACc destaca a capacidade adaptativa e de resposta
+em situações de eventos extremos. Nesse contexto, a população de menor renda, bem como
+a infraestrutura dos territórios que ocupam, demandam especial atenção e investimentos do
+Poder Público, sob a premissa da equidade.
+Subações
+• Fortalecer o planejamento e ampliar a capacidade de resposta às situações de eventos
+extremos, com ênfase no atendimento da população vulnerável residente em áreas periféricas;
+• Formar e qualificar os técnicos municipais que atuam em Estratégia Saúde da Família para a
+abordagem de questões relacionadas aos riscos de eventos climáticos extremos;
+• Revisar o Plano Local de Habitação de Interesse Social (PLHIS), identificando as unidades
+habitacionais em áreas de risco, que precisam ser removidas e reassentadas.
+Metas
+• Até 2030, criar o Sistema Municipal de Proteção e Defesa Civil, instituindo Núcleos Comunitários
+de Proteção e Defesa Civil;
+• A partir de 2025, disponibilizar cursos de capacitação para os técnicos municipais que atuam
+na Estratégia Saúde da Família;
+• Revisar o PLHIS até 2025;
+• Elaborar o Plano Municipal de Redução de Riscos (PMRR), até 2030.
+59
+
+--- Page 60 ---
+
+Secretaria ou Órgão responsável
+SEMSA e SEPUBH.
+Secretaria ou Órgão de apoio
+Defesa Civil; Gabinete; SEMAD; SEMAM; SEMDES; e SEPLAN.
+Prazo de execução
+Médio.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+Quadro 16.Ação 2 do Eixo Inclusão Socioeconômica e Participação Social.
+Ação 2 Elaborar e implementar uma política municipal de segurança alimentar.
+Contexto
+Outras ações espera-se que tenham como consequência a promoção da segurança alimentar,
+como aquelas vinculadas à agricultura urbana. Sob a premissa da justiça climática, é importante
+que, paralelamente, o Município estruture uma política a fi m de garantir maior robustez às
+iniciativas e resiliência, em especial, à população mais vulnerável.
+Subações
+• Desenvolver um programa de arrecadação e doação de alimentos, a fi m de garantir o combate
+à fome e ao desperdício;
+• Fortalecer a produção agroecológica familiar em escala municipal, promovendo a economia
+solidária e a alimentação saudável;
+• Realizar campanhas de sensibilização para redução de desperdício alimentar e promoção de
+educação alimentar e nutricional, com especial foco aos estudantes da rede de ensino local.
+60
+
+--- Page 61 ---
+
+Metas
+• Elaborar um programa de arrecadação e doação de alimentos, até 2030;
+• Ampliar a aquisição de produtos da agricultura familiar pela Administração Pública Municipal
+a partir de 2024;
+• A partir de 2024, realizar anualmente campanhas de sensibilização para os estudantes da
+rede de ensino local.
+Secretaria ou Órgão responsável
+SEMAR.
+Secretaria ou Órgão de apoio
+Gabinete; SEMAD; SEMED; SEMSA; e SEPLAN.
+Prazo de execução
+Médio.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+Quadro 17.Ação 3 do Eixo Inclusão Socioeconômica e Participação Social.
+Fortalecer a implementação do Projeto Reconversão Produtiva,
+Ação 3
+promovendo a construção de uma agenda de longo prazo.
+Contexto
+Itabirito ainda apresenta sua fonte de arrecadação e geração de renda fortemente relacionada
+às atividades relacionadas à exploração mineral. Nesse contexto, o Projeto Reconversão
+Produtiva nasce, em parceria com a FIEMG e o SEBRAE, e é potencializado pelo Município com
+ampla participação da sociedade nas ações que estão se desdobrando na elaboração do Plano
+Municipal de Desenvolvimento Econômico.
+61
+
+--- Page 62 ---
+
+Subações
+• Elaborar e implementar um Plano Municipal de Desenvolvimento Econômico, a fim de
+fortalecer vocações, em especial as atividades que fomentem uma abordagem circular e de
+baixo carbono, com geração de emprego e renda, em especial, para mulheres e jovens;
+• Ampliar os esforços para inclusão da população mais vulnerável às oportunidades de geração
+de renda;
+• Garantir, junto aos órgãos competentes, que sejam implementadas as ações de recuperação
+das áreas degradadas por atividades minerárias considerando direcionamentos de trama
+verde-azul.
+Metas
+• Finalizar a elaboração do Plano até 2026;
+• Ampliar a oferta de atividades de qualificação profissional para a população mais vulnerável
+a partir de 2024.
+• Até 2026, criar instância de monitoramento, visando garantir a implementação das ações do
+Plano Municipal de Desenvolvimento Econômico.
+Secretaria ou Órgão responsável
+SEMDE.
+Secretaria ou Órgão de apoio
+Todas as secretarias.
+Prazo de execução
+Médio.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+62
+
+--- Page 63 ---
+
+Quadro 18. Ação 4 do Eixo Inclusão Socioeconômica e Participação Social.
+Ação 4 Promover o turismo sustentável no município.
+Contexto
+Itabirito regulamentou sua Política Municipal de Turismo, na qual destaca-se a diretriz de que
+as atividades em áreas naturais adotem condutas e práticas de mínimo impacto ambiental.
+Com o Projeto Reconversão Produtiva, Itabirito vem apostando fortemente no turismo como
+fonte de arrecadação e geração de renda e é importante ter como premissa das iniciativas o
+desenvolvimento sustentável a fim de garantir resiliência.
+Subações
+• Incorporar a lente climática à política de proteção e gestão do patrimônio cultural e natural
+do município, reforçando a identidade territorial e o sentimento de pertencimento;
+• Fomentar a comunicação estratégica sobre os atrativos turísticos do município, com especial
+foco às ações relacionadas a projeto sociais de economia local;
+• Promover campanhas de sensibilização e a qualificação de trabalhadores relacionados ao
+setor turístico, sobre sustentabilidade e crise climática.
+Metas
+• Promover o melhoramento de 20 km de rotas rurais para o cicloturismo, até 2025;
+• Realizar campanhas de divulgação sobre os atrativos turísticos do município, anualmente a
+partir de 2024;
+• Realizar campanhas de sensibilização do setor turístico sobre sustentabilidade e crise
+climática, anualmente a partir de 2024.
+Secretaria ou Órgão responsável
+Secretaria Municipal de Patrimônio, Cultura e Turismo (SEMCULT).
+Secretaria ou Órgão de apoio
+SEMAM; SEMDE; SEMDES; SEMEL; e SEPLAN.
+Prazo de execução
+Médio.
+63
+
+--- Page 64 ---
+
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+Quadro 19. Ação 5 do Eixo Inclusão Socioeconômica e Participação Social.
+Ação 5 Fortalecer a governança climática municipal.
+Contexto
+Sob a premissa da importância da participação social, o projeto de Conformidade Climática de
+Itabirito teve início com a proposição de um arranjo de governança, tanto para a colaboração
+no processo de desenvolvimento do PLACc, quanto para a sua implementação. O Comitê de
+Sustentabilidade e Mudanças Climáticas de Itabirito, foi então instituído como um espaço de
+compartilhamento e debate para apoiar o Município na formulação e no desenvolvimento das
+políticas de sustentabilidade e de redução dos impactos decorrentes das interferências antrópicas
+sobre o sistema climático.
+Subações
+• Estabelecer uma rotina de reuniões e procedimentos para o Comitê Municipal de
+Sustentabilidade e Mudanças Climáticas;
+• Promover treinamentos aos técnicos municipais e membros integrantes de instâncias
+participativas, a fim de ampliar e aprofundar a lente climática de planos, programas e políticas
+setoriais;
+• Promover ações de estímulo à participação da sociedade civil e do terceiro setor no
+monitoramento e revisão do PLACc;
+• Desenvolver e disponibilizar material digital (podcast, vídeos, entre outros) e de livre acesso,
+com linguagem popular de fácil entendimento, sobre a crise climática e divulgar as ações de
+gestão de risco;
+• Realizar eventos periodicamente, com o objetivo de promover o amplo debate sobre a crise
+climática e as ações de enfrentamento, ressaltando a interseção da pauta climática com
+agendas específicas.
+64
+
+--- Page 65 ---
+
+Metas
+• Realizar mensalmente as reuniões do Comitê a partir de 2024;
+• Disponibilizar cursos de capacitação para os técnicos municipais a partir de 2025;
+• Divulgar, por meios digitais, as ações relacionadas ao PLACc a partir de 2024;
+• Realizar, semestralmente, eventos presenciais de sensibilização climática a partir de 2024.
+Secretaria ou Órgão responsável
+SEMAM.
+Secretaria ou Órgão de apoio
+SEMAR; SEMCO; SEMDE; e SEPLAN.
+Prazo de execução
+Médio.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+Quadro 20. Ação 6 do Eixo Inclusão Socioeconômica e Participação Social.
+Promover a disponibilidade de recursos orçamentários para ações de
+Ação 6
+conformidade no enfrentamento da crise climática.
+Contexto
+Itabirito apresenta uma estrutura institucional composta por alguns conselhos setoriais e
+fundos, a exemplo do Fundo Especial para Gestão Ambiental. Considerando a transversalidade
+das ações propostas neste PLACc, é importante que as respectivas secretarias responsáveis
+articulem pautas específicas com a lente climática.
+65
+
+--- Page 66 ---
+
+Subações
+• Instituir regulamentação para a destinação de recursos dos fundos municipais às ações de
+mitigação e adaptação à crise climática, dando prioridade às áreas vulneráveis;
+• Incentivar o setor privado a desenvolver ou fi nanciar projetos relacionados à questão
+climática;
+• Promover editais para a implementação de projetos relacionados à questão climática e à
+adaptação da população mais vulnerável.
+Metas
+• Instituir a regulamentação para a destinação de recursos dos fundos municipais, até 2025;
+• Até 2026, criar programa de parceria com o setor privado;
+• Realizar o lançamento de editais para a implementação de projetos a partir de 2025.
+Secretaria ou Órgão responsável
+SEMAM.
+Secretaria ou Órgão de apoio
+Gabinete; SEMCO; SEMFA/ Licitações; e SEPLAN.
+Prazo de execução
+Médio.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+66
+
+--- Page 67 ---
+
+Quadro 21. Ação 7 do Eixo Inclusão Socioeconômica e Participação Social.
+Fortalecer a implementação do Plano Municipal de Educação Ambiental,
+Ação 7
+promovendo ações vinculadas ao tema da crise climática.
+Contexto
+Itabirito apresenta um Plano Municipal de Educação Ambiental, do qual destaca-se as
+competências e atribuições da Semam, na figura do Centro de Educação Ambiental (CEA). Com
+esta ação do PLACc ressalta-se a indicação de ações educativas e de conscientização em relação
+às questões ambientais. O objetivo é fortalecer a agenda climática, remetendo as iniciativas às
+questões relativas à crise climática.
+Subações
+• Promover qualificação e atualização do conhecimento dos profissionais da rede municipal de
+ensino sobre a crise climática;
+• Promover a inserção do tema da crise climática no currículo da rede municipal de ensino;
+• Fortalecer ações de educação ambiental, promovendo o plantio e a preservação de árvores
+pelos estudantes da rede municipal de ensino;
+• Fortalecer atividades pedagógicas nas escolas da rede municipal de ensino, promovendo a
+gestão dos resíduos orgânicos e a produção de alimentos agroecológicos com a participação
+dos estudantes;
+• Fomentar espaços para troca de saberes em comunidades e áreas periféricas, promovendo
+visitas de campo aos estudantes da rede municipal de ensino;
+• Promover o acesso à população em geral sobre os possíveis impactos decorrentes da crise
+climática na saúde.
+Metas
+• Disponibilizar cursos de capacitação para os profissionais da rede municipal de ensino a
+partir de 2025;
+• A partir de 2024, ampliar as ações de educação ambiental que já estão em andamento;
+• Realizar, trimestralmente, a partir de 2024, campanhas de sensibilização para a população
+em geral.
+Secretaria ou Órgão responsável
+SEMAM/CEA.
+Secretaria ou Órgão de apoio
+SEMAR; SEMDES; SEMED; SEMSA; SEPLAN; e SESMOB.
+67
+
+--- Page 68 ---
+
+Prazo de execução
+Médio.
+ODS relacionados
+Caminhos relacionados
+Fonte: Elaboração própria, 2023.
+68
+
+--- Page 69 ---
+
+Ref lexões Finais
+As mudanças climáticas impõem um grande desafio à humanidade. Com suas
+consequências se materializando em todo o planeta de forma cada vez mais intensa e
+frequente, as cidades são o epicentro da crise, seja por sua contribuição na emissão de
+Gases de Efeito Estufa (GEE), seja em função da concentração de população. No caso
+brasileiro, os impactos são agravados pelas características do modelo de urbanização
+que agride o meio ambiente e resulta em espaços urbanos extremamente desiguais
+na distribuição de infraestrutura, potencializando as situações de risco e desastres,
+especialmente para as populações mais vulneráveis.
+Muitos acordos globais foram firmados e metas estabelecidas para controlar, reduzir,
+e, ambiciosamente, zerar as emissões de GEE, mas estas metas só podem ser atingidas
+com ações concretas que precisam ser encaminhadas pelos governos em todos os
+níveis e pela sociedade, coletiva e individualmente. Enquanto isso, é preciso adaptar
+as cidades e o modo de vida para conviver com a nova realidade, e esta é também
+uma tarefa gigantesca, uma vez que a crise climática, na verdade, agrava os enormes
+desafios que as cidades já enfrentam.
+Neste sentido, ao realizar a Conformidade Climática, Itabirito põe em perspectiva as
+ações necessárias para a redução de emissões, adaptação e ampliação da resiliência
+em seu território. As ações apresentadas no Plano de Ação Climática de Itabirito
+organizam a ação dos gestores públicos e da sociedade para o curto, médio e longo
+prazo, traçando uma estratégia para que a cidade possa fazer sua parte para enfrentar
+este desafio global.
+Ressalta-se a importância das ações de comunicação e da Governança Climática,
+assegurando o engajamento de todos os atores, sejam públicos, da sociedade civil,
+movimentos populares, academia, enfim, todos que precisam e devem caminhar
+juntos, liderando essa mudança essencial para a segurança de todos no planeta.
+69
+
+--- Page 70 ---
+
+Referências Bibliográficas
+BUCHALA, I. C. F. Infraestrutura verde como instrumento estratégico de adaptação
+e aumento da resiliência urbana: estudo de caso em Belo Horizonte. Dissertação
+(Mestrado em Ambiente Construído e Patrimônio Sustentável) – Escola de Arquitetura,
+Universidade Federal de Minas Gerais, Belo Horizonte, 2022.
+FJP. Diretoria de Estatística e Informações. Contas regionais de Minas Gerais: ano de
+referência 2020. Belo Horizonte: FJP, 2022.
+GIZ. The Vulnerability Sourcebook: concept and guidelines for standardised vulnerability
+assessments. Berlin, Germany: Adelphi Consult, 2014. Disponível em: < https://adelphi.
+de/system/files/mediathek/bilder/vulnerability_sourcebook_guidelines_for_assessments_
+adelphi_giz_2014.pdf >. Acesso em: 23 ago. 2023.
+IBGE. Área territorial brasileira 2020. Rio de Janeiro: IBGE, 2021a.
+IBGE. Cadastro Central de Empresas: 2020. Rio de Janeiro: IBGE, 2022a.
+IBGE. Sinopse do censo demográfico: 2010. Rio de Janeiro: IBGE, 2011.
+IBGE. Coordenação de Meio Ambiente (Diretoria de Geociências). Áreas urbanizadas
+do Brasil: 2019. Rio de Janeiro: IBGE, 2022b.
+IBGE. Coordenação de População e Indicadores Sociais (Diretoria de Pesquisas).
+Estatísticas da saúde: assistência médico-sanitária (2009). Rio de Janeiro: IBGE, 2010.
+IBGE. Coordenação de População e Indicadores Sociais (Diretoria de Pesquisas).
+Itabirito: população estimada. IBGE Cidades, jul. 2021b. Disponível em: < https://cidades.
+ibge.gov.br/brasil/mg/itabirito/panorama >. Acesso em: 23 ago. 2023.
+IBGE. Em parceria com os Órgãos Estaduais de Estatística, Secretarias Estaduais de
+Governo e Superintendência da Zona Franca de Manaus. Itabirito: PIB per capita. IBGE
+Cidades, 2020. Disponível em: < https://cidades.ibge.gov.br/brasil/mg/itabirito/panorama >.
+Acesso em: 23 ago. 2023.
+ICLEI - Governos Locais pela Sustentabilidade. Análise de Emissões de Gases de Efeito
+Estufa compacta (AEGEEc): Itabirito - MG. Versão Final. São Paulo, SP: ICLEI, 28 jul. 2023a.
+ICLEI - Governos Locais pela Sustentabilidade. Análise de Risco e Vulnerabilidade
+Climática compacta de Itabirito. São Paulo, SP: ICLEI, set. 2023b.
+ICLEI - Governos Locais pela Sustentabilidade. Relatório de Governança Climática:
+Itabirito - MG. Versão Final. São Paulo, SP: ICLEI, 28 jul. 2023c.
+70
+
+--- Page 71 ---
+
+INEP. Sinopse Estatística da Educação Básica: 2021. Brasília: INEP, 2022. Disponível
+em: < https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/
+censo-escolar/resultados >. Acesso em: 23 ago. 2023.
+IPCC. Climate Change 2014: synthesis report. Geneva, Switzerland: IPCC, 2014. Disponível
+em: < https://archive.ipcc.ch/pdf/assessment-report/ar5/syr/SYR_AR5_FINAL_full_wcover.
+pdf >. Acesso em: 23 ago. 2023.
+IPCC. Climate Change 2022: impacts, adaptation, and vulnerability. Cambridge, United
+Kingdom: Cambridge University Press, 2022. Disponível em: < https://report.ipcc.ch/ar6/
+wg2/IPCC_AR6_WGII_FullReport.pdf >. Acesso em: 23 ago. 2023.
+ITABIRITO. Conheça Itabirito. Prefeitura de Itabirito, [s.d.]. Disponível em:
+< https://www.itabirito.mg.gov.br/descubra-itabirito/historia >. Acesso em: 23 ago. 2023.
+ITABIRITO. Decreto Municipal n.º 14.147, de 09 de janeiro de 2022. Declara estado de
+calamidade pública no Município de Itabirito. Itabirito: Prefeitura Municipal, 2022a.
+ITABIRITO. Decreto Municipal n.º 14.822, de 20 de março de 2023. Institui o Comitê de
+Sustentabilidade e Mudanças Climáticas de Itabirito. Itabirito: Prefeitura Municipal, 2023.
+ITABIRITO. Lei Municipal n.º 3.453, de 02 de setembro de 2020. Institui o Sistema
+Municipal de Unidades de Conservação de Itabirito. Itabirito: Prefeitura Municipal, 2020.
+ITABIRITO. Defesa Civil. Plano Municipal de Contingência (PLAMCON). Itabirito: Defesa
+Civil, 2022b.
+MIDR (Secretaria Nacional de Proteção e Defesa Civil); UFSC (Centro de Estudos e
+Pesquisas em Engenharia e Defesa Civil). Atlas Digital de Desastres no Brasil. Brasília:
+MIDR, 2023. Disponível em: < http://atlasdigital.mdr.gov.br/ >. Acesso em: 23 ago. 2023.
+MINISTÉRIO DA SAÚDE. Departamento de Informática do Sistema Único de Saúde.
+Mortalidade Infantil. DATASUS, 2020. Disponível em: < https://datasus.saude.gov.br/ >.
+Acesso em: 23 ago. 2023.
+MINISTÉRIO DO MEIO AMBIENTE. Secretaria da Biodiversidade. Método de análise
+participativa de risco à mudança do clima. Brasília, DF: MMA. 2018. Disponível em:
+< https://cooperacaobrasil-alemanha.com/Mata_Atlantica/Analise_Risco_Mudanca_Clima/
+Analise_Risco_%20Mudanca_Clima.pdf >. Acesso em: 23 ago. 2023.
+ONU-HABITAT. Guiding Principles for City Climate Action Planning. Nairobi, Kenya: UN-
+Habitat, 2015. Disponível em: < https://unhabitat.org/sites/default/files/download-manager-
+files/English%20Publication.pdf >. Acesso em: 13 nov. 2023.
+PNUD; IPEA; FJP. Índice de Desenvolvimento Humano Municipal Brasileiro. Brasília:
+PNUD Brasil, 2013. Disponível em: < https://www.undp.org/pt/brazil/publications/indice-de-
+desenvolvimento-humano-municipal-brasileiro-2013 >. Acesso em: 23 ago. 2023.
+UNDRR. Disaster Resilience Scorecard for Cities. Geneva, Switzerland: UNDRR, 2017.
+Disponível em: < https://mcr2030.undrr.org/disaster-resilience-scorecard-cities >. Acesso
+em: 23 ago. 2023.
+71
+
+--- Page 72 ---
+
+UNFCCC. Adoção do Acordo Paris. Paris, França: COP-21, 2015. Disponível em:
+< https://brasil.un.org/sites/default/files/2020-08/Acordo-de-Paris.pdf >. Acesso em: 23 ago.
+2023.
+UNU-EHS. Interconnected Disaster Risks: Risk Tipping Points. Bonn, Germany: UNU-
+EHS, 2023. Disponível em: < https://s3.eu-central-1.amazonaws.com/interconnectedrisks/
+reports/2023/UNU_Tipping-Points_231017_no-watermark.pdf >. Acesso em: 14 nov. 2023.
+72
+
+--- Page 73 ---
+
+Anexo A: Diagnóstico
+para Ação Climática
+Quadro A1. Diagnóstico para Ação Climática sobre resíduos sólidos e reciclagem.
+1. Resíduos sólidos e reciclagem
+1) Lei N.º 2.412, de 01 de julho de 2005;
+2) Lei N.º 2.825, de 03 de outubro de 2011;
+Políticas 3) Lei N.º 3.352, de 14 de outubro de 2019;
+públicas, planos, 4) Lei N.º 3.484, de 09 de dezembro de 2020;
+programas e/ou 5) Lei N.º 3.623, de 10 de dezembro de 2021;
+projetos 6) Lei N.º 3.691, de 13 de junho de 2022;
+7) Lei N.º 3.733, de 22 de setembro de 2022;
+8) Lei N.º 3.845, de 11 de maio de 2023.
+Secretárias
+ou Órgão Secretaria de Meio Ambiente e Desenvolvimento Sustentável (SEMAM).
+responsáveis
+1) a Lei estabelece objetivos para o Programa Municipal de Coleta
+Seletiva, indica a Semam para a instituição de sua operacionalização e
+coordenação e determina que a coleta e o transporte do material são
+de responsabilidade do Município; quanto ao financiamento, indica o
+estabelecimento de parcerias com entidades privadas com a finalidade
+de fomentar a participação social na tomada de decisões acerca de
+problemas e proposições correlatos;
+2) fica o Poder Executivo autorizado a realizar campanhas educativas e
+de conscientização de cidadãos e instituições a respeito da substituição
+de que trata esta Lei; além disso, prevê a regulamentação no prazo de
+180 dias, contados da data de sua publicação;
+Descrição básica 3) dispõe sobre a utilização de materiais recicláveis em decorações de
+eventos públicos;
+4) dispõe sobre a aquisição e uso de copos, recipientes, talheres e
+demais utensílios descartáveis, produzidos a partir de derivados de
+petróleo, no âmbito do Município;
+5) dispõe sobre a obrigatoriedade de recipientes destinados à separação
+de lixo orgânico e inorgânico em condomínios e edifícios residenciais
+com mais de 6 unidades habitacionais, incluindo as sanções em caso
+de descumprimento ao disposto;
+6) dispõe sobre a criação do “Selo Ecologicamente Correto” a ser dado
+aos estabelecimentos que derem a destinação adequada ao descarte
+do óleo vegetal;
+73
+
+--- Page 74 ---
+
+7) dispõe sobre o reaproveitamento e reciclagem de óleo vegetal e
+institui o Programa Coleta Legal tendo em vista os condomínios com
+mais de 6 unidades habitacionais, restaurantes e cozinhas industriais;
+estabelece as responsabilidades dos condomínios e condôminos e as
+penalidades em caso de infrações;
+Descrição básica 8) dispõe sobre o Dia do Catador de Materiais Recicláveis, que poderá
+ser comemorado anualmente com reuniões, palestras, seminários ou
+outros eventos e campanhas educativas, indicando que os recursos
+necessários para atender as despesas com execução desta Lei serão
+obtidos mediante doações e campanhas, sem acarretar ônus para o
+Município.
+Fonte: Elaboração própria, 2023.
+Quadro A2. Diagnóstico para Ação Climática sobre meio ambiente.
+2. Meio Ambiente
+1) Lei N.º 2.417, de 11 de julho de 2005;
+2) Lei N.º 3.453, de 02 de setembro de 2020;
+3) Lei N.º 3.485, de 14 de dezembro de 2020;
+Políticas
+4) Lei N.º 3.507, de 16 de março de 2021;
+públicas, planos,
+5) Lei N.º 3.523, de 09 de abril de 2021;
+programas e/ou
+6) Lei N.º 3.527, de 14 de abril de 2021;
+projetos
+7) Lei N.º 3.549, de 11 de junho de 2021;
+8) Lei N.º 3.561, de 13 de julho de 2021;
+9) Lei N.º 3.621, de 06 de dezembro de 2021.
+Secretárias
+ou Órgão Secretaria de Política Urbana e Habitação (SEPUBH) e SEMAM.
+responsáveis
+1) dispõe sobre a política de proteção, do controle e da conservação
+do ambiente, da melhoria da qualidade de vida e do desenvolvimento
+sustentável no município, apresentando disposições gerais (tais como:
+objetivo geral; definições; e diretrizes); dispõe sobre as competências
+atribuídas à SEMAM e ao Conselho Municipal de Desenvolvimento
+Sustentável e Melhoria do Ambiente (CODEMA); apresenta disposições
+específicas para o controle das fontes potencialmente poluidoras; e
+dispõe sobre as penalidades; dispõe ainda que as despesas decorrentes
+Descrição básica
+correrão por conta de verbas próprias consignadas no orçamento em
+vigor; e prevê a regulamentação no prazo de 90 dias, contados da data
+de sua publicação;
+2) institui o Sistema Municipal de Unidades de Conservação (SMUC);
+apresentando as categorias de unidades de conservação; as concessões,
+compensações, produtos e serviços ambientais, destacando o Fundo
+Municipal de Meio Ambiente; bem como, as penalidades conforme
+legislação federal;
+74
+
+--- Page 75 ---
+
+3) dispõe sobre a educação ambiental e institui o Plano Municipal
+de Educação Ambiental, apresentando princípios e objetivos;
+competências e atribuições da Semam, em específico, da equipe do
+Centro de Educação Ambiental; dispõe sobre os recursos financeiros
+necessários para o financiamento das ações, destacando o Fundo
+Especial para Gestão Ambiental, podendo ainda o Poder Executivo
+firmar convênios e outros instrumentos legais com entidades públicas
+e privadas; e, por fim, prevê a regulamentação da Lei sem definição de
+prazo;
+4) dispõe sobre o Programa Adote uma Praça, que visa possibilitar
+a adoção de praças, jardins públicos, rotatórias, dentre outros, por
+pessoas físicas, jurídicas e entidades; apresenta objetivos do Programa;
+dispõe sobre os termos de cooperação que devem ser celebrados
+entre o Município de Itabirito, por intermédio da Secretaria Municipal
+de Urbanismo, e o interessado, tendo em vista o interesse público;
+dispõe também sobre a publicidade a ser implantada no local; sobre as
+responsabilidades do cooperante; e prevê a regulamentação no prazo
+de 30 dias, contados da data de sua publicação;
+5) dispõe sobre a Política Municipal de Serviços Ambientais e o
+Programa Municipal de Pagamento por Serviços Ambientais, com
+o objetivo de fornecer incentivos financeiros ou realizar melhorias
+nas propriedades rurais para que os proprietários adotem ações de
+preservação e recuperação do meio ambiente;
+Descrição básica
+6) institui o Programa Amigo Verde nas escolas da rede municipal de
+ensino, que “consiste na implementação de um conjunto de atividades
+com objetivo de orientar, informar e conscientizar aos alunos acerca
+da importância da educação ambiental”; indica que a sua implantação
+correrá por dotações orçamentárias vigentes, utilizando a estrutura
+física e humana disponível; destaca que as escolas da rede privada e
+estadual poderão aderir à implementação do Programa;
+7) institui a Semana Municipal de Conscientização, Prevenção e
+Combate à Prática de Queimadas Urbanas;
+8) institui o Programa Municipal de Distribuição de Mudas produzidas
+no Viveiro Municipal; dispõe que será realizada a distribuição de mudas
+de espécies nativas, frutíferas, exóticas, ornamentais, de capins, cana-
+de-açúcar, hortaliças para produtores rurais e demais munícipes, nos
+termos de Decreto regulamentar; indica que as despesas decorrentes
+correrão por conta das dotações orçamentárias específicas; e prevê
+que a Lei deverá ser regulamentada no prazo de 60 dias, contados da
+data de sua publicação;
+9) institui a Lei Ipês de Itabirito e sua preservação, apresentando
+diretrizes; a Lei tem por finalidade realizar ações de conscientização da
+preservação dos Ipês, bem como a sua importância como Patrimônio
+Histórico e Ambiental. Neste sentido, também fica estabelecido um dia
+oficial para contextualização desta identidade.
+Disponível em: https://itabirito.mg.gov.br/secretarias/meio-ambiente-e-
+Mais informações -desenvolvimento-sustentavel/selecao-de-propriedades-para-pagamento-
+-por-servicos-ambientais-psa
+Fonte: Elaboração própria, 2023.
+75
+
+--- Page 76 ---
+
+Quadro A3. Diagnóstico para Ação Climática sobre saneamento básico.
+3. Saneamento Básico
+Políticas
+públicas, planos, 1) Lei N.º 2.997, de 16 de abril de 2014;
+programas e/ou 2) Lei N.º 3.041, de 07 de novembro de 2014.
+projetos
+Secretárias
+ou Órgão Serviço Autônomo de Água e Esgoto (SAAE).
+responsáveis
+1) reestrutura a Política de Saneamento Básico; destaca-se a
+apresentação do princípio da universalização do acesso aos serviços no
+menor prazo possível e garantia de sua permanência, considerando “o
+atendimento das necessidades básicas vitais, sanitárias e higiênicas de
+todas as pessoas, independentemente de sua condição socioeconômica,
+em todas as edificações permanentes urbanas, independentemente
+de sua situação fundiária, inclusive locais de trabalho e de convivência
+social, da sede municipal e dos atuais e futuros distritos, vilas e
+povoados, de modo sustentável, ambientalmente correto, socialmente
+justo e economicamente viável, bem como de forma adequada às
+condições locais”; prevê a vigência de lei específica de instituição do
+Plano Municipal de Saneamento por um período de 20 anos e a revisão
+deste a cada 4 anos; dispõe sobre os serviços públicos de saneamento
+básico (abastecimento de água; esgotamento sanitário; manejo de
+resíduos sólidos urbanos; e drenagem e manejo de águas pluviais
+urbanas); estabelece que compete ao Município a organização, o
+Descrição básica
+planejamento, a regulação, a fiscalização e a prestação dos serviços
+públicos de saneamento básico de interesse local, que serão prestados,
+com exclusividade, pelo SAAE; dispõe sobre os instrumentos da Política
+(Plano Municipal de Saneamento Básico; Controle Social; Sistema
+Municipal de Gestão do Saneamento Básico - SMSB, mencionando,
+em especial, o Conselho Municipal de Saneamento; Sistema Municipal
+de Informações em Saneamento Básico - SIMISA; e legislação,
+regulamentos, normas administrativas de regulação, contratos e
+outros instrumentos jurídicos relacionados aos serviços públicos de
+saneamento básico); dispõe sobre aspectos econômicos financeiros,
+dos quais destaca-se o Fundo Municipal de Saneamento Básico; prevê
+diretrizes para a regulação e fiscalização dos serviços; infrações e
+penalidades; e, por fim, prevê a regulamentação no prazo de 180 dias,
+contados da data de sua publicação;
+2) dispõe sobre o Plano Municipal de Saneamento Básico em diálogo
+com a respectiva política, apresentada acima.
+Fonte: Elaboração própria, 2023.
+76
+
+--- Page 77 ---
+
+Quadro A4. Diagnóstico para Ação Climática sobre inundações.
+4. Inundações
+Políticas 1) Lei N.º 2.857, de 02 de abril de 2012;
+públicas, planos, 2) Lei N.º 3.638, de 24 de janeiro de 2022;
+programas e/ou 3) Lei N.º 3.829, de 27 de abril de 2023;
+projetos 4) Plano Municipal de Contingência (PLAMCON).
+Secretaria Municipal de Agronegócio e Desenvolvimento Rural (SEMAR),
+Secretárias
+Secretaria Municipal de Desenvolvimento Econômico (SEMDE),
+ou Órgão
+Secretaria Municipal de Desenvolvimento Social (SEMDES) e Secretaria
+responsáveis
+Municipal de Segurança e Trânsito (SESMOB).
+1) autoriza o Poder Executivo a conceder isenção do Imposto Predial e
+Territorial Urbano (IPTU) incidente sobre imóveis edificados e atingidos
+pelas enchentes causadas em virtude das chuvas ocorridas durante o
+mês de janeiro de 2012;
+2) dispõe sobre a concessão de auxílio e benefícios fiscais aos núcleos
+familiares, agricultores familiares, profissionais liberais, empresários
+e comerciantes atingidos pelas fortes chuvas, que causaram danos
+em face da decretação de calamidade pública no município, conforme
+Decreto N.º 14.147, de 09 de janeiro de 2022; os incentivos fiscais
+previstos na Lei são os seguintes: isenção ou remissão relativas
+ao IPTU, à taxa de inspeção, controle e fiscalização de localização e
+funcionamento de estabelecimentos e aos valores relacionados à
+taxação e consumo de água e esgoto; além disso, são previstos auxílios
+financeiros aos empresários, comerciantes e profissionais liberais e aos
+Descrição básica
+núcleos familiares e agricultores familiares; autoriza o poder executivo
+a abrir crédito especial e adicional suplementar; e prevê que a Lei será
+regulamentada por Decreto;
+3) dispõe sobre a obrigatoriedade de instalação de sistema de
+ecobarreiras nas redes hidrográficas para contenção de resíduos sólidos
+em córregos, canais e rios, bem como a instalação de pluviômetros e
+sistemas de alarmes;
+4) aborda acidentes naturais (inundações, enxurradas, alagamentos e
+deslizamentos) e acidentes tecnológicos (rompimento e/ou colapso de
+barragem); define ações imediatas e complementares no casos de uma
+dessas ocorrências; dispõe sobre o Sistema de Comando de Operação
+(SCO); e, por fim, determina atribuições gerais e específicas para o
+Município e as responsabilidades do empreendedor de barragem
+durante emergência.
+Fonte: Elaboração própria, 2023.
+77
+
+--- Page 78 ---
+
+Quadro A5. Diagnóstico para Ação Climática sobre cursos d’água e nascentes.
+5. Cursos d’Água e Nascentes
+Políticas
+públicas, planos, 1) Programa Águas Integradas (PAI);
+programas e/ou 2) Projeto de Recuperação de Nascentes.
+projetos
+Secretárias Agência de Desenvolvimento Econômico e Social dos Inconfidentes
+ou Órgão e Alto Paraopeba (ADESIAP), Federação das Indústrias do Estado de
+responsáveis Minas Gerais (FIEMG), Gerdau, SEMAM e SEMAR.
+1) trata-se de uma iniciativa de educação ambiental focada nos cursos
+d’água, envolvendo alunos das escolas municipais e moradores
+de áreas rurais do município; transversalmente, aborda temas
+relacionados aos impactos da mineração, da expansão do mercado
+imobiliário, da implantação da infraestrutura viária e, ainda, da
+atividade agropecuária sem manejo sustentável; entre suas ações, foi
+Descrição básica identificado plantio de mudas nativas, adequação de estradas vicinais e
+construção de dispositivos para contenção de enxurradas (conhecidos
+como barraginhas);
+2) iniciativa financiada pela Gerdau, conforme compromisso firmado
+em âmbito de licenciamento ambiental, com apoio técnico da FIEMG e
+gestão da ADESIAP; foi realizado o plantio de mudas e o controle de 14
+nascentes localizadas em áreas públicas, áreas verdes e de proteção.
+Disponível em: https://www.fecomercio.com.br/noticia/projeto-mineiro-
+de-educacao-ambiental-e-ganhador-da-categoria-orgao-publico-do-6o-
+Mais informações
+premio-de-sustentabilidade e https://itabirito.mg.gov.br/prefeitura-de-
+itabirito-inicia-projeto-de-recuperacao-de-nascentes
+Fonte: Elaboração própria, 2023.
+Quadro A6. Diagnóstico para Ação Climática sobre arboviroses.
+6. Arboviroses
+Políticas
+públicas, planos,
+Lei N.º 3.675, de 26 de maio de 2022.
+programas e/ou
+projetos
+Secretárias
+ou Órgão Secretaria Municipal de Saúde (SEMSA).
+responsáveis
+Dispõe sobre medidas permanentes de prevenção contra a dengue,
+Descrição básica bem como indica que as sanções pelo não cumprimento de qualquer
+artigo desta Lei serão estabelecidas via decreto do Poder Executivo.
+Fonte: Elaboração própria, 2023.
+78
+
+--- Page 79 ---
+
+Quadro A7. Diagnóstico para Ação Climática sobre mobilidade.
+7. Mobilidade
+Políticas
+públicas, planos, 1) Lei N.º 3.102, de 21 de outubro de 2015;
+programas e/ou 2) Lei N.º 3.548, de 11 de junho de 2021.
+projetos
+Secretárias
+ou Órgão SESMOB.
+responsáveis
+1) dispõe sobre o Plano de Mobilidade Urbana - em processo de revisão
+- e estabelece as diretrizes para o acompanhamento e o monitoramento
+de sua implementação, avaliação e revisão periódica;
+Descrição básica 2) institui a Semana Municipal do Ciclismo e prevê que a organização
+dos eventos possa ser realizada de maneira participativa junto a
+membros da Sociedade Civil Organizada que desenvolvam atividades
+ligadas à promoção do uso da bicicleta.
+Fonte: Elaboração própria, 2023.
+Quadro A8. Diagnóstico para Ação Climática sobre turismo.
+8. Turismo
+Políticas
+públicas, planos, Lei N.º 3.231, de 07 de novembro de 2017 (alterada pela Lei N.º
+programas e/ou 3.776/2022).
+projetos
+Secretárias
+ou Órgão Secretaria Municipal de Patrimônio Cultural e Turismo (SEMCULT).
+responsáveis
+Dispõe sobre a Política Municipal de Turismo, sobre as orientações
+para a elaboração do respectivo Plano e prevê o Sistema Municipal
+Descrição básica
+de Turismo, do qual destaca-se o Conselho Municipal de Turismo e o
+Fundo Municipal de Turismo.
+Fonte: Elaboração própria, 2023.
+79
+
+--- Page 80 ---
+
+Quadro A9. Diagnóstico para Ação Climática sobre política urbana.
+9. Política Urbana
+Políticas
+1) Lei N.º 3.323, de 08 de julho de 2019;
+públicas, planos,
+2) Lei N.º 3.324, de 08 de julho de 2019 (alterada pela Lei N.º 3.795/2022);
+programas e/ou
+3) Lei N.º 3.325, de 08 de julho de 2019.
+projetos
+Secretárias
+ou Órgão SEPUBH.
+responsáveis
+1) institui o Plano Diretor; apresenta título específico sobre o
+desenvolvimento sustentável, abordando o tema de maneira
+transversal ao desenvolvimento das dimensões socioeconômico,
+técnico-produtiva, geoambiental e político-institucional, dispõe sobre
+a organização territorial, incluindo a hierarquização do sistema viário;
+e define diretrizes setoriais da política urbana sobre a mobilidade,
+Descrição básica
+habitação de interesse social e patrimônio cultural; dispõe ainda, da
+implantação do plano diretor e do processo de planejamento, sobre o
+conselho municipal de política urbana;
+2) define os perímetros urbanos;
+3) dispõe sobre o parcelamento, o uso e a ocupação do solo urbano.
+Fonte: Elaboração própria, 2023.
+Quadro A10. Diagnóstico para Ação Climática sobre agricultura.
+10. Agricultura
+1) Lei N.º 3.161, de 16 de março de 2016.
+2) Lei N.º 3.515, de 26 de março de 2021;
+Políticas
+3) Lei N.º 3.566, de 20 de julho de 2021;
+públicas, planos,
+4) Lei N.º 3.714, de 26 de agosto de 2022;
+programas e/ou
+5) Lei N.º 3.847, de 16 de maio de 2023;
+projetos
+6) Curso de práticas agroecológicas;
+7) Levantamento de práticas agroecológicas.
+Secretárias Sindicato dos Produtores Rurais de Itabirito, SEMAR, Serviço Nacional
+ou Órgão de Aprendizagem Rural (SENAR) e Universidade Federal de Ouro Preto
+responsáveis (UFOP).
+1) institui a Semana Municipal de Desenvolvimento Rural Sustentável;
+2) cria o Programa de Incentivo à Correção e Fertilização do Solo,
+Descrição básica
+estabelecendo objetivos e indicando a correção do solo por meio da
+utilização de calcário agrícola;
+80
+
+--- Page 81 ---
+
+3) Plano Municipal de Desenvolvimento Rural Sustentável (PMDRS);
+menciona programas e ações de fomento ao desenvolvimento rural
+mantidos pelo Município, bem como 2 projetos elaborados pela Empresa
+de Assistência Técnica e Extensão Rural (EMATER) e fomentados com
+recursos do Ministério Público e do Município; apresenta objetivos
+geral e específicos; destaca a importância da participação popular e
+apresenta uma lista de parceiros;
+4) institui a Semana Municipal da Agricultura Familiar; dispõe que o
+Descrição básica Município poderá realizar parcerias com outras entidades e órgãos
+públicos, com organizações da sociedade civil, fundações de direito
+público ou privado e instituições de ensino e que as despesas
+decorrentes da execução desta lei correrão por conta das dotações
+orçamentárias próprias, suplementadas, se necessário; prevê que o
+Poder Executivo regulamentará a presente Lei no prazo de 120 dias,
+contado da data de sua publicação;
+5) dispõe sobre o Programa Municipal de Estímulo e Incentivo ao
+Aproveitamento da Energia Solar “Solução” para a Agricultura Familiar;
+Disponível em: https://itabirito.mg.gov.br/imprensa/noticias/
+agricultura/produtores-rurais-de-itabirito-participam-de-curso-de-
+Mais informações praticas-agroecologicas-no-viveiro-municipal e https://itabirito.mg.gov.
+br/imprensa/noticias/agricultura/prefeitura-de-itabirito-realiza-
+levantamento-de-praticas-agroecologicas
+Fonte: Elaboração própria, 2023.
+Quadro A11. Diagnóstico para Ação Climática sobre emprego e renda.
+11. Emprego e renda
+1) Programa de Desenvolvimento Empresarial (PDE);
+Políticas
+2) Projeto Reconversão Produtiva;
+públicas, planos,
+3) Projeto Mulheres Artesãs - Solidariedade e Desenvolvimento;
+programas e/ou
+4) Programa Jovem Aprendiz;
+projetos
+5) Projeto Trabalha Jovem.
+Secretárias ADESIAP, Coordenadoria de Juventude, EMATER, FIEMG, Ministério Pú-
+ou Órgão blico do Trabalho (MPT), Serviço Brasileiro de Apoio às Micro e Peque-
+responsáveis nas Empresas (SEBRAE), SEMCULT e SEMDE.
+1) fruto do convênio entre o Município e o SEBRAE, tem por objetivo
+promover o desenvolvimento no município a partir da oferta de
+serviços de consultoria às empresas e aos artesãos; trata-se de uma
+continuidade do Projeto Unidos por Itabirito, fruto da parceria entre o
+Município, a ADESIAP, a Associação Comercial e Empresarial de Itabirito
+(ACE), a Câmara de Dirigentes Lojistas de Itabirito (CDL) e o Sindicato
+Descrição básica
+do Comércio de Itabirito (SINCOVITA);
+2) trata de territórios minerários; sendo assim, também é desenvolvido
+em âmbito estadual; em Itabirito, vem sendo promovido pela FIEMG
+e pelo SEBRAE em parceria com o Município, tendo por objetivo a
+construção e implantação de estratégias com foco na redução da
+dependência econômica em relação à mineração;
+81
+
+--- Page 82 ---
+
+3) fruto da parceria entre o Município e a EMATER, conta com o apoio
+do MPT e a gestão financeira da ADESIAP e tem por objetivo promover
+a inclusão produtiva, ocupação e renda, autonomia e sustentabilidade
+para as artesãs e suas famílias;
+Descrição básica 4) promove eventos de capacitação para os jovens aprendizes que
+atuam na Administração Pública Municipal;
+5) tem como público-alvo adolescentes que cursam o Ensino Médio
+e promove eventos de capacitação a fim de apoiar esses jovens ao
+ingresso no primeiro emprego.
+Disponível em: https://itabirito.mg.gov.br/imprensa/noticias/
+desenvolvimento-economico/programa-de-desenvolvimento-
+empresarial-prefeitura-de-itabirito-oferta-capacitacao-gratuita-para-
+75-empreendedores-locais , https://itabirito.mg.gov.br/diversificacao-
+economica-itabirito-sedia-forum-de-liderancas-sobre-projeto-em-prol-
+de-receitas-alternativas-a-mineracao , https://itabirito.mg.gov.br/
+Mais informações mulheres-artesas-prefeitura-de-itabirito-e-emater-mg-disponibilizam-
+catalogo-online-para-divulgacao-de-projeto-de-artesanato-1 , https://
+itabirito.mg.gov.br/imprensa/noticias/desenvolvimento-economico/
+jovem-aprendiz-prefeitura-de-itabirito-promove-capacitacao-para-jovens-
+que-atuam-na-administracao-municipal e https://itabirito.mg.gov.br/
+trabalha-jovem-prefeitura-de-itabirito-realiza-evento-de-capacitacao-
+para-adolescentes
+Fonte: Elaboração própria, 2023.
+Quadro A12. Diagnóstico para Ação Climática sobre geoprocessamento de dados.
+12. Geoprocessamento de Dados
+Políticas
+públicas, planos,
+Projeto WebMapa.
+programas e/ou
+projetos
+Secretárias
+ou Órgão Multisetorial.
+responsáveis
+Tem por objetivo unificar os dados geográficos do município e
+Descrição básica
+disponibilizá-los à população.
+Mais informações Disponível em: https://itabirito.mg.gov.br/webmapa/index.html
+Fonte: Elaboração própria, 2023.
+82
+
+--- Page 83 ---
+
+Quadro A13. Diagnóstico para Ação Climática sobre emissões de GEE.
+13. Emissões de Gases de Efeito Estufa (GEE)
+Políticas
+públicas, planos,
+Programa Municipal de Compensação das Emissões de GEE.
+programas e/ou
+projetos
+Secretárias
+ou Órgão SEMAM.
+responsáveis
+Ressalta o empenho do Município em relação à temática da
+sustentabilidade; tem a finalidade de debater e subsidiar o Município
+na formulação e desenvolvimento dos projetos de descarbonização,
+Descrição básica
+além de demonstrar esforços para a redução dos impactos decorrentes
+das interferências humanas sobre o sistema climático, reduzindo os
+danos potenciais relacionados ao aquecimento global.
+Disponível em: https://www.itabirito.mg.gov.br/rss/dialogo-sustentavel-
+Mais informações
+prefeitura-de-itabirito-realiza-seminario-sobre-conformidade-climatica
+Fonte: Elaboração própria, 2023.
+83
