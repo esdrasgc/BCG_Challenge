@@ -2,113 +2,6 @@
 
 --- Page 1 ---
 
-Plano Nacional de Adaptação
-à Mudança do Clima
-Grupo Executivo do Comitê Interministerial de Mudança do Clima – GEx-CIM
-Ministério do Meio Ambiente
-Brasília, 2015
-
---- Page 2 ---
-
-Sumário
-Apresentação ................................................................................................................. 3
-1. Histórico e contexto legal ......................................................................................... 6
-2. Mudança do clima observada e futura ....................................................................... 8
-3. Objetivo geral, visão e princípios ............................................................................. 19
-4. Objetivos específicos, iniciativas transversais e recomendações gerais ....................... 22
-5. Gestão do Plano .................................................................................................... 27
-6. Estratégias setoriais e temáticas ............................................................................. 35
-7. Estratégia de Agricultura ........................................................................................ 38
-8. Estratégia de Biodiversidade e Ecossistemas ............................................................ 61
-9. Estratégia de Cidades ............................................................................................. 93
-10. Estratégia de Gestão de Risco aos Desastres........................................................... 114
-11. Estratégia de Indústria e Mineração ...................................................................... 139
-12. Estratégia de Infraestrutura .................................................................................. 152
-13. Estratégia de Povos e Populações Vulneráveis ........................................................ 188
-14. Estratégia de Recursos Hídricos ............................................................................. 224
-15. Estratégia de Saúde .............................................................................................. 250
-16. Estratégia de Segurança Alimentar e Nutricional .................................................... 268
-17. Estratégia de Zonas Costeiras ................................................................................ 298
-Referência Bibliográfica ............................................................................................... 331
-ANEXO- Síntese das Estratégias setoriais e temáticas ..................................................... 354
-Glossário .................................................................................................................... 369
-2 |Plano Nacional de Adaptação à Mudança do Clima
-
---- Page 3 ---
-
-1 Apresentação
-2 O Plano Nacional de Adaptação à Mudança do Clima do Governo Federal,
-3 doravante denominado Plano Nacional de Adaptação - PNA visa orientar iniciativas
-4 para a gestão e diminuição do risco climático no longo prazo. O Plano foi elaborado no
-5 âmbito do Grupo Executivo do Comitê Interministerial sobre Mudança do Clima (GEx-
-6 CIM), entre os anos de 2013 e 2015, conforme determinação da Política Nacional sobre
-7 Mudança do Clima (Lei nº 12.187/09) e em consonância com o Plano Nacional sobre
-8 Mudança do Clima.
-9 O processo de elaboração deste plano, além de contar com a contribuição de
-10 redes temáticas compostas por especialistas de vários setores e comunidade científica,
-11 teve a ampla participação da sociedade, inclusive, por meio de chamada e consultas
-12 públicas, como insumos para consideração do Governo.
-13 Também foram consideradas as informações elaboradas para a Terceira
-14 Comunicação Nacional à Convenção Quadro das Nações Unidas sobre Mudança do
-15 Clima – CQNUMC; o Primeiro Relatório de Avaliação Nacional do Painel Brasileiro de
-16 Mudanças Climáticas (PBMC, 2013); as recomendações oriundas da Terceira
-17 Conferência Nacional de Meio Ambiente, que teve como foco temático “mudança do
-18 clima”, contando com a participação de mais de 115 mil pessoas, e o relatório
-19 ‘Subsídios para elaboração do Plano Nacional de Adaptação aos Impactos Humanos
-20 das Mudanças Climáticas’, elaborado pelo Fórum Brasileiro de Mudanças Climáticas
-21 (FBMC).
-3 |Plano Nacional de Adaptação à Mudança do Clima
-
---- Page 4 ---
-
-Apresentação
-22 Impactos da mudança do clima já são observados na atualidade. O Painel
-23 Brasileiro de Mudanças Climáticas (PBMC) sistematiza dados e informações indicando
-24 que as diferentes regiões do Brasil já apresentam registros de mudanças de sinal
-25 variável em seus climas característicos. A previsão é que essas mudanças afetem os
-26 sistemas naturais, humanos, de infraestrutura e do sistema produtivo do país de
-27 maneira não uniforme. Um aumento da temperatura poderá conduzir a um
-28 incremento na frequência de eventos extremos nas diferentes regiões do Brasil, bem
-29 como uma alteração no regime das chuvas, com maior ocorrência de secas,
-30 inundações, alagamentos, deslizamentos de encostas e consequentes deslocamentos
-31 populacionais das regiões atingidas. Essas alterações climáticas podem causar
-32 consequências negativas e positivas para a sociedade, para os ecossistemas e para
-33 diferentes setores da economia.
-34 O desafio para a gestão do risco associado à mudança do clima é promover a
-35 coordenação entre os governos locais, regionais e nacional, uma vez que os impactos
-36 da mudança do clima ocorrem em escala local, mas as medidas de enfrentamento
-37 dependem de ações coordenadas e implementadas em diferentes estratégias, setoriais
-38 ou temáticas. Dessa forma, o sucesso do Plano está relacionado à promoção de ações
-39 cooperativas e coordenadas entre os diferentes setores e esferas de governo da
-40 Federação, entre os órgãos públicos, os setores econômicos e a sociedade civil, de
-41 modo a garantir a integração, transversalidade e coerência de políticas públicas
-42 voltadas à redução dos efeitos adversos da mudança do clima.
-43 Este Plano propõe diretrizes, recomendações e estratégias para a gestão e
-44 diminuição do risco climático do País à mudança do clima em suas dimensões social,
-45 econômica e ambiental, complementadas por medidas de gestão do conhecimento.
-46 Também propõe os mecanismos institucionais para implementação do Plano Nacional
-4 |Plano Nacional de Adaptação à Mudança do Clima
-
---- Page 5 ---
-
-Apresentação
-47 de Adaptação de forma concertada entre os entes federativos, os setores e a
-48 sociedade.
-49 O PNA está estruturado em 6 capítulos gerais e 11 estratégias de adaptação
-50 setoriais e temáticas, que visam orientar a ação governamental. Os capítulos 1 e 2
-51 contextualizam a base legal, os fundamentos e premissas das projeções climáticas.
-52 O capítulo 3 aborda o objetivo, visão e princípios que regem o Plano. Em
-53 seguida, os objetivos específicos, iniciativas transversais (ações estruturantes para os
-54 primeiros quatro anos de vigência do Plano) e diretrizes são apresentadas no capítulo
-55 4 e as transversalidades, apontadas no capítulo 5. Por fim, a gestão do PNA, incluindo
-56 o arranjo institucional, estratégia de financiamento, estratégia de monitoramento e
-57 gestão do conhecimento necessários ao processo dinâmico de gestão deste plano são
-58 expostas no capítulo 6.
-59
-5 |Plano Nacional de Adaptação à Mudança do Clima
-
---- Page 6 ---
-
 60 1. Histórico e contexto legal
 61 A Política Nacional de Mudanças Climáticas - PNMC – (Lei nº 12.187, de 29 de
 62 dezembro de 2009), traz amparo legal para a elaboração do Plano Nacional de
@@ -133,7 +26,7 @@ Apresentação
 81 órgão públicos, privados e sociedade.
 6 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 7 ---
+--- Page 2 ---
 
 Histórico e contexto legal
 82 A Política Nacional de Proteção e Defesa Civil também prevê a execução de
@@ -155,7 +48,7 @@ Histórico e contexto legal
 98
 7 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 8 ---
+--- Page 3 ---
 
 99 2. Mudança do clima observada e futura
 100 A discussão sobre adaptação à mudança do clima ganha relevância na medida
@@ -181,7 +74,7 @@ Histórico e contexto legal
 120 Intergovernmental Panel for Climate Change – IPCC (IPCC, 2014).
 8 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 9 ---
+--- Page 4 ---
 
 Mudança do clima observada e futura
 121 Alguns possíveis impactos dessas alterações climáticas para o Brasil e América
@@ -210,7 +103,7 @@ Pacifico Central).
 136 alterações na média, na variância e/ou na distribuição de probabilidade dos eventos
 9 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 10 ---
+--- Page 5 ---
 
 Mudança do clima observada e futura
 137 climáticos, e alterações no comportamento das séries estacionárias, também podem
@@ -240,7 +133,7 @@ Mudança do clima observada e futura
 161 metro quadrado (W/m2) adicionais de energia e representa uma redução gradativa das
 10 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 11 ---
+--- Page 6 ---
 
 Mudança do clima observada e futura
 162 emissões de gases de efeito estufa atingindo emissão zero por volta de 2070, podendo
@@ -270,7 +163,7 @@ Mudança do clima observada e futura
 186 Mudanças Climáticas Globais da Fundação de Amparo à Pesquisa do Estado de São
 11 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 12 ---
+--- Page 7 ---
 
 Mudança do clima observada e futura
 187 Paulo (FAPESP), da Rede Brasileira de Pesquisa em Mudanças Climáticas Globais (Rede
@@ -303,7 +196,7 @@ Mudança do clima observada e futura
 212 Uma forma de fazer isso é elaborar ou utilizar conjuntos de simulações de modelos e
 12 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 13 ---
+--- Page 8 ---
 
 Mudança do clima observada e futura
 213 diferentes cenários de emissões, preferencialmente aqueles que levam a diferentes
@@ -319,7 +212,7 @@ Mudança do clima observada e futura
 223 globais e modelo regional, etc..
 13 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 14 ---
+--- Page 9 ---
 
 Mudança do clima observada e futura
 Figura 1. Projeções regionalizadas de mudanças na temperatura (oC) entre o presente e
@@ -329,7 +222,7 @@ RCP 4.5 e 8.5, para Dezembro-Janeiro-Fevereiro (DJF) e Junho-Julho-Agosto (JJA).
 224
 14 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 15 ---
+--- Page 10 ---
 
 Mudança do clima observada e futura
 225
@@ -341,7 +234,7 @@ Mudança do clima observada e futura
 231 algumas áreas.
 15 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 16 ---
+--- Page 11 ---
 
 Mudança do clima observada e futura
 Figura 2. Projeções regionalizadas de mudanças na precipitação (mm/dia) entre o presente e
@@ -351,7 +244,7 @@ para Dezembro-Janeiro-Fevereiro (DJF) e Junho-Julho-Agosto (JJA).
 232
 16 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 17 ---
+--- Page 12 ---
 
 Mudança do clima observada e futura
 233 Nota-se que os centros de máxima redução das chuvas durante o verão se
@@ -382,7 +275,7 @@ Mudança do clima observada e futura
 258 máximos e os extremos mínimos se ampliam. Taxas de precipitação mais intensas são
 17 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 18 ---
+--- Page 13 ---
 
 Mudança do clima observada e futura
 259 projetadas no Centro-Sul do Brasil em direção ao final do século. Dentre as quatro
@@ -406,7 +299,7 @@ Mudança do clima observada e futura
 277 extremos.
 18 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 19 ---
+--- Page 14 ---
 
 278 3. Objetivo geral, visão e princípios
 279 O presente Plano tem por objetivo geral promover a gestão e diminuição do
@@ -433,7 +326,7 @@ Mudança do clima observada e futura
 300 produtivo em uma transição justa para a sociedade e com as metas nacionais de
 19 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 20 ---
+--- Page 15 ---
 
 Objetivo geral, visão e princípios
 301 desenvolvimento socioeconômico e de redução das desigualdades regionais, por meio
@@ -466,7 +359,7 @@ multisetorial e prioritária, incluindo a aplicação de abordagens sensíveis a
 critérios raciais e étnicos;
 20 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 21 ---
+--- Page 16 ---
 
 Objetivo geral, visão e princípios
 5. Implementar as medidas de adaptação e de mitigação sob a ótica dos co-benefícios;
@@ -488,7 +381,7 @@ afetem conjuntamente os Países.
 311
 21 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 22 ---
+--- Page 17 ---
 
 312 4. Objetivos específicos, iniciativas transversais e recomendações gerais
 313 Neste capítulo, são apresentados os objetivos específicos do Plano Nacional de
@@ -514,7 +407,7 @@ econômicos e institucionais para ação pública, setorial e local;
 melhoria contínua das ações para a gestão do risco climático
 22 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 23 ---
+--- Page 18 ---
 
 Objetivos específicos, iniciativas transversais e recomendações gerais
 324 Com vistas de operacionalizar os objetivos específicos do Plano, são
@@ -536,7 +429,7 @@ Objetivos específicos, iniciativas transversais e recomendações gerais
 340 as diretrizes apontadas nas estratégias setoriais e temáticas.
 23 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 24 ---
+--- Page 19 ---
 
 Objetivos específicos, iniciativas transversais e recomendações gerais
 341 Tabela 1 . Descrição das iniciativas transversais agregadas por objetivos específicos do Plano
@@ -588,7 +481,7 @@ Redução das lacunas de
 de Necessidades Tecnológicas do
 24 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 25 ---
+--- Page 20 ---
 
 Objetivos específicos, iniciativas transversais e recomendações gerais
 Brasil em Adaptação conhecimento e técnicas
@@ -646,7 +539,7 @@ vulnerabilidade
 344
 25 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 26 ---
+--- Page 21 ---
 
 Objetivos específicos, iniciativas transversais e recomendações gerais
 345 4.3. Recomendações gerais aos órgãos setoriais, entes federativos e à
@@ -678,7 +571,7 @@ ampliação dos processos participativos com a sociedade.
 353
 26 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 27 ---
+--- Page 22 ---
 
 354 5. Gestão do Plano
 355 Este capítulo tem como objetivo apresentar a estrutura de gestão proposta
@@ -703,7 +596,7 @@ ampliação dos processos participativos com a sociedade.
 374 apresentado nos próximos tópicos.
 27 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 28 ---
+--- Page 23 ---
 
 Gestão do Plano
 375 5.1.1. Governança subnacional
@@ -733,7 +626,7 @@ Gestão do Plano
 399 integração da agenda de adaptação nas agendas setoriais. Em cada conselho ou fórum
 28 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 29 ---
+--- Page 24 ---
 
 Gestão do Plano
 400 podem ser apresentados: (i) desenvolvimento do plano e de sua estratégia setorial
@@ -763,7 +656,7 @@ Gestão do Plano
 424 conteúdo estão disponibilizadas no sítio eletrônico do Ministério do Meio Ambiente.
 29 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 30 ---
+--- Page 25 ---
 
 Gestão do Plano
 425 5.3. Monitoramento e Avaliação do Plano
@@ -791,7 +684,7 @@ Gestão do Plano
 447 no que couber.
 30 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 31 ---
+--- Page 26 ---
 
 Gestão do Plano
 448 Novas iniciativas podem ser propostas pelo GEx. As informações atualizadas
@@ -822,7 +715,7 @@ Gestão do Plano
 473 das bases de dados sobre recursos hídricos e meteorologia, devendo prover amplo
 31 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 32 ---
+--- Page 27 ---
 
 Gestão do Plano
 474 acesso a essas informações e relatórios técnicos de monitoramento para o governo e
@@ -852,7 +745,7 @@ Gestão do Plano
 498 nas ações preparação para desastres junto às comunidades mais vulneráveis.
 32 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 33 ---
+--- Page 28 ---
 
 Gestão do Plano
 499 O Painel Brasileiro sobre Mudança do Clima é responsável pela elaboração do
@@ -882,7 +775,7 @@ Gestão do Plano
 523 Federal. Estas são então avaliadas e processadas por especialistas e encaminhadas aos
 33 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 34 ---
+--- Page 29 ---
 
 Gestão do Plano
 524 órgãos de Proteção e Defesa Civil dos estados e municípios com risco de ocorrência de
@@ -902,7 +795,7 @@ Gestão do Plano
 538 estabelecidas.
 34 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 35 ---
+--- Page 30 ---
 
 539 6. Estratégias setoriais e temáticas
 540 Os impactos da mudança do clima têm grandes implicações para os diversos
@@ -928,7 +821,7 @@ Gestão do Plano
 Decreto 7.390 de 2010.
 35 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 36 ---
+--- Page 31 ---
 
 Estratégias setoriais e temáticas
 559 Para tanto, é importante salientar e legitimar o caráter sistêmico da adaptação,
@@ -958,7 +851,7 @@ Estratégias setoriais e temáticas
 583 oportunos para estruturação das medidas propostas. Esta análise deverá ser objeto,
 36 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 37 ---
+--- Page 32 ---
 
 Estratégias setoriais e temáticas
 584 por exemplo, do desenvolvimento da Iniciativa Transversal 3.1. “Identificar critérios e
@@ -986,7 +879,7 @@ Estratégias setoriais e temáticas
 606
 37 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 38 ---
+--- Page 33 ---
 
 607 7. Estratégia Agricultura
 608 Este capítulo foi construído sob coordenação do Mapa, ponto focal para esta
@@ -1012,7 +905,7 @@ Estratégias setoriais e temáticas
 628 condições ambientais, muito dependente das condições meteorológicas. O clima e sua
 38 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 39 ---
+--- Page 34 ---
 
 Estratégia de Agricultura
 629 variabilidade são o principal fator de risco para a agricultura. Estima-se que cerca de
@@ -1042,7 +935,7 @@ Estratégia de Agricultura
 653 temperaturas extremas, sejam altas ou baixas, e a diminuição do gradiente de
 39 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 40 ---
+--- Page 35 ---
 
 Estratégia de Agricultura
 654 temperatura entre dia e noite, terão um forte impacto no metabolismo vegetal e no
@@ -1073,7 +966,7 @@ Estratégia de Agricultura
 679 Segundo o último censo agropecuário realizado pelo IBGE, em 2006, a agricultura
 40 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 41 ---
+--- Page 36 ---
 
 Estratégia de Agricultura
 680 familiar participa com 48% do valor bruto da produção nacional. O conjunto, bastante
@@ -1104,7 +997,7 @@ Estratégia de Agricultura
 705 permitam aos agroecossistemas se adaptarem aos novos cenários climáticos.
 41 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 42 ---
+--- Page 37 ---
 
 Estratégia de Agricultura
 706 Apesar das características flexíveis dos sistemas agropecuários, e da
@@ -1133,7 +1026,7 @@ Estratégia de Agricultura
 729 técnicos, voltados para adaptação e a sustentabilidade ambiental.
 42 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 43 ---
+--- Page 38 ---
 
 Estratégia de Agricultura
 730 Destaca-se, inicialmente, o Plano Setorial de Agricultura de Baixa Emissão de
@@ -1164,7 +1057,7 @@ Estratégia de Agricultura
 755 tempo.
 43 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 44 ---
+--- Page 39 ---
 
 Estratégia de Agricultura
 756 Programa de Garantia da Atividade Agropecuária (PROAGRO), assim como o
@@ -1194,7 +1087,7 @@ Estratégia de Agricultura
 780 regulamentado.
 44 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 45 ---
+--- Page 40 ---
 
 Estratégia de Agricultura
 781 Além dessas iniciativas existentes, que apresentam um recorte específico para
@@ -1225,7 +1118,7 @@ Estratégia de Agricultura
 806 Hídricos (Lei nº 9.433/1997); a Política Nacional de Irrigação (Lei nº 12.787/2013); o
 45 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 46 ---
+--- Page 41 ---
 
 Estratégia de Agricultura
 807 Sistema Nacional de Informações da Agricultura Irrigada e o Programa Nacional de
@@ -1255,7 +1148,7 @@ Estratégia de Agricultura
 831 7.3. Análise qualitativa de vulnerabilidade
 46 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 47 ---
+--- Page 42 ---
 
 Estratégia de Agricultura
 832 O sistema agropecuário desde sempre desenvolveu estratégias para enfrentar e
@@ -1285,7 +1178,7 @@ Estratégia de Agricultura
 856 futuro da safra, levando em conta previsões sobre o comportamento sazonal do clima.
 47 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 48 ---
+--- Page 43 ---
 
 Estratégia de Agricultura
 857 Apesar de bastante sólidos, esses instrumentos precisam ser avaliados e
@@ -1315,7 +1208,7 @@ Estratégia de Agricultura
 881 parte de um conjunto de políticas públicas de enfrentamento das alterações do clima.
 48 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 49 ---
+--- Page 44 ---
 
 Estratégia de Agricultura
 882 A estratégia é investir com mais eficácia na agricultura, promovendo sistemas
@@ -1344,7 +1237,7 @@ Estratégia de Agricultura
 905 da estruturação de meios de implementação que assegurem sua continuidade ao
 49 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 50 ---
+--- Page 45 ---
 
 Estratégia de Agricultura
 906 longo do tempo, constante processo de revisão e aprimoramento, com investimento
@@ -1374,7 +1267,7 @@ Estratégia de Agricultura
 930 por intermédio do Plano Nacional de Redução de Riscos e Desastres, integrante
 50 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 51 ---
+--- Page 46 ---
 
 Estratégia de Agricultura
 931 do Plano Nacional de Adaptação às Mudanças Climáticas, considerando as
@@ -1404,7 +1297,7 @@ Estratégia de Agricultura
 955 em modalidades que incorporem ações de adaptação/mitigação, incluindo
 51 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 52 ---
+--- Page 47 ---
 
 Estratégia de Agricultura
 956 financiamento de sistemas diversificados, do uso sustentável da biodiversidade
@@ -1433,7 +1326,7 @@ Estratégia de Agricultura
 979 a transição de produção para sistemas integrados de produção, ampliação do acesso à
 52 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 53 ---
+--- Page 48 ---
 
 Estratégia de Agricultura
 980 tecnologia de irrigação eficiente e aos mecanismos de gestão que conservam os
@@ -1464,7 +1357,7 @@ Estratégia de Agricultura
 1005 ao produtor rural. O período de revisão do Plano deverá durar cerca de um ano, com
 53 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 54 ---
+--- Page 49 ---
 
 Estratégia de Agricultura
 1006 início previsto para junho de 2015, tendo a avaliação das ações em andamento, e em
@@ -1495,7 +1388,7 @@ Estratégia de Agricultura
 1031
 54 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 55 ---
+--- Page 50 ---
 
 Estratégia de Agricultura
 1032 Além desses, deverão ser avaliados indicadores de sustentabilidade de
@@ -1515,7 +1408,7 @@ Estratégia de Agricultura
 1046 Agropecuário, assim como a definição dos responsáveis por sua execução.
 55 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 56 ---
+--- Page 51 ---
 
 Estratégia de Agricultura
 1047 Tabela 3. Medidas de adaptação propostas para estruturação do Programa de
@@ -1552,7 +1445,7 @@ análises e desenvolvimentos técnico-científicos referentes a temas específic
 a maior eficiência e resiliência das unidades e dos sistemas produtivos para aumento
 56 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 57 ---
+--- Page 52 ---
 
 Estratégia de Agricultura
 de produtividade sob pressões bióticas e abióticas decorrentes das mudanças
@@ -1590,7 +1483,7 @@ espécies vegetais nativas, em áreas representativas dos diferentes biomas
 brasileiros, entre outros. As ações devem abraçar tanto atividades desenvolvidas por
 57 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 58 ---
+--- Page 53 ---
 
 Estratégia de Agricultura
 instituições de pesquisa, como trabalhos a campo e iniciativas comunitárias.
@@ -1626,7 +1519,7 @@ sustentabilidade aos efeitos deletérios da mudança do clima. Essa ação se ba
 entre outros, em um fortalecimento das ações de transferência de tecnologias
 58 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 59 ---
+--- Page 54 ---
 
 Estratégia de Agricultura
 derivadas das resultantes das ações propostas nos tópicos anteriores. Mais que nas
@@ -1663,7 +1556,7 @@ aos efeitos das mudanças climáticas e à segurança alimentar.
 1056 produtiva é impactada pelas escolhas e comportamento dos consumidores (sobretudo
 59 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 60 ---
+--- Page 55 ---
 
 Estratégia de Agricultura
 1057 perdas). O acesso a alimentos em qualidade e quantidade suficientes tem impacto
@@ -1693,7 +1586,7 @@ Estratégia de Agricultura
 1081
 60 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 61 ---
+--- Page 56 ---
 
 1082 8. Estratégia de Biodiversidade e Ecossistemas
 1083 8.1. Apresentação
@@ -1719,7 +1612,7 @@ Estratégia de Agricultura
 1103 Botânico do Rio de Janeiro (JBRJ).
 61 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 62 ---
+--- Page 57 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1104 Algumas ações também são desenvolvidas em outros Ministérios como Pesca e
@@ -1749,7 +1642,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1128 ainda incipientes e esparsas. Atualmente, é difícil estabelecer, com base científica,
 62 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 63 ---
+--- Page 58 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1129 ligações causais entre o declínio de uma espécie e a mudança do clima (PBMC, 2013).
@@ -1780,7 +1673,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1154 (Amazônia, Caatinga, Cerrado, Mata Atlântica, Pantanal, Pampa), que envolvem
 63 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 64 ---
+--- Page 59 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1155 formações dominantes em um conjunto característico de tipos de vegetação
@@ -1807,7 +1700,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1176
 64 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 65 ---
+--- Page 60 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1177 Tabela 4. Projeções de mudança na temperatura e precipitação nos biomas
@@ -1842,7 +1735,7 @@ Pantanal -5 a -15 -10 a -25 -35 a -45 +1 +2,5 a +3,5 +3,5 a +4,5
 1193 poderá aumentar ou diminuir, dependendo do novo padrão de chuvas.
 65 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 66 ---
+--- Page 61 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1194 Para os ecossistemas característicos de climas mais secos (ex. florestas
@@ -1873,7 +1766,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1219 das chuvas podem reduzir a vazão para abaixo do mínimo necessário. Reduções nas
 66 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 67 ---
+--- Page 62 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1220 vazões, que podem surgir com a diminuição do regime de chuvas, interferem na
@@ -1903,7 +1796,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1244 costeiras mais dinâmicas, forçando os limites de adaptação das comunidades bióticas,
 67 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 68 ---
+--- Page 63 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1245 em consequência da destruição de trechos e formação de novas áreas para
@@ -1934,7 +1827,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1270 intensidade de eventos climáticos costeiros, assim como os costões rochosos. "Lagoas
 68 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 69 ---
+--- Page 64 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1271 costeiras são ambientes altamente sensíveis às mudanças climáticas, principalmente
@@ -1964,7 +1857,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1295 clima, como mudanças na temperatura e na precipitação podem prejudicar o
 69 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 70 ---
+--- Page 65 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1296 desenvolvimento, reduzir a mobilidade, prejudicar taxas reprodutivas, aumentar a
@@ -1994,7 +1887,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1320 pois afeta a sincronia entre as espécies e suas fontes de alimentos, que com a
 70 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 71 ---
+--- Page 66 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1321 mudança do clima, pode ser prejudicada (HARRINGTON et al. 1999, VISSER & BOTH,
@@ -2024,7 +1917,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1345 mudanças climáticas, em paisagens naturais fragmentadas, somente a capacidade de
 71 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 72 ---
+--- Page 67 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1346 dispersão não é suficiente: é preciso haver habitats adequados dentro do raio de
@@ -2053,7 +1946,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1369 produzir resultados locais, afetando sua própria sobrevivência.
 72 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 73 ---
+--- Page 68 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1370 A diversidade genética é, em si uma capacidade de adaptação às mudanças
@@ -2084,7 +1977,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1395 estresse hídrico.
 73 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 74 ---
+--- Page 69 ---
 
 Estratégia de Biodiversidade e Ecossistemas
  Para Amazônia e Mata Atlântica, dada a predominância de fitofisionomias
@@ -2117,7 +2010,7 @@ rios do Norte e Nordeste.
 1404 a falta de conhecimento sobre biodiversidade, sobre clima e interação entre os dois.
 74 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 75 ---
+--- Page 70 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1405 Mudanças de uso do solo aumentam a fragmentação dos biomas e ameaçam a
@@ -2143,7 +2036,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1425
 75 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 76 ---
+--- Page 71 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1426 Tabela 5. Resumo da Análise de Vulnerabilidade com relação à Ecossistemas Terrestres Costeiros e Marinhos
@@ -2184,7 +2077,7 @@ Mista (com Atlântica ↑↑ ↑↑ Fragmentação Não Não da área de
 araucária) – Sul cobertura
 76 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 77 ---
+--- Page 72 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 Expansão e
@@ -2223,7 +2116,7 @@ mínima de Áreas para afogamento continente com
 2 Temperatura média abaixo de 15C
 77 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 78 ---
+--- Page 73 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 15C expansão Falta de áreas de mais apicum
@@ -2260,7 +2153,7 @@ da água
 Lagoas Costeiras Mata ↑↑ Elevação do Eutrofização, n/a n/a Ambiente mais Deslocamentos,
 78 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 79 ---
+--- Page 74 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 Atlântica nível do mar, assoreamento, quente e mais alteração da
@@ -2270,7 +2163,7 @@ precipitação margens para algumas
 espécies
 79 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 80 ---
+--- Page 75 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1427 8.5. A conservação da biodiversidade e sua relação com outros setores
@@ -2308,7 +2201,7 @@ Solos
 1451 restauração de ecossistemas, com o intuito de fornecer serviços ambientais que
 80 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 81 ---
+--- Page 76 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1452 possibilitem a sociedade se adaptar aos impactos da mudança do clima. Dentre os
@@ -2338,7 +2231,7 @@ Estratégia de Biodiversidade e Ecossistemas
 1476 ecológico, compensação ambiental entre outros). Estimular a inclusão de AbE
 81 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 82 ---
+--- Page 77 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1477 nos editais de agências de fomento pesquisa, assim como em fundos
@@ -2365,7 +2258,7 @@ custo-beneficio
 1486 recortes incluem a Segurança Alimentar, Desastres e a Saúde.
 82 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 83 ---
+--- Page 78 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1487 Tabela 6. Resumo dos principais serviços ecossistêmicos que podem ser utilizados no
@@ -2417,7 +2310,7 @@ Amenização de
 aumento da
 83 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 84 ---
+--- Page 79 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 temperatura,
@@ -2465,7 +2358,7 @@ Reforço às medidas de
 tradicionais;
 84 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 85 ---
+--- Page 80 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 mitigação Incremento no
@@ -2516,7 +2409,7 @@ primária
 1493 impacto das ameaças não climáticas, quanto para o aumento do potencial de adaptação
 85 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 86 ---
+--- Page 81 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1494 das políticas públicas existentes, associadas a incorporação das lentes climáticas no
@@ -2553,7 +2446,7 @@ ocorrência de focos de incêndio
 ecossistemas, propiciando o aumento da sua conectividade;
 86 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 87 ---
+--- Page 82 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 6. Fortalecimento das políticas e ações de conservação dos ecossistemas aquáticos,
@@ -2591,7 +2484,7 @@ na definição de áreas para recuperação vegetal;
 5. A Implementação de corredores ecológicos deve considerar a informação de clima na
 87 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 88 ---
+--- Page 83 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 definição de áreas prioritárias e adequadas para as ações de aumento da conectividade,
@@ -2626,7 +2519,7 @@ espécimes para os novos ambientes favoráveis.
 1520 nacionais relacionadas com áreas protegidas.
 88 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 89 ---
+--- Page 84 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 1521
@@ -2658,7 +2551,7 @@ hidrometereologicos integrando com os resultados especializados de pesquisas de 
 futura do clima;
 89 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 90 ---
+--- Page 85 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 3. Ampliar os editais para estudos e pesquisas observacionais voltadas para análise da relação
@@ -2701,7 +2594,7 @@ endêmicas, e grupos que desenvolvem funções ecossistêmicas como polinizadore
 dispersores;
 90 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 91 ---
+--- Page 86 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 11. Integrar e ampliar mapas de monitoramento dos biomas produzidos pelos programas de
@@ -2736,7 +2629,7 @@ incorporando a lente climática neste processo;
 políticas, planos, e ações voltadas para a conservação da biodiversidade;
 91 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 92 ---
+--- Page 87 ---
 
 Estratégia de Biodiversidade e Ecossistemas
 4. Estimular a pesquisa para identificação dos impactos já em curso da mudança do clima sobre a
@@ -2758,7 +2651,7 @@ mudanças do clima.
 1552
 92 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 93 ---
+--- Page 88 ---
 
 1553 9. Estratégia de Cidades
 1554 9.1. Introdução
@@ -2784,7 +2677,7 @@ mudanças do clima.
 1574 relacionam o planejamento urbano e a gestão de riscos na perspectiva da prevenção e,
 93 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 94 ---
+--- Page 89 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1575 mais recentemente, considerando os impactos previstos em decorrência da mudança
@@ -2813,7 +2706,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1598 Sul, Sudeste e grande parte da costa brasileira.
 94 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 95 ---
+--- Page 90 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1599 No contexto brasileiro, essas evidências, somadas às de outros estudos de
@@ -2843,7 +2736,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1623
 95 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 96 ---
+--- Page 91 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1624 9.2. Principais vulnerabilidades das cidades brasileiras no contexto das
@@ -2874,7 +2767,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1649 ter o conhecimento específico dos principais fatores determinantes para definir
 96 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 97 ---
+--- Page 92 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1650 medidas de adaptação a nível municipal. Entretanto, para indicar as diretrizes de
@@ -2903,7 +2796,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1673 climáticas, os riscos urbanos tornam-se ainda mais acentuados para estes casos.
 97 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 98 ---
+--- Page 93 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1674 Por muitas vezes, estas mesmas cidades também contam com alta densidade
@@ -2918,14 +2811,14 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1683 uma forma abrangente, preventiva e inclusiva (IPCC, 2012).
 98 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 99 ---
+--- Page 94 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1684 Tabela 7. Caracterização dos municípios brasileiros quanto aos aspectos demográficos (CENSO, 2010) e de riscos urbanos, no contexto de mudanças climáticas.
 1685
 99 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 100 ---
+--- Page 95 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1686 A urbanização de fundos de vales e canalização de rios também é uma
@@ -2956,7 +2849,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1711 fazendo com que a configuração das cidades seja diferente das demais. Nestes casos,
 100 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 101 ---
+--- Page 96 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1712 os recursos públicos são menores e normalmente existem outras necessidades
@@ -2987,7 +2880,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1737 maioria as de pequeno porte do Norte, Nordeste e Centro-Oeste, as áreas de expansão
 101 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 102 ---
+--- Page 97 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1738 urbana apresentam um crescente processo de fragmentação e dispersão da
@@ -3016,7 +2909,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1761
 102 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 103 ---
+--- Page 98 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1762 9.3.1. Aspectos gerais
@@ -3047,7 +2940,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1787 Estatuto da Metrópole (Lei nº 13.089/2015) estabeleceu diretrizes para o
 103 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 104 ---
+--- Page 99 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1788 planejamento, a gestão e a execução das funções públicas de interesse comum em
@@ -3078,7 +2971,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1813 integração é importante, uma vez que todos os planos setoriais ligados à qualidade de
 104 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 105 ---
+--- Page 100 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1814 vida no processo de urbanização também constituem instrumentos de planejamento
@@ -3107,7 +3000,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1837 atuação que contribuem diretamente para a redução da vulnerabilidade atual e
 105 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 106 ---
+--- Page 101 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1838 indiretamente para a redução da vulnerabilidade futura em um cenário de mudança
@@ -3138,7 +3031,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1863 Os projetos de urbanização de assentamentos precários deverão atender todas as
 106 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 107 ---
+--- Page 102 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1864 necessidades básicas diagnosticadas na área, especialmente em relação à eliminação
@@ -3169,7 +3062,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1889 Nacional de Informações sobre Saneamento (2013), a maior deficiência está
 107 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 108 ---
+--- Page 103 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1890 relacionada ao atendimento com rede coletora do esgoto que atende apenas 56,3% da
@@ -3199,7 +3092,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1914 drenagem urbana e controle de inundações, bem como construção de sistemas de
 108 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 109 ---
+--- Page 104 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1915 captação, distribuição e armazenamento de água potável nas regiões do semiárido
@@ -3229,7 +3122,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1939
 109 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 110 ---
+--- Page 105 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1940 9.4. Diretrizes Prioritárias de Adaptação
@@ -3260,7 +3153,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1965 de baixa renda e recuperação das atividades econômicas, promovendo a
 110 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 111 ---
+--- Page 106 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1966 diversidade urbana e contribuindo para a redução da expansão urbana e da
@@ -3290,7 +3183,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 1990 adequados e adaptados aos riscos relacionados às mudanças climáticas.
 111 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 112 ---
+--- Page 107 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 1991  Fortalecimento das ações relacionadas a obras de contenção de
@@ -3320,7 +3213,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 2015 hídricos, para facilitar os múltiplos usos da água, estimulando a eficiência no uso de
 112 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 113 ---
+--- Page 108 ---
 
 Estratégia de Cidades – Desenvolvimento Urbano
 2016 energia, com a utilização do biogás resultante do tratamento dos esgotos e dos
@@ -3350,7 +3243,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 2040
 113 |PlanoNacional de Adaptação à Mudança do Clima
 
---- Page 114 ---
+--- Page 109 ---
 
 2041 10. Estratégia de Gestão de Risco aos Desastres
 2042 10.1. Introdução
@@ -3377,7 +3270,7 @@ Estratégia de Cidades – Desenvolvimento Urbano
 2063 limitadas a se deslocarem ou se desenvolverem socioeconomicamente. A grande
 114 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 115 ---
+--- Page 110 ---
 
 Estratégia de Gestão de Risco e Desastres
 2064 quantidade de desastres naturais no país durante as últimas décadas é explicada pela
@@ -3407,7 +3300,7 @@ Estratégia de Gestão de Risco e Desastres
 2088 frequência de alguns eventos extremos de condições meteorológicas e climáticas em
 115 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 116 ---
+--- Page 111 ---
 
 Estratégia de Gestão de Risco e Desastres
 2089 algumas regiões; embora, seja ainda muito difícil atribuir eventos individuais de
@@ -3438,7 +3331,7 @@ Estratégia de Gestão de Risco e Desastres
 2114 durante os últimos anos, contudo devido ao melhor enquadramento dos recortes
 116 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 117 ---
+--- Page 112 ---
 
 Estratégia de Gestão de Risco e Desastres
 2115 setoriais deste PNA, estas ações estão expostas e melhor exploradas no capítulo
@@ -3469,7 +3362,7 @@ Estratégia de Gestão de Risco e Desastres
 2140
 117 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 118 ---
+--- Page 113 ---
 
 Estratégia de Gestão de Risco e Desastres
 2141 Tabela 8. Regiões do Brasil e as principais características relacionadas aos desastres naturais.
@@ -3481,7 +3374,7 @@ Estratégia de Gestão de Risco e Desastres
 2147 mortes relacionadas aos desastres naturais no Brasil. Para estes casos, destacam-se as
 118 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 119 ---
+--- Page 114 ---
 
 Estratégia de Gestão de Risco e Desastres
 2148 regiões Sul e Sudeste que, embora apresentem uma das mais densas redes de
@@ -3512,7 +3405,7 @@ Estratégia de Gestão de Risco e Desastres
 2173 fenômenos naturais que impactam os sistemas humanos. Entretanto, as
 119 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 120 ---
+--- Page 115 ---
 
 Estratégia de Gestão de Risco e Desastres
 2174 vulnerabilidades dos sistemas humanos representam outros condicionantes
@@ -3541,14 +3434,14 @@ Estratégia de Gestão de Risco e Desastres
 2197 com evidências e argumentos lógicos.
 120 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 121 ---
+--- Page 116 ---
 
 Estratégia de Gestão de Risco e Desastres
 2198 Tabela 9. Síntese de informações relevantes às questões relacionadas aos tipos de desastres que atingem o Brasil, eventos extremos e mudanças climáticas.
 2199
 121 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 122 ---
+--- Page 117 ---
 
 Estratégia de Gestão de Risco e Desastres
 2200 De uma forma geral, nota-se que para os desastres que causam mais óbitos
@@ -3579,7 +3472,7 @@ Estratégia de Gestão de Risco e Desastres
 2225 econômico, mas ainda não conseguiram alcançar a sustentabilidade no tocante do
 122 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 123 ---
+--- Page 118 ---
 
 Estratégia de Gestão de Risco e Desastres
 2226 gerenciamento de risco e a diminuição dos prejuízos humanos. Ou seja, é preciso
@@ -3610,7 +3503,7 @@ Estratégia de Gestão de Risco e Desastres
 2251 costa brasileira, entre o Rio Grande do Sul e Ceará, com acréscimos menores. Para
 123 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 124 ---
+--- Page 119 ---
 
 Estratégia de Gestão de Risco e Desastres
 2252 movimentos de massa, as regiões que merecem maior atenção estariam espalhadas no
@@ -3641,7 +3534,7 @@ Estratégia de Gestão de Risco e Desastres
 2277 de Proteção e Defesa Civil/MI e seu Centro Nacional de Gerenciamento de Riscos e
 124 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 125 ---
+--- Page 120 ---
 
 Estratégia de Gestão de Risco e Desastres
 2278 Desastres – CENAD/SEDEC/MI, Centro Nacional de Monitoramento e Alerta –
@@ -3671,7 +3564,7 @@ Estratégia de Gestão de Risco e Desastres
 2302 Desses, existe priorização de 286, sem hierarquia, correspondentes a 89% das mortes
 125 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 126 ---
+--- Page 121 ---
 
 Estratégia de Gestão de Risco e Desastres
 2303 e 55% do total de pessoas desalojadas ou desabrigadas, no universo dos municípios
@@ -3698,7 +3591,7 @@ Estratégia de Gestão de Risco e Desastres
 2324 geral.
 126 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 127 ---
+--- Page 122 ---
 
 Estratégia de Gestão de Risco e Desastres
 2325 A PNPDEC abrange as ações de prevenção, mitigação, preparação, resposta e
@@ -3720,7 +3613,7 @@ Estratégia de Gestão de Risco e Desastres
 2341
 127 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 128 ---
+--- Page 123 ---
 
 Estratégia de Gestão de Risco e Desastres
 2342
@@ -3752,7 +3645,7 @@ defesa civil e a educação ambiental, entre outras
 2350 explicitamente sob o tema de mudanças climáticas, tais medidas são necessárias para
 128 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 129 ---
+--- Page 124 ---
 
 Estratégia de Gestão de Risco e Desastres
 2351 atender a atual situação do país, as quais deverão ser reforçadas/otimizadas levando
@@ -3779,7 +3672,7 @@ de Regulamentação em 1990);
 2364 monitorar e emitir alertas precoces da provável ocorrência de desastres naturais para
 129 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 130 ---
+--- Page 125 ---
 
 Estratégia de Gestão de Risco e Desastres
 2365 os órgãos de Defesa Civil. Considerando que a qualidade dos alertas de desastres
@@ -3809,7 +3702,7 @@ Estratégia de Gestão de Risco e Desastres
 2389 de recursos hídricos. Em parceria com ANA, opera 76% da Rede Hidrometeorológica
 130 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 131 ---
+--- Page 126 ---
 
 Estratégia de Gestão de Risco e Desastres
 2390 Nacional, e atua direta e indiretamente na previsão e alertas de riscos de enchentes.
@@ -3838,7 +3731,7 @@ Estratégia de Gestão de Risco e Desastres
 2413 identificadas na análise do setor. O preenchimento destas lacunas é considerado como
 131 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 132 ---
+--- Page 127 ---
 
 Estratégia de Gestão de Risco e Desastres
 2414 medidas indiretas de adaptação, uma vez que podem reforçar e otimizar as ações, em
@@ -3882,7 +3775,7 @@ Urbano.
 2416
 132 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 133 ---
+--- Page 128 ---
 
 Estratégia de Gestão de Risco e Desastres
 2417 10.7. Diretrizes de Adaptação
@@ -3912,7 +3805,7 @@ Estratégia de Gestão de Risco e Desastres
 2441 Riscos e Gerenciamento de Desastres, composto pelos órgãos do governo federal com
 133 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 134 ---
+--- Page 129 ---
 
 Estratégia de Gestão de Risco e Desastres
 2442 atuação no tema. Com a finalidade de aprimorar a atuação articulada do SINPDEC, este
@@ -3943,7 +3836,7 @@ Estratégia de Gestão de Risco e Desastres
 2467 hidrológicos de secas, estiagens, enchentes e deslizamentos de terra. Há uma grande
 134 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 135 ---
+--- Page 130 ---
 
 Estratégia de Gestão de Risco e Desastres
 2468 transversalidade ao tema, pois os serviços ecossistêmicos de interesse ao
@@ -3974,7 +3867,7 @@ Estratégia de Gestão de Risco e Desastres
 2493 afetem infraestrutura física vital. Os grandes projetos de infraestrutura devem levar
 135 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 136 ---
+--- Page 131 ---
 
 Estratégia de Gestão de Risco e Desastres
 2494 em consideração que as séries climáticas e hidrológicas não mais são estacionárias
@@ -4005,7 +3898,7 @@ Estratégia de Gestão de Risco e Desastres
 2519 outros planos de governo, objetivando aumentar não somente a resiliência e
 136 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 137 ---
+--- Page 132 ---
 
 Estratégia de Gestão de Risco e Desastres
 2520 capacidade adaptativa destes grupos, mas também a diminuição de todas as
@@ -4025,7 +3918,7 @@ Estratégia de Gestão de Risco e Desastres
 2534
 137 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 138 ---
+--- Page 133 ---
 
 Estratégia de Gestão de Risco e Desastres
 Tabe2l 5 35 Tabela 10. Diretrizes de Adaptação para o setor de Gestão de Riscos a Desastres frente às Mudanças Climáticas.
@@ -4097,7 +3990,7 @@ suas incertezas
 N.º de publicações relacionadas
 138 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 139 ---
+--- Page 134 ---
 
 2536 11. Estratégia de Indústria e Mineração
 2537 11.1. Introdução
@@ -4124,7 +4017,7 @@ N.º de publicações relacionadas
 2558 setoriais foi dominada pelos aspectos relativos à mitigação das emissões de gases de
 139 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 140 ---
+--- Page 135 ---
 
 Estratégia de Indústria e Mineração
 2559 efeito estufa nos processos das indústrias de Alumínio, Cimento, Papel e Celulose,
@@ -4154,7 +4047,7 @@ Estratégia de Indústria e Mineração
 2583 se levar em conta não apenas o impacto direto da variabilidade climática e dos
 140 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 141 ---
+--- Page 136 ---
 
 Estratégia de Indústria e Mineração
 2584 fenômenos extremos, como também os impactos indiretos sobre as infraestruturas de
@@ -4185,7 +4078,7 @@ Estratégia de Indústria e Mineração
 2609 prima, bem como da integridade física da infraestrutura, seja de serviços públicos
 141 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 142 ---
+--- Page 137 ---
 
 Estratégia de Indústria e Mineração
 2610 (água, esgoto, energia, logística e telecomunicações), sejam suas próprias instalações.
@@ -4214,7 +4107,7 @@ Estratégia de Indústria e Mineração
 2633
 142 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 143 ---
+--- Page 138 ---
 
 2634 Tabela 11. Dimensão das avaliações e impactos para o setor industrial
 Impactos Potenciais Ações de
@@ -4280,7 +4173,7 @@ obtenção de água
 distribuição) logística (vias
 143 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 144 ---
+--- Page 139 ---
 
 rodoviárias, e energia
  Indústrias com hidroviárias e
@@ -4353,7 +4246,7 @@ trabalho
 2635
 144 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 145 ---
+--- Page 140 ---
 
 2636 Os riscos físicos da mudança climática podem afetar as atividades da indústria e
 2637 mineração de diferentes formas, demandando estratégias diferentes de adaptação
@@ -4371,7 +4264,7 @@ trabalho
 Climate Change. Adaptado do documento “Contribuições Preliminares da Indústria – CNI”, disponível no
 145 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 146 ---
+--- Page 141 ---
 
 2648 Ademais, a mudança do clima pode aumentar a exposição da indústria aos
 2649 riscos não-físicos, como os riscos reputacionais e de mercado, em consequência, por
@@ -4399,7 +4292,7 @@ endereçoeletrônico:http://www.mma.gov.br/images/arquivo/80182/Contribuicoes_Pe
 _Setor%20In dustrial_CNI.pdf, acessado em 11/03/15.
 146 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 147 ---
+--- Page 142 ---
 
 2670 Apoio e incentivo às iniciativas que direcionem para uma melhoria na
 2671 eficiência hídrica dos processos industriais, assim como reuso de água, serão
@@ -4430,7 +4323,7 @@ _Setor%20In dustrial_CNI.pdf, acessado em 11/03/15.
 2696 envolvidos em atividades em ambiente externo, como nas mineradoras e na
 147 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 148 ---
+--- Page 143 ---
 
 2697 construção civil. As temperaturas mais quentes poderão afetar o recrutamento
 2698 dos trabalhadores, retenção, segurança e produtividade, além de aumentar os
@@ -4449,7 +4342,7 @@ _Setor%20In dustrial_CNI.pdf, acessado em 11/03/15.
 2711 setores.
 148 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 149 ---
+--- Page 144 ---
 
 2712 No processo de revisão do Plano Indústria e do Plano Mineração de Baixo
 2713 Carbono, essas diretrizes servirão de base para a formulação de um Plano de Ação de
@@ -4490,7 +4383,7 @@ viabilizar o acesso a fontes e mecanismos de
 incentivo para a operacionalização de medidas de
 149 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 150 ---
+--- Page 145 ---
 
 adaptação.
 A adoção de estratégias de adaptação será
@@ -4540,7 +4433,7 @@ de produtos e equipamentos que favoreçam a
 adaptação e o aumento da resiliência, tais como
 150 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 151 ---
+--- Page 146 ---
 
 equipamentos para reuso, dessalinização da água,
 obras civis, conforto térmico, automatização de
@@ -4579,7 +4472,7 @@ garantir a sustentabilidade do fornecimento de
 2724
 151 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 152 ---
+--- Page 147 ---
 
 2725 12. Estratégia de Infraestrutura
 2726 12.1. Introdução
@@ -4605,7 +4498,7 @@ garantir a sustentabilidade do fornecimento de
 2746 setores econômicos do país. A relevante participação de fontes renováveis na matriz
 152 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 153 ---
+--- Page 148 ---
 
 Estratégia de Infraestrutura
 2747 energética nacional confere uma característica única de baixa emissão de carbono,
@@ -4628,7 +4521,7 @@ Estratégia de Infraestrutura
 2764
 153 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 154 ---
+--- Page 149 ---
 
 Estratégia de Infraestrutura
 2765 12.2. Transportes
@@ -4661,7 +4554,7 @@ Federal e dos municípios, compreendendo, dentre outros, os sistemas rodoviário
 Plano Nacional de Logística e Transporte (2011).
 154 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 155 ---
+--- Page 150 ---
 
 Estratégia de Infraestrutura
 2788 (11,8%) e das planejadas (8,9%). Ressalta-se que dentre as rodovias pavimentadas
@@ -4691,7 +4584,7 @@ Estratégia de Infraestrutura
 Confederação Nacional do Transporte (2014).
 155 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 156 ---
+--- Page 151 ---
 
 Estratégia de Infraestrutura
 2811 rodoviário, ferroviário e hidroviário7. Dentre os impactos diretos os mais usuais são as
@@ -4728,7 +4621,7 @@ Estratégia de Infraestrutura
 (CNRA, 2009)
 156 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 157 ---
+--- Page 152 ---
 
 Estratégia de Infraestrutura
 2831 geração de enxurradas além do qual o sistema de drenagem é projetado para
@@ -4762,7 +4655,7 @@ Estratégia de Infraestrutura
 (MIDDELKOOP et al., 2001)
 157 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 158 ---
+--- Page 153 ---
 
 Estratégia de Infraestrutura
 2852 parte de sua capacidade máxima, aumentando consideravelmente os custos de
@@ -4804,7 +4697,7 @@ Estratégia de Infraestrutura
 (OSWALD, 2009).
 158 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 159 ---
+--- Page 154 ---
 
 Estratégia de Infraestrutura
 2873 de interrupções de viagens no transporte rodoviário e ferroviário devido ao bloqueio
@@ -4838,7 +4731,7 @@ Estratégia de Infraestrutura
 (IPCC, 2007; POTTER et al, 2008; UNCTAD, 2009).
 159 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 160 ---
+--- Page 155 ---
 
 Estratégia de Infraestrutura
 2896 de transportes para a manutenção ou redução dos custos de produção de bens e
@@ -4867,7 +4760,7 @@ Estratégia de Infraestrutura
 2919 cargas e, principalmente, integrar o modo de transporte rodoviário ao ferroviário e/ou
 160 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 161 ---
+--- Page 156 ---
 
 Estratégia de Infraestrutura
 2920 fluvial. Ainda, nesse contexto, se inserem os projetos de integração logística em pontos
@@ -4896,7 +4789,7 @@ Estratégia de Infraestrutura
 2943 aporte de significativos investimentos.
 161 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 162 ---
+--- Page 157 ---
 
 Estratégia de Infraestrutura
 2944 Por fim, este Plano levanta diretrizes que possam vir a serem contempladas,
@@ -4920,7 +4813,7 @@ climáticos extremos por meio de planos, protocolos de ação e medidas preventi
 2949
 162 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 163 ---
+--- Page 158 ---
 
 Estratégia de Infraestrutura
 2950 12.3. Mobilidade Urbana
@@ -4953,7 +4846,7 @@ Estratégia de Infraestrutura
 2977 para salvaguardar a infraestrutura de transportes e seu valor inerente, garantir a
 163 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 164 ---
+--- Page 159 ---
 
 Estratégia de Infraestrutura
 2978 confiabilidade da mobilidade e das atividades econômicas, e assegurar a qualidade de
@@ -4983,7 +4876,7 @@ Estratégia de Infraestrutura
 3002 melhor observada a partir do capítulo referente à zona costeira.
 164 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 165 ---
+--- Page 160 ---
 
 Estratégia de Infraestrutura
 3003 A seguir, serão abordados aspectos que interagem com a vulnerabilidade do
@@ -5014,7 +4907,7 @@ eventos extremos, ressacas e marés de tempestade, ocasionando inundações de
 3017
 165 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 166 ---
+--- Page 161 ---
 
 Estratégia de Infraestrutura
 3018 Tabela 13. Potenciais impactos sobre a infraestrutura e a mobilidade urbana.
@@ -5124,7 +5017,7 @@ P
 3021
 166 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 167 ---
+--- Page 162 ---
 
 Estratégia de Infraestrutura
 3022 Observa-se que a infraestrutura de vias urbanas e de trilhos apresentam
@@ -5154,7 +5047,7 @@ Estratégia de Infraestrutura
 3046 manutenção, recuperação e/ou reconstrução de ativos eventualmente
 167 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 168 ---
+--- Page 163 ---
 
 Estratégia de Infraestrutura
 3047 danificados/deteriorados, podendo em determinadas circunstâncias, ser necessários
@@ -5184,7 +5077,7 @@ Estratégia de Infraestrutura
 3071 mediante condições climáticas adversas, podem ser condicionadas por seu nível de
 168 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 169 ---
+--- Page 164 ---
 
 Estratégia de Infraestrutura
 3072 instrução, renda, faixa etária, denotando que as consequências aqui tratadas serão
@@ -5214,7 +5107,7 @@ Estratégia de Infraestrutura
 3096 redimensionamento de sistemas de drenagem); (ii) articulação institucional entre os
 169 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 170 ---
+--- Page 165 ---
 
 Estratégia de Infraestrutura
 3097 entes responsáveis pelo transporte e trânsito, e com demais setores e esferas de
@@ -5244,7 +5137,7 @@ Estratégia de Infraestrutura
 3121 condições para modos não-motorizados, ao mesmo tempo em que provê alternativas
 170 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 171 ---
+--- Page 166 ---
 
 Estratégia de Infraestrutura
 3122 de deslocamento à população (flexibilidade e redundância), induz a maior participação
@@ -5274,7 +5167,7 @@ Estratégia de Infraestrutura
  Articulação institucional no âmbito governamental, visando harmonizar os
 171 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 172 ---
+--- Page 167 ---
 
 Estratégia de Infraestrutura
 planos e políticas de adaptação nacionais com os planejamentos e ações locais,
@@ -5301,7 +5194,7 @@ aumentem a capacidade adaptativa às mudanças climáticas.
 3147
 172 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 173 ---
+--- Page 168 ---
 
 Estratégia de Infraestrutura
 3148 12.4. Energia
@@ -5331,7 +5224,7 @@ Estratégia de Infraestrutura
 3172 Matrizes Energética e Elétrica Nacional:
 173 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 174 ---
+--- Page 169 ---
 
 Estratégia de Infraestrutura
 3173
@@ -5343,7 +5236,7 @@ Estratégia de Infraestrutura
 3179
 174 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 175 ---
+--- Page 170 ---
 
 Estratégia de Infraestrutura
 3180 A hidroeletricidade está distribuída por todo o território nacional. As principais
@@ -5362,7 +5255,7 @@ Estratégia de Infraestrutura
 3193
 175 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 176 ---
+--- Page 171 ---
 
 Estratégia de Infraestrutura
 3194 Outra fonte renovável de relevância para a geração de energia elétrica é a
@@ -5387,7 +5280,7 @@ geração de energia das hidrelétricas e, na sequência, a geração pelas tér
 que a usina tenha condições técnicas, inclusive combustíveis.
 176 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 177 ---
+--- Page 172 ---
 
 Estratégia de Infraestrutura
 3209
@@ -5407,7 +5300,7 @@ Estratégia de Infraestrutura
 3223 deverá sofrer os reflexos deste processo nas próximas décadas. Independente do grau
 177 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 178 ---
+--- Page 173 ---
 
 Estratégia de Infraestrutura
 3224 de aderência dessas previsões, e qual cenário se consolidará, é provável que essas
@@ -5428,7 +5321,7 @@ Estratégia de Infraestrutura
 3239 (Figura 13).
 178 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 179 ---
+--- Page 174 ---
 
 Estratégia de Infraestrutura
 3240
@@ -5446,7 +5339,7 @@ suas disponibilidades espacial e temporalmente. Por exemplo: dessedentação de 
 abastecimento público, processamento industrial, etc.
 179 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 180 ---
+--- Page 175 ---
 
 Estratégia de Infraestrutura
 3250 hídricos. Em determinados casos, os efeitos destas variáveis poderão até mesmo
@@ -5481,7 +5374,7 @@ energia elétrica.
 3269 sensíveis reflexos sobre os sistemas de transmissão e distribuição de energia.
 180 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 181 ---
+--- Page 176 ---
 
 Estratégia de Infraestrutura
 3270 O impacto das alterações dos parâmetros climáticos, especificamente sobre os
@@ -5512,7 +5405,7 @@ Estratégia de Infraestrutura
 3295 Esta compensação dota o sistema elétrico de uma capacidade intrínseca de adaptação,
 181 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 182 ---
+--- Page 177 ---
 
 Estratégia de Infraestrutura
 3296 chamada de Capacidade Adaptativa, que deve ser considerada em uma análise de
@@ -5534,7 +5427,7 @@ Estratégia de Infraestrutura
 3312
 182 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 183 ---
+--- Page 178 ---
 
 Estratégia de Infraestrutura
 3313  Reserva de geração que no caso de eventos conjunturais extremos são
@@ -5564,7 +5457,7 @@ Estratégia de Infraestrutura
 3337 acurada dos efeitos sinérgicos no sistema elétrico como um todo.
 183 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 184 ---
+--- Page 179 ---
 
 Estratégia de Infraestrutura
 3338 As projeções da ampla gama de modelos climáticos apresentam uma
@@ -5594,7 +5487,7 @@ Estratégia de Infraestrutura
 ...BH Zero: Não há influência na disponibilidade hídrica
 184 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 185 ---
+--- Page 180 ---
 
 Estratégia de Infraestrutura
 3360 dos ventos são identificadas em regiões da amazônia e em áreas do Centro
@@ -5624,7 +5517,7 @@ Estratégia de Infraestrutura
 3384 12.4.3. Diretrizes para a Adaptação
 185 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 186 ---
+--- Page 181 ---
 
 Estratégia de Infraestrutura
 3385 Dada a complexidade que se apresenta os estudos de vulnerabilidades
@@ -5669,7 +5562,7 @@ Centrais Elétricas Brasileiras S.A
 Petróleo Brasileiro S.A.
 186 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 187 ---
+--- Page 182 ---
 
 Estratégia de Infraestrutura
 3405 Nesse sentido, para promover uma maior discussão e consequente
@@ -5701,7 +5594,7 @@ eventos climáticos verificados com base científica.
 3415
 187 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 188 ---
+--- Page 183 ---
 
 3416 13. Estratégia de Povos e Populações Vulneráveis
 3417 13.1. Introdução
@@ -5735,7 +5628,7 @@ estratégias de adaptação em todas as regiões do mundo que experimentam a var
 (IOM, 2014, tradução livre).
 188 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 189 ---
+--- Page 184 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3434 intempéries climáticas, o que pode resultar na perda de vidas, doenças, aumento da
@@ -5767,7 +5660,7 @@ educação, cuidados de saúde etc. (Monteiro, 1995).
 prejudicadas.
 189 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 190 ---
+--- Page 185 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3457 sustentável e da adaptação à mudança do clima. Embora haja lacunas de dados sobre
@@ -5796,7 +5689,7 @@ Estratégia de Povos e Populações Vulneráveis
 3480 Desigualdades do FBMC, coordenado pelo COEP, assumiu o desafio de propor ao
 190 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 191 ---
+--- Page 186 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3481 governo federal princípios, objetivos e diretrizes para a elaboração do Plano Nacional
@@ -5827,7 +5720,7 @@ para sua reprodução cultural, social, religiosa,ancestral e econômica, utiliz
 práticas gerados e transmitidos pela tradição (Decreto n° 6.040, 07/02/2007).
 191 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 192 ---
+--- Page 187 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3503 Tradicionais (PNPCT) (MDS, 2014). Essa normativa definiu o que são povos e
@@ -5857,7 +5750,7 @@ Estratégia de Povos e Populações Vulneráveis
 3527 estruturante por parte do governo e da sociedade.
 192 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 193 ---
+--- Page 188 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3528
@@ -5887,7 +5780,7 @@ Estratégia de Povos e Populações Vulneráveis
 3552 aperfeiçoamento de políticas públicas que façam frente à realidade identificada.
 193 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 194 ---
+--- Page 189 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3553 De forma a identificar alguns dos grupos mais sensíveis socialmente no Brasil, e
@@ -5921,7 +5814,7 @@ ser chamado de cadastramento diferenciado (Portaria GM/MDS n.376 de 16/10/2008).
 identificar famílias pertencentes a 15 grupos populacionais tradicionais e em situações especificas (GPTES).
 194 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 195 ---
+--- Page 190 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3575 famílias do Cadastro. Os grupos com maior percentual de extremamente pobres entre
@@ -5949,7 +5842,7 @@ Familiares
 3593 em que para estes, as políticas públicas são menos acessíveis. Adicionalmente, ao
 195 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 196 ---
+--- Page 191 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3594 contrário da maioria das demais famílias do CADÚNICO que se localizam
@@ -5978,7 +5871,7 @@ Estratégia de Povos e Populações Vulneráveis
 3617 devem abranger desde ações tecnológicas para reduzir os impactos, até a melhora das
 196 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 197 ---
+--- Page 192 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3618 condições socioeconômicas dos mais vulneráveis. A métrica da vulnerabilidade
@@ -6001,7 +5894,7 @@ Estratégia de Povos e Populações Vulneráveis
 3635
 197 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 198 ---
+--- Page 193 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3636 Os componentes do índice municipal são divididos em sub-índices de
@@ -6067,7 +5960,7 @@ elevação.
 Suscetibilidade a extremos Índice de Índice de Participação e
 198 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 199 ---
+--- Page 194 ---
 
 Estratégia de Povos e Populações Vulneráveis
 climáticos Vulnerabilidade Organização Sócio-Política
@@ -6115,7 +6008,7 @@ alagamentos.
 3649
 199 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 200 ---
+--- Page 195 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3650 13.4.2. Abordagem Territorial II – Exposição e Sensibilidades por
@@ -6145,7 +6038,7 @@ Estratégia de Povos e Populações Vulneráveis
 3674 que poderão suprir as lacunas apontadas no capítulo, ao propor a introdução de
 200 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 201 ---
+--- Page 196 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3675 editais específicos para a criação de banco de dados e análises que façam associações
@@ -6168,7 +6061,7 @@ Estratégia de Povos e Populações Vulneráveis
 3692
 201 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 202 ---
+--- Page 197 ---
 
 Estratégia de Povos e Populações Vulneráveis
 (a)
@@ -6180,7 +6073,7 @@ Estratégia de Povos e Populações Vulneráveis
 3697 de famílias e a cor vermelha um número maior). (CEPED, 2012 e MDS, 2015).
 202 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 203 ---
+--- Page 198 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3698 Em contrapartida, a região Norte (Amazônia) e Nordeste (Caatinga) são
@@ -6210,7 +6103,7 @@ Estratégia de Povos e Populações Vulneráveis
 3722 projetadas a partir do modelo HadGEM entre 2011-2040 no cenário de emissões 8.5
 203 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 204 ---
+--- Page 199 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3723 do IPCC AR5 para os biomas brasileiros, fator que pode propiciar maior exposição dos
@@ -6250,7 +6143,7 @@ território; moradias em áreas isoladas e de difícil acesso; populações vive
 população de baixa renda; incapacidade de produzir devido ao desconhecimento
 204 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 205 ---
+--- Page 200 ---
 
 Estratégia de Povos e Populações Vulneráveis
 das condições climáticas (mudança bruscas no período de plantio e colheita).
@@ -6300,7 +6193,7 @@ ag
 an
 205 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 206 ---
+--- Page 201 ---
 
 Estratégia de Povos e Populações Vulneráveis
 mm-1
@@ -6347,7 +6240,7 @@ das regiões de maior importância econômica na América do Sul. A variabilidad
 MC nesta região podem chegar a afetar seriamente a sociedade. bioma com alta
 206 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 207 ---
+--- Page 202 ---
 
 Estratégia de Povos e Populações Vulneráveis
 incidência de epidemias como dengue e malária. Sistemas precários de esgoto;
@@ -6393,7 +6286,7 @@ a
 P
 207 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 208 ---
+--- Page 203 ---
 
 Estratégia de Povos e Populações Vulneráveis
 Grupos: Agricultores familiares, assentados, moradores de rua, indígenas.
@@ -6431,7 +6324,7 @@ federação, inclusive o Distrito Federal. Tal pluralidade étnico-cultural trad
 série de dispositivos constitucionais e legais, nos marcos de um modelo que afirma a pluralidade étnica como direito e
 208 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 209 ---
+--- Page 204 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3742 cosmovisões, línguas, identidades, conhecimentos, tradições e sistemas próprios de
@@ -6462,7 +6355,7 @@ brasileiros, em substituição a antigos pressupostos assimilacionistas, tutelar
 da Constituição Federal de 1988.
 209 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 210 ---
+--- Page 205 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3765 observadores sofisticados das dinâmicas e transformações ambientais, impactos e
@@ -6493,7 +6386,7 @@ Estratégia de Povos e Populações Vulneráveis
 3790 iv) podem resultar úteis para compreender o potencial de estratégias de adaptação
 210 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 211 ---
+--- Page 206 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3791 que sejam custo-efetivas, participativas e sustentáveis47.Por isso, tem sido
@@ -6530,7 +6423,7 @@ longo e cuidadoso processo de pesquisas colaborativas conduzidas por professores
 intuito de diminuir as conseqüências da mudança do clima.
 211 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 212 ---
+--- Page 207 ---
 
 Estratégia de Povos e Populações Vulneráveis
 heterogênea dimensões importantes do meio ambiente, das culturas e dos territórios
@@ -6572,7 +6465,7 @@ humanos e financeiros para ações relativas à política indigenista; viii) a a
 de direitos conquistados, etc.
 212 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 213 ---
+--- Page 208 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3813 física e cultural dos povos indígenas e à integridade ambiental de seus territórios,
@@ -6609,7 +6502,7 @@ mudanças climáticas de forma a reduzir a vulnerabilidade de grupos sociais des
 clima (Ebi, 2009; Roberts & Parks, 2009; Shepard & Corbin-Mark, 2009; Tyree & Greenleaf, 2009).
 213 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 214 ---
+--- Page 209 ---
 
 Estratégia de Povos e Populações Vulneráveis
 terras indígenas; planos regionais de enfrentamento às mudanças climáticas); realização de
@@ -6642,7 +6535,7 @@ com os seus conhecimentos, tecnologias e práticas tradicionais de ocupação, d
 de manejo dos recursos naturais, para a conservação da biodiversidade, para a
 214 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 215 ---
+--- Page 210 ---
 
 Estratégia de Povos e Populações Vulneráveis
 contenção do desmatamento; para a manutenção do equilíbrio das condições
@@ -6681,7 +6574,7 @@ amplos.
 3844
 215 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 216 ---
+--- Page 211 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3845 13.6. Recomendações
@@ -6711,7 +6604,7 @@ Estratégia de Povos e Populações Vulneráveis
 3869 ações de conservação, recuperação e/ou gestão de ecossistemas); objetiva medidas de
 216 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 217 ---
+--- Page 212 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3870 adaptação para pessoas e comunidades; aplica lentes climáticas - preferencialmente
@@ -6745,7 +6638,7 @@ específicos;
  Realizar estudos para identificação e análise mais aprofundadas de
 217 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 218 ---
+--- Page 213 ---
 
 Estratégia de Povos e Populações Vulneráveis
 IBAMA, vulnerabilidade, específicas por grupos populacionais;
@@ -6796,7 +6689,7 @@ climáticas, gestão de recursos hídricos, geologia, infraestrutura, educação
 demais políticas setoriais, tendo em vista a promoção do desenvolvimento sustentável.
 218 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 219 ---
+--- Page 214 ---
 
 Estratégia de Povos e Populações Vulneráveis
 condições climáticas, tanto no seu ambiente interno quanto na adoção de
@@ -6844,7 +6737,7 @@ ambiente;
 
 219 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 220 ---
+--- Page 215 ---
 
 Estratégia de Povos e Populações Vulneráveis
  Criar hortas urbanas em jardins, praças e terrenos coletivos de forma a
@@ -6894,7 +6787,7 @@ também sistemas agroflorestais que mesclam extrativismo e agricultura;
  Conferir maior resiliência aos sistemas ambientais monitorados;
 220 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 221 ---
+--- Page 216 ---
 
 Estratégia de Povos e Populações Vulneráveis
  Beneficiar comunidades que vivem em ambientes protegidos;
@@ -6941,7 +6834,7 @@ utilização direta do solo, como por exemplo, a apicultura, desenvolver serviç
 de turismo e de valoração do ambiente seco como um diferencial turístico único
 221 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 222 ---
+--- Page 217 ---
 
 Estratégia de Povos e Populações Vulneráveis
 no contexto brasileiro.
@@ -6979,7 +6872,7 @@ e restinga; promover ações para incentivar o uso insustentável do solo.
 3897 temática se coaduna com o propósito deste capítulo de que toda a população
 222 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 223 ---
+--- Page 218 ---
 
 Estratégia de Povos e Populações Vulneráveis
 3898 brasileira sinta-se contemplada com as preocupações governamentais em termos de
@@ -7008,7 +6901,7 @@ Estratégia de Povos e Populações Vulneráveis
 3921 implementadas poderão ser aperfeiçoadas.
 223 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 224 ---
+--- Page 219 ---
 
 3922 14. Estratégia de Recursos Hídricos
 3923 14.1. Apresentação
@@ -7034,7 +6927,7 @@ Estratégia de Povos e Populações Vulneráveis
 3943 (cheias e secas), que deverão se tornar mais intensos. A água, por sua natureza, deverá
 224 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 225 ---
+--- Page 220 ---
 
 Estratégia de Recursos Hídricos
 3944 ser o meio pelo qual primeiramente as populações e os setores usuários sentirão os
@@ -7065,7 +6958,7 @@ Estratégia de Recursos Hídricos
 alguma forma de equilíbrio. (in Análise de Séries Temporais, Manoel Ivanildo Silvestre Bezerra, 2006)
 225 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 226 ---
+--- Page 221 ---
 
 Estratégia de Recursos Hídricos
 3968 passo para a adaptação às mudanças climáticas, admitindo-se um eventual aumento
@@ -7096,7 +6989,7 @@ Estratégia de Recursos Hídricos
 3993 2005; UK MET OFFICE, 2005) e nacional (SALATI et al., 2008) no que diz respeito ao
 226 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 227 ---
+--- Page 222 ---
 
 Estratégia de Recursos Hídricos
 3994 sinal da mudança. Com base nos estudos de impactos das mudanças climáticas sobre
@@ -7126,7 +7019,7 @@ consequentemente, das vazões.
 4009 pesquisa sobre o impacto das mudanças climáticas sobre as águas subterrâneas,
 227 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 228 ---
+--- Page 223 ---
 
 Estratégia de Recursos Hídricos
 4010 incluindo a questão de como será afetada a relação entre as águas superficiais e
@@ -7157,7 +7050,7 @@ Estratégia de Recursos Hídricos
 55 Disponível em http://atlas.ana.gov.br/Atlas/forms/Home.aspx.
 228 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 229 ---
+--- Page 224 ---
 
 Estratégia de Recursos Hídricos
 4034 acompanhada de aumento da demanda pela elevação da temperatura, já que
@@ -7189,7 +7082,7 @@ configure obstáculo adicional ao uso dos recursos hídricos.
 4051 pode levar ao aumento da necessidade de irrigação complementar.
 229 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 230 ---
+--- Page 225 ---
 
 Estratégia de Recursos Hídricos
 4052 Em regiões com maior escassez de água e consequente limitação às retiradas,
@@ -7225,7 +7118,7 @@ contingência e possíveis restrições de usos.
 56 http://www.aneel.gov.br/aplicacoes/capacidadebrasil/OperacaoCapacidadeBrasil.cfm, acessado em 12/03/2015.
 230 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 231 ---
+--- Page 226 ---
 
 Estratégia de Recursos Hídricos
 4065 produção de energia firme e, portanto, para garantia de atendimento do sistema. Isso
@@ -7255,7 +7148,7 @@ Estratégia de Recursos Hídricos
 4089
 231 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 232 ---
+--- Page 227 ---
 
 Estratégia de Recursos Hídricos
 Diretrizes de ação para o setor de energia
@@ -7290,7 +7183,7 @@ escassez hídrica.
 4103
 232 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 233 ---
+--- Page 228 ---
 
 Estratégia de Recursos Hídricos
 4104 e. Qualidade da água e meio ambiente
@@ -7319,7 +7212,7 @@ Estratégia de Recursos Hídricos
 4127 alimentar. As cianobactérias, que podem produzir toxinas, geralmente têm um maior
 233 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 234 ---
+--- Page 229 ---
 
 Estratégia de Recursos Hídricos
 4128 crescimento em temperaturas mais altas (acima de 25ºC), o que faz com que tenham
@@ -7350,7 +7243,7 @@ enquadramento.
 4149 normalidade.
 234 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 235 ---
+--- Page 230 ---
 
 Estratégia de Recursos Hídricos
 4150 A capacidade das instituições de adaptar-se a circunstâncias em mudança
@@ -7388,7 +7281,7 @@ resiliência do sistema diante das incertezas e das mudanças.
 4155
 235 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 236 ---
+--- Page 231 ---
 
 Estratégia de Recursos Hídricos
 4156 Esses requisitos podem constituir um desafio face à complexidade do Sistema
@@ -7418,7 +7311,7 @@ ocupação do solo, gestão de resíduos, licenciamento ambiental local e saneam
 institucionais compatíveis;
 236 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 237 ---
+--- Page 232 ---
 
 Estratégia de Recursos Hídricos
 • Aplicar o princípio da subsidiariedade57, além de leituras territoriais estratégicas
@@ -7451,7 +7344,7 @@ que não afete terceiros e/ou áreas mais abrangentes, não deverá subir a inst
 superiores.
 237 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 238 ---
+--- Page 233 ---
 
 Estratégia de Recursos Hídricos
 4172 14.4.2. Instrumentos de gestão dos recursos hidricos
@@ -7481,7 +7374,7 @@ e) Sistema de Informações sobre Recursos Hídricos.
 4189 14.4.3. Desafios e recomendações
 238 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 239 ---
+--- Page 234 ---
 
 Estratégia de Recursos Hídricos
 4190 De forma geral, é necessário garantir a aplicação efetiva dos instrumentos já
@@ -7511,7 +7404,7 @@ Estratégia de Recursos Hídricos
 4214 mudanças climáticas podem ser um fator importante de alteração da qualidade da
 239 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 240 ---
+--- Page 235 ---
 
 Estratégia de Recursos Hídricos
 4215 água por afetarem as vazões e alterarem a capacidade de assimilação de poluentes ou
@@ -7542,7 +7435,7 @@ Estratégia de Recursos Hídricos
 4240 interrupção das permissões de retirada, devidamente explicitadas e previamente
 240 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 241 ---
+--- Page 236 ---
 
 Estratégia de Recursos Hídricos
 4241 pactuadas com os usuários em planos de contingência ou acordos de alocação de
@@ -7573,7 +7466,7 @@ Estratégia de Recursos Hídricos
 4266 gestão, tais como seguros aos usuários que apresentam perdas devido ao não
 241 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 242 ---
+--- Page 237 ---
 
 Estratégia de Recursos Hídricos
 4267 atendimento de suas demandas, ou a criação de um sistema de compensação
@@ -7603,7 +7496,7 @@ Estratégia de Recursos Hídricos
 4291 pequenas bacias;
 242 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 243 ---
+--- Page 238 ---
 
 Estratégia de Recursos Hídricos
 4292 • Ampliar o monitoramento de dados de evaporação e evapotranspiração,
@@ -7637,7 +7530,7 @@ impostos e taxas, inclusive para o lançamento de efluentes;
 de recursos hídricos;
 243 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 244 ---
+--- Page 239 ---
 
 Estratégia de Recursos Hídricos
 • Buscar a implementação de programas do tipo pagamento por serviços ambientais,
@@ -7668,7 +7561,7 @@ do sistema financeiro nacional
 4326 deflagrados, decorrentes dos efeitos de mudanças climáticas. Seria desejável que as
 244 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 245 ---
+--- Page 240 ---
 
 Estratégia de Recursos Hídricos
 4327 entidades atuantes na bacia dispusessem de negociadores experientes, com
@@ -7697,7 +7590,7 @@ alcançar uma correta transferência do risco entre diversos setores usuários.
 4344 recorte por biomas; e acesso e consistência de dados nem sempre ocorre com a
 245 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 246 ---
+--- Page 241 ---
 
 Estratégia de Recursos Hídricos
 4345 urgência necessária. Como passos para preencher essas lacunas, recomenda-se, de
@@ -7732,7 +7625,7 @@ alerta.
 4358 atores envolvidos, a melhor informação disponível e os caminhos para o
 246 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 247 ---
+--- Page 242 ---
 
 Estratégia de Recursos Hídricos
 4359 enfrentamento dos impactos esperados. Para tanto, destaca-se a atuação nas
@@ -7768,7 +7661,7 @@ constantes, principalmente com populações mais vulneráveis.
 4366 trabalho, que congreguem os diferentes setores usuários e o governo.
 247 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 248 ---
+--- Page 243 ---
 
 Estratégia de Recursos Hídricos
 4367 14.7.2. Instituições responsáveis e horizonte de tempo
@@ -7799,7 +7692,7 @@ MCTI/MEC/SRHU
 pesquisa
 248 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 249 ---
+--- Page 244 ---
 
 Estratégia de Recursos Hídricos
 Estudos de avaliação e modernização da base
@@ -7820,7 +7713,7 @@ MCTI/MEC/SRHU/MI
 transparente
 249 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 250 ---
+--- Page 245 ---
 
 4379 15. Estratégia de Saúde
 4380 15.1. Introdução
@@ -7847,7 +7740,7 @@ transparente
 4401 Saúde (MS) nos processos relacionados à Política Nacional sobre Mudança do Clima.
 250 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 251 ---
+--- Page 246 ---
 
 Estratégia de Saúde
 4402 No âmbito setorial, foram fomentados estudos e pesquisas que subsidiaram a
@@ -7868,7 +7761,7 @@ Estratégia de Saúde
 4417 situações de desastres no Plano de Resposta à Emergência em Saúde Pública e nos
 251 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 252 ---
+--- Page 247 ---
 
 Estratégia de Saúde
 4418 Planos de Contingências para tipologias específicas (inundações, seca/estiagem,
@@ -7899,7 +7792,7 @@ Estratégia de Saúde
 4443 como um todo. A ocorrência de eventos extremos climáticos que ocasionam ondas de
 252 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 253 ---
+--- Page 248 ---
 
 Estratégia de Saúde
 4444 frio e de calor e, também, desastres naturais como inundação, enxurrada e estiagem
@@ -7919,7 +7812,7 @@ Estratégia de Saúde
 4458
 253 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 254 ---
+--- Page 249 ---
 
 Estratégia de Saúde
 4459 A identificação e o monitoramento dos riscos potenciais a serem enfrentados
@@ -7945,7 +7838,7 @@ Estratégia de Saúde
 4479
 254 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 255 ---
+--- Page 250 ---
 
 Estratégia de Saúde
 4480 Tabela 20. Avaliação das vulnerabilidades e impactos dos efeitos da mudança do clima sobre
@@ -8077,7 +7970,7 @@ de habitação e
 instrução.
 255 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 256 ---
+--- Page 251 ---
 
 Estratégia de Saúde
 a
@@ -8236,7 +8129,7 @@ disponibilidade do
 saneamento básico,
 256 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 257 ---
+--- Page 252 ---
 
 Estratégia de Saúde
 qualidade da água para
@@ -8271,7 +8164,7 @@ população.
 4503 Promoção, Atenção e Vigilância.
 257 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 258 ---
+--- Page 253 ---
 
 Estratégia de Saúde
 4504 15.3.2. Poluentes atmosféricos e impactos na Saúde
@@ -8302,7 +8195,7 @@ Estratégia de Saúde
 4529 monitoradores da qualidade do ar, traçar medidas adaptativas visando o
 258 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 259 ---
+--- Page 254 ---
 
 Estratégia de Saúde
 4530 fortalecimento e ampliação da capacidade de identificação, mapeamento e
@@ -8333,7 +8226,7 @@ Estratégia de Saúde
 4555 quilombolas. Com o intuito de reduzir os riscos à saúde humana associados à água, o
 259 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 260 ---
+--- Page 255 ---
 
 Estratégia de Saúde
 4556 SUS estabelece padrões mínimos de qualidade da água para consumo humano, realiza
@@ -8363,7 +8256,7 @@ Estratégia de Saúde
 4580 população e possuem estreita relação com a variabilidade climática são: a dengue, a
 260 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 261 ---
+--- Page 256 ---
 
 Estratégia de Saúde
 4581 malária, a febre amarela, a doença de chagas, a leishmaniose visceral e tegumentar, a
@@ -8393,7 +8286,7 @@ Estratégia de Saúde
 4605 que influenciam nos condicionantes ambientais e socioeconômicos que interferem
 261 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 262 ---
+--- Page 257 ---
 
 Estratégia de Saúde
 4606 direta ou indiretamente na cadeia de transmissão das doenças infecciosas sensíveis ao
@@ -8424,7 +8317,7 @@ Estratégia de Saúde
 4631 manipulação de usuários de diversas áreas.
 262 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 263 ---
+--- Page 258 ---
 
 Estratégia de Saúde
 4632 Ambos os projetos desenvolvidos em parceiras interinstitucionais são utilizados
@@ -8455,7 +8348,7 @@ Estratégia de Saúde
 4657 clima, geografia, vegetação, modelos econômicos, culturais e sociais, perfil
 263 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 264 ---
+--- Page 259 ---
 
 Estratégia de Saúde
 4658 epidemiológico, dentre outros condicionantes que podem ocasionar a exposição
@@ -8476,7 +8369,7 @@ Estratégia de Saúde
 4673
 264 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 265 ---
+--- Page 260 ---
 
 Estratégia de Saúde
 4674 15.6. Diretrizes
@@ -8506,7 +8399,7 @@ Estratégia de Saúde
 4698
 265 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 266 ---
+--- Page 261 ---
 
 Estratégia de Saúde
 4699 Tabela 21. Diretrizes para incorporação da Adaptação às Mudanças Climáticas nas políticas
@@ -8563,7 +8456,7 @@ ao clima, disponibilidade, acesso e qualidade
 dados e informações; da transferência de
 266 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 267 ---
+--- Page 262 ---
 
 Estratégia de Saúde
 tecnologias; do desenvolvimento de ações da água para consumo humano, poluentes
@@ -8604,7 +8497,7 @@ adaptação no âmbito do SUS.
 4702
 267 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 268 ---
+--- Page 263 ---
 
 4703 16. Estratégia de Segurança Alimentar e Nutricional
 4704 16.1. Introdução
@@ -8631,7 +8524,7 @@ adaptação no âmbito do SUS.
 4725 promoção de segurança alimentar e nutricional do Brasil.
 268 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 269 ---
+--- Page 264 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 4726 Nesse contexto, a Câmara Interministerial de Segurança Alimentar e Nutricional
@@ -8662,7 +8555,7 @@ Estratégia de Segurança Alimentar e Nutricional
 4751 agricultores familiares, principalmente, e a região do semiárido.
 269 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 270 ---
+--- Page 265 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 4752 Subsidiaram estas escolhas um diagnóstico acerca dos impactos e riscos das
@@ -8693,7 +8586,7 @@ Estratégia de Segurança Alimentar e Nutricional
 4777 à Alimentação Adequada (DHAA). Trata-se de uma abordagem na qual se destaca a
 270 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 271 ---
+--- Page 266 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 4778 participação efetiva de diversos atores de forma a promover a transparência e a
@@ -8725,7 +8618,7 @@ Estratégia de Segurança Alimentar e Nutricional
 4804 integra dezenas de ações e programas que abrangem as várias dimensões da SAN,
 271 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 272 ---
+--- Page 267 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 4805 incluindo o acesso aos alimentos, à sua produção e disponibilidade e dimensão
@@ -8756,7 +8649,7 @@ Estratégia de Segurança Alimentar e Nutricional
 4830
 272 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 273 ---
+--- Page 268 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 4831 16.2. Impactos da mudança climática global para a segurança
@@ -8790,7 +8683,7 @@ como condição para sua reprodução cultural, social, religiosa, ancestral e e
 práticas gerados e transmitidos pela tradição”.
 273 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 274 ---
+--- Page 269 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 4854 heterogênea os grupos populacionais tradicionais. Ademais, o fato de o Brasil possuir
@@ -8821,7 +8714,7 @@ Estratégia de Segurança Alimentar e Nutricional
 4879
 274 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 275 ---
+--- Page 270 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 4880 16.2.1. Disponibilidade hídrica
@@ -8851,7 +8744,7 @@ Estratégia de Segurança Alimentar e Nutricional
 4904 matas nos estabelecimentos agrícolas, com aumento das áreas de pastagens; 3)
 275 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 276 ---
+--- Page 271 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 4905 diminuição das áreas de baixo risco climático para o plantio dos principais produtos
@@ -8882,7 +8775,7 @@ Estratégia de Segurança Alimentar e Nutricional
 4930 Estatística (IBGE), 84% dos estabelecimentos agropecuários brasileiros pertenciam a
 276 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 277 ---
+--- Page 272 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 4931 agricultores familiares, que ocupavam 74% de toda a mão de obra no campo. São 4,3
@@ -8911,7 +8804,7 @@ Estratégia de Segurança Alimentar e Nutricional
 4954 De forma sucinta, destacam-se alguns resultados principais:
 277 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 278 ---
+--- Page 273 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 4955 A produtividade da cultura do café poderá ser atingida ou por deficiência
@@ -8941,7 +8834,7 @@ Estratégia de Segurança Alimentar e Nutricional
 4979 sua porção norte e no Pará. Atualmente, segundo dados do MAPA, o cultivo de arroz
 278 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 279 ---
+--- Page 274 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 4980 irrigado praticado na região Sul do Brasil contribui, em média, com 54% da produção
@@ -8971,7 +8864,7 @@ Estratégia de Segurança Alimentar e Nutricional
 MMA/Oxfam.
 279 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 280 ---
+--- Page 275 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5003 dos próprios agricultores familiares; e por meio da diminuição da capacidade de
@@ -9002,7 +8895,7 @@ Estratégia de Segurança Alimentar e Nutricional
 5028 em 152 milhões de toneladas frente a uma produção estimada para a safra 2014/2015
 280 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 281 ---
+--- Page 276 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5029 de 200 milhões de toneladas de grãos. O mapa a seguir (Figura 22) revela as
@@ -9020,7 +8913,7 @@ Estratégia de Segurança Alimentar e Nutricional
 5041
 281 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 282 ---
+--- Page 277 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5042
@@ -9038,7 +8931,7 @@ Estratégia de Segurança Alimentar e Nutricional
 5054 exposição, sensibilidade e (baixa) capacidade adaptativa que a torna uma área
 282 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 283 ---
+--- Page 278 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5055 geográfica prioritária para implantação de medidas de enfrentamento dos efeitos
@@ -9074,7 +8967,7 @@ cartões eletrônicos disponibilizados pela Caixa Econômica Federal. Devido à 
 agrícolas, o governo precisou na ocasião ampliar o número de parcelas para oito.
 283 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 284 ---
+--- Page 279 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5076 do fenômeno da seca nesta região no período recente (Safras 2011/2012 e
@@ -9104,7 +8997,7 @@ Estratégia de Segurança Alimentar e Nutricional
 5100 resiliência e precisa ser enfrentada através de mudanças na forma de produção dos
 284 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 285 ---
+--- Page 280 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5101 alimentos e na governança do sistema alimentar nacional e internacional. Deve-se
@@ -9137,7 +9030,7 @@ Brasil. O Brasil é líder mundial no consumo de agrotóxicos. A contribuição 
 das emissões de GEE produzidas pela agropecuária brasileira em 2012 (MCTI, 2014), pode ser reduzida evitando-se o desperdício
 285 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 286 ---
+--- Page 281 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5125 Conforme destaca Olivier de Schutter (2012:23-24), a perspectiva agroecológica
@@ -9173,7 +9066,7 @@ as grandes propriedades aumentam sua receita, a maior parte dela é investida em
 muito menor vai para os comércios locais (de Schutter (2012), com base em World Bank (2008) e Miguel Carter (2010)).
 286 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 287 ---
+--- Page 282 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5145 A agroecologia também coloca a agricultura na trajetória da sustentabilidade
@@ -9204,7 +9097,7 @@ Estratégia de Segurança Alimentar e Nutricional
 5170 nutricional das famílias e de avanços nas políticas de SAN.
 287 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 288 ---
+--- Page 283 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5171 A abordagem de SAN no Brasil está assentada numa perspectiva intersetorial e
@@ -9233,7 +9126,7 @@ Estratégia de Segurança Alimentar e Nutricional
 63Primeira água: água para beber e cozinhar. Segunda água: água destinada para a produção agropecuária.
 288 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 289 ---
+--- Page 284 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5194 garantem água para o consumo (Primeira Água) e também para a produção (Segunda
@@ -9264,7 +9157,7 @@ Estratégia de Segurança Alimentar e Nutricional
 5219 próximos 4 anos (2016-2019).
 289 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 290 ---
+--- Page 285 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5220 A persistência do problema da vulnerabilidade hídrica das famílias rurais do
@@ -9293,7 +9186,7 @@ Estratégia de Segurança Alimentar e Nutricional
 5243 Sociais do Governo Federal.
 290 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 291 ---
+--- Page 286 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5244 O objetivo da ação é ampliar a produção e garantir a segurança alimentar e
@@ -9324,7 +9217,7 @@ Estratégia de Segurança Alimentar e Nutricional
 9.000 famílias. Esta meta foi superada e deverá atingir ao final de 2015 cerca de 17.500 famílias indígenas.
 291 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 292 ---
+--- Page 287 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5268 objetivo de apoiar a estruturação produtiva das famílias rurais mais pobres e o
@@ -9353,7 +9246,7 @@ Estratégia de Segurança Alimentar e Nutricional
 5291 agroecológica. Com isso visa possibilitar à população a melhoria de qualidade de vida
 292 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 293 ---
+--- Page 288 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5292 por meio da oferta e consumo de alimentos saudáveis e do uso sustentável dos
@@ -9384,7 +9277,7 @@ mecanismo de promoção da SAN, por garantir preços adequados aos produtos, pos
 estimular o resgate de alimentos tradicionais nas escolas indígenas, por exemplo, fortalecendo a identidade cultural.
 293 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 294 ---
+--- Page 289 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5315 inseriu na estratégia do governo federal de articular as políticas voltadas à promoção
@@ -9416,7 +9309,7 @@ recursos naturais e iniciativas produtivas indígenas; eixo VI: propriedade inte
 formação, intercâmbio e educação ambiental.
 294 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 295 ---
+--- Page 290 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5338 essenciais à segurança alimentar e nutricional dos povos indígenas, com vistas a
@@ -9446,7 +9339,7 @@ Estratégia de Segurança Alimentar e Nutricional
 5362 agricultura, que não é a mesma coisa que efeitos para a promoção de SAN.
 295 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 296 ---
+--- Page 291 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5363 Iniciativa pioneira foi realizada por estudo contratado pelo MMA, com apoio da
@@ -9475,7 +9368,7 @@ Estratégia de Segurança Alimentar e Nutricional
 5386 cenários futuros climáticos produzidos pelo modelo Eta-CPTEC do INPE.
 296 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 297 ---
+--- Page 292 ---
 
 Estratégia de Segurança Alimentar e Nutricional
 5387  Promover estudos sobre os sistemas agrícolas de povos indígenas e
@@ -9492,7 +9385,7 @@ Estratégia de Segurança Alimentar e Nutricional
 5398 bem-estar social.
 297 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 298 ---
+--- Page 293 ---
 
 5399 17. Estratégia de Zonas Costeiras
 5400 17.1. Introdução
@@ -9520,7 +9413,7 @@ Julho de 2012 no âmbito do Grupo Executivo do PNA (Gex). Sua finalidade foi sub
 recorte da Zona Costeira.
 298 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 299 ---
+--- Page 294 ---
 
 Estratégia de Zona Costeira
 5420 17.1.1. Mudanças no clima e a Zona Costeira Brasileira
@@ -9555,7 +9448,7 @@ daqueles já inseridos na zona costeira.
 69 1 milha náutica (mn) = 1,8 km
 299 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 300 ---
+--- Page 295 ---
 
 Estratégia de Zona Costeira
 5441 emissão de CO na atmosfera (todos em escala de ascensão durante o século XX). No
@@ -9588,7 +9481,7 @@ curvas batimétricas que unem pontos da mesma profundidade com equidistâncias v
 das curvas de nível topográfico.
 300 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 301 ---
+--- Page 296 ---
 
 Estratégia de Zona Costeira
 5462 Com vistas a melhor compreender estes processos e vulnerabilidades, a Força
@@ -9623,7 +9516,7 @@ Elevação da concentração de CO  Acidificação
 5478 comportamento do nível médio do mar, dados meteorológicos sobre o oceano e ZC,
 301 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 302 ---
+--- Page 297 ---
 
 Estratégia de Zona Costeira
 5479 informações diretas sobre ondas evolução da morfologia da costa e plataforma
@@ -9654,7 +9547,7 @@ Estratégia de Zona Costeira
 5504 frágeis. Não há uma avaliação estrutural dos efeitos da erosão em obras de engenharia
 302 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 303 ---
+--- Page 298 ---
 
 Estratégia de Zona Costeira
 5505 costeira ou desencadeados por elas e algumas obras são realizadas de forma
@@ -9685,7 +9578,7 @@ Estratégia de Zona Costeira
 5530
 303 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 304 ---
+--- Page 299 ---
 
 Estratégia de Zona Costeira
 5531 b. Intrusão Salina
@@ -9716,7 +9609,7 @@ Estratégia de Zona Costeira
 5556 estiagem. pode provocar a salinização de aquíferos, lagunas e estuários
 304 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 305 ---
+--- Page 300 ---
 
 Estratégia de Zona Costeira
 5557 comprometendo o abastecimento de água em cidades litorâneas, tanto pela
@@ -9747,7 +9640,7 @@ Estratégia de Zona Costeira
 5582 brasileiros. Um dos caminhos é o fortalecimento das Unidades de Conservação,
 305 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 306 ---
+--- Page 301 ---
 
 Estratégia de Zona Costeira
 5583 integradas a sistemas de gestão costeira eficientes, propiciando maior resiliência às
@@ -9777,7 +9670,7 @@ Estratégia de Zona Costeira
 5607 capacidade produtiva, com alteração da produtividade e da disponibilidade de
 306 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 307 ---
+--- Page 302 ---
 
 Estratégia de Zona Costeira
 5608 recursos vivos explorados, com consequências sociais e econômicas em algumas
@@ -9813,7 +9706,7 @@ biogeoquímico do carbono no Atlântico Sul. Estes organismos e ambientes estão
 pela pesca e as descargas costeiras de efluentes.
 307 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 308 ---
+--- Page 303 ---
 
 Estratégia de Zona Costeira
 5630 proporcionar um programa de monitoramento amplo e de longo prazo, bem como
@@ -9843,7 +9736,7 @@ Estratégia de Zona Costeira
 5654 as regiões de maior vulnerabilidade aos efeitos da MC na ZC brasileira (Tabela 23). Os
 308 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 309 ---
+--- Page 304 ---
 
 Estratégia de Zona Costeira
 5655 dados obtidos do cruzamento dessas informações foram agrupados em quatro
@@ -9851,7 +9744,7 @@ Estratégia de Zona Costeira
 5657 muito alto) das regiões costeiras brasileiras.
 309 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 310 ---
+--- Page 305 ---
 
 Estratégia de Zona Costeira
 5658 Tabela 23- Grau de Vulnerabilidade das Zonas Costeiras aos efeitos das MC nas diferentes
@@ -9895,7 +9788,7 @@ Sul para a incidência de eventos extremos de magnitude pouco tradicionais, como
 o caso do furacão Catarina, ocorrido em 2004 e que devastou a região limítrofe
 310 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 311 ---
+--- Page 306 ---
 
 Estratégia de Zona Costeira
 entre os dois estados mais meridionais.
@@ -9935,7 +9828,7 @@ Regime Probabilístico de inundação costeira do Brasil”, Foram disponibiliza
 Área de Inundação Costeira informações sobre a faixa de inundação ao longo de toda a
 311 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 312 ---
+--- Page 307 ---
 
 Estratégia de Zona Costeira
 do Brasil costa brasileira com cenários de inundação divididas em 24
@@ -9986,7 +9879,7 @@ irregulares quando os regulamentos territoriais não são
 aplicados como na lei. Na medida em que as pessoas estão
 312 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 313 ---
+--- Page 308 ---
 
 Estratégia de Zona Costeira
 expostas às mudanças ambientais e climáticas, estas são
@@ -10012,7 +9905,7 @@ regulamentos de tomada de decisão.
 5688 contínuo.
 313 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 314 ---
+--- Page 309 ---
 
 Estratégia de Zona Costeira
 5689
@@ -10034,7 +9927,7 @@ Estratégia de Zona Costeira
 5705 acréscimo da importância desta agenda no âmbito federal, estadual e local,
 314 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 315 ---
+--- Page 310 ---
 
 Estratégia de Zona Costeira
 5706 conforme exemplificado na Tabela 25.
@@ -10101,7 +9994,7 @@ informação e dados
 informações climáticas. Os dados disponíveis
 315 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 316 ---
+--- Page 311 ---
 
 Estratégia de Zona Costeira
 no país são insuficientes para a construção de integrados e em
@@ -10140,7 +10033,7 @@ mudanças globais. Coordena este projeto o Centro Hidrográfico da Marinha (CHM)
 parceria com universidades, empresas portuárias e o Instituto Brasileiro de Geografia e
 316 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 317 ---
+--- Page 312 ---
 
 Estratégia de Zona Costeira
 Estatística (IBGE). Os dados das estações maregráficas estão disponíveis no site:
@@ -10186,7 +10079,7 @@ costa do Brasil. Estas séries proporcionam informações em qualquer ponto da c
 Brasil. Este banco de dados conta com duas séries horárias de estados de mar de 60 anos.
 317 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 318 ---
+--- Page 313 ---
 
 Estratégia de Zona Costeira
 O SMC-Brasil também conta com as metodologias e ferramentas necessárias para
@@ -10219,7 +10112,7 @@ anos de hindcast de ondas, marés e storm surge.
 5740 ecossistemas que estão desaparecendo mais rapidamente na terra. Os manguezais são
 318 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 319 ---
+--- Page 314 ---
 
 Estratégia de Zona Costeira
 5741 perdidos a uma taxa anual de cerca de 2%. Entre 1-2% da extensão global de marismas
@@ -10249,7 +10142,7 @@ Estratégia de Zona Costeira
 5765 municipal, pelos comitês locais do Projeto Orla. Este projeto tem como objetivo a
 319 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 320 ---
+--- Page 315 ---
 
 Estratégia de Zona Costeira
 5766 gestão compartilhada da orla marítima, que incorpora normas ambientais e urbanas
@@ -10272,7 +10165,7 @@ Nacionais e Internacionais; além de participação de Universidades e outros Ce
 Pesquisa e colaboração internacional.
 320 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 321 ---
+--- Page 316 ---
 
 Estratégia de Zona Costeira
 5780 Tabela 27 – Diretrizes e Estratégias de adaptação na Zonas Costeiras Brasileira.
@@ -10329,7 +10222,7 @@ edificação
 Município
 321 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 322 ---
+--- Page 317 ---
 
 Estratégia de Zona Costeira
 4- Fortalecer o gerenciamento costeiro MMA/ GI-
@@ -10380,7 +10273,7 @@ Prefeituras,
 ANA, MMA/
 322 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 323 ---
+--- Page 318 ---
 
 Estratégia de Zona Costeira
 (Pré-requisito: levantamento planimétrico) DZT e DSG, metrópoles costeiras)
@@ -10422,7 +10315,7 @@ Civil, INMET
 existentes
 323 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 324 ---
+--- Page 319 ---
 
 Estratégia de Zona Costeira
 1- Implementar o programa IX do PNRH,
@@ -10489,7 +10382,7 @@ legislativo (3 instrumentos da gestão costeira
 esferas)
 324 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 325 ---
+--- Page 320 ---
 
 Estratégia de Zona Costeira
 1- Internalização de aspectos relacionados OEMAS, ICMBio,
@@ -10530,7 +10423,7 @@ estudos, inventário de biota e habitats, Universidades/ 4- Disponibilidade efet
 estatística pesqueira e previsão de Institutos de tempo real dos dados gerados ento da
 325 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 326 ---
+--- Page 321 ---
 
 Estratégia de Zona Costeira
 cenários pesquisa, (quase real) e s t a t í s t i c a
@@ -10600,7 +10493,7 @@ geradas pelo monitoramento e previsões
 locais e regionais
 326 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 327 ---
+--- Page 322 ---
 
 Estratégia de Zona Costeira
 5- Criar e manter banco de dados
@@ -10632,7 +10525,7 @@ pesquisa: INCT,
 ações
 327 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 328 ---
+--- Page 323 ---
 
 Estratégia de Zona Costeira
 5781 17.5. Sinergias com outros setores
@@ -10662,7 +10555,7 @@ Estratégia de Zona Costeira
 5805
 328 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 329 ---
+--- Page 324 ---
 
 Estratégia de Zona Costeira
 5806 17.6. Considerações finais
@@ -10693,7 +10586,7 @@ Antônio Edson Farias MME/SPG Maria Luiza Almeida ANTAQ
 Gusmão
 329 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 330 ---
+--- Page 325 ---
 
 Estratégia de Zona Costeira
 Antonio Klein UFSC Mariana Egler MMA/SMCQ
@@ -10722,7 +10615,7 @@ Karen Cope MMA/SMCQ Yvens Ely Martins SEMA/PA
 Cordeiro
 330 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 331 ---
+--- Page 326 ---
 
 5818 Referência Bibliográfica
 5819 Biodiversidade e Ecossistemas
@@ -10752,7 +10645,7 @@ Cordeiro
 5843 . Brasília (DF): Ministério do Meio Ambiente, 2013.
 331 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 332 ---
+--- Page 327 ---
 
 Referências Bibliográficas
 5844 BRASIL, 2011. Ministério do Meio Ambiente. Quarto Relatório Nacional para a
@@ -10787,7 +10680,7 @@ Referências Bibliográficas
 5873 ;ecosystem services." Ecosystems and human well-being: policy responses 3 (2005):
 332 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 333 ---
+--- Page 328 ---
 
 Referências Bibliográficas
 5874 213-256; Roland, F., et al. "Climate change in Brazil: perspective on the
@@ -10823,7 +10716,7 @@ Referências Bibliográficas
 5904 n. 1443, p. 345–352, 2004. Acesso em: 24 fev. 2015.
 333 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 334 ---
+--- Page 329 ---
 
 Referências Bibliográficas
 5905 LEÃO, Z.; KIKUCHI, R. K. P. DE; OLIVEIRA, M. DE D. M. DE. Branqueamento de corais nos
@@ -10857,7 +10750,7 @@ Referências Bibliográficas
 5933 p. 393–402, 2013. Acesso em: 24 fev. 2015.
 334 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 335 ---
+--- Page 330 ---
 
 Referências Bibliográficas
 5934 MARINI, M. Â. et al. Major current and future gaps of Brazilian reserves to protect
@@ -10891,7 +10784,7 @@ Referências Bibliográficas
 5962 <zotero://attachment/2344/>. Acesso em: 27 mar. 2015.
 335 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 336 ---
+--- Page 331 ---
 
 Referências Bibliográficas
 5963 PARMESAN, C. Ecological and Evolutionary Responses to Recent Climate Change.
@@ -10927,7 +10820,7 @@ Referências Bibliográficas
 5993 2010. Acesso em: 17 jul. 2013.
 336 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 337 ---
+--- Page 332 ---
 
 Referências Bibliográficas
 5994 SIMON, L. M. et al. Effects of global climate changes on geographical distribution
@@ -10963,7 +10856,7 @@ Referências Bibliográficas
 6024 88–96, 2012. Acesso em: 22 fev. 2015.
 337 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 338 ---
+--- Page 333 ---
 
 Referências Bibliográficas
 6025 ZARNETSKE, P. L.; SKELLY, D. K.; URBAN, M. C. Biotic multipliers of climate change.
@@ -10997,7 +10890,7 @@ Referências Bibliográficas
 6053 Special Report of Working Groups I and II of the Intergovernmental Panel on Climate
 338 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 339 ---
+--- Page 334 ---
 
 Referências Bibliográficas
 6054 Change [Field, C.B., V. Barros, T.F. Stocker, D. Qin, D.J. Dokken, K.L. Ebi, M.D.
@@ -11033,7 +10926,7 @@ Referências Bibliográficas
 6084 urban governance. New York: United Nations Expert Group Meeting on Population
 339 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 340 ---
+--- Page 335 ---
 
 Referências Bibliográficas
 6085 Distribution, Urbanization, Internal Migration and Development,
@@ -11067,7 +10960,7 @@ Referências Bibliográficas
 6113 da União, Brasília.
 340 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 341 ---
+--- Page 336 ---
 
 Referências Bibliográficas
 6114 CARDONA, O.D., 2011: Disaster risk and vulnerability: Notions and measurement of
@@ -11104,7 +10997,7 @@ Referências Bibliográficas
 6145 NECHET, D., QUINTANA, J., REBELLO, E., RUSTICUCCI, M., SANTOS, J. L., TREBEJO, I.,
 341 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 342 ---
+--- Page 337 ---
 
 Referências Bibliográficas
 6146 VINCENT, L. A. Trends in total and extreme South American rainfall 1960-2000 and
@@ -11140,7 +11033,7 @@ Referências Bibliográficas
 6176 long-term trends in the Metropolitan Area of São Paulo in the 20th century. Climate
 342 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 343 ---
+--- Page 338 ---
 
 Referências Bibliográficas
 6177 Research 61, 93-107.
@@ -11173,7 +11066,7 @@ Referências Bibliográficas
 6204 Adminstrators. Climatic Change, 110: 5-29.
 343 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 344 ---
+--- Page 339 ---
 
 Referências Bibliográficas
 6205 CALIFORNIA NATURE RESOURCES AGENCY. California Climate Adaptation: a report to
@@ -11209,7 +11102,7 @@ Referências Bibliográficas
 6235 92th Annual Meeting of the Transportation Research Board.
 344 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 345 ---
+--- Page 340 ---
 
 Referências Bibliográficas
 6236 MEYER, M. D., 2008: Design Standards for U.S. Transportation Infrastructure: The
@@ -11243,7 +11136,7 @@ Referências Bibliográficas
 6264 República Federativa do Brasil], Brasília, DF.
 345 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 346 ---
+--- Page 341 ---
 
 Referências Bibliográficas
 6265 BRASIL. DECRETO Nº 7.747, DE 5 DE JUNHO DE 2012. Institui a Política Nacional de
@@ -11278,7 +11171,7 @@ Referências Bibliográficas
 6294 Pesquisas sobre Desastres. Atlas brasileiro de desastres naturais 1991 a 2010: volume
 346 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 347 ---
+--- Page 342 ---
 
 Referências Bibliográficas
 6295 Brasil / Centro Universitário de Estudos e Pesquisas sobre Desastres. Florianópolis:
@@ -11311,7 +11204,7 @@ Referências Bibliográficas
 6322 science from the Hadley Centre, dez. 2005.
 347 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 348 ---
+--- Page 343 ---
 
 Referências Bibliográficas
 6323 Saúde
@@ -11345,7 +11238,7 @@ Referências Bibliográficas
 6351 DIEESE. NEAD. Estatísticas do Meio Rural 2010/2011. Brasília: MDA: DIEESE, 2011.
 348 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 349 ---
+--- Page 344 ---
 
 Referências Bibliográficas
 6352 Embrapa; Unicamp. Aquecimento Global e a Nova Geografia da Produção Agrícola no
@@ -11379,7 +11272,7 @@ Referências Bibliográficas
 6380 http://www.mma.gov.br/images/arquivo/80182/D_Produto_2.0.1_Diagnostico%20pre
 349 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 350 ---
+--- Page 345 ---
 
 Referências Bibliográficas
 6381 liminar%20sobre%20projecoes%20climaticas%20%20impactos%20e%20vulnerabilidad
@@ -11415,7 +11308,7 @@ Referências Bibliográficas
 6411 country case studies. United Nations Standing Committee on Nutrition, March, 2014.
 350 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 351 ---
+--- Page 346 ---
 
 Referências Bibliográficas
 6412 Watkins, K. Relatório de Desenvolvimento Humano 2007/2008. Combater as
@@ -11448,7 +11341,7 @@ Referências Bibliográficas
 6439 DIETER M. Erosão e progradação no litoral brasileiro. Brasília: MMA, 476 p. 2006.
 351 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 352 ---
+--- Page 347 ---
 
 Referências Bibliográficas
 6440 EGLER C.A.G e GUSMÃO P.P. Gestão costeira e adaptação às mudanças climáticas: o
@@ -11482,7 +11375,7 @@ Referências Bibliográficas
 6468 GestãoCosteiraIntegrada. 10(2):151-177, 2010.
 352 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 353 ---
+--- Page 348 ---
 
 Referências Bibliográficas
 6469 OLSSON, P., FOLKE, C. E BERKES, F. Adaptive co-management for building resilience in
@@ -11497,7 +11390,7 @@ Referências Bibliográficas
 6478 IntergovernmentalOceanographicCommission. 200pp. 2012.
 353 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 354 ---
+--- Page 349 ---
 
 6479 ANEXO- Síntese das Estratégias setoriais e temáticas
 6480 A elaboração das estratégias apresentadas foi coordenada por órgãos do
@@ -11508,7 +11401,7 @@ Referências Bibliográficas
 6485
 354 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 355 ---
+--- Page 350 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 6486 Quadro 1. Síntese dos objetivos e diretrizes da estratégia de Agricultura
@@ -11547,7 +11440,7 @@ inicialmente a geração, o gerenciamento e a difusão de informações ambienta
 permitindo o necessário acesso aos produtores rurais, às informações e alternativas
 355 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 356 ---
+--- Page 351 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 tecnológicas mais adequadas à cada realidade regional e produtiva. Em seguida, revisar
@@ -11585,7 +11478,7 @@ para fins de implementação de medidas de Adaptação baseada em Ecossistemas.
 6490
 356 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 357 ---
+--- Page 352 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 6491 Quadro 3. Síntese dos objetivos e diretrizes da estratégia de Cidades
@@ -11622,7 +11515,7 @@ adaptação à mudança do clima.
 6493
 357 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 358 ---
+--- Page 353 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 6494 Quadro 4. Síntese dos objetivos e diretrizes da estratégia de Gestão de Riscos a Desastres
@@ -11647,7 +11540,7 @@ desastres naturais.
 6497
 358 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 359 ---
+--- Page 354 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 6498 Quadro 5. Síntese dos objetivos e diretrizes da estratégia de Indústria e Mineração
@@ -11679,7 +11572,7 @@ incremento da resiliência territorial e industrial.
 6500
 359 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 360 ---
+--- Page 355 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 6501 Quadro 6. Síntese dos objetivos e diretrizes da estratégia de Infraestrutura
@@ -11718,7 +11611,7 @@ como de manutenção da infraestrutura de mobilidade urbana, incorporando a adap
 mudança do clima.
 360 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 361 ---
+--- Page 356 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 Promoção da conscientização sobre as mudanças climática e seus impactos na mobilidade,
@@ -11744,7 +11637,7 @@ interações;
 6503
 361 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 362 ---
+--- Page 357 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 6504 Quadro 7. Síntese dos objetivos e diretrizes da estratégia de Povos e Populações Vulneráveis
@@ -11783,7 +11676,7 @@ formulação e implementação de políticas públicas de adaptação e mitigaç
 mudanças do clima.
 362 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 363 ---
+--- Page 358 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 Ampliar e fortalecer a proteção, fiscalização e plena regularização fundiária das terras
@@ -11803,7 +11696,7 @@ e a articulação com processos educativos/formativos mais amplos.
 6506
 363 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 364 ---
+--- Page 359 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 6507 Quadro 8. Síntese dos objetivos e diretrizes da estratégia de Recursos Hídricos
@@ -11846,7 +11739,7 @@ hídricos e de outros setores, associado a ações de redução de perdas, racio
 uso e monitoramento da quantidade e qualidade de água dos mananciais.
 364 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 365 ---
+--- Page 360 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 Incentivar investimentos para coleta e tratamento de esgotos, especialmente nas áreas urbanas
@@ -11888,7 +11781,7 @@ humana, considerando os saberes populares e tradicionais, as características re
 ecossistemas na construção do conhecimento.
 365 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 366 ---
+--- Page 361 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 Para dimensão “Alianças”:
@@ -11929,7 +11822,7 @@ matéria orgânica e nutrientes; conservação e recuperação da agrobiodiversi
 Estabelecer/ Fortalecer Programas de acesso à água para consumo humano e produção de
 366 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 367 ---
+--- Page 362 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 alimentos no semiárido
@@ -11961,7 +11854,7 @@ Municipais do SISAN
 6515
 367 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 368 ---
+--- Page 363 ---
 
 Anexo – Síntese das estratégias setoriais e temáticas
 6516 Quadro 11. Síntese dos objetivos e diretrizes da estratégia da Zona Costeira
@@ -12001,7 +11894,7 @@ relacionado a mudança do clima
 6517
 368 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 369 ---
+--- Page 364 ---
 
 6518 Glossário
 6519
@@ -12037,7 +11930,7 @@ relacionado a mudança do clima
 6549 naturais.
 369 |Plano Nacional de Adaptação à Mudança do Clima
 
---- Page 370 ---
+--- Page 365 ---
 
 Glossário
 ocorrência potencial de um evento físico natural ou humanamente induzido, ou

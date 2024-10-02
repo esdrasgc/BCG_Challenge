@@ -2,365 +2,6 @@
 
 --- Page 1 ---
 
-JOÃO PESSOA . JUNHO / 2023
-PLANO DE
-AÇÃO CLIMÁTICA
-C: 97 M: 18 Y: 33 K:0 C: 100 M: 46 Y: 39 K:13
-
---- Page 2 ---
-
-JUNHO / 2023
-SUMÁRIO EXECUTIVO
-PLANO DE
-AÇÃO CLIMÁTICA DE
-JOÃO PESSOA
-C: 97 M: 18 Y: 33 K:0 C: 100 M: 46 Y: 39 K:13
-
---- Page 3 ---
-
-SUMÁRIO
-MENSAGENS
-............................................................................................................................. 4
-1. INTRODUÇÃO
-............................................................................................................................ 12
-1.1. Por que um Plano de Ação Climática em João Pessoa?
-............................................................................................................................ 13
-1.2. Visão e objetivo geral do Plano de Ação Climática
-............................................................................................................................ 14
-1.3. Contexto de João Pessoa
-............................................................................................................................ 15
-1.4. Visão climática: a cidade não está partindo do zero
-............................................................................................................................ 17
-1.5. A construção do Plano de Ação Climática
-.......................................................................................................................... 20
-2. DIAGNÓSTICO DE JOÃO PESSOA
-SOB A LENTE CLIMÁTICA
-........................................................................................................................... 25
-2.1. Análise de Riscos e Vulnerabilidades Climáticas
-.......................................................................................................................... 26
-2.2. Pegada Hídrica
-............................................................................................................................ 29
-2.3. Inventário de Emissões de Gases de Efeito Estufa (GEE)
-............................................................................................................................ 31
-2.4. Cenários de Emissões de GEE
-........................................................................................................................... 34
-
---- Page 4 ---
-
-PLANO DE AÇÃO CLIMÁTICA
-DE JOÃO PESSOA
-3. PLANO DE AÇÃO
-........................................................................................................................... 38
-3.1. Metas Gerais de Mitigação e Adaptação
-.......................................................................................................................... 39
-3.2. Eixos Estratégicos
-.......................................................................................................................... 40
-3.3. Ações Prioritárias
-.......................................................................................................................... 43
-4. IMPLEMENTAÇÃO DO PLANO
-.......................................................................................................................... 82
-4.1. Plano de Monitoramento e Avaliação
-.......................................................................................................................... 83
-4.2. Análise de Barreiras e Recomendações Futuras
-........................................................................................................................... 86
-5. CONSIDERAÇÕES FINAIS
-.......................................................................................................................... 89
-REFERÊNCIAS BIBLIOGRÁFICAS
-............................................................................................................................ 91
-GLOSSÁRIO
-........................................................................................................................... 95
-LISTA DE ACRÔNIMOS E SIGLAS
-........................................................................................................................... 97
-AGRADECIMENTOS
-........................................................................................................................... 99
-EQUIPE TÉCNICA
-......................................................................................................................... 100
-
---- Page 5 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
-Cícero Lucena
-Prefeito de João Pessoa
-Plano de Ação Climática de João Pessoa: Rumo a uma cidade mais
-sustentável e resiliente
-Desde que reassumi a prefeitura de João Pessoa, abracei o desafio de enfrentar a questão
-das mudanças climáticas com a seriedade que um problema tão grave merece. Compro-
-metemo-nos com iniciativas internacionais de grande importância, como o Race to Zero,
-o Race to Resilience e a Aliança pela Ação Climática Brasil.
-Neste momento, avançamos mais um passo crucial para o futuro de nossa cidade, com a
-entrega de nosso Plano de Ação Climática. Essa ferramenta será fundamental para cons-
-truirmos um futuro mais sustentável e resiliente para todos os cidadãos de João Pessoa.
-Embora muitos ainda enxerguem as mudanças climáticas como um problema distante, a
-verdade é que já estamos vivenciando os impactos do aumento da temperatura média
-do planeta. As ações que tomamos hoje têm consequências reais e concretas em nossas
-vidas.
-O Plano de Ação Climática foi concebido como uma forma de garantir que estamos cum-
-prindo nossa parte na redução das emissões de gases de efeito estufa, na proteção de
-nossos recursos naturais e na construção de uma cidade mais segura e resiliente diante
-das ameaças existentes e futuras que afetarão nossa população. Para atingir os objetivos
-de mitigação e adaptação, o plano inclui uma série de ações específicas que se traduzirão
-em projetos concretos a serem implementados nos próximos anos.
-Vale ressaltar que tudo isso só se tornou possível graças à participação ativa da socie-
-dade civil, do setor privado e da academia, que contribuíram significativamente para o
-desenvolvimento do Plano de Ação Climática. Expresso aqui meu sincero agradecimento
-a todos que se envolveram nesse processo, e reforço nosso compromisso em tornar João
-Pessoa uma cidade cada vez melhor, mais sustentável e resiliente.
-O Plano de Ação Climática representa um marco importante para o futuro de nossa ci-
-dade. Ao enfrentar as mudanças climáticas de forma decisiva, estamos assumindo a res-
-ponsabilidade de preservar nosso meio ambiente e garantir um futuro melhor para as
-gerações futuras. É hora de agir, unindo forças e implementando as medidas necessárias
-para enfrentar esse desafio global. João Pessoa está pronta para liderar o caminho rumo
-a um futuro sustentável e resiliente.
-5
-
---- Page 6 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
-6
-
---- Page 7 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
-Welison Silveira
-Secretário de Meio Ambiente de João Pessoa
-Como Secretário de Meio Ambiente da cidade de João Pessoa, é motivo de grande orgu-
-lho a conclusão do Plano de Ação Climática da nossa cidade. Este plano é um importante
-produto do Programa João Pessoa Sustentável e representa um grande passo na luta
-contra as mudanças climáticas. As cidades têm papel fundamental no enfrentamento à
-atual crise climática, com a implementação de políticas públicas voltadas para mitigação
-e adaptação, bem como a conscientização da população. O Plano de Ação Climática é
-um documento que estabelece metas e estratégias para neutralizar as emissões de gases
-de efeito estufa na cidade até 2050, bem como adaptá-la às mudanças climáticas que já
-estão ocorrendo.
-O PLAC aborda temas como mobilidade urbana, eficiência energética, gestão de resíduos
-sólidos e conservação da biodiversidade. A importância desse plano para o planejamento
-de João Pessoa nos próximos anos é imensa, pois as mudanças climáticas já estão afetan-
-do a nossa cidade, sendo possível sentir alguns efeitos, como mudanças na frequência e
-intensidade de eventos climáticos extremos, como chuvas intensas e erosão marinha em
-alguns trechos da nossa orla. Se nada for feito, esses eventos podem causar sérios danos
-à infraestrutura da cidade e à qualidade de vida da população.
-Com o Plano de Ação Climática, estamos nos antecipando a esses problemas e trabalhan-
-do para tornar nossa cidade mais resiliente. Além disso, estamos contribuindo para um
-futuro mais sustentável e com uma economia mais limpa.
-Por fim, gostaria de destacar que o sucesso desse plano depende do engajamento de toda
-a sociedade, incluindo setores público, privado e sociedade civil. É um trabalho coletivo e
-todos devem contribuir para alcançarmos nossos objetivos. Contamos com a colaboração
-de todos para tornar João Pessoa uma cidade mais sustentável e preparada para o futuro.
-7
-
---- Page 8 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
-Antônio Elizeu
-Coordenador-Geral do Programa João Pessoa Sustentável
-O Plano de Descarbonização e Ação Climática de João Pessoa faz parte das ações do
-Programa João Pessoa Sustentável e é um passo importante no caminho de uma cidade
-sustentável e inteligente. Como coordenador-geral do Programa posso dizer que o docu-
-mento é resultado de um trabalho complexo e completo de uma equipe que é referência
-nos estudos sobre mudanças climáticas.
-Fizemos a radiografia de toda cidade, analisando as fontes emissoras de gases de efeito
-estufa, além de um diagnóstico visando identificar riscos, como as áreas suscetíveis a on-
-das de calor, deslizamentos de terra e erosão, inundações fluviais, entre outros. Essas in-
-formações nos ajudarão a traçar medidas para reduzir e/ou mitigar as emissões de gases
-de efeito estufa de maneira significativa e tornar a cidade mais resiliente aos efeitos das
-mudanças climáticas.
-Esse Plano, seguramente, é um divisor de águas para o Município. A partir de agora a
-Prefeitura terá elementos para atuar de modo mais eficiente na redução da emissão de
-carbono e na adoção de políticas públicas capazes de promover uma cidade mais limpa,
-oxigenada e mais saudável. Toda a população ganhará com isso!
-8
-
---- Page 9 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
-Clémentine Tribouillard
-Especialista em Habitação e Desenvolvimento Urbano no BID
-Chefe de Equipe do Programa João Pessoa Sustentável
-As mudanças climáticas têm efeitos acentuados sobre a parte mais vulnerável da popula-
-ção, que em sua maioria habita em áreas de risco, como zonas propensas a inundações e
-deslizamentos de terra. A frequência de chuvas mais intensas, algo que vem se tornando
-comum nas cidades brasileiras, coloca essas famílias em risco de perder seus bens mate-
-riais e, ainda pior, de perder seus entes queridos.
-Em vista disso, quando falamos em construir estratégias para tornar as cidades mais resi-
-lientes e adaptadas às mudanças climáticas, precisamos trazer para o centro desse plane-
-jamento o entendimento sobre o território e a população que nele habita. Somente a partir
-de um diagnóstico bem apurado, que apresente as reais demandas de seus cidadãos e
-cidadãs, teremos a base para planejar cidades de maneira mais eficiente frente a esse
-grande desafio.
-Alinhado com o objetivo de promover cidades mais justas, sustentáveis e produtivas me-
-diante a mitigação das mudanças climáticas e promoção da sustentabilidade ambiental, o
-Banco Interamericano de Desenvolvimento está apoiando diversas cidades a se adapta-
-rem e mitigarem os efeitos das alterações do clima. O Programa João Pessoa Sustentável,
-fruto de um empréstimo com o BID, é um exemplo disso.
-Este programa, que tem como objetivo promover o desenvolvimento social, econômico e
-ambiental da cidade, elaborou este Plano de Ação Climática. Este instrumento busca, por
-meio do entendimento das atividades realizadas no território e pelos efeitos gerados no
-meio ambiente, criar estratégias para combater as mudanças climáticas e as desigualda-
-des sociais intensificadas por este impacto.
-Não podemos mais adiar as soluções. É hora de agir e fazer a diferença. O BID se orgulha
-de apoiar essa conquista para a cidade e inspirar outras cidades a seguirem o exemplo.
-9
-
---- Page 10 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
-Sergio Margulis
-Especialista em Mudança do Clima
-Os eventos climáticos vêm se tornando cada vez mais frequentes e intensos, e os efeitos
-recaem sobre as cidades no mundo inteiro. No Brasil, o Nordeste atualmente é uma das
-regiões mais vulneráveis e impactadas, além de possuir a população com a menor renda
-do país. No primeiro semestre de 2022, o volume de chuvas foi acima da média em João
-Pessoa e em toda a orla nordestina, trazendo o foco da mídia para este tema.
-Neste sentido, um Plano de Ação Climática contendo medidas que amparem a população
-é de caráter urgente e fundamental. As medidas de adaptação contidas no plano trazem
-tanto o efeito direto de reduzir os impactos de eventos como inundações, deslizamentos
-e ondas de calor, quanto também geram cobenefícios para diferentes setores como trans-
-porte, saúde, emprego e renda. Já as medidas de mitigação, que podem ser aplicadas em
-conjunto com as de adaptação, contribuem com a redução dos gases de efeito estufa.
-O enfrentamento dos eventos climáticos é desafiador para o município, mas com as me-
-didas de adaptação e mitigação estruturadas, o primeiro passo já foi tomado para reduzir
-a vulnerabilidade de sua população. Em consonância com outros planos e programas da
-cidade, João Pessoa se encaminha para buscar os seus objetivos de neutralidade e de se
-tornar mais justa, inclusiva e resiliente até 2050.
-10
-
---- Page 11 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
-Carlos Nobre
-Especialista em Mudança do Clima
-João Pessoa, cidade costeira do litoral leste do Nordeste, já vem sofrendo com o inevitável
-aumento do nível do mar e a intensificação das tempestades, inclusive aquelas sobre os
-oceanos, as quais já geram ressacas com impactos muito mais significativos, por vezes
-aumentando o nível do mar em vários metros.
-O Brasil também vem experimentando um recorde de eventos nos últimos anos, inclusive
-com aumento do número de mortes por deslizamentos, enxurradas e inundações. Nesse
-sentido, a primeira e mais imediata medida é o aperfeiçoamento dos sistemas de alertas
-dos riscos iminentes de tais desastres. Isso requer aperfeiçoamento dos sistemas de pre-
-visão meteorológica, mas principalmente a comunicação eficaz dos alertas para todas as
-populações vulneráveis e expostas aos riscos.
-O Nordeste como um todo vem sendo afetado por crescentes eventos de secas extre-
-mas. Políticas municipais, estaduais e federais devem buscar mecanismos de proteção
-de milhões de habitantes afetados por tais fenômenos, inclusive com políticas amplas de
-assistência social para evitar mássicas migrações para áreas urbanas, fator histórico que
-tem gerado contingentes de populações muito pobres e vulneráveis em grandes cidades.
-O combate da emergência climática exige uma rapidíssima redução das emissões globais
-de gases de efeito estufa. Para o atingimento das metas do Acordo de Paris, 50% de re-
-dução até 2030 e zerar as emissões líquidas até 2050. O Nordeste é uma das regiões do
-país com a maior geração de energias renováveis—solar fotovoltaica e eólica. A grande
-disponibilidade de energia solar fotovoltaica poderá transformar João Pessoa numa gran-
-de produtora e exportadora de hidrogênio verde, reduzindo as emissões de todo setor de
-transporte terrestre, naval e aéreo. Em resumo, João Pessoa tem todas as condições de
-tornar-se uma das primeiras cidades do mundo a atingir emissões líquidas zero.
-11
-
---- Page 12 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
-Felipe Bittencourt
-CEO - WayCarbon
-A crise climática é um dos maiores desafios globais da atualidade, e vem impactando os
-grandes centros urbanos com eventos extremos cada vez mais intensos, resultando em vi-
-das afetadas e perdas financeiras. As cidades, que concentram mais de 80% das emissões
-globais, possuem um papel chave na transição para um mundo de baixo carbono e na im-
-plementação de medidas de adaptação para proteger a sua população.
-João Pessoa, grande centro econômico, financeiro e cultural do Estado da Paraíba, tem um
-histórico de eventos climáticos atingindo seu território e sua população, principalmente a
-mais vulnerável. O Plano de Ação Climática de João Pessoa tem por objetivo o alcance de
-uma cidade mais resiliente, neutra em emissões de carbono, justa e inclusiva até o ano de
-2050. As ações do Plano têm caráter transversal, contemplando tanto a descarbonização
-quanto a adaptação aos impactos já percebidos e que tendem a se intensificar ao longo do
-tempo, com foco na redução de vulnerabilidades e desigualdades.
-A WayCarbon se orgulha de ter participado deste projeto. Pelo uso das informações base-
-adas no melhor disponível pela ciência e direcionamentos estratégicos presentes no Plano
-de Ação Climática, João Pessoa possui a oportunidade de orientar suas políticas públicas
-voltadas ao clima de maneira eficiente, proteger sua população e economia dos eventos
-climáticos extremos, e se tornar um exemplo na luta contra o aquecimento global.
-Rodrigo de Oliveira Perpétuo
-Secretário Executivo - ICLEI América do Sul
-João Pessoa é membro do ICLEI desde 2017, e desde então busca participar ativamente da
-agenda climática, aderindo aos principais acordos climáticos globais e se propondo a ser re-
-ferência em sustentabilidade na região. João Pessoa fez parte da 1° Edição do Laboratório Ur-
-bano de Políticas Públicas Alimentares - LUPPA, é integrante do projeto Transformative Urban
-Mobility Initiative - TUMI, cujo foco é a Mobilidade Sustentável, bem como sediou o I Encontro
-Nordestino do ICLEI, entre 13 e 15 de junho de 2022, reforçando o seu compromisso com as
-agendas de sustentabilidade.
-O desenvolvimento do Plano deu-se a partir de uma construção coletiva, com participação de
-diversos atores da sociedade com o intuito de formular um instrumento condizente com a rea-
-lidade e as necessidades da cidade. A visão “Construção de uma Cidade mais Resiliente, Neutra
-em Emissões de Carbono, Justa e Inclusiva” concorda com os debates atuais de sustentabilida-
-de nas agendas globais, bem como materializa compromissos firmados por João Pessoa.
-A integração do Plano de Ação Climática aos instrumentos de planejamento urbano, e o alinha-
-mento aos compromissos internacionais e princípios de justiça climática fazem com que João
-Pessoa trilhe um caminho rumo ao desenvolvimento sustentável, bem como permite que a ca-
-pital paraibana se consolide como referência para outras cidades brasileiras e latinoamericanas.
-Boa leitura!
-12
-
---- Page 13 ---
-
-1. INTRODUÇÃO
-1.1. Por que um Plano de Ação Climática em João Pessoa?
-............................................................................................................................ 14
-1.2. Visão e objetivo geral do Plano de Ação Climática
-............................................................................................................................ 15
-1.3. Contexto de João Pessoa
-............................................................................................................................ 16
-1.4. Visão climática: a cidade não está partindo do zero
-............................................................................................................................ 18
-1.5. A construção do Plano de Ação Climática
-............................................................................................................................ 21
-
---- Page 14 ---
-
 AOSSEP
 OÃOJ
 ED
@@ -410,7 +51,7 @@ de um desenvolvimento inclusivo é ainda mais forte tendo em vista seu contexto 
 caracterizado pela desigualdade social e pela alta proporção de pessoas de baixa renda.
 14
 
---- Page 15 ---
+--- Page 2 ---
 
 AOSSEP
 OÃOJ
@@ -457,7 +98,7 @@ Para saber mais: https://acabrasil.org.br/
 o aquecimento global a bem abaixo de 2 °C e prosseguindo os esforços para limitá-lo a 1,5 °C
 15
 
---- Page 16 ---
+--- Page 3 ---
 
 AOSSEP
 OÃOJ
@@ -500,7 +141,7 @@ Fonte: WayCarbon, com dados da Prefeitura de João Pessoa
 0005029
 Território de João Pessoa
 
---- Page 17 ---
+--- Page 4 ---
 
 AOSSEP
 OÃOJ
@@ -540,7 +181,7 @@ goto contempla 81,9% da área total do município e 81,6% da área urbana (TRATA
 BRASIL, 2022), com perspectivas de expansão até atingir a universalidade do serviço.
 17
 
---- Page 18 ---
+--- Page 5 ---
 
 AOSSEP
 OÃOJ
@@ -589,7 +230,7 @@ Climáticas de João Pessoa (COMCLIM).
 conservação alcança parte do território pessoense.
 18
 
---- Page 19 ---
+--- Page 6 ---
 
 AOSSEP
 OÃOJ
@@ -625,7 +266,7 @@ Figura 2. Linha do tempo da atuação da Prefeitura de João Pessoa na pauta cli
 Fonte: WayCarbon
 19
 
---- Page 20 ---
+--- Page 7 ---
 
 AOSSEP
 OÃOJ
@@ -670,7 +311,7 @@ Mapas da Cidade
 Fonte: WayCarbon
 20
 
---- Page 21 ---
+--- Page 8 ---
 
 AOSSEP
 OÃOJ
@@ -718,7 +359,7 @@ Hídrica, Cenários de Emissões de GEE e Análise de Riscos e Vulnerabilidades 
 Na Figura 4 são apresentados os principais objetivos de cada estudo.
 21
 
---- Page 22 ---
+--- Page 9 ---
 
 AOSSEP
 OÃOJ
@@ -772,7 +413,7 @@ Figura 5. Passo a passo da priorização de ações do Plano e contribuições d
 Fonte: WayCarbon
 22
 
---- Page 23 ---
+--- Page 10 ---
 
 AOSSEP
 OÃOJ
@@ -837,7 +478,7 @@ no Capítulo 3 deste documento.
 região e fortalecimento da provisão de serviços públicos como educação, cultura e saneamento básico (C40, 2021).
 23
 
---- Page 24 ---
+--- Page 11 ---
 
 AOSSEP
 OÃOJ
@@ -886,7 +527,7 @@ disponibilizados
 1º formulário de consulta Formulário de cadastro 2º formulário de consulta
 24
 
---- Page 25 ---
+--- Page 12 ---
 
 AOSSEP
 OÃOJ
@@ -928,7 +569,7 @@ que foram feitas atividades virtuais e presenciais, buscando atender a um maior 
 de pessoas e perfis de participação.
 25
 
---- Page 26 ---
+--- Page 13 ---
 
 2. DIAGNÓSTICO DE JOÃO
 PESSOA SOB A LENTE CLIMÁTICA
@@ -941,7 +582,7 @@ PESSOA SOB A LENTE CLIMÁTICA
 2.4. Cenários de Emissões de GEE
 ........................................................................................................................... 36
 
---- Page 27 ---
+--- Page 14 ---
 
 AOSSEP
 OÃOJ
@@ -979,7 +620,7 @@ Figura 7. Metodologia de Risco IPCC
 Fonte: WayCarbon com base em IPCC (2021a)
 27
 
---- Page 28 ---
+--- Page 15 ---
 
 AOSSEP
 OÃOJ
@@ -1037,7 +678,7 @@ Os resultados apresentam um destaque para regiões com risco médio e alto de in
 0000029
 280000 285000 290000 295000 300000 305000
 
---- Page 29 ---
+--- Page 16 ---
 
 AOSSEP
 OÃOJ
@@ -1076,7 +717,7 @@ bacias do Baixo Curso do Rio Paraíba e da Bacia do Gramame apresentam uma amea�
 de secas meteorológicas alta para todo o período.
 29
 
---- Page 30 ---
+--- Page 17 ---
 
 AOSSEP
 OÃOJ
@@ -1123,7 +764,7 @@ apresenta os dados utilizados no cálculo de cada componente por tipo de process
 organizações e indivíduos.
 30
 
---- Page 31 ---
+--- Page 18 ---
 
 AOSSEP
 OÃOJ
@@ -1187,7 +828,7 @@ Figura 10. Pegada Hídrica direta do município de João Pessoa por componentes 
 Fonte: WayCarbon
 31
 
---- Page 32 ---
+--- Page 19 ---
 
 AOSSEP
 OÃOJ
@@ -1236,7 +877,7 @@ Institute) e C40 (Climate Leadership Group) em 2014, tendo como base o Guia Naci
 pelas Centrais Elétricas Da Paraíba (EPASA) e exportadas para o Sistema Interligado Nacional (SIN).
 32
 
---- Page 33 ---
+--- Page 20 ---
 
 AOSSEP
 OÃOJ
@@ -1275,7 +916,7 @@ e Resíduos.
 Pessoa foi utilizado para calcular e gerenciar as emissões de gases de efeito estufa do município.
 33
 
---- Page 34 ---
+--- Page 21 ---
 
 AOSSEP
 OÃOJ
@@ -1342,7 +983,7 @@ medida do quanto cada gás contribui para o aquecimento global e compara o poten
 de gás com a mesma quantidade de CO.
 2
 
---- Page 35 ---
+--- Page 22 ---
 
 AOSSEP
 OÃOJ
@@ -1401,7 +1042,7 @@ BIP
 Emissões per capita (tCO e/ hab)
 2
 
---- Page 36 ---
+--- Page 23 ---
 
 AOSSEP
 OÃOJ
@@ -1460,7 +1101,7 @@ seõssimE
 2
 I. Energia Estacionária II. Transporte III. Resíduos
 
---- Page 37 ---
+--- Page 24 ---
 
 AOSSEP
 OÃOJ
@@ -1694,7 +1335,7 @@ Redução Energia Estacionária Redução Transporte Redução Resíduos BAU Met
 Figura 16. Resultados do Cenário Ambicioso
 Fonte: WayCarbon
 
---- Page 38 ---
+--- Page 25 ---
 
 AOSSEP
 OÃOJ
@@ -1711,7 +1352,7 @@ cenário mais ambicioso e apresenta as recomendações para serem consideradas n
 alização do PAC.
 38
 
---- Page 39 ---
+--- Page 26 ---
 
 3. PLANO DE AÇÃO
 3.1. Metas Gerais de Mitigação e Adaptação
@@ -1721,7 +1362,7 @@ alização do PAC.
 3.3. Ações Prioritárias
 ............................................................................................................................. 46
 
---- Page 40 ---
+--- Page 27 ---
 
 AOSSEP
 OÃOJ
@@ -1787,7 +1428,7 @@ sanitários.
 acabar com a pobreza, proteger o meio ambiente e o clima e garantir que todos possam desfrutar de paz e de prosperidade (ONU, 2022a).
 40
 
---- Page 41 ---
+--- Page 28 ---
 
 AOSSEP
 OÃOJ
@@ -1842,7 +1483,7 @@ Planejamento Municipal. No Quadro 4 são apresentados os eixos estratégicos, be
 seus desafios e potencialidades sob a ótica da mudança do clima.
 41
 
---- Page 42 ---
+--- Page 29 ---
 
 AOSSEP
 OÃOJ
@@ -1914,7 +1555,7 @@ já previstas, como a Implantação do
 Centro de Cooperação da Cidade (CCC).
 42
 
---- Page 43 ---
+--- Page 30 ---
 
 AOSSEP
 OÃOJ
@@ -2003,7 +1644,7 @@ Fonte: WayCarbon, com base nos diagnósticos realizados para o plano e PMJP (202
 e Análise de Riscos e Vulnerabilidades Climáticas (2022)
 43
 
---- Page 44 ---
+--- Page 31 ---
 
 AOSSEP
 OÃOJ
@@ -2053,7 +1694,7 @@ Sustentável relacionados com a ação.
 Fonte: WayCarbon
 44
 
---- Page 45 ---
+--- Page 32 ---
 
 AOSSEP
 OÃOJ
@@ -2107,7 +1748,7 @@ a busca de uma determinada ação dentro do PAC.
 17. Destaca-se que essa estimativa diz respeito ao custo do investimento no valor presente de 2022.
 45
 
---- Page 46 ---
+--- Page 33 ---
 
 AOSSEP
 OÃOJ
@@ -2150,7 +1791,7 @@ da necessidade de grandes deslocamentos da população.
 1.3. Construir faixas exclusivas para ônibus nas avenidas de ligação. SEMOB
 46
 
---- Page 47 ---
+--- Page 34 ---
 
 AOSSEP
 OÃOJ
@@ -2194,7 +1835,7 @@ transporte de bicicletas nos ônibus e estabelecer mecanismo para
 implantação dessa medida pelas concessionárias de transporte.
 47
 
---- Page 48 ---
+--- Page 35 ---
 
 AOSSEP
 OÃOJ
@@ -2232,7 +1873,7 @@ Identificado – Recursos próprios do município
 (Fundos específicos)
 48
 
---- Page 49 ---
+--- Page 36 ---
 
 AOSSEP
 OÃOJ
@@ -2280,7 +1921,7 @@ bicicleta por alunos da rede pública, através de incentivo financeiro e
 implantação de infraestrutura no entorno das escolas.
 49
 
---- Page 50 ---
+--- Page 37 ---
 
 AOSSEP
 OÃOJ
@@ -2319,7 +1960,7 @@ Subação: Instituições responsáveis:
 5.3. Fomentar a implantação de rede de recarga para veículos elétricos. SEPLAN e SEMOB
 50
 
---- Page 51 ---
+--- Page 38 ---
 
 AOSSEP
 OÃOJ
@@ -2365,7 +2006,7 @@ conservação/restauração do patrimônio cultural e ambiental. SEMAM e SETUR
 requalificação. SETUR
 51
 
---- Page 52 ---
+--- Page 39 ---
 
 AOSSEP
 OÃOJ
@@ -2409,7 +2050,7 @@ suas formas de implementação e financiamento.
 ção de habitações de interesse social.
 52
 
---- Page 53 ---
+--- Page 40 ---
 
 AOSSEP
 OÃOJ
@@ -2450,7 +2091,7 @@ dos de impacto da implantação de novos usos nas diversas zonas da
 cidade.
 53
 
---- Page 54 ---
+--- Page 41 ---
 
 AOSSEP
 OÃOJ
@@ -2506,7 +2147,7 @@ moção do uso misto p. ex. linhas de crédito, requalificação de prédios
 para aluguel social e garantia da aplicação IPTU Progressivo em lotes.
 54
 
---- Page 55 ---
+--- Page 42 ---
 
 AOSSEP
 OÃOJ
@@ -2566,7 +2207,7 @@ precários inseridos nessas áreas, com capacitação dos moradores e
 utilização de mão-de-obra local.
 55
 
---- Page 56 ---
+--- Page 43 ---
 
 AOSSEP
 OÃOJ
@@ -2619,7 +2260,7 @@ de dados dos mapeamentos, em cooperação com instituições
 científicas e demais entidades atuantes no tema.
 56
 
---- Page 57 ---
+--- Page 44 ---
 
 AOSSEP
 OÃOJ
@@ -2669,7 +2310,7 @@ intensificar a fiscalização pública.
 12.4. Elaborar mecanismos de incentivo econômico para conservação. SEMAM, SEPLAN e SEDEST
 57
 
---- Page 58 ---
+--- Page 45 ---
 
 AOSSEP
 OÃOJ
@@ -2732,7 +2373,7 @@ do Sol, Gramame, Mussuré, Mumbaba e demais bairros mais ao sul
 do município.
 58
 
---- Page 59 ---
+--- Page 46 ---
 
 AOSSEP
 OÃOJ
@@ -2782,7 +2423,7 @@ atores para realizar projetos de conscientização, monitoramento e SUDEMA
 preservação dos oceanos.
 59
 
---- Page 60 ---
+--- Page 47 ---
 
 AOSSEP
 OÃOJ
@@ -2833,7 +2474,7 @@ que valorizem o patrimônio natural e cultural da área de forma
 sustentável e incentivem a sua conservação.
 60
 
---- Page 61 ---
+--- Page 48 ---
 
 AOSSEP
 OÃOJ
@@ -2879,7 +2520,7 @@ para viabilizar a implementação do PMRR no território.
 chuvoso”.
 61
 
---- Page 62 ---
+--- Page 49 ---
 
 AOSSEP
 OÃOJ
@@ -2920,7 +2561,7 @@ Subação: Instituições responsáveis:
 cartas de zoneamento de risco de enchentes. Defesa Civil
 62
 
---- Page 63 ---
+--- Page 50 ---
 
 AOSSEP
 OÃOJ
@@ -2966,7 +2607,7 @@ CCC, promovendo ganhos de eficiência no planejamento e operação
 do transporte público.
 63
 
---- Page 64 ---
+--- Page 51 ---
 
 AOSSEP
 OÃOJ
@@ -3011,7 +2652,7 @@ falésias.
 com deslizamentos. SEMHAB e Defesa Civil
 64
 
---- Page 65 ---
+--- Page 52 ---
 
 AOSSEP
 OÃOJ
@@ -3056,7 +2697,7 @@ permeáveis e arborização urbana.
 relacionadas à drenagem.
 65
 
---- Page 66 ---
+--- Page 53 ---
 
 AOSSEP
 OÃOJ
@@ -3098,7 +2739,7 @@ SEPLAN e SEMAM
 causadores de inundações, enchentes e alagamentos. SEPLAN e SEMAM
 66
 
---- Page 67 ---
+--- Page 54 ---
 
 AOSSEP
 OÃOJ
@@ -3148,7 +2789,7 @@ mananciais superficiais e subterrâneos.
 rios importantes para o município, como Cuiá e Gramame.
 67
 
---- Page 68 ---
+--- Page 55 ---
 
 AOSSEP
 OÃOJ
@@ -3197,7 +2838,7 @@ bairros, escolas e creches.
 e priorização de equipamentos necessários ao controle do vetor.
 68
 
---- Page 69 ---
+--- Page 56 ---
 
 AOSSEP
 OÃOJ
@@ -3240,7 +2881,7 @@ chuva para fins potáveis.
 fins não potáveis. SEMAM
 69
 
---- Page 70 ---
+--- Page 57 ---
 
 AOSSEP
 OÃOJ
@@ -3286,7 +2927,7 @@ Unidades de Vigilância em Saúde.
 dados mensais analisados.
 70
 
---- Page 71 ---
+--- Page 58 ---
 
 AOSSEP
 OÃOJ
@@ -3331,7 +2972,7 @@ escolas, creches, mercados, indústrias, restaurantes e sociedade civil,
 visando a separação dos resíduos úmidos.
 71
 
---- Page 72 ---
+--- Page 59 ---
 
 AOSSEP
 OÃOJ
@@ -3377,7 +3018,7 @@ público-privadas para arrecadação de fundos.
 27.4. Regularizar Comitê Municipal para Gestão da Coleta Seletiva. EMLUR
 72
 
---- Page 73 ---
+--- Page 60 ---
 
 AOSSEP
 OÃOJ
@@ -3422,7 +3063,7 @@ responsabilidade compartilhada do ciclo de vida dos produtos e
 municipalização do marco regulatório da logística reversa.
 73
 
---- Page 74 ---
+--- Page 61 ---
 
 AOSSEP
 OÃOJ
@@ -3464,7 +3105,7 @@ tratamento de resíduos úmidos.
 reciclagem.
 74
 
---- Page 75 ---
+--- Page 62 ---
 
 AOSSEP
 OÃOJ
@@ -3515,7 +3156,7 @@ construir o PEAC e fomentar o intercâmbio entre esses atores na
 construção de projetos comunitários.
 75
 
---- Page 76 ---
+--- Page 63 ---
 
 AOSSEP
 OÃOJ
@@ -3566,7 +3207,7 @@ esta opção nos cardápios de merenda escolar e de restaurantes
 populares.
 76
 
---- Page 77 ---
+--- Page 64 ---
 
 AOSSEP
 OÃOJ
@@ -3606,7 +3247,7 @@ Pública, os adaptando ao tema mudança climática.
 mudança do clima. ligadas ao futuro Fórum
 77
 
---- Page 78 ---
+--- Page 65 ---
 
 AOSSEP
 OÃOJ
@@ -3652,7 +3293,7 @@ e aumentar o número de feiras fixas.
 agroecológica.
 78
 
---- Page 79 ---
+--- Page 66 ---
 
 AOSSEP
 OÃOJ
@@ -3696,7 +3337,7 @@ como associações de catadores e centros de triagem. SEPLAN, SEDURB
 34.3. Criar um Distrito Criativo no Centro Histórico. SECITEC, SEDEST
 79
 
---- Page 80 ---
+--- Page 67 ---
 
 AOSSEP
 OÃOJ
@@ -3743,7 +3384,7 @@ programa de selo de qualidade na construção civil.
 de Resíduos da Construção Civil”.
 80
 
---- Page 81 ---
+--- Page 68 ---
 
 AOSSEP
 OÃOJ
@@ -3785,7 +3426,7 @@ com esgotamento sanitário, em parceria com o projeto Cooperar PB.
 econômico de lodos de ETEs.
 81
 
---- Page 82 ---
+--- Page 69 ---
 
 AOSSEP
 OÃOJ
@@ -3832,7 +3473,7 @@ comportamentos mais econômicos no uso de energia. SEMAM
 comunidades, capacitando e utilizando mão-de-obra local. SEPLAN e SEMAM
 82
 
---- Page 83 ---
+--- Page 70 ---
 
 4. IMPLEMENTAÇÃO
 DO PLANO
@@ -3841,7 +3482,7 @@ DO PLANO
 4.2. Análise de Barreiras e Recomendações Futuras
 ........................................................................................................................... 91
 
---- Page 84 ---
+--- Page 71 ---
 
 AOSSEP
 OÃOJ
@@ -3892,7 +3533,7 @@ cos, resumos executivos e outros documentos
 res de adaptação e execução das ações de curto prazo (até 2030)
 84
 
---- Page 85 ---
+--- Page 72 ---
 
 AOSSEP
 OÃOJ
@@ -3957,7 +3598,7 @@ transporte público e
 veículos particulares)
 85
 
---- Page 86 ---
+--- Page 73 ---
 
 AOSSEP
 OÃOJ
@@ -4041,7 +3682,7 @@ pode contribuir com o aprimoramento das ações e indicadores, direcionando as �
 demandas mais críticas da sociedade.
 86
 
---- Page 87 ---
+--- Page 74 ---
 
 AOSSEP
 OÃOJ
@@ -4107,7 +3748,7 @@ Barreiras são desafios ou limitações existentes no contexto atual e que restr
 mentação de ações mais ambiciosas no longo prazo. São fatores externos, como decisões
 87
 
---- Page 88 ---
+--- Page 75 ---
 
 AOSSEP
 OÃOJ
@@ -4160,7 +3801,7 @@ das ações no longo prazo, na direção de uma João Pessoa mais justa, resilie
 em emissões de carbono.
 88
 
---- Page 89 ---
+--- Page 76 ---
 
 AOSSEP
 OÃOJ
@@ -4197,12 +3838,12 @@ nerável.
 consumo de energia para o bem-estar, e universalizar o acesso a serviços essenciais.
 89
 
---- Page 90 ---
+--- Page 77 ---
 
 5. CONSIDERAÇÕES
 FINAIS
 
---- Page 91 ---
+--- Page 78 ---
 
 Nas cidades o combate à mudança do clima possui um sentido
 de urgência mais forte: onde se concentram pessoas, atividades e
@@ -4249,7 +3890,7 @@ e ambição em um dos momentos mais desafiantes que a humani-
 dade enfrenta.
 91
 
---- Page 92 ---
+--- Page 79 ---
 
 AOSSEP
 OÃOJ
@@ -4296,7 +3937,7 @@ Disponível em: https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?vie
 lhes&id=2101728. Acesso em: 24 jun. 2022.
 92
 
---- Page 93 ---
+--- Page 80 ---
 
 AOSSEP
 OÃOJ
@@ -4343,7 +3984,7 @@ tion. 2022b. Disponível em: https://www.un.org/en/climatechange/net-zero-coalit
 Acesso em: 25 out. 2022.
 93
 
---- Page 94 ---
+--- Page 81 ---
 
 AOSSEP
 OÃOJ
@@ -4393,7 +4034,7 @@ SNIS. Diagnósticos SNIS 2021/2022 (Ano de referência 2020). 2021. Disponível 
 http://www.snis.gov.br/diagnosticos. Acesso em: 31 mar. 2022.
 94
 
---- Page 95 ---
+--- Page 82 ---
 
 AOSSEP
 OÃOJ
@@ -4414,7 +4055,7 @@ tories. 2014. Disponível em: https://www.wri.org/research/global-protocol-commu
 cale-greenhouse-gas-emission-inventories. Acesso em: 28 abr. 2021.
 95
 
---- Page 96 ---
+--- Page 83 ---
 
 AOSSEP
 OÃOJ
@@ -4459,7 +4100,7 @@ serviços básicos de cidadania (saúde, segurança, educação e infraestrutura
 geral).
 96
 
---- Page 97 ---
+--- Page 84 ---
 
 AOSSEP
 OÃOJ
@@ -4492,7 +4133,7 @@ resposta ou de adaptação. O nível de vulnerabilidade pode variar conforme os 
 e elementos levados em consideração.
 97
 
---- Page 98 ---
+--- Page 85 ---
 
 AOSSEP
 OÃOJ
@@ -4540,7 +4181,7 @@ RMJP Região Metropolitana de João Pessoa
 SbN Soluções baseadas na Natureza
 98
 
---- Page 99 ---
+--- Page 86 ---
 
 AOSSEP
 OÃOJ
@@ -4584,7 +4225,7 @@ WRI World Resources Institute
 ZEIS Zonas Especiais de Interesse Social
 99
 
---- Page 100 ---
+--- Page 87 ---
 
 AOSSEP
 OÃOJ
@@ -4607,7 +4248,7 @@ cidade que se preocupa com seu futuro, com a qualidade de vida do seu povo e com
 sustentabilidade do planeta para essa e para as futuras gerações.
 100
 
---- Page 101 ---
+--- Page 88 ---
 
 AOSSEP
 OÃOJ
@@ -4691,7 +4332,7 @@ Secretaria de Infraestrutura
 Beatriz Ferreira, Analista de
 101
 
---- Page 102 ---
+--- Page 89 ---
 
 Sustentabilidade Júnior | WayCarbon
 Diego Braga, Analista de Sustentabilidade
@@ -4729,6 +4370,6 @@ PROJETO GRÁFICO E DIAGRAMAÇÃO
 Flávio Vilela - flaviovilela.com.br
 102
 
---- Page 103 ---
+--- Page 90 ---
 
 C: 97 M: 18 Y: 33 K:0 C: 100 M: 46 Y: 39 K:13
