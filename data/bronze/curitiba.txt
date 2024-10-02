@@ -1,7 +1,4 @@
 
-
---- Page 1 ---
-
 1 | MUDANÇA DO CLIMA E O PLANO MUNICIPAL DE MITIGAÇÃO E
 ADAPTAÇÃO ÀS MUDANÇAS CLIMÁTICAS DE CURITIBA
 Em outubro de 2018, o Painel Intergovernamental sobre Mudanças Climáticas (IPCC
@@ -34,9 +31,6 @@ das altas demandas por produtos industrializados, alimentos e infraestrutura4.
 3https://public.wmo.int/en/media/press-release/2019-concludes-decade-of-exceptional-global-heat-
 and-high-impact-weather
 4https://www.scielo.br/pdf/rap/v45n3/04.pdf
-
---- Page 2 ---
-
 Essas mesmas áreas urbanas que aceleram as emissões podem ser gravemente
 afetadas pelos impactos da mudança do clima, especialmente os efeitos do aumento
 da frequência e da intensidade dos eventos climáticos extremos. O processo de
@@ -65,9 +59,6 @@ intensificação dos eventos climáticos apresenta-se como um novo desafio à ge
 urbana, que deve identificar, desenvolver e a implementar respostas efetivas para
 aprimorar a capacidade de mitigação e de adaptação das cidades e reduzir riscos e
 vulnerabilidades ambientais e socioeconômicas relacionados ao tema.
-
---- Page 3 ---
-
 As cidades são, portanto, protagonistas nas respostas locais à crise climática. Fica
 evidente a necessidade de alinhar e coordenar os esforços das cidades com as
 demais esferas de governo, setor privado e sociedade no enfrentamento desse
@@ -88,9 +79,6 @@ internacionais é fundamental para o estabelecimento de uma política municipal 
 sustentabilidade de longo prazo e o PlanClima o reafirma. A Figura 1 resume os
 objetivos do Acordo de Paris e dos ODS.
 Figura 1: Objetivos do Acordo de Paris e os 17 Objetivos de Desenvolvimento Sustentável (ODS)
-
---- Page 4 ---
-
 O PlanClima busca promover estratégias, articulação e integração de ações
 multissetoriais e transversais, almejando reduzir as emissões de GEE (mitigação) e
 aumentar a capacidade de adaptação da cidade aos riscos climáticos, tornando-a
@@ -98,9 +86,6 @@ mais resiliente. Traz também um foco de atenção para os grupos mais vulneráv
 aos riscos climáticos, visando a sua inclusão nesse planejamento, e propõe uma
 estrutura de governança que promova o envolvimento e a participação do poder
 público, dos setores produtivos e da sociedade.
-
---- Page 5 ---
-
 2 | PROCESSO DE ELABORAÇÃO DO PLANO
 Em maio de 2018, foi assinada a Carta de Compromisso da Cidade de Curitiba com
 o relatório Deadline 2020 – Meta 20205 do Grupo C40 de Grandes Cidades para
@@ -128,9 +113,6 @@ Celsius. Setenta por cento das cidades da C40 já estão experimentando os efeit
 climática. Eventos como seca, inundações, tempestades, insegurança alimentar, migração climática e
 difusão de doenças contagiosas têm registrado projeção de aumento em frequência e severidade no
 correr dos anos.
-
---- Page 6 ---
-
 Figura 2: Principais etapas do processo de Planejamento de Ação Climática
 O Quadro de Planejamento de Ação Climática determina também que o processo de
 elaboração do Plano envolva a comunidade, avaliando os benefícios sociais,
@@ -152,9 +134,6 @@ Ambiente – CMMA e no Fórum Curitiba sobre Mudanças Climáticas, sendo a sua
 minuta encaminhada aos Conselheiros e Membros para o envio de contribuições.
 Após esse processo, o PlanClima tornou-se apto para aprovação, tendo início a sua
 implementação.
-
---- Page 7 ---
-
 2.1 | ESTRUTURA ORGANIZACIONAL PARA ELABORAÇÃO DO PLANCLIMA
 Em setembro de 2018, após a adesão da cidade à Meta 2020, foi criado o Grupo de
 Trabalho - GT Clima para a elaboração do PlanClima. A instituição do GT Clima se
@@ -176,9 +155,6 @@ servidores e funcionários de instituições relacionadas e no alinhamento das a
 transversais com a sociedade.
 A Figura 3 apresenta um organograma da estrutura de governança sobre a qual foi
 elaborado o PlanClima.
-
---- Page 8 ---
-
 Figura 3: Organograma da estrutura de governança sobre a qual foi elaborado o PlanClima.
 As etapas iniciais de Diagnóstico Técnico e Identificação de Estratégias foram
 elaboradas pelo GT Clima e por consultores, no âmbito do Programa de Assistência
@@ -198,9 +174,6 @@ técnico do Grupo C40. Ainda em 2019, duas representantes da Prefeitura estivera
 no C40 World Mayors Summit, encontro mundial ocorrido em Copenhague, na
 Dinamarca, onde prefeitos, representantes de empresas e lideranças da sociedade
 apresentaram ações e soluções climáticas fortemente comprometidas com o
-
---- Page 9 ---
-
 desenvolvimento de baixo carbono para a construção de cidades mais resilientes e
 inclusivas.
 Em fevereiro de 2020, antes de a pandemia de Covid-19 se alastrar no Brasil, a cidade
@@ -230,9 +203,6 @@ sua formalização por parte da PMC.
 6 O CONCITIBA, no contexto da gestão democrática da cidade, é o órgão colegiado municipal de
 política urbana, que tem por atribuição atuar na formulação, elaboração e acompanhamento da Política
 Urbana Municipal, segundo diretrizes do Estatuto da Cidade e do Plano Diretor.
-
---- Page 10 ---
-
 3 | CARACTERIZAÇÃO DE CURITIBA E REGIÃO
 Curitiba, capital do Estado do Paraná, situa-se no primeiro planalto paranaense, a
 aproximadamente 935 metros de altitude em relação ao nível do oceano, ocupando
@@ -263,9 +233,6 @@ de definir a distribuição dos equipamentos de educação, saúde, recreação 
 para toda a cidade e propiciar suporte econômico para o desenvolvimento do
 município, a partir da implantação da Cidade Industrial de Curitiba – CIC. A Figura 4
 apresenta a localização de Curitiba.
-
---- Page 11 ---
-
 Figura 4: Localização de Curitiba e da Região Metropolitana de Curitiba
 O Estado do Paraná e especificamente a cidade de Curitiba há décadas estão entre
 as regiões mais desenvolvidas do Brasil, segundo indicadores de qualidade de vida e
@@ -280,9 +247,6 @@ A cidade de Curitiba expande esta dinâmica aos municípios vizinhos, especialme
 nos bairros limítrofes. O perfil das atividades econômicas do Município de Curitiba
 indica que 12,10% das atividades são do ramo da indústria, 30,43% no ramo de
 comércio e 57,15% no ramo de serviços e 0,32% no setor primário. O número de
-
---- Page 12 ---
-
 estabelecimentos no município é de 155.296 mil de acordo com dados de 2018.
 (FMTE/DES/CGET/RAIS). O Quadro 1 apresenta um resumo dos principais
 indicadores socioeconômicos do Município.
@@ -311,9 +275,6 @@ atendidos por rede de água
 Percentual de domicílios particulares permanentes
 92,30% IBGE/Censo Demográfico 2010
 atendidos por rede de esgoto
-
---- Page 13 ---
-
 4 | CURITIBA E O PLANEJAMENTO URBANO
 4.1 | PROCESSO DE PLANEJAMENTO URBANO
 Curitiba tem, historicamente, privilegiado ações de planejamento urbano que
@@ -336,9 +297,6 @@ estimulam maiores densidades e usos mistos. O resultado é uma cidade mais
 compacta, que oferece à população fácil acesso a uma diversidade de atividades,
 comércios, serviços e espaços públicos, favorecendo a interação social, o
 desenvolvimento econômico e a mobilidade urbana.
-
---- Page 14 ---
-
 Com essas diretrizes, a cidade trilhou um caminho mais sustentável. Tornou-se
 pioneira no Brasil, por exemplo, na utilização da estratégia atualmente denominada
 de Desenvolvimento Urbano Orientado pelo Transporte Sustentável (DOTS)7. Na
@@ -371,9 +329,6 @@ de emprego por meio de incentivo ao uso misto do solo próximo aos corredores de
 (Disponível em:
 <https://wribrasil.org.br/pt/o-que-fazemos/projetos/desenvolvimento-orientado-ao-transporte-
 sustentavel-dots> Acesso em: 27/09/2020).
-
---- Page 15 ---
-
 A revisão do Plano Diretor de 2015 reforçou e ampliou a continuidade do processo de
 planejamento. Por exemplo, estendeu as diretrizes de desenvolvimento sustentável
 de Curitiba à Região Metropolitana, alinhando-se a compromissos internacionais,
@@ -398,9 +353,6 @@ compartimentos urbanos; pluralidade de funções e atividades nos compartimentos
 integração metropolitana com a definição de eixos de transporte;
 - Organização do Espaço Urbano: está orientada por macrozoneamento, observado o
 adensamento populacional com vistas à qualificação urbana e ambiental. São utilizados
-
---- Page 16 ---
-
 instrumentos como Parcelamento, Edificação ou Utilização Compulsórios, Plano de
 Desenvolvimento Regional, Redesenvolvimento Urbano, e Estudo de Impacto de Vizinhança;
 - Cidade Mais Compacta: estímulo à moradia mais próxima do trabalho, do comércio, dos
@@ -436,9 +388,6 @@ consorciadas.
 Considerando os conceitos do Plano Diretor, conforme descrito anteriormente,
 verifica-se um pleno alinhamento com as ações necessárias para o enfrentamento da
 mudança climática. A Figura 7 apresenta a estruturação urbana que reflete a adoção
-
---- Page 17 ---
-
 desses conceitos, demonstrando sua visão de futuro, compatível com horizonte de
 2050 previsto no PlanClima.
 Figura 7: Estruturação Urbana – Visão Futura do Plano Diretor de 2015
@@ -451,9 +400,6 @@ O Sistema de Planejamento Municipal se efetiva por meio dos instrumentos previst
 no seu Plano Diretor ordenados segundo três categorias distintas: (i) instrumentos de
 políticas públicas setoriais; (ii) instrumentos de aplicação territorial; e (iii) instrumentos
 urbanísticos.
-
---- Page 18 ---
-
 Figura 8: Esquema do Sistema de Planejamento Municipal do Plano Diretor de 2015
 O PlanClima caracteriza-se como um Plano Estratégico dentro da hierarquia do
 Sistema de Planejamento Municipal. O Plano Diretor define como planos estratégicos
@@ -471,9 +417,6 @@ informações municipais para, depois, cruzar os resultados alcançados aos obje
 do Plano Diretor. Além de fortalecer a transparência das informações e o controle
 social quanto às ações municipais, esse modelo de monitoramento tem extrema
 relevância no processo de implementação do PlanClima.
-
---- Page 19 ---
-
 5 | TRAJETÓRIA DE AÇÕES DE CURITIBA NO ENFRENTAMENTO DAS
 MUDANÇAS CLIMÁTICAS
 Curitiba vem progressivamente fortalecendo sua política ambiental e avançando no
@@ -501,9 +444,6 @@ conhecimentos tradicionais associados à biodiversidade e acesso aos benefícios
 decorrentes do uso de recursos genéticos8. (Fonte: Estudo de Vulnerabilidade projeto
 bairro Novo Caximba, 2019).
 8Fonte: Estudo de Vulnerabilidade projeto bairro Novo Caximba, 2019
-
---- Page 20 ---
-
 Em 2008, Curitiba elaborou seu primeiro Plano Setorial de Meio Ambiente,
 denominado Plano Municipal de Controle Ambiental e Desenvolvimento Sustentável
 (PMCADS), em atendimento às diretrizes e instrumentos de política urbana trazidos
@@ -533,9 +473,6 @@ do município;
 Climáticas.
 Dando sequência às etapas definidas pelo Fórum, em 2018, por meio Ofício no
 115/2018-EM, de 14/05/2018, foi assinada a Carta de Compromisso da Cidade de
-
---- Page 21 ---
-
 Curitiba com a Meta 2020 do Grupo C40 de Planejamento de Ação Climática (PAC),
 como objetivo dar suporte e apoiar a cidade no desenvolvimento de um plano de ação
 climática até o final de 2020.
@@ -566,9 +503,6 @@ ser concluído até o final de 2020.
 9Curitiba, Prefeitura Municipal, 2020. Programa Curitiba Mais Energia (Disponível
 em:<https://www.curitiba.pr.gov.br/noticias/piramide-solar-da-caximba-vai-produzir-43-do-consumo-
 de-energia-de-predios-municipais/55081>
-
---- Page 22 ---
-
 Essa não foi a única ação voltada ao aproveitamento de energia solar. Em junho de
 2019, o projeto de eficiência energética no Palácio 29 de Março, sede administrativa
 da Prefeitura, implementado com recursos do Programa de Eficiência Energética da
@@ -600,9 +534,6 @@ propostas ao governo brasileiro para a participação do Brasil na COP-21 (Paris
 ações aos governos locais. Ainda em 2015, Curitiba participou da COP 21.
 - 2016: Em junho foi formado um novo Compacto de Prefeitos para o Clima e Energia. A adesão
 de Curitiba e de outras 32 cidades configurou o Ato de Prefeitos pelo Clima e Energia, realizado
-
---- Page 23 ---
-
 durante a programação da 72a Reunião Geral da Frente Nacional de Prefeitos, no SEBRAE
 Recife.
 - 2017: Foi instituído o Comitê Gestor do programa “Construindo Cidades Resilientes”, por meio
@@ -622,9 +553,6 @@ cidades, ocupará uma área de 4,4 mil metros quadrados, para atividades ligadas
 social, cidadã e alimentar.
 As ações relacionadas ao enfrentamento à mudança climática adotadas pelo
 município são sintetizadas na Figura 9.
-
---- Page 24 ---
-
 Figura 9: Trajetória das ações para enfrentamentos das mudanças climáticas
 Importante destacar que a mudança climática, além de se configurar como tema
 transversal às diversas políticas setoriais da cidade, tem se tornado dimensão-chave
@@ -638,9 +566,6 @@ Desenvolvimento (AFD). O desenvolvimento deste projeto foi embasado na cocriaç�
 com a comunidade, o que proporcionou engajamento e apropriação, além dos
 espaços projetados considerarem a promoção intergeracional e a coexistência de
 gênero, acessibilidade universal e a melhoria da educação e orientação profissional.
-
---- Page 25 ---
-
 6 | ELEMENTOS DO PROCESSO DE ELABORAÇÃO DO PLANCLIMA
 A estruturação do PlanClima foi estabelecida com base no Quadro de Planejamento
 de Ação Climática, desenvolvida pelo Grupo C40, e contempla quatro componentes-
@@ -659,9 +584,6 @@ econômicos esperados e à distribuição equitativa desses benefícios à popul
 Figura 10 ilustra os componentes-chave do Quadro de Planejamento de Ação
 Climática.
 Figura 10: Componentes-chave do Quadro de Planejamento de Ação Climática
-
---- Page 26 ---
-
 O planejamento de ação climática está baseado em evidências técnicas e
 processuais obtidas por meio de estudos, avaliações e ações. A partir desse material
 foi possível estabelecer uma linha de base que, por sua vez, permitiu elaborar um
@@ -681,9 +603,6 @@ GEE, os Inventários de Emissões permitem identificar e quantificar o perfil da
 emissões de determinada localidade. Além de proporcionarem o conhecimento da
 realidade das emissões de uma cidade, contribuem também para os seguintes
 aspectos:
-
---- Page 27 ---
-
 ESTABELECIMENTO DO ANO BASE PARA A TRAJETÓRIA DE EMISSÕES
 CENÁRIO BAU
 CENÁRIO DE AÇÕES PLANEJADAS
@@ -706,9 +625,6 @@ disponíveis em cada momento. O 1o Inventário utilizou a metodologia do IPCC
 seguiram a metodologia do Protocolo Global para Inventário de Comunidades e
 Cidades - Global Protocol for Community Scale Greenhouse Gas Emission
 Inventories (GPC) (PMC; ICLEI; 2016). O 4o Inventário, que serviu de linha de base
-
---- Page 28 ---
-
 para a construção dos cenários de redução das emissões para o PlanClima, manteve
 a metodologia do GPC.
 As diferenças nas abordagens metodológicas implicam uma limitação no exercício
@@ -724,9 +640,6 @@ residenciais, comerciais e institucionais, indústrias, iluminação pública e 
 rurais, (ii) Transporte e (iii) Resíduos Sólidos.
 10 Observar que os dados apresentados referentes ao 3o Inventário de Emissões de GEE não estão
 atualizados de acordo com a última atualização dos requisitos do Pacto Global de Prefeitos em 2016.
-
---- Page 29 ---
-
 O total de emissões reportado no 4o Inventário somou o montante de 3.505.046
 toneladas de dióxido de carbono equivalente (CO₂e) distribuídos percentualmente
 conforme demonstrado na Figura 14:
@@ -742,9 +655,6 @@ térmica consumida dentro dos limites municipais, totalizou 368.882 toneladas de
 CO₂e. O Escopo 3, referente às emissões de resíduos gerados na cidade e tratados
 fora dela, somou 90.910 toneladas de CO₂e. A Figura 15 retrata a distribuição das
 emissões entre os escopos:
-
---- Page 30 ---
-
 Figura 15: Distribuição das emissões de GEE em Curitiba separada por Escopos
 Considerando os limites reportados nesse inventário de emissões de GEE, é possível
 estabelecer indicadores de intensidade. Esses indicadores podem ser computados
@@ -754,9 +664,6 @@ dessa análise:
 Quadro 2: Indicadores de Intensidade
 A Figura 16 complementa os resultados das emissões nos Subsetores, em toneladas
 de CO₂e.
-
---- Page 31 ---
-
 Figura 16: Distribuição das emissões de GEE em Curitiba por Subsetores (em tCO2e)
 O fato de as emissões do Setor Transporte não estarem desagregadas em função da
 abordagem metodológica adotada impossibilita visualizar a contribuição dos
@@ -778,9 +685,6 @@ radiografia dos fluxos urbanos entre os bairros da cidade e destes em relação 
 metropolitanos com os quais as relações cotidianas são mais intensas. A POD visitou 60 mil domicílios
 para alcançar o total de 15,8 mil famílias (45 mil pessoas) entrevistadas que responderam ao
 questionário completo.
-
---- Page 32 ---
-
 6.2 INVENTÁRIO DE ESTOQUES DE CARBONO DAS ÁREAS NATURAIS E
 ÁREAS VERDES (INVENTÁRIO DE SUMIDOUROS)
 A Convenção-Quadro das Nações Unidas sobre a Mudança do Clima (UNFCCC -
@@ -801,9 +705,6 @@ contribuição para a manutenção da biodiversidade e melhoria da qualidade de 
 dos moradores, essa vegetação também auxilia na mitigação da mudança climática.
 Para estimar a quantidade de carbono absorvida e armazenada na vegetação nativa,
 Curitiba implementou de forma pioneira o “Programa de Avaliação e Quantificação do
-
---- Page 33 ---
-
 Potencial de Absorção de Carbono por Florestas Nativas”, em parceria com a
 Sociedade de Pesquisa em Vida Selvagem e Educação Ambiental (SPVS).
 Foram feitas três mensurações, em 2009, 2011 e 2019 (PMC; ICLEI; 2016), avaliando
@@ -833,9 +734,6 @@ Pelo serviço que prestam, essas reservas são relevantes na estratégia de Adap
 baseada em Ecossistemas (AbE), que busca reduzir a vulnerabilidade humana à
 mudança do clima por meio da gestão e utilização da biodiversidade e de serviços
 ecossistêmicos na adaptação das cidades. A AbEé uma das premissas inovadoras
-
---- Page 34 ---
-
 no radar dos gestores para a tomada de decisão de investimentos. Sua utilização é
 uma das diretrizes do Plano Nacional de Adaptação (Brasil, 2015), e também do Plano
 Diretor de Curitiba (artigo 66), segundo os quais, além de ser uma importante
@@ -859,9 +757,6 @@ REFERENCIAL DO VOLUME DE INVESTIMENTOS NECESSÁRIOS
 CONSTRUÇÃO DE METAS BASEADAS EM EVIDÊNCIAS
 IDENTIFICAÇÃO DA NECESSIDADE DE UMA ESTRUTURA DE GOVERNANÇA
 Figura 18: Aspectos contemplados na construção de cenários de emissões
-
---- Page 35 ---
-
 6.3.1 Trajetórias de emissões futuras de GEE e Emissões Residuais em
 Curitiba
 O Inventário de Emissões de GEE permite realizar a projeção de emissões futuras
@@ -890,9 +785,6 @@ elaboração do Plano.
 Foram criados quatro cenários:
 (i) Cenário Tendencial (sem mitigação) – É aquele que mantém o status quo,
 também chamado de business as usual (BAU) das emissões. Este cenário considera
-
---- Page 36 ---
-
 as projeções de mudanças populacionais, econômicas e de intensidade energética
 setorial segundo as tendências das emissões identificadas na linha de base;
 (ii) Cenário Planejado - Inclui ações existentes ou planejadas, regionais e nacionais
@@ -912,9 +804,6 @@ A Figura 19 apresenta as trajetórias das emissões de Curitiba modeladas para o
 cenários acima descritos. Cada um desses cenários está associado à uma projeção
 de quantidade de emissão de GEE, demonstrando, assim, o potencial de redução de
 cada cenário comparado às emissões do ano-base de 2016.
-
---- Page 37 ---
-
 Figura 19: Trajetória das emissões de GEE de Curitiba para os Cenários
 Tendencial, Planejado, Ambicioso e Estendido
 A linha superior do gráfico na cor vermelha representa o Cenário Tendencial (sem
@@ -937,9 +826,6 @@ Quando essas emissões são comparadas às projeções futuras do Cenário
 Tendencial, ocorre redução. Ainda assim, o cenário de ações planejadas não é
 suficiente para endereçar os objetivos e metas da cidade em relação à mitigação de
 GEE, que somente passa a ser mais viável nos Cenários Ambicioso e Estendido.
-
---- Page 38 ---
-
 O potencial de redução das emissões do Cenário Ambicioso, representado no
 gráfico pela porção azul, considera medidas sobre as quais o município possui
 governabilidade e que foram consensualmente pactuadas entre os atores
@@ -972,9 +858,6 @@ O Quadro 2 apresenta os principais tipos de barreiras para as estratégias de re
 de emissões no contexto do Cenário Estendido.
 12Entenda-se por barreira uma dificuldade, problema, regra ou situação que impede alguém de fazer
 algo ou que torna uma ação impossível.
-
---- Page 39 ---
-
 Quadro 3: Identificação e definição de barreiras para a redução de emissões
 Tipo de barreira Definição
 Incluem a falta de poderes legais para implementar determinada estratégia
@@ -1011,9 +894,6 @@ emissões residuais em 2050, em relação às emissões de 2016. Emissões resid
 são emissões remanescentes após adotadas todas as oportunidades técnicas e
 economicamente viáveis de redução de GEE em todos os Escopos e Setores. A
 Figura 20 apresenta o perfil das emissões residuais no Cenário Estendido.
-
---- Page 40 ---
-
 Figura 20: Perfil das emissões residuais de Curitiba para o ano de 2050
 As emissões residuais resultam principalmente do transporte rodoviário -
 representado pelos deslocamentos de veículos de passageiros (individuais e
@@ -1031,9 +911,6 @@ qualidade do ar e água, têm também a função de contribuir na absorção e e
 dióxido de carbono.
 Os estudos realizados em Curitiba para a avaliação da quantidade estocada nas
 áreas verdes da cidade foram iniciativas pioneiras e há intenção de dar continuidade
-
---- Page 41 ---
-
 a esse trabalho. O monitoramento do estoque contido nas 15 Unidades de
 Conservação municipais amostradas demonstrou, em 2019, que as áreas naturais
 destes locais possuem capacidade de estocar 141,25 toneladas de carbono por
@@ -1047,9 +924,6 @@ relação às estratégias, medidas e ou ações delineadas, resultando em difer
 potenciais de redução de emissões de GEE. No Quadro 3, destacam-se as principais
 premissas consideradas para os Setores Energia, Transporte e Resíduos.
 Quadro 4: Principais premissas adotadas para modelagem dos Cenários
-
---- Page 42 ---
-
 Considerando que o objetivo principal do PlanClima com relação à mitigação é o de
 alcançar a neutralidade de carbono em 2050, a seguir são apresentadas as principais
 estratégias, medidas e ou ações utilizadas para a modelagem do Cenário Estendido,
@@ -1073,9 +947,6 @@ de dados de kilowatt-hora (kWh) de eletricidade consumida pelo fator de emissão
 eletricidade, o qual depende do tipo de tecnologia utilizada para gerar energia elétrica (Fonte: GPC,
 2014). Disponível em:
 <https://ghgprotocol.org/sites/default/files/standards/GHGP_GPC_0.pdf>. Acesso em: 16/10/2020.
-
---- Page 43 ---
-
 Na modelagem desse cenário, as fontes de energia predominantes são: as grandes
 hidrelétricas, a energia eólica e solar (fotovoltaica e concentrada14), representando
 aproximadamente 85%; seguido do gás natural, biomassa e pequenas centrais
@@ -1106,9 +977,6 @@ melhoria da tecnologia para os seguintes processos e equipamentos:
 aquecer a água, que será transformada em vapor. Este vapor irá girar uma turbina, gerando
 eletricidade”. (Fonte: EPE, Empresa de pesquisa Energética, 2020). Disponível em:
 <https://www.epe.gov.br/pt/abcdenergia/fontes-de-energia>. Acesso em: 16/10/2020.
-
---- Page 44 ---
-
 - Iluminação; e
 - Envelopamento de edificações.
 Para a descarbonização das indústrias, na modelagem do Cenário Estendido,
@@ -1125,9 +993,6 @@ Figura 22: Perfil de deslocamento considerado para o ano-base de 2016
 e os anos de 2030 e 2050 simulado para o Cenário Estendido
 A mudança no perfil de deslocamentos modelada para 2050, apresenta um aumento
 de aproximadamente 85% dos deslocamentos feitos pelo transporte coletivo e por
-
---- Page 45 ---
-
 mobilidade ativa (a pé e bicicleta). Além disso, prevê a implementação de um sistema
 de transporte de alta capacidade já em 2030, representando cerca de 12% dos
 deslocamentos neste mesmo ano e aproximadamente 30% dos deslocamentos em
@@ -1154,9 +1019,6 @@ participação dos veículos elétricos e movidos a hidrogênio, redução na pa
 de veículos a gasolina e eliminação dos veículos movidos a diesel.
 15 Entende-se por Sistema de Transporte de Alta Capacidade sistemas com capacidade superior a do
 BRT.
-
---- Page 46 ---
-
 Figura 23: Mudança no combustível e tecnologia dos veículos de passageiros
 para o ano-base de 2016 e os anos de 2030 e 2050 simulado para o Cenário Estendido
 Setor Resíduos
@@ -1176,9 +1038,6 @@ atualmente 23 (vinte e três) municípios, totalizando 10.389,52 km², abrangend
 3.075.954 habitantes (IBGE 2010). Vale destacar que se encontra em andamento um processo de
 concorrência pública para Concessão do Sistema Integrado e Descentralizado de Tratamento de
 Resíduos e Disposição Final de Rejeitos.
-
---- Page 47 ---
-
 Assim, a modelagem do Cenário Estendido estimou que em 2030 a disposição final
 de rejeitos e resíduos em aterro sanitário é de 25% e, em 2050, de 5%. Considerou
 ainda o aproveitamento da parcela orgânica presente no resíduo sólido urbano de
@@ -1207,9 +1066,6 @@ Esse é, aliás, o objetivo do estudo “A Avaliação de Demandas para a Ação
 Inclusiva”, realizado em 2020, pela consultoria WayCarbon, por meio de assistência
 técnica prestada pelo Grupo C40 à Cidade de Curitiba no âmbito do Programa de
 Planejamento de Ação Climática.
-
---- Page 48 ---
-
 A avaliação de demandas para esse objetivo abrange os seguintes aspectos:
 IDENTIFICAÇÃO DA REDE DE PROTEÇÃO DA CIDADE
 AVALIAÇÃO DAS DEMANDAS COMPARANDO COM A AVALIAÇÃO DOS
@@ -1238,9 +1094,6 @@ marginalizadas;
 - Inclusão Econômica: equidade de oportunidades na distribuição de benefícios,
 incluindo empregos, riqueza etc.; e
 - Inclusão Espacial: acesso à terra, infraestrutura, transporte, habitação etc.
-
---- Page 49 ---
-
 Ou seja, a avaliação considerou que os grupos vulneráveis são aqueles que carecem
 de ações para sua inclusão, segundo as definições acima.
 Nas regiões da cidade com os grupos mais vulneráveis nos âmbitos social, econômico
@@ -1270,9 +1123,6 @@ Dessa forma, tornou-se possível a proposição de indicadores que permitem moni
 aspectos de inclusão para além dos domínios de interesse da ação pública. A
 avaliação sugeriu 28 indicadores prioritários para a ação inclusiva no âmbito do
 planejamento da ação climática em Curitiba.
-
---- Page 50 ---
-
 A avaliação realizou também uma análise político-econômica em que foram
 identificados os atores relevantes na construção de políticas municipais inclusivas que
 deveriam ser sondados para integrar o PlanClima. Este aspecto é de grande
@@ -1295,9 +1145,6 @@ de modo a evitar que apenas indivíduos com melhores condições (renda,
 infraestrutura, educação etc.) sejam beneficiados. Nesse contexto, o PlanClima não
 deve exacerbar as vulnerabilidades observadas na cidade, mas minimizá-las por meio
 do delineamento de ações de mitigação e adaptação inclusivas.
-
---- Page 51 ---
-
 6.5 | AVALIAÇÃO DE RISCOS CLIMÁTICOS
 Estudos e pesquisas científicas vêm comprovando que a mudança climática pode
 ocasionar danos ambientais e socioeconômicos significativos, causados pela maior
@@ -1325,9 +1172,6 @@ reproduzidos por modelos climáticos. Os cenários futuros são descritos segund
 prognósticos derivados de modelos quantitativos que simulam a dinâmica climática.
 Esses cenários de emissões de GEE são publicados em Relatórios de Avaliação (AR
 – Assessment Report) pelo IPCC. Até o momento, o IPCC publicou cinco Relatórios
-
---- Page 52 ---
-
 de Avaliação17. Dessa forma, é possível estimar o clima futuro, considerando
 diferentes cenários de emissões de GEE.
 Curitiba apresenta dois estudos nesse sentido, a Avaliação de Vulnerabilidade
@@ -1361,9 +1205,6 @@ Transporte Sustentável e Qualidade do Ar – Sustainable Transportand Air Quali
 com recursos do Global Environment Facility (GEF), através de doação do Banco Mundial. Neste caso,
 o projeto foi desenvolvido para o Município de Curitiba, em parceria com o Instituto de Pesquisa e
 Planejamento Urbano de Curitiba - IPPUC.
-
---- Page 53 ---
-
 de chuvas, estando o município mais vulnerável às inundações. Com relação à
 dimensão socioeconômica, o estudo apontou que a vulnerabilidade incide sobre:
 infraestrutura residencial, sistemas de abastecimento de água, sistemas de coleta de
@@ -1395,9 +1236,6 @@ a um forçamento radiativo de 8,5 watts por metro quadrado em todo o planeta, o 
 aumento na temperatura média global de cerca de 5oC até 2100, parâmetro desenvolvido na quinta
 fase do Coupled Model Intercomparison Project (CMIP5) e publicado no AR5 – Quinto Relatório de
 Avaliação do IPCC (2014).
-
---- Page 54 ---
-
 2012 e 2020. A partir de uma análise probabilística desses dados -incluindo as
 avaliações históricas e futuras das variáveis climáticas, além da disponibilidade de
 dados que pudessem ser espacialmente explícitos - fez-se uma priorização das
@@ -1419,9 +1257,6 @@ Vulnerabilidade, Ameaça e Exposição da abordagem realizada na Avaliação de
 Riscos Climáticos.
 Figura 26: Representação do Risco a partir das
 variáveis de Vulnerabilidade, Ameaça e Exposição
-
---- Page 55 ---
-
 O estudo espacializa os riscos climáticos em mapas, facilitando a sua compreensão.
 Contudo, há de se ressaltar o conceito de risco para que os resultados sejam
 corretamente interpretados. O risco é definido como a materialidade da ocorrência de
@@ -1435,9 +1270,6 @@ resulta da interação entre a vulnerabilidade, a exposição e a ameaça. As Fi
 e 28 apresentam os Riscos de Inundação, Alagamento, Ondas de Calor e
 Deslizamento em 2050.
 Figura 27: Mapas de Risco de Inundação e de Alagamento em Curitiba em 2050
-
---- Page 56 ---
-
 Figura 28: Mapas de Risco às Ondas de Calor e de Deslizamento em Curitiba em 2050
 Como resultados dessa Avaliação destacam-se:
 - tendência futura de aumento na temperatura média de Curitiba;
@@ -1453,9 +1285,6 @@ de tempestades no futuro, com potencial para provocar enchentes e
 alagamentos; por outro lado, dias consecutivos sem chuva também serão
 frequentes e a cidade poderá observar longos períodos de estiagem, com
 reflexos no abastecimento de água.
-
---- Page 57 ---
-
 6.6 ENGAJAMENTO, PARTICIPAÇÃO E COLABORAÇÃO
 O PlanClima, instrumento estratégico da política urbana municipal que deve nortear
 os agentes públicos, privados e a população em relação ao enfrentamento da
@@ -1485,9 +1314,6 @@ Figura 29: Resultados decorrentes do engajamento,
 participação, colaboração da sociedade
 Para atingir tais objetivos, buscou-se a participação dos que vivem e trabalham na
 cidade, agregando diferentes perspectivas, opiniões, preocupações e experiências.
-
---- Page 58 ---
-
 Consultar as partes interessadas garante a inclusão de representantes dos vários
 setores na elaboração do Plano, e seu amplo apoio e adesão na construção de
 compromissos necessários à implementação das ações.
@@ -1515,9 +1341,6 @@ residência. Os resultados embasaram o processo de elaboração do PlanClima,
 orientando o delineamento de ações.
 20 A sistematização da Consulta Pública Online apresentando os principais resultados encontra-se
 disponível no documento Relatório da Consulta Online.
-
---- Page 59 ---
-
 Em continuidade ao processo de engajamento, participação e gestão democrática, a
 minuta do PlanClima foi encaminhada ao CONCITIBA, ao Conselho Municipal do
 Meio Ambiente e ao Fórum Municipal sobre Mudanças Climáticas para a sua posterior
@@ -1525,9 +1348,6 @@ formalização por parte da PMC.
 A eficácia e o alcance de programas, planos, projetos e ações podem e devem ser
 incrementados por meio de um amplo conjunto de ações que envolvem engajamento,
 participação, colaboração e consulta à sociedade.
-
---- Page 60 ---
-
 7 | SETORES ESTRATÉGICOS
 O PlanClima é o instrumento de planejamento urbano que indica o caminho a ser
 percorrido pelo poder público e sociedade para a construção de uma cidade resiliente
@@ -1557,18 +1377,12 @@ entre esses Setores Estratégicos, conforme ilustrado na Figura 30.
 Planejadas e Disruptivas para 2030 e 2050 (2019); Avaliação de Demandas para a Ação Climática
 Inclusiva (2019); Avaliação de Risco Climático (2020); e Engajamento, Participação e Consultas
 Públicas (2019 e 2020).
-
---- Page 61 ---
-
 Figura 30: Setores Estratégicos do PlanClima
 Cada Setor Estratégico contempla temas, o que facilita a organização das ações
 prioritárias do PlanClima e seu futuro detalhamento durante o processo de
 implementação, conforme pode ser observado na Figura 31.
 Figura 31: Esquema dos Setores Estratégicos, Temas e Ações Prioritárias
 A seguir, apresenta-se uma descrição de cada um dos Setores Estratégicos.
-
---- Page 62 ---
-
 7.1 | SETOR ESTRATÉGICO QUALIDADE AMBIENTAL E URBANA
 Manutenção dos serviços ecossistêmicos e promoção de serviços
 ambientais no meio urbano, distribuindo equitativamente a riqueza inclusiva da
@@ -1597,9 +1411,6 @@ Curitiba ao longo de seu processo de planejamento vem implantando medidas para a
 melhoria da qualidade urbana e ambiental da cidade. A importância que a
 administração municipal confere às políticas ambientais é demonstrada pela
 consistência de leis e decretos municipais que tratam do tema. Eles envolvem a
-
---- Page 63 ---
-
 conservação de maciços florestais e fundos de vale; mantêm parâmetros
 urbanísticos, promovendo maior conforto urbano, como o afastamento entre as
 edificações, a permeabilidade do solo, entre outros. Das ações que contribuem para
@@ -1621,9 +1432,6 @@ o cultivo de hortaliças e o plantio de árvores formando os Caminhos de Pólen.
 projetos valorizam o caráter educacional, recreativo e cultural, pois resgatam e estimulam o
 reconhecimento de outros valores para além dos econômicos e produtivos, bem como o convívio e
 interação social.
-
---- Page 64 ---
-
 7.2 | SETOR ESTRATÉGICO EFICIÊNCIA ENERGÉTICA
 Incentivo à energia renovável e eficientização das edificações
 A maneira como a sociedade se relaciona com os recursos naturais é de extrema
@@ -1651,9 +1459,6 @@ propósito têm mais probabilidades de tornar o uso consciente da energia uma
 realidade para os curitibanos.
 A eficiência energética em edificações e equipamentos contribui de forma
 significativa para a redução das emissões de GEE. Nesse sentido, convém
-
---- Page 65 ---
-
 estabelecer ações tanto para os setores público e privado como para a sociedade em
 geral.
 No poder público municipal, as ações devem envolver um processo de modernização
@@ -1682,9 +1487,6 @@ Tais práticas por parte do poder público podem estimular a sociedade a optar p
 fontes alternativas de geração de energia limpa em suas residências. Outra forma de
 fomento é o incentivo às universidades e aos cursos de formação técnica, bem como
 ao setor construção civil, para que se tornem parceiros no desenvolvimento de
-
---- Page 66 ---
-
 empreendimentos sustentáveis que contribuam para a redução de emissões de GEE
 na cidade.
 7.3 | SETOR ESTRATÉGICO RESÍDUOS SÓLIDOS E EFLUENTES
@@ -1712,9 +1514,6 @@ descarte, pois é necessário controlar estoques finitos de recursos naturais e 
 los com os recursos renováveis.
 Surge assim a economia circular, um modelo de produção que elimina o conceito de
 lixo ao propor que os recursos extraídos da natureza e transformados em bens de
-
---- Page 67 ---
-
 consumo sejam mantidos em circulação por meio de cadeias produtivas integradas,
 reduzindo a dependência de novos insumos e ao mesmo tempo eliminando o
 desperdício.
@@ -1743,9 +1542,6 @@ planejamento das cidades. Envolve a questão do uso e ocupação do solo urbano,
 perfil socioeconômico da população, aspectos culturais e segurança pública, entre
 outros. A conjuntura econômica também é fundamental neste tema, não apenas pelos
 investimentos em serviços e infraestrutura, mas também pelas oportunidades
-
---- Page 68 ---
-
 referentes às alternativas tecnológicas e perfis das profissões que passam a surgir no
 mercado de trabalho.
 Assim, a Mobilidade Urbana Sustentável requer uma combinação inteligente entre
@@ -1776,9 +1572,6 @@ mobilidade ativa e a implementação de políticas e estratégias para reduzir a
 circulação de veículos individuais.
 Ao redesenhar a lógica de Serviços de Mobilidade Urbana de Curitiba, com o intuito
 de dar ao sistema de transporte maior atratividade e eficiência energética, espera-se
-
---- Page 69 ---
-
 um impacto na redução da circulação de veículos individuais e das emissões de gases
 de efeito estufa.
 Baseadas nesses pilares, as ações priorizadas nesse Setor Estratégico para o
@@ -1806,9 +1599,6 @@ base do desenvolvimento de soluções para a cidade. A política de inovação d
 Curitiba foi estabelecida através da Lei no 15.324/2018, que fornece as diretrizes ao
 desenvolvimento da inovação no município, em prol do dinamismo socioeconômico e
 do desenvolvimento sustentável da cidade de forma integrada à região metropolitana.
-
---- Page 70 ---
-
 Uma cultura de gestão de dados para administrar serviços em tempo real e subsidiar
 o planejamento de políticas, somada ao monitoramento das ações pelo Hipervisor
 Urbano, auxilia no desenvolvimento das ações priorizadas no PlanClima.
@@ -1830,9 +1620,6 @@ diferentes setores da sociedade - empresas, universidades, startups e comunidade
 ajudar na aferição do progresso e garantir que ninguém seja deixado para trás. Esses dados são
 essenciais ao processo decisório. AGENDA 2030 PARA O DESENVOLVIMENTO SUSTENTÁVEL
 (Acompanhamento e revisão item 48.)”.
-
---- Page 71 ---
-
 8 | VISÃO E METAS 2050
 A visão do PlanClima de Curitiba no horizonte de 2050 é:
 “Tornar-se até 2050 uma cidade neutra em emissões, resiliente frente aos
@@ -1857,9 +1644,6 @@ Contudo, essas metas, em especial as de mitigação, estão diretamente relacion
 sua implementação. Em um horizonte de 30 anos até 2050, a superação dessas
 barreiras, por exemplo com o surgimento de novas soluções tecnológicas, vai
 possibilitar ajustes na modelagem dos cenários. Será possível aprimorar a definição
-
---- Page 72 ---
-
 das metas nas revisões sistemáticas do PlanClima, reduzindo as incertezas e
 limitações que envolvem o processo de modelagem de cenários.
 Em relação às metas de adaptação climática, será imprescindível que a cidade tenha,
@@ -1881,14 +1665,8 @@ melhoria da qualidade ambiental da cidade.
 A seguir é apresentado um resumo das metas de Mitigação e Adaptação de caráter
 quantitativo e qualitativo, respectivamente, e de longo prazo, para alcançar a Visão
 2050 da cidade.
-
---- Page 73 ---
-
 MITIGAÇÃO
 ADAPTAÇÃO
-
---- Page 74 ---
-
 9 | AÇÕES PRIORIZADAS NO PLANCLIMA
 O processo de seleção e priorização chegou a uma lista final de ações tanto de
 mitigação quanto de adaptação que reflete as prioridades da cidade para alcançar a
@@ -1911,9 +1689,6 @@ Os trabalhos foram desenvolvidos sob a orientação metodológica de uma consult
 contratada pelo Grupo C40 e envolveram a utilização da ferramenta ASAP (Action
 Selection and Priorisation), desenvolvida pelo Grupo C40. O uso dessa ferramenta
 auxiliou a cidade no processo de priorização, ao propor uma estrutura de avaliação
-
---- Page 75 ---
-
 de multicritérios, incluindo benefícios primários (mitigação e adaptação), cobenefícios
 e viabilidade. Para a análise dos potenciais de redução de emissão das ações de
 mitigação, foi considerado o cenário ambicioso, conforme descrito no item 6.3
@@ -1942,9 +1717,6 @@ ampliação das áreas verdes da cidade, visando o aumento do estoque de
 carbono e a adaptação baseada em ecossistemas.
 Ação de: Adaptação e Mitigação
 Setores Estratégicos: Qualidade Ambiental e Urbana
-
---- Page 76 ---
-
 Ação 2
 Realizar intervenções em áreas de interesse a fim de promover a
 permeabilidade, melhora das condições de drenagem, sombreamento e
@@ -1974,9 +1746,6 @@ fortalecer redes de cadeia curta e consumo consciente para conservação e
 promoção da biodiversidade.
 Ação de: Adaptação e Mitigação
 Setores Estratégicos: Qualidade Ambiental e Urbana e Resíduos Sólidos e Efluentes
-
---- Page 77 ---
-
 Ação 7
 Incentivar a eficiência energética e o uso de energia de fontes renováveis.
 Ação de: Mitigação
@@ -2008,9 +1777,6 @@ descarbonização, melhor conforto térmico, acessibilidade plena e menor
 poluição ambiental.
 Ação de: Mitigação e Adaptação
 Setores Estratégicos: Mobilidade Urbana Sustentável
-
---- Page 78 ---
-
 Ação 13
 Aprimoramento do monitoramento da qualidade do ar e adoção de ações para
 diminuição de poluentes atmosféricos.
@@ -2041,9 +1807,6 @@ Promover campanhas de educação ambiental e mudança de comportamento
 voltadas à mitigação e adaptação à mudança do clima.
 Ação de: Mitigação e Adaptação
 Setores Estratégicos: Hipervisor Urbano e Inovação
-
---- Page 79 ---
-
 Ação 19
 Desenvolver e implementar um sistema ‘Hipervisor Urbano’ ou núcleo de Data
 Science para reunir dados de bancos de dados para monitorar, avaliar e
@@ -2053,17 +1816,7 @@ Setores Estratégicos: Hipervisor Urbano e Inovação
 Ação 20
 Instituir estrutura de Governança para implementação e gestão do PlanClima.
 Ação de: Governança
-
---- Page 80 ---
-
 Quadro 5: Ações Priorizadas do PlanClima
-
---- Page 81 ---
-
-
-
---- Page 82 ---
-
 10 | GOVERNANÇA DO PLANCLIMA
 A gestão do enfrentamento da mudança do clima envolve vários aspectos no contexto
 das cidades (água, energia, biodiversidade, resíduos etc.) e ao mesmo tempo tem
@@ -2087,9 +1840,6 @@ com outros níveis do poder público também é muito relevante.
 Além disso, a cidade de Curitiba está inserida no espaço urbano de uma região
 metropolitana, de modo que é necessária a integração com os demais 28 municípios
 integrantes da RMC, mais especialmente e de maneira mais próxima, com os 13 que
-
---- Page 83 ---
-
 configuram o Núcleo Urbano Central (NUC)24, cujas dependências diárias são mais
 intensas.
 Por outro lado, uma quantidade expressiva de ações voltadas ao enfrentamento das
@@ -2117,9 +1867,6 @@ Itaperuçu, Pinhais, Piraquara, Quatro Barras, Rio Branco do Sul e São José do
 COMEC, 2020 (Disponível em:
 <http://www.comec.pr.gov.br/FAQ/Municipios-da-Regiao-Metropolitana-de-Curitiba> Acesso em:
 23/09/2020).
-
---- Page 84 ---
-
 10.1 | ESTRUTURA DE GOVERNANÇA NO ÂMBITO DO PODER PÚBLICO
 MUNICIPAL
 Consiste em uma estrutura institucional de governança interna na PMC para proceder
@@ -2148,9 +1895,6 @@ externos ao poder público, se faz necessário o mapeamento e o conhecimento dos
 diversos agentes da sociedade com interesse e potencial de atuação na temática da
 mudança do clima. A partir do mapeamento são organizadas as formas de interação
 para a complementaridade de ações, fortalecendo a implementação do PlanClima.
-
---- Page 85 ---
-
 No levantamento realizado para elaborar a Avaliação de Demandas para a Ação
 Climática Inclusiva foi possível identificar diversos atores capazes de contribuir para
 esse processo. A Figura 33 ilustra de forma esquemática uma estrutura de
@@ -2196,9 +1940,6 @@ Com relação à Informação, entende-se que é de caráter essencial disponibi
 informações gerais sobre mudanças climáticas, bem como sobre o desenvolvimento
 e implementação das ações do PlanClima, possibilitando o seu monitoramento e
 controle social.
-
---- Page 86 ---
-
 Com relação à Educação, entende-se que quanto maior o conhecimento da
 sociedade sobre as questões afetas à mudança do clima, maior poderá ser seu
 engajamento para o alcance dos objetivos e metas do PlanClima. Nesse sentido, a
@@ -2218,9 +1959,6 @@ Em resumo, a governança do PlanClima se constitui do conjunto de ações de
 articulação interna, na estrutura organizacional da Prefeitura, e externa, com outros
 órgãos da esfera pública e agentes da sociedade, somado às ações de informação,
 educação, comunicação e participação.
-
---- Page 87 ---
-
 11 | MONITORAMENTO, AVALIAÇÃO, REPORTE E REVISÃO
 O efetivo cumprimento de objetivos e metas estabelecidos em políticas, programas,
 projetos e ações depende de um conjunto de fatores. Destacam-se o compromisso
@@ -2248,9 +1986,6 @@ os resultados da implementação da política urbana municipal, bem como os Plan
 Setoriais. O PlanClima, como um Plano Estratégico, faz parte do Sistema de
 Planejamento Municipal e sob essa perspectiva também deve ser monitorado e
 avaliado em seus resultados.
-
---- Page 88 ---
-
 Essas medidas somam-se ao reporte que já é realizado pelo município no âmbito da
 plataforma CDP Disclosure Insight Action25.
 Assim, alinhado aos protocolos de reporte existentes e aos procedimentos definidos
@@ -2271,9 +2006,6 @@ Inventários; e
 25O CDP opera um sistema de divulgação global que permite que empresas, cidades, estados e regiões
 meçam e gerenciem seus impactos ambientais, além de possuir a coleção mais abrangente de dados
 ambientais auto divulgados do mundo.
-
---- Page 89 ---
-
 12 | PRAZOS, CUSTOS E FINANCIAMENTO CLIMÁTICO
 O PlanClima tem um horizonte de implantação com marcos para os anos de 2030 e
 2050.
@@ -2285,9 +2017,6 @@ finalidade de captação.
 O financiamento de ações com recursos do orçamento municipal requer uma
 articulação entre as diversas áreas setoriais para otimizar as iniciativas municipais ao
 contexto de enfrentamento das mudanças climáticas.
-
---- Page 90 ---
-
 13 | CONSIDERAÇÕES FINAIS
 O Plano Municipal de Mitigação e Adaptação às Mudanças Climáticas de Curitiba foi
 desenvolvido para firmar o compromisso da cidade com a visão de se tornar uma
@@ -2318,9 +2047,6 @@ componente de mitigação, seguido do Setor Energia e do Setor Resíduos. Com ba
 nesse perfil, foi possível priorizar ações de mitigação voltadas aos três setores de
 acordo com o seu potencial de redução, bem como os cobenefícios e critérios de
 financiamento.
-
---- Page 91 ---
-
 No Setor Transporte, foram priorizadas três ações com alto potencial de redução de
 emissões: ampliar as medidas de baixo carbono no planejamento e operação da
 mobilidade, em especial a transição energética dos modais de transporte; promover
@@ -2352,9 +2078,6 @@ avaliação reportou elementos suficientes para apoiar a priorização de seis a
 voltadas ao aumento de resiliência da cidade: políticas ambientais de conservação e
 ampliação das áreas verdes visando o aumento do estoque de carbono (mitigação),
 e integração de conceitos como Adaptação baseada em Ecossistema (AbE) e
-
---- Page 92 ---
-
 Serviços Ecossistêmicos (adaptação); permeabilidade e melhoria das condições de
 drenagem, sombreamento e refrescamento natural distribuídos por toda a cidade;
 projetos de manejo de águas pluviais baseados em conceitos de drenagem urbana
@@ -2386,9 +2109,6 @@ do alcance da Trajetória-Alvo, cuja meta é a neutralidade de emissões.
 As medidas para o Cenário Estendido, que enfrentam barreiras processuais ou
 técnicas, têm potencial de redução de 42,9% das emissões em 2030 e de 78,1% em
 2050, em relação às emissões de 2016. Embora esteja mais próximo ao atingimento
-
---- Page 93 ---
-
 da neutralidade de carbono, este cenário não apresenta uma trajetória que permita o
 cumprimento do objetivo da neutralidade de carbono – o resultado ainda apresenta
 emissões residuais que se devem ao Setor Transporte, seguido pelo consumo de
@@ -2419,9 +2139,6 @@ Nesse percurso, será necessário o desenvolvimento de novas tecnologias e muita
 inovação para implementar projetos que contribuam com a diminuição de emissões e
 promovam a adaptação à mudança climática, tornando a cidade mais resiliente. Além
 disso, espera-se a integração de ações entre os diversos atores (público e privado,
-
---- Page 94 ---
-
 universidades, comunidades, cidadãs e cidadãos) em apoio ao desenvolvimento das
 ações do PlanClima.
 Durante o processo de planejamento de ação climática, o mundo entrou em uma crise
@@ -2452,9 +2169,6 @@ Caximba, Curitiba Mais Energia e Fazenda Urbana, que endereçam e incentivam,
 respectivamente, a adaptação às mudanças climáticas para populações vulneráveis,
 a geração de energia renovável, e a adoção de hábitos saudáveis de alimentação e
 manejo da produção alimentar. Esses projetos representam exemplos de ações
-
---- Page 95 ---
-
 disruptivas que devem ser multiplicadas para o enfrentamento das mudanças
 climáticas. São alternativas de uma ocupação urbana inteligente, que traz o olhar da
 preservação dos recursos naturais.
@@ -2464,9 +2178,6 @@ metas para o ano de 2050, alinhada aos ODS e ao Acordo de Paris. O PlanClima
 configura-se como uma janela de oportunidade para a cidade assumir uma posição
 de inovação, liderança e protagonismo em relação ao enfrentamento à mudança do
 clima.
-
---- Page 96 ---
-
 14 | GLOSSÁRIO
 Ação climática inclusiva: É um pilar fundamental para a ação climática das cidades,
 sobretudo em países em desenvolvimento, porque pressupõe a inclusão social,
@@ -2494,9 +2205,6 @@ Ameaças climáticas: Ocorrência potencial de um evento natural ou fisicamente
 induzido pelo ser humano; impacto físico, ou tendência a este, que pode causar perda
 de vidas, ferimentos ou outros problemas de saúde. Também pode causar perdas ou
 danos de propriedade, infraestrutura, meios de subsistência, prestação de serviços,
-
---- Page 97 ---
-
 ecossistemas e recursos ambientais. Por exemplo, aumento da temperatura,
 diminuição/aumento da precipitação, inundações, deslizamentos de terra, ondas de
 calor, secas, aumento do nível do mar etc. Neste relatório, o termo “ameaça”
@@ -2525,9 +2233,6 @@ natural. (MMA, 2020).
 Deslizamentos: É o termo genérico para designar a descida do solo, de rochas e de
 material orgânico quando submetidos à ação da gravidade. São também chamados
 de movimento de massa e ruptura de talude. (Highlandet. Al. 2008).
-
---- Page 98 ---
-
 Diretriz: Em sentido estrito, diretriz é a linha básica que determina um traçado. No
 âmbito da Ação Climática é utilizado no sentido figurado. São as linhas que conduzem
 o traçado das ações e estratégias para se alcançar os objetivos da entrega da ação
@@ -2554,9 +2259,6 @@ saúde, ecossistemas, economias, sociedades, culturas, serviços e infraestrutur
 resultantes da interação entre os eventos climáticos perigosos e a vulnerabilidade de
 uma sociedade ou um sistema exposto a certo perigo. Impactos também se referem
 a consequências e resultados.
-
---- Page 99 ---
-
 Indicador: Parâmetro utilizado para quantificar informações sobre um
 sistema/processo e monitorar a sua evolução no tempo relativo a uma linha de base
 (baseline). Os indicadores são também utilizados para comparar performances de
@@ -2586,9 +2288,6 @@ define a mudança climática como “uma mudança do clima que é atribuída dir
 indiretamente à atividade humana, que altera a composição da atmosfera terrestre e
 que vai além da variabilidade climática natural observada ao longo de períodos
 comparáveis”. A UNFCCC faz, assim, uma distinção entre as mudanças climáticas
-
---- Page 100 ---
-
 atribuídas às atividades humanas que alteram a composição atmosférica e a
 variabilidade do clima atribuída a causas naturais.
 Neutralidade de emissões: É a eliminação total dos combustíveis fósseis e outras
@@ -2615,9 +2314,6 @@ ocorrência de doenças respiratórias. (MMA, s/d).
 Qualidade do ar: É o produto resultante de um conjunto de fatores relacionados à
 quantidade de gases lançados na atmosfera combinado com a topografia e as
 condições meteorológicas das cidades. Essas condições físicas e meteorológicas
-
---- Page 101 ---
-
 influenciam na dispersão ou não dos poluentes na atmosfera implicando uma melhor
 ou pior qualidade do ar. A gestão e o monitoramento da qualidade do ar são
 importantes para o desenvolvimento de políticas públicas de sustentabilidade e de
@@ -2646,9 +2342,6 @@ solo, as florestas e os oceanos. (FAO, 2020) (MMA, 2016).
 Vulnerabilidade: Propensão ou pré-disposição a ser adversamente afetado. Engloba
 uma variedade de conceitos e elementos, incluindo sensibilidade ou susceptibilidade
 a danos e falta de capacidade para lidar e se adaptar.
-
---- Page 102 ---
-
 15 | REFERÊNCIAS
 BRASIL. Sumário Executivo: 3o Comunicação Nacional do Brasil à Convenção –
 Quadro da Nações Unidas sobre Mudança do Clima. Brasília. Ministério da
@@ -2682,9 +2375,6 @@ CURITIBA. Lei nº 14771/2015. Dispõe sobre a revisão do plano diretor de Curit
 de acordo com o disposto no art. 40, § 3º, do estatuto da cidade, para orientação
 e controle do desenvolvimento integrado do município. Disponível em <
 https://www.legisweb.com.br/legislacao/?id=366236> Acesso em 20/07/2020.
-
---- Page 103 ---
-
 GLOBAL CONVENANTE OF MAYORS FOR CLIMATE & ENERGY (GCoM). Guia
 Explicativa do Marco Comum de Reporte do Pacto Global de Prefeitos. Versão
 9, 2019. Disponível em: <https://www.globalcovenantofmayors.org/wp-
@@ -2720,9 +2410,6 @@ Sumidouros De Co2. Revista Floresta. 2013. Disponível em:
 SNC-LAVALIN. Avaliação de vulnerabilidade ambiental e socioeconômica para o
 Município de Curitiba. 2013. Disponível em:
 <https://mid.curitiba.pr.gov.br/2014/00157293.pdf> Acesso em 20/09/2020.
-
---- Page 104 ---
-
 UNEP - UNITED NATIONS ENVIRONMENT PROGRAMME. Cities And The Climate
 Change. Londres, 2019. Disponível em:
 <https://www.unenvironment.org/explore-topics/resource-efficiency/what-we-

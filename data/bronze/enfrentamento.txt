@@ -1,7 +1,4 @@
 
-
---- Page 1 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -68,9 +65,6 @@ segmentos econômicos mais vulneráveis, a falta ou insuficiência das ações d
 desenvolvimento social e econômico do país, além de efeitos negativos sobre os ecossistemas que também geram repercussões sobre a sociedade e a
 economia. É necessário adaptar as cidades para o enfrentamento às mudanças do clima, em especial àquelas situadas na zona costeira, com ênfase em
 medidas baseada na natureza, restaurando e/ou protegendo os ecossistemas costeiros e marinhos e seus serviços ecossistêmicos de proteção e regulação.
-
---- Page 2 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -138,9 +132,6 @@ sobre Mudança do Clima – Decreto 9.578/2018;
 Protocolo de Quioto à Convenção-Quadro das Nações Unidas sobre Mudança do Clima - Decreto nº 5.445/2005;
 Acordo de Paris sob a Convenção-Quadro das Nações Unidas sobre Mudança do Clima - Decreto nº 9.073/2017;
 Comitê Interministerial sobre Mudança do Clima (CIM) - Decreto nº 11.550/2023;
-
---- Page 3 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -203,9 +194,6 @@ Descrição:Produzir, sistematizar e disponibilizar informações, previsões e 
 aumento da resiliência a eventos climáticos extremos
 Momento:Autógrafo
 Órgão Responsável:24000 - Ministério da Ciência, Tecnologia e Inovação
-
---- Page 4 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -264,9 +252,6 @@ eficiência dos recursos, mitigação e adaptação às alterações climáticas
 desastres; e desenvolver e implementar, de acordo com o “Sendai Framework” para a
 redução do risco de desastres 2015-2030, o gerenciamento holístico do risco de
 desastres em todos os níveis
-
---- Page 5 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -337,9 +322,6 @@ modelagem numérica, dados de satélites e radares meteorológicos, dados observ
 de órgãos parceiros, órgãos públicos e privados e produtos e serviços para a sociedade brasileira em diferentes escalas temporais, como
 nas previsões de nowcasting (escala de horas), tempo (até quinze dias), subsazonal (mês) e sazonal (trimestre). Geração e disponibilização
 de produtos e métodos de estimativa de variáveis meteorológicas a partir de observações remotas realizadas por satélites e radares
-
---- Page 6 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -394,9 +376,6 @@ disponibilizadas).
 Notas Explicativas:
 A Metodologia e a fonte de dados para a execução dos modelos numéricos de previsões de tempo, clima e ambientais não sofreram mudanças
 conceituais.
-
---- Page 7 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -464,9 +443,6 @@ Meta prevista para: 2024:429 2025:858 2026:1.287 2027:1.729
 Região Região Norte Unidade de medida unidade
 Meta prevista para: 2024:429 2025:858 2026:1.287 2027:1.729
 Região Região Sudeste Unidade de medida unidade
-
---- Page 8 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -517,9 +493,6 @@ O acesso aos sistemas e suas respectivas informações poderão ser alcançadas 
 Limitações:
 Os dados poderão ser apurados diretamente a partir da página da Coordenação-Geral de Ciência do Clima, no portal do MCTI, estando
 completamente sob a governança do MCTI.
-
---- Page 9 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -590,9 +563,6 @@ Entrega: 0902 - Pesquisa e desenvolvimento nas áreas de meteorologia e oceonogr
 clima.
 Momento:Autógrafo
 Descrição: Pesquisas e desenvolvimento em: 1) meteorologia, oceanografia, estudos climáticos e do sistema terrestre; 2) aprimoramento de modelos
-
---- Page 10 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -649,9 +619,6 @@ Relacionamento com os Objetivos do Desenvolvimento Sustentável (ODS):
 Objetivo do Desenvolvimento Sustentável (ODS) Meta ODS
 ODS 12 – Consumo e produção responsáveis 12.8 - Até 2030, garantir que as pessoas, em todos os lugares, tenham informação
 relevante e conscientização para o desenvolvimento sustentável e estilos de vida em
-
---- Page 11 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -716,9 +683,6 @@ desenvolvidos e apresentados através de relatórios e/ou publicações científ
 Órgão responsável:24000 - Ministério da Ciência, Tecnologia e Inovação
 Unidade responsável:MCTI/INPE
 Projeto de Investimento? Não
-
---- Page 12 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -776,9 +740,6 @@ marinha para o desenvolvimento dos países em desenvolvimento, em particular os 
 menos desenvolvidos e SIDS
 ODS 17 – Parcerias e meios de implementação 17.6 - Melhorar a cooperação Norte-Sul, Sul-Sul e triangular regional e internacional e o
 acesso à ciência, tecnologia e inovação, e aumentar o compartilhamento de
-
---- Page 13 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -835,9 +796,6 @@ Data de Divulgação/Disponibilização:As informações serão disponibilizadas
 bem como estarão disponíveis em relatórios e/ou public
 Periodicidade:Anual
 Polaridade:Quanto maior melhor
-
---- Page 14 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -905,9 +863,6 @@ ODS 9 – Indústria, inovação e infraestrutura
 industriais em todos os países, particularmente os países em desenvolvimento, inclusive,
 até 2030, incentivando a inovação e aumentando substancialmente o número de
 trabalhadores de P&D por milhão de pessoas e os gastos público e privado em P&D
-
---- Page 15 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -955,9 +910,6 @@ Uma limitação seria algum problema associado ao sistema de tráfego de dados (
 Não há nenhuma restrição para acesso aos dados.
 Notas Explicativas:
 A Metodologia e a fonte de dados não sofreram mudanças conceituais.
-
---- Page 16 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1023,9 +975,6 @@ Descrição: Produção de estimativas do estoque anual de Biomassa e Carbono Fl
 Órgão responsável:44000 - Ministério do Meio Ambiente e Mudança do Clima
 Unidade responsável:CGIF/SFB/MMA
 Projeto de Investimento? Não
-
---- Page 17 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1076,9 +1025,6 @@ Meta prevista para: 2024:1 2025:2 2026:3 2027:4
 Notas de usuário para esta Meta
 Data 30/06/2023
 Notas de usuário Meta cumulativa
-
---- Page 18 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1137,9 +1083,6 @@ ODS 15 – Vida terrestre
 terrestres e de água doce interiores e seus serviços, em especial, florestas, zonas
 úmidas, montanhas e terras áridas, em conformidade com as obrigações decorrentes dos
 acordos internacionais
-
---- Page 19 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1197,9 +1140,6 @@ de apenas um indicador, optou-se por focar, para efeito deste monitoramento, nas
 se dará nas dua
 Momento:Autógrafo
 Órgão Responsável:44000 - Ministério do Meio Ambiente e Mudança do Clima
-
---- Page 20 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1258,9 +1198,6 @@ inclusive com foco em mulheres, jovens, comunidades locais e marginalizadas
 Notas de usuário para este Indicador
 Data 29/06/2023
 Notas de usuário MMA/SMC
-
---- Page 21 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1309,9 +1246,6 @@ ODS 13 – Ação contra a mudança global do clima
 13.2 - Integrar medidas da mudança do clima nas políticas, estratégias e planejamentos
 ODS 13 – Ação contra a mudança global do clima
 nacionais
-
---- Page 22 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1362,9 +1296,6 @@ Somatório do número de servidores capacitados (federais, estaduais e municipai
 clima (políticas de adaptação e mitigação)
 Limitações:
 -
-
---- Page 23 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1416,9 +1347,6 @@ Fonte de Dados das Variáveis de Cálculo:
 MMA
 Forma de Disponibilização do Indicador:
 MMA
-
---- Page 24 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1471,9 +1399,6 @@ Polaridade:Quanto maior melhor
 Fórmula de Cálculo:
 Variáveis de Cálculo:
 Setores prioritários; taxonomia desenvolvida
-
---- Page 25 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1528,9 +1453,6 @@ Indicador: 9537 - Percentual de redução do consumo de HCFCs
 Sigla:HCFC
 Unidade de Medida:%
 Índice de Referência em Apuração?Sim
-
---- Page 26 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1589,9 +1511,6 @@ Momento:Autógrafo
 Descrição: Investimentos em modais de transporte e melhoria da mobilidade urbana; gestão de resíduos sólidos; energias renováveis; máquinas e
 equipamentos eficientes; eficiência energética em prédios públicos; cidades sustentáveis; florestas nativas; e gestão e serviços de
 carbono.
-
---- Page 27 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1641,9 +1560,6 @@ Entrega: 0616 - Projetos, estudos e empreendimentos financiados pelo Fundo Nacio
 Momento:Autógrafo
 Descrição: Apoio a projetos ou estudos que visem à mitigação da mudança do clima e à adaptação à mudança do clima e aos seus efeitos.
 Órgão responsável:44000 - Ministério do Meio Ambiente e Mudança do Clima
-
---- Page 28 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1694,9 +1610,6 @@ Momento:Autógrafo
 Descrição: Os Relatórios Bienais de Transparência e os Inventários Nacionais de Emissão de Gases de Efeito Estufa representam compromissos
 internacionais do Brasil perante a Convenção do Clima e o Acordo de Paris, da ONU. Trata-se de relatórios que contextualizam e
 apresentam os esforços do país para a implementação da Convenção do Clima no país e as iniciativas para o combate dos efeitos das
-
---- Page 29 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1756,9 +1669,6 @@ alerta precoce
 ODS 13 – Ação contra a mudança global do clima
 relacionado à mudança do clima e à gestão eficaz, nos países menos desenvolvidos,
 inclusive com foco em mulheres, jovens, comunidades locais e marginalizadas
-
---- Page 30 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1810,9 +1720,6 @@ Fonte de Dados das Variáveis de Cálculo:
 Sistema Integrado de Planejamento e Orçamento – SIOP
 Forma de Disponibilização do Indicador:
 https://siop.gov.br
-
---- Page 31 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1873,9 +1780,6 @@ Meta prevista para: 2024:960.000 2025:960.000 2026:1.000.000 2027:1.000.000
 Notas de usuário para esta Meta
 Data 03/07/2023
 Notas de usuário Meta não cumulativa.
-
---- Page 32 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1932,9 +1836,6 @@ como energia, transporte, indústria, agricultura, entre outros.
 * Aumento da resiliência e adaptação às mudanças climáticas de adaptação para fortalecer a resiliência dos setores e
 comunidades às mudanças climáticas.
 *Integração da mudança do clima em políticas setoriais, garantindo que as considerações climáticas sejam incorporadas
-
---- Page 33 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -1989,9 +1890,6 @@ Descrição:Contribuir para manutenção da capacidade do oceano de regular o cl
 efeitos da mudança do clima
 Momento:Autógrafo
 Órgão Responsável:44000 - Ministério do Meio Ambiente e Mudança do Clima
-
---- Page 34 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2041,9 +1939,6 @@ conservação dos ecossistemas e seus serviços ecossistêmicos e a justiça soc
 Órgão responsável:44000 - Ministério do Meio Ambiente e Mudança do Clima
 Unidade responsável:Doceano/SMC
 Projeto de Investimento? Não
-
---- Page 35 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2094,9 +1989,6 @@ Entrega: 0635 - Avaliação da vulnerabilidade de municípios costeiros aos efei
 Momento:Autógrafo
 Descrição: Avaliação de riscos decorrentes de efeitos da mudança do clima na zona costeira por meio de estudos e projeção de cenários,
 considerando a vulnerabilidade dos municípios
-
---- Page 36 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2148,9 +2040,6 @@ fixas ou derivantes, a depender de cada caso e das variáveis selecionadas. A en
 sistema de observação oceânica em Unidades de Conservação criadas nas ilhas oceânicas brasileiras, como o Arquipélago de São Pedro e
 São Paulo, as ilhas de Trindade e Martim Vaz, Abrolhos e outras a serem definidas. Os dados gerados serão tratados e disponibilizados
 para a ciência e para os processos de políticas públicas.
-
---- Page 37 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2205,9 +2094,6 @@ alerta precoce
 ODS 13 – Ação contra a mudança global do clima
 relacionado à mudança do clima e à gestão eficaz, nos países menos desenvolvidos,
 inclusive com foco em mulheres, jovens, comunidades locais e marginalizadas
-
---- Page 38 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2261,9 +2147,6 @@ Unidade Responsável:Doceano/SMC/MMA
 Resultados Esperados:Política de apoio à conservação e uso sustentável de ecossistemas costeiros e marinhos mais vulneráveis à mudança do
 clima, a partir da adoção de soluções baseadas na natureza.
 PAC:-
-
---- Page 39 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2317,9 +2200,6 @@ Objetivo do Desenvolvimento Sustentável (ODS) Meta ODS
 ODS 15 – Vida terrestre
 incluindo terrenos afetados pela desertificação, secas e inundações, e lutar para alcançar
 um mundo neutro em termos de degradação do solo
-
---- Page 40 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2368,9 +2248,6 @@ Fonte de Dados das Variáveis de Cálculo:
 Levantamento dos dados pelo MMA, por meio da solicitação de informações aos veículos de comunicação reesposáveis pela verificação do público
 Forma de Disponibilização do Indicador:
 Sítio do MMA
-
---- Page 41 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2420,9 +2297,6 @@ Sigla:PLANDES
 Unidade de Medida:unidade
 Índice de Referência:0
 Data de Referência: 01/07/2023
-
---- Page 42 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2470,9 +2344,6 @@ comunitárias de bancos de sementes.
 Unidade responsável:DCDE/SNPCT/MMA
 Projeto de Investimento? Não
 PAC?Não
-
---- Page 43 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2522,9 +2393,6 @@ pesquisa in situ, inovação e formação nos territórios onde são implementad
 recuperação e prevenção da degradação das terras e mitigação dos efeitos das secas
 Órgão responsável:44000 - Ministério do Meio Ambiente e Mudança do Clima
 Unidade responsável:DCDE/SNPCT/MMA
-
---- Page 44 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2575,9 +2443,6 @@ Região Região Norte Unidade de medida unidade
 Meta prevista para: 2024:0 2025:0 2026:1 2027:1
 Região Região Sudeste Unidade de medida unidade
 Meta prevista para: 2024:0 2025:1 2026:1 2027:2
-
---- Page 45 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2623,9 +2488,6 @@ um mundo neutro em termos de degradação do solo
 Meta: 05ZK - Implementar estratégias de intervenção local/regional de combate à desertificação, prevenção e recuperação dos solos
 implementadas.
 Meta prevista para: 2024:0 2025:4 2026:8 2027:12
-
---- Page 46 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2677,9 +2539,6 @@ ODS 12 – Consumo e produção responsáveis
 prioridades nacionais
 ODS 12 – Consumo e produção responsáveis 12.8 - Até 2030, garantir que as pessoas, em todos os lugares, tenham informação
 relevante e conscientização para o desenvolvimento sustentável e estilos de vida em
-
---- Page 47 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2730,9 +2589,6 @@ Período ou data a que se refere o Indicador:Janeiro a dezembro
 Data de Divulgação/Disponibilização:última semana do ano
 Periodicidade:Anual
 Polaridade:Quanto maior melhor
-
---- Page 48 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2787,9 +2643,6 @@ Descrição: O enfrentamento das emergências climáticas requer envolvimento de
 estar pautado na apropriação de conhecimentos que fundamentem ações objetivas, contextualizadas, de caráter ambiental, científico,
 social, econômico, cultural, dentre outros. A formação e capacitação de agentes comunitários, gestores, educadores, profissionais de
 diversas áreas e sociedade em geral é imprescindível para uma atuação objetiva no enfrentamento das emergências climáticas
-
---- Page 49 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2844,9 +2697,6 @@ Meta: 05UC - Formar agentes populares, gestores, educadores e demais atores no e
 Meta prevista para: 2024:10.000 2025:20.000 2026:25.000 2027:30.000
 Regionalização da meta
 Região Região Centro-Oeste Unidade de medida unidade
-
---- Page 50 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2898,9 +2748,6 @@ Negs = Número de Estados com gatilhos de secas implementados
 Sint = Número de Estados com salas de situação integradas
 Fonte de Dados das Variáveis de Cálculo:
 Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
-
---- Page 51 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -2953,9 +2800,6 @@ Período ou data a que se refere o Indicador:2023
 Data de Divulgação/Disponibilização:2023
 Periodicidade:Anual
 Polaridade:Quanto maior melhor
-
---- Page 52 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3005,9 +2849,6 @@ mudanças climáticas
 Sigla:%MunIDF_MC
 Unidade de Medida:%
 Índice de Referência em Apuração?Sim
-
---- Page 53 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3053,9 +2894,6 @@ Descrição:O indicador apresenta a fração de municípios que tiveram mapa de 
 processo de atualização do atlas de vulnerabildiade a inundações
 Período ou data a que se refere o Indicador:2022
 Data de Divulgação/Disponibilização:30/06/2023
-
---- Page 54 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3102,9 +2940,6 @@ Indicador: 10387 - Número de estados com gatilhos de preparação para enfrenta
 Sigla:NEGS
 Unidade de Medida:unidade
 Índice de Referência em Apuração?Sim
-
---- Page 55 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3149,9 +2984,6 @@ críticos em diferentes escalas e que possam impactar mais de um Estado, regiõe
 Unidade responsável:Agencia Nacional de Águas e Saneamento Básico
 Projeto de Investimento? Não
 PAC?Não
-
---- Page 56 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3199,9 +3031,6 @@ a contribuir para a mitigação e adaptação à mudança do clima..
 Unidade responsável:DMUR/SQA/MMA
 Projeto de Investimento? Não
 PAC?Não
-
---- Page 57 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3249,9 +3078,6 @@ Meta prevista para: 2024:10 2025:20 2026:30 2027:50
 Ações Não-Orçamentárias
 Ação Não-Orçamentária: 015E - Fundo Socioambiental CAIXA - Linha temática Justiça Climática
 Tipo:Crédito de Instituição Financeira
-
---- Page 58 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3303,9 +3129,6 @@ Localizador:0001 - Nacional
 Custo Total: Total Físico:
 Início do Localizador: Término do Localizador:
 Região:Nacional Estado: - Município: -
-
---- Page 59 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3359,9 +3182,6 @@ Parcerias com Entes Federados, instituições públicas de todas as esferas, con
 direta de atividades, cursos e eventos.
 Participação social:Não
 Localizadores
-
---- Page 60 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3422,9 +3242,6 @@ Unidas sobre Mudança do Clima, celebrado em Paris, em 12 de dezembro de 2015, e
 que promulga a Convenção-Quadro das Nações Unidas sobre Mudança do Clima. • Portaria nº 6.961, de 19 de abril de 2023, que detalha a Estrutura
 Regimental do Ministério da Ciência, Tecnologia e Inovação e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Anexo II
 doDecreto nº 11.493, de 17 de abril de 2023. • Portaria MCTI nº 3.896, de 16 de outubro de 2020, que institui a estrutura de governança do AdaptaBrasil MCTI -
-
---- Page 61 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3481,9 +3298,6 @@ Unidade Responsável:Departamento de Educação Ambiental e Cidadania
 Tipo de ação:Atividade
 Origem:PLOA
 Produto:Atividade realizada
-
---- Page 62 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3537,9 +3351,6 @@ Início do Localizador: Término do Localizador:
 Região:Região Nordeste Estado: Pernambuco Município: -
 Localizador:0026 - No Estado de Pernambuco
 Região:Região Nordeste Estado: Pernambuco Município: -
-
---- Page 63 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3586,9 +3397,6 @@ Início do Localizador: Término do Localizador:
 Região:Região Nordeste Estado: Bahia Município: Feira de Santana
 Localizador:2056 - No Município de Feira de Santana - BA
 Região:Região Nordeste Estado: Bahia Município: Feira de Santana
-
---- Page 64 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3641,9 +3449,6 @@ Início do Localizador: Término do Localizador:
 Região:Nacional Estado: - Município: -
 Localizador:0001 - Nacional
 Região:Nacional Estado: - Município: -
-
---- Page 65 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
@@ -3700,9 +3505,6 @@ Localizador:0001 - Nacional
 Custo Total: Total Físico:
 Início do Localizador: Término do Localizador:
 Região:Nacional Estado: - Município: -
-
---- Page 66 ---
-
 Mapeamento de Programas Integrantes do
 Ministério do Planejamento e Orçamento
 Plano Plurianual 2024-2027
