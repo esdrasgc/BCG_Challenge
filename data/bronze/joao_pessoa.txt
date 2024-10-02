@@ -1,14 +1,4 @@
 
-
---- Page 1 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 1.1. Por que um Plano de Ação Climática
 em João Pessoa?
 No contexto das cidades, o crescimento econômico e o desenvolvimento urbano – asso-
@@ -49,16 +39,6 @@ climáticos, a resiliência e a justiça climática é mais efetiva em prol do b
 maneira mais abrangente (IPCC, 2021). Para o município de João Pessoa, a necessidade
 de um desenvolvimento inclusivo é ainda mais forte tendo em vista seu contexto social,
 caracterizado pela desigualdade social e pela alta proporção de pessoas de baixa renda.
-
---- Page 2 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 1.2. Visão e objetivo geral do Plano de Ação Climática
 A visão do Plano de Ação Climática (PAC) consiste em um resumo claro e objetivo da ci-
 dade que queremos em 2050: uma João Pessoa mais resiliente, neutra em emissões de
@@ -95,16 +75,6 @@ unfccc.int/race-to-resilience-launches/
 Para saber mais: https://acabrasil.org.br/
 4. Acordo de Paris: tratado global definido pelas partes em 2015, na COP21, para reduzir as emissões de gases de efeito estufa, limitando
 o aquecimento global a bem abaixo de 2 °C e prosseguindo os esforços para limitá-lo a 1,5 °C
-
---- Page 3 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 1.3. Contexto de João Pessoa
 O Plano de Ação Climática (PAC) foi desenvolvido para responder aos desafios locais da
 cidade de João Pessoa. Situada na costa do Nordeste brasileiro e fundada em 1585, é uma
@@ -137,16 +107,6 @@ Fonte: WayCarbon, com dados da Prefeitura de João Pessoa
 0005129
 0000129
 0005029
-
---- Page 4 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Economia e influência regional
 • Em 2018, o Arranjo Populacional de João Pessoa e de sua região de influência atra-
 vessou os limites estaduais, atingindo 4.094.563 cidadãos, 209 cidades e uma área
@@ -176,16 +136,6 @@ enquanto 99% tinham acesso ao serviço de coleta de lixo (IBGE, 2010).
 reduz para 99,9% quando se fala da área total do município. O acesso à rede de es-
 goto contempla 81,9% da área total do município e 81,6% da área urbana (TRATA
 BRASIL, 2022), com perspectivas de expansão até atingir a universalidade do serviço.
-
---- Page 5 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Contexto físico-ambiental
 • O município de João Pessoa está inserido integralmente no bioma Mata Atlântica,
 com clima classificado como Tropical de Savana (“Aw” ou “As”, segundo a classifica-
@@ -224,16 +174,6 @@ e, posteriormente, a Divisão de Estudos Climáticos, ambos da SEMAM. Em feverei
 Climáticas de João Pessoa (COMCLIM).
 6. Embora a FLONA Cabedelo se situe fora dos limites territoriais de João Pessoa, a zona de amortecimento desta unidade de
 conservação alcança parte do território pessoense.
-
---- Page 6 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Plano de Ação João
 2014
 Pessoa Sustentável e início da
@@ -259,16 +199,6 @@ de Ação Climática de
 João Pessoa
 Figura 2. Linha do tempo da atuação da Prefeitura de João Pessoa na pauta climática
 Fonte: WayCarbon
-
---- Page 7 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 O tema da mudança do clima não deve ser tratado de maneira isolada, uma vez que suas
 causas e consequências são transversais a diferentes setores. Assim, um ponto-chave na
 construção deste plano é o entendimento de que o município não parte do zero: há ações
@@ -303,16 +233,6 @@ Estudos Estudo de Mitigação de Mudanças Climáticas (realizado pelo Municípi
 Pessoa em parceria com o BID)
 Mapas da Cidade
 Fonte: WayCarbon
-
---- Page 8 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 O alinhamento com o Plano Diretor, como principal instrumento de planejamento urbano,
 é fundamental para garantir que as ações propostas para o planejamento climático cami-
 nhem na mesma direção, de forma a induzir um desenvolvimento mais inclusivo, susten-
@@ -350,16 +270,6 @@ na revisão de todos os documentos necessários para direcionar a definição da
 Plano e na elaboração do Inventário de Emissões de Gases de Efeito Estufa (GEE), Pegada
 Hídrica, Cenários de Emissões de GEE e Análise de Riscos e Vulnerabilidades Climáticas.
 Na Figura 4 são apresentados os principais objetivos de cada estudo.
-
---- Page 9 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Planejamento baseado em evidências
 CO
 2
@@ -403,16 +313,6 @@ sugestões
 via formulário
 Figura 5. Passo a passo da priorização de ações do Plano e contribuições da audiência
 Fonte: WayCarbon
-
---- Page 10 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 A partir da lista longa de 128 ações levantadas foi realizada uma análise e compilação, re-
 sultando em uma lista intermediária com 64 ações, classificadas em ações de mitigação,
 adaptação e transversais - que contemplam ambos. O processo de priorização das ações
@@ -467,16 +367,6 @@ no Capítulo 3 deste documento.
 (C40, 2020) e na ferramenta CLIMACT Prio (CITIES ALLIANCE, 2016).
 8. Benefícios indiretos e amplos das ações para a população, como redução de desigualdades sociais baseadas em raça, gênero, renda e
 região e fortalecimento da provisão de serviços públicos como educação, cultura e saneamento básico (C40, 2021).
-
---- Page 11 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 1.5.2 Processos participativos na elaboração do PAC
 Todas as etapas incluíram a participação colaborativa de diversos órgãos da prefeitura,
 sociedade civil e do setor privado. A interação com servidores de diferentes áreas da pre-
@@ -515,16 +405,6 @@ disponibilizados
 10 Número de respostas
 0
 1º formulário de consulta Formulário de cadastro 2º formulário de consulta
-
---- Page 12 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Considerando todo o processo de desenvolvimento conjunto
 do PAC, a participação de homens superou a de mulheres.
 Mulheres
@@ -556,9 +436,6 @@ A mobilização para a participação nas diversas atividades de desenvolvimento
 de Ação Climática foi feita por meio das redes sociais e por e-mail. Vale destacar também
 que foram feitas atividades virtuais e presenciais, buscando atender a um maior número
 de pessoas e perfis de participação.
-
---- Page 13 ---
-
 2. DIAGNÓSTICO DE JOÃO
 PESSOA SOB A LENTE CLIMÁTICA
 2.1. Análise de Riscos e Vulnerabilidades Climáticas
@@ -568,16 +445,6 @@ PESSOA SOB A LENTE CLIMÁTICA
 2.3. Inventário de Emissões de Gases de Efeito Estufa (GEE)
 ........................................................................................................................... 33
 2.4. Cenários de Emissões de GEE
-
---- Page 14 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 2.1 Análise de Riscos e Vulnerabilidades Climáticas
 As cidades, principalmente capitais como João Pessoa, concentram grande parte da po-
 pulação urbana do país, a qual está susceptível a eventos climáticos que vêm se tornando
@@ -605,16 +472,6 @@ Sensibilidade
 PROBABILIDADE IMPACTO RISCO
 Figura 7. Metodologia de Risco IPCC
 Fonte: WayCarbon com base em IPCC (2021a)
-
---- Page 15 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 O valor do índice de risco9 é considerado “Crítico” para as classes que compõem o grupo
 dos valores 10% mais altos para cada ameaça, compondo o chamado “Risco Crítico”. A
 Figura 8 apresenta a distribuição do risco crítico ao longo do território de João Pessoa
@@ -662,16 +519,6 @@ Os resultados apresentam um destaque para regiões com risco médio e alto de in
 0000129
 0005029
 0000029
-
---- Page 16 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Deslizamentos e Erosão
 Deslizamentos são movimentos de massa que ocorrem em encostas em decorrência de
 processos como a sobrecarga de peso, infiltração de água e acúmulo de material (MENG,
@@ -700,16 +547,6 @@ médio para a maior parte do território e alto para os bairros mais vulnerávei
 Oeste e Noroeste. O nível de risco varia pouco ao longo dos anos, tendo em vista que as
 bacias do Baixo Curso do Rio Paraíba e da Bacia do Gramame apresentam uma ameaça
 de secas meteorológicas alta para todo o período.
-
---- Page 17 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Elevação do Nível do Mar
 A elevação da temperatura do oceano e o derretimento das geleiras são acelerados pelo
 aumento da temperatura global. Os principais fatores de vulnerabilidade para o risco são o
@@ -746,16 +583,6 @@ Residencial rural e Comercial) e Energia (Geração de Energia Termelétrica). A
 apresenta os dados utilizados no cálculo de cada componente por tipo de processo.
 10. Water Footprint Network é uma plataforma com múltiplos stakeholders sem fins lucrativos para colaboração entre empresas,
 organizações e indivíduos.
-
---- Page 18 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Pegada Hídrica Azul Pegada Hídrica Verde Pegada Hídrica Cinza
 Consumo de Água Volume de Efluente gerado
 pela diferença entre por classe industrial
@@ -809,16 +636,6 @@ Industriais Agropecuários Processos Processos
 0% 0% 27%
 Figura 10. Pegada Hídrica direta do município de João Pessoa por componentes e processos
 Fonte: WayCarbon
-
---- Page 19 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 A pegada hídrica cinza representa, de forma simplificada, a poluição dos corpos hídricos
 do município. A pegada hídrica cinza dos processos industriais representa 73% do total,
 enquanto a dos processos domésticos representa os 27% restantes, conforme mostra a
@@ -857,16 +674,6 @@ Institute) e C40 (Climate Leadership Group) em 2014, tendo como base o Guia Naci
 (Intergovernmental Panel on Climate Change).
 13. De acordo com a abordagem BASIC, não são contabilizadas as emissões referentes a geração de energia pelas termelétricas operadas
 pelas Centrais Elétricas Da Paraíba (EPASA) e exportadas para o Sistema Interligado Nacional (SIN).
-
---- Page 20 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Escopo 1
 Escopo 3
 Agricultura, silvicultura
@@ -895,16 +702,6 @@ apresentados na Figura 12, separados pelos setores de Energia Estacionária, Tra
 e Resíduos.
 14. O CLIMAS é um software desenvolvido pela WayCarbon para gestão Integrada ESG e de gases de efeito estufa. No PAC de João
 Pessoa foi utilizado para calcular e gerenciar as emissões de gases de efeito estufa do município.
-
---- Page 21 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 1.600
 1.400
 30,8%
@@ -961,16 +758,6 @@ seõssimE
 2 2
 medida do quanto cada gás contribui para o aquecimento global e compara o potencial de aquecimento de uma determinada quantidade
 de gás com a mesma quantidade de CO.
-
---- Page 22 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 FIGURA 13 DO CAPÍTULO 2 - DIAGNÓSTICO
 65
 São Paulo
@@ -1019,16 +806,6 @@ atipac
 rep
 BIP
 Emissões per capita (tCO e/ hab)
-
---- Page 23 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 2.4.1 Cenário BAU
 O cenário BAU (sigla em inglês para Business as Usual) representa o cenário de emissões
 de gases de efeito estufa sem considerar qualquer medida capaz de reduzir as emissões
@@ -1077,14 +854,6 @@ cenário, ou seja, quais os principais processos responsáveis pelos GEE remanes
 octk(
 seõssimE
 2
-
---- Page 24 ---
-
-AOSSEP
-OÃOJ
-ED ACITÁMILC
-OÃÇA ED
-ONALP
 Uma análise mais criteriosa da Figura 17 permite observar que a principal atividade emis-
 sora de GEE remanescente permanece sendo o transporte terrestre. Na sequência, as
 emissões do tratamento de efluentes são bastante significativas, e é possível pensar em
@@ -1310,41 +1079,18 @@ seõssimE
 2e
 Redução Energia Estacionária Redução Transporte Redução Resíduos BAU Meta Neutralidade
 Figura 16. Resultados do Cenário Ambicioso
-
---- Page 25 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Como apresentado na Figura 17, o município de João Pessoa ainda precisa estabelecer no-
 vas ações – ou aumentar a ambição das ações – de mitigação do Plano de Ação Climática
 para atingir a neutralidade em 2050. A seção 4.2 “Análise de Barreiras e Recomendações
 Futuras” propõe a discussão das principais barreiras que impedem a construção de um
 cenário mais ambicioso e apresenta as recomendações para serem consideradas na atu-
 alização do PAC.
-
---- Page 26 ---
-
 3. PLANO DE AÇÃO
 3.1. Metas Gerais de Mitigação e Adaptação
 ............................................................................................................................. 42
 3.2. Eixos Estratégicos
 ............................................................................................................................. 43
 3.3. Ações Prioritárias
-
---- Page 27 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 3.1 METAS GERAIS DE MITIGAÇÃO E ADAPTAÇÃO
 As metas gerais propostas no âmbito do Plano de Ação Climática, apresentadas no Qua-
 dro 3, são baseadas nos resultados da etapa de diagnósticos, nas metas dos instrumentos
@@ -1400,16 +1146,6 @@ Ampliar a coleta de biogás em aterros
 sanitários.
 16. A Agenda 2030 visa à melhoria na qualidade de vida a partir dos 17 Objetivos de Desenvolvimento Sustentável (ODS), focados em
 acabar com a pobreza, proteger o meio ambiente e o clima e garantir que todos possam desfrutar de paz e de prosperidade (ONU, 2022a).
-
---- Page 28 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Setor/Risco 2030 2050
 Adaptação
 Reduzir em 30% o número de pessoas
@@ -1454,16 +1190,6 @@ nários de Emissões. Os eixos do Plano Diretor também foram considerados na co
 dos eixos estratégicos do PAC, aplicando-se uma lente climática de forma estruturante no
 Planejamento Municipal. No Quadro 4 são apresentados os eixos estratégicos, bem como
 seus desafios e potencialidades sob a ótica da mudança do clima.
-
---- Page 29 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Quadro 4. Eixos Estratégicos do Plano de Ação Climática e seus desafios e potencialidades
 Eixo Desafios e Potencialidades
 Descrição
@@ -1525,16 +1251,6 @@ riscos, para otimizar a prevenção e a para proteger a população dos eventos
 resposta a eventos extremos. climáticos, podendo integrá-las a ações
 já previstas, como a Implantação do
 Centro de Cooperação da Cidade (CCC).
-
---- Page 30 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Desafios e Potencialidades
 Descrição
 Estratégico para cada eixo estratégico
@@ -1613,16 +1329,6 @@ implementar iniciativas de eficiência
 energética e sistemas inteligentes.
 Fonte: WayCarbon, com base nos diagnósticos realizados para o plano e PMJP (2020), SNIS (2021), PMJP (2014), IBGE (2018)
 e Análise de Riscos e Vulnerabilidades Climáticas (2022)
-
---- Page 31 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 3.3 AÇÕES PRIORITÁRIAS
 As ações priorizadas foram agrupadas nos eixos estratégicos apresentados no Quadro 4
 e detalhadas em fichas, com os elementos descritos em azul no esquema da Figura 18:
@@ -1662,16 +1368,6 @@ ODS: Objetivos do Desenvolvimento
 Figura 18. Esquema como ler as Fichas de Ação
 Sustentável relacionados com a ação.
 Fonte: WayCarbon
-
---- Page 32 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Os símbolos utilizados nos campos “Setor de emissão de GEE relacionado” e “Risco cli-
 mático relacionado” estão descritos no Quadro 5 e no Quadro 6, respectivamente. As ca-
 tegorias utilizadas para avaliar a classe de custo das ações são apresentadas no Quadro 7.
@@ -1715,16 +1411,6 @@ Estas ações são todas prioritárias para o município, sendo que a numeraçã
 configura somente como uma forma de organizar e identificar as ações de forma a facilitar
 a busca de uma determinada ação dentro do PAC.
 17. Destaca-se que essa estimativa diz respeito ao custo do investimento no valor presente de 2022.
-
---- Page 33 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Mobilidade e Transporte Sustentável
 Ação 1: Priorizar os serviços de transporte público coletivo sobre
@@ -1757,16 +1443,6 @@ tivo para conformação de novas centralidades e estabelecimento de
 zonas prioritárias ao adensamento populacional, visando a redução
 da necessidade de grandes deslocamentos da população.
 1.3. Construir faixas exclusivas para ônibus nas avenidas de ligação. SEMOB
-
---- Page 34 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Mobilidade e Transporte Sustentável
 Ação 2: Integrar o transporte público aos demais modais
@@ -1800,16 +1476,6 @@ tarifários e subsídio ao transporte coletivo.
 2.3. Avaliar a melhor alternativa para instalação de suportes para SEMOB
 transporte de bicicletas nos ônibus e estabelecer mecanismo para
 implantação dessa medida pelas concessionárias de transporte.
-
---- Page 35 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Mobilidade e Transporte Sustentável
 Ação 3: Promover o uso de tecnologias menos poluentes nas
@@ -1837,16 +1503,6 @@ Custo e Fonte de Financiamento: elétricos (%)
 CUSTO ALTO ($$$)
 Identificado – Recursos próprios do município
 (Fundos específicos)
-
---- Page 36 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Mobilidade e Transporte Sustentável
 Ação 4: Incentivar o uso de modais ativos nos deslocamentos intraurbanos
@@ -1884,16 +1540,6 @@ para promover a cultura da bicicleta.
 4.4. Desenhar e implementar mecanismos de promoção do uso da SEMOB e SEDEC
 bicicleta por alunos da rede pública, através de incentivo financeiro e
 implantação de infraestrutura no entorno das escolas.
-
---- Page 37 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Mobilidade e Transporte Sustentável
 Ação 5: Incentivar a substituição da frota de automóveis por veículos
@@ -1922,16 +1568,6 @@ Subação: Instituições responsáveis:
 5.1. Renovar a frota municipal para veículos de baixa emissão. SEPLAN
 5.2. Elaborar mecanismo de incentivo a veículos de baixa emissão. SEPLAN e SEMOB
 5.3. Fomentar a implantação de rede de recarga para veículos elétricos. SEPLAN e SEMOB
-
---- Page 38 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Qualidade Urbana e Habitação
 Ação 6: Requalificar espaços públicos para uso da população
@@ -1967,16 +1603,6 @@ SEMAM e SETUR
 conservação/restauração do patrimônio cultural e ambiental. SEMAM e SETUR
 6.3. Criar mais espaços verdes na cidade associados aos projetos de SEPLAN, SEDURB, SEMAM e
 requalificação. SETUR
-
---- Page 39 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Qualidade Urbana e Habitação
 Ação 7: Garantir o direito à moradia digna e incrementar o provimento
@@ -2010,16 +1636,6 @@ interesse social para discussão de novas tecnologias sustentáveis,
 suas formas de implementação e financiamento.
 7.2. Priorizar bairros centrais e de urbanização consolidada para cria- SEMHAB, SEPLAN e SEDURB
 ção de habitações de interesse social.
-
---- Page 40 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Qualidade Urbana e Habitação
 Ação 8: Conter o espraiamento urbano, revertendo o atual modelo de
@@ -2050,16 +1666,6 @@ Transporte Sustentável (DOTS) nos projetos urbanos. SEINFRA
 8.2. Incrementar equipe e estrutura municipal para análise dos estu- SEPLAN
 dos de impacto da implantação de novos usos nas diversas zonas da
 cidade.
-
---- Page 41 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Qualidade Urbana e Habitação
 Ação 9: Criar programa de recuperação do Centro Histórico,
@@ -2105,16 +1711,6 @@ cos tombados, para usos de moradia, comércio e cultural.
 9.5. Realizar estudo de viabilidade para definição de estratégias de pro- SEMOB e SEPLAN
 moção do uso misto p. ex. linhas de crédito, requalificação de prédios
 para aluguel social e garantia da aplicação IPTU Progressivo em lotes.
-
---- Page 42 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Qualidade Urbana e Habitação
 Ação 10: Desenvolver o diagnóstico e recuperar áreas de Zonas
@@ -2164,16 +1760,6 @@ ocupações e sensibilizar a comunidade para apoio e fiscalização.
 10.4. Realizar iniciativas de melhoramento habitacional de domicílios SEMHAB
 precários inseridos nessas áreas, com capacitação dos moradores e
 utilização de mão-de-obra local.
-
---- Page 43 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Áreas Verdes e Proteção Costeira
 Ação 11: Elaborar mapeamentos e diagnósticos sobre as áreas verdes
@@ -2216,16 +1802,6 @@ município.
 11.4. Criação de plataforma interativa para disponibilização da base SEMAM
 de dados dos mapeamentos, em cooperação com instituições
 científicas e demais entidades atuantes no tema.
-
---- Page 44 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Áreas Verdes e Proteção Costeira
 Ação 12: Proteger os remanescentes vegetais e manguezais
@@ -2265,16 +1841,6 @@ transversais para criar UCs.
 12.3. Elaborar Plano Estratégico de Fiscalização Ambiental e SEMAM, SUDEMA, SEIRHMA
 intensificar a fiscalização pública.
 12.4. Elaborar mecanismos de incentivo econômico para conservação. SEMAM, SEPLAN e SEDEST
-
---- Page 45 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Áreas Verdes e Proteção Costeira
 Ação 13: Elaborar projetos de recuperação ambiental em áreas públicas
@@ -2327,16 +1893,6 @@ verdes internas aos lotes.
 13.4. Priorizar recuperação ambiental nos bairros Cabo Branco, Costa SEMAM
 do Sol, Gramame, Mussuré, Mumbaba e demais bairros mais ao sul
 do município.
-
---- Page 46 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Áreas Verdes e Proteção Costeira
 Ação 14: Elaborar plano estratégico para o enfrentamento do
@@ -2376,16 +1932,6 @@ biodiversidade marinha, incluindo recifes de corais. SUDEMA
 14.3. Desenvolver parcerias com ONGs, academia, Marinha e outros SEMAM, SEDEC, SETUR,
 atores para realizar projetos de conscientização, monitoramento e SUDEMA
 preservação dos oceanos.
-
---- Page 47 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Áreas Verdes e Proteção Costeira
 Ação 15: Elaborar estudos para contenção da erosão no Cabo Branco
@@ -2426,16 +1972,6 @@ restabelecimento dos padrões naturais de drenagem.
 Seixas, com o objetivo de promover atividades turísticas e de lazer
 que valorizem o patrimônio natural e cultural da área de forma
 sustentável e incentivem a sua conservação.
-
---- Page 48 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Gestão de Riscos Climáticos
 Ação 16: Elaborar o Plano Municipal de Redução de Riscos (PMRR)
@@ -2471,16 +2007,6 @@ para viabilizar a implementação do PMRR no território.
 16.3. Instalar placas informativas pela cidade, como por exemplo: COMPDEC - Defesa Civil
 “Risco de Inundações” ou “Área sujeita a deslizamento em período
 chuvoso”.
-
---- Page 49 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Gestão de Riscos Climáticos
 Ação 17: Desenvolver ferramenta web e software de gestão
@@ -2511,16 +2037,6 @@ Desenvolvimento (BID)
 Subação: Instituições responsáveis:
 17.1. Realizar estudos hidráulicos e hidrológicos, com elaboração de SEPLAN e COMPDEC -
 cartas de zoneamento de risco de enchentes. Defesa Civil
-
---- Page 50 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Gestão de Riscos Climáticos
 Ação 18: Implementar o Centro de Cooperação da Cidade de João Pessoa
@@ -2556,16 +2072,6 @@ alerta por múltiplas vias de comunicação.
 18.3. Implantar STI - Sistemas de Transporte Inteligente, integrado ao SEMOB
 CCC, promovendo ganhos de eficiência no planejamento e operação
 do transporte público.
-
---- Page 51 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Saneamento Ambiental e Saúde
 Ação 19: Elaborar e implementar o Plano Diretor de Drenagem
@@ -2600,16 +2106,6 @@ drenagem.
 falésias.
 19.3. Reduzir as ocorrências de enchentes e inundações e o impacto SEINFRA, SEPLAN, SEMAM,
 com deslizamentos. SEMHAB e Defesa Civil
-
---- Page 52 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Saneamento Ambiental e Saúde
 Ação 20: Reordenar o sistema de drenagem, priorizando o uso de
@@ -2644,16 +2140,6 @@ a importância de conservar os leitos dos rios, matas ciliares, áreas
 permeáveis e arborização urbana.
 20.3. Ampliar arborização em praças, ruas públicas e construções SEINFRA, SEMAM
 relacionadas à drenagem.
-
---- Page 53 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Saneamento Ambiental e Saúde
 Ação 21: Criar o programa de Execução e Manutenção de sistemas
@@ -2685,16 +2171,6 @@ construção de SMiMaD que visem a universalização.
 SEPLAN e SEMAM
 21.3. Realizar obras de drenagem corretiva dos problemas Defesa Civil, SEINFRA,
 causadores de inundações, enchentes e alagamentos. SEPLAN e SEMAM
-
---- Page 54 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Saneamento Ambiental e Saúde
 Ação 22: Desenvolver o diagnóstico e recuperar áreas de mananciais
@@ -2734,16 +2210,6 @@ recarga de aquíferos.
 mananciais superficiais e subterrâneos.
 22.4. Priorizar ações de recuperação nas nascentes e margens de SEMAM, CAGEPA
 rios importantes para o município, como Cuiá e Gramame.
-
---- Page 55 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Saneamento Ambiental e Saúde
 Ação 23: Criar Plano Municipal de Contingência de Arboviroses para
@@ -2782,16 +2248,6 @@ qualificar a rede de hospitais e postos de saúde existentes.
 bairros, escolas e creches.
 23.4. Organizar a distribuição de insumo estratégico (inseticidas) SMS
 e priorização de equipamentos necessários ao controle do vetor.
-
---- Page 56 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Saneamento Ambiental e Saúde
 Ação 24: Implementar medidas que promovam a segurança hídrica
@@ -2824,16 +2280,6 @@ Ambiental.
 chuva para fins potáveis.
 24.3. Elaborar estudos, regularizar e viabilizar o reuso de água para SEINFRA, SEPLAN, CAGEPA,
 fins não potáveis. SEMAM
-
---- Page 57 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Saneamento Ambiental e Saúde
 Ação 25: Criar Programa de Vigilância em Saúde Ambiental relacionado
@@ -2869,16 +2315,6 @@ poluição sonora, do ar, da água e do solo, em conjunto com as
 Unidades de Vigilância em Saúde.
 25.3. Propor ações de monitoramento e intervenção a partir dos SMS
 dados mensais analisados.
-
---- Page 58 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Gerenciamento de Resíduos
 Ação 26: Implementar tecnologias de tratamento de resíduos úmidos
@@ -2913,16 +2349,6 @@ resíduos úmidos.
 26.3. Firmar parcerias e realizar oficinas de educação ambiental com EMLUR, SEMAM
 escolas, creches, mercados, indústrias, restaurantes e sociedade civil,
 visando a separação dos resíduos úmidos.
-
---- Page 59 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Gerenciamento de Resíduos
 Ação 27: Ampliar o atendimento da rede pública de coleta seletiva de
@@ -2958,16 +2384,6 @@ resíduos secos e úmidos encaminhados para aterros sanitários.
 27.3. Tratar com órgãos estaduais e nacionais e buscar parcerias EMLUR, SEMAM, CAGEPA
 público-privadas para arrecadação de fundos.
 27.4. Regularizar Comitê Municipal para Gestão da Coleta Seletiva. EMLUR
-
---- Page 60 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Gerenciamento de Resíduos
 Ação 28: Implantar/ampliar sistemas de unidades de triagem
@@ -3002,16 +2418,6 @@ consumidores no processo de segregação e triagem.
 28.3. Avaliar estabelecimento de lei municipal sobre a EMLUR
 responsabilidade compartilhada do ciclo de vida dos produtos e
 municipalização do marco regulatório da logística reversa.
-
---- Page 61 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Gerenciamento de Resíduos
 Ação 29: Realizar a inclusão socioeconômica dos catadores(as)
@@ -3043,16 +2449,6 @@ materiais recicláveis para separação e venda de recicláveis e
 tratamento de resíduos úmidos.
 29.3. Criar programa para capacitação de mulheres como agentes de EMLUR
 reciclagem.
-
---- Page 62 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Inclusão e Redução da Vulnerabilidade Social
 Ação 30: Criar Programa de Educação Ambiental e Climática - PEAC
@@ -3093,16 +2489,6 @@ Civil nas escolas”.
 ONGS ambientalistas, associações de bairro e Universidades para
 construir o PEAC e fomentar o intercâmbio entre esses atores na
 construção de projetos comunitários.
-
---- Page 63 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Inclusão e Redução da Vulnerabilidade Social
 Ação 31: Elaborar Plano de Segurança Alimentar e Combate
@@ -3143,16 +2529,6 @@ privados.
 31.5. Promover o debate sobre a alimentação vegetariana, incluindo SEDEC
 esta opção nos cardápios de merenda escolar e de restaurantes
 populares.
-
---- Page 64 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Inclusão e Redução da Vulnerabilidade Social
 Ação 32: Criar o Fórum Municipal de Mudanças Climáticas
@@ -3182,16 +2558,6 @@ Subação: Instituições responsáveis:
 Pública, os adaptando ao tema mudança climática.
 32.2. Criar grupos de trabalho temáticos para discussão sobre SEMAM e demais instituições
 mudança do clima. ligadas ao futuro Fórum
-
---- Page 65 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Inclusão e Redução da Vulnerabilidade Social
 Ação 33: Ampliar o Programa Cinturão Verde
@@ -3227,16 +2593,6 @@ e aumentar o número de feiras fixas.
 33.3. Capacitar de forma contínua os produtores rurais. SEDEST
 33.4. Criar mecanismos de incentivo à agricultura orgânica e SEDEST
 agroecológica.
-
---- Page 66 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Inclusão e Redução da Vulnerabilidade Social
 Ação 34: Implantar o Programa de capacitação profissional e incentivo
@@ -3270,16 +2626,6 @@ empreendedorismo e a dar apoio técnico a esse tipo de iniciativa.
 34.2. Incentivar e apoiar tecnicamente empreendimentos informais, SEDEST, SEMAM, EMLUR,
 como associações de catadores e centros de triagem. SEPLAN, SEDURB
 34.3. Criar um Distrito Criativo no Centro Histórico. SECITEC, SEDEST
-
---- Page 67 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Inclusão e Redução da Vulnerabilidade Social
 Ação 35: Criar selo verde
@@ -3316,16 +2662,6 @@ programa de selo de qualidade na construção civil.
 35.3. Implementar o “Programa de Controle Ambiental de Obras” e o UEP, organizações contrata-
 “Programa de Gestão dos Resíduos de Demolição e Gerenciamento das para as obras
 de Resíduos da Construção Civil”.
-
---- Page 68 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Energia de baixo carbono
 Ação 36: Implementar Estações de Tratamento de Efluentes com
@@ -3357,16 +2693,6 @@ Subação: Instituições responsáveis:
 com esgotamento sanitário, em parceria com o projeto Cooperar PB.
 36.2. Desenvolver pesquisas e estudos para aproveitamento CAGEPA, SEMAM
 econômico de lodos de ETEs.
-
---- Page 69 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo Estratégico:
 Energia de baixo carbono
 Ação 37: Ampliar a geração e consumo de energia renovável no município
@@ -3403,24 +2729,11 @@ de fontes renováveis em prédios públicos.
 comportamentos mais econômicos no uso de energia. SEMAM
 37.5. Desenvolver programa de instalação de painéis solares em SECITEC, SEDEST, SEINFRA,
 comunidades, capacitando e utilizando mão-de-obra local. SEPLAN e SEMAM
-
---- Page 70 ---
-
 4. IMPLEMENTAÇÃO
 DO PLANO
 4.1. Plano de Monitoramento e Avaliação
 .......................................................................................................................... 88
 4.2. Análise de Barreiras e Recomendações Futuras
-
---- Page 71 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 4.1 Plano de Monitoramento e Avaliação
 A definição de um plano de monitoramento e avaliação das metas e ações propostas é
 fundamental para garantir a implementação e o progresso do Plano de Ação Climática
@@ -3461,16 +2774,6 @@ cos, resumos executivos e outros documentos
 2030 Redução de 15% de emissões em relação ao ano base
 2030-2040 - Relatório de Progresso: avaliação intermediária da trajetória de emissões, indicado-
 res de adaptação e execução das ações de curto prazo (até 2030)
-
---- Page 72 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Período Descrição
 - Processo de revisão do Plano de Ação Climática (2038-2040):
 • Acompanhamento e avaliação das ações propostas de redução de emissões e adap-
@@ -3525,16 +2828,6 @@ Transporte % de Mobilidade
 Sustentável Urbana- Semob
 transporte público e
 veículos particulares)
-
---- Page 73 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Eixo
 Indicador Und. Fonte Origem do dado Periodicidade
 Temático
@@ -3608,16 +2901,6 @@ curto prazo é a criação de um Fórum Municipal sobre Mudanças Climáticas, d
 articular entidades, movimentos sociais e demais organizações civis. A iniciativa também
 pode contribuir com o aprimoramento das ações e indicadores, direcionando as áreas e
 demandas mais críticas da sociedade.
-
---- Page 74 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Cooperação entre
 Comunicação com
 as secretarias da
@@ -3673,16 +2956,6 @@ a implementação de ações mais ambiciosas podem ter origens diversas, sendo a
 tanto para ações de mitigação como para ações de adaptação.
 Barreiras são desafios ou limitações existentes no contexto atual e que restringem a imple-
 mentação de ações mais ambiciosas no longo prazo. São fatores externos, como decisões
-
---- Page 75 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 tomadas que fogem da competência ou zona de influência do município, ou ainda limita-
 ções físicas, técnicas, financeiras ou sociais para o financiamento ou execução de projetos.
 A situação econômica nacional, além de outros fatores conjunturais de escala global, tam-
@@ -3725,16 +2998,6 @@ incorporadas em uma próxima revisão do PAC: Recomendações gerais, que visam 
 rias para o desenvolvimento do PAC, e recomendações futuras para aumentar a ambição
 das ações no longo prazo, na direção de uma João Pessoa mais justa, resiliente e neutra
 em emissões de carbono.
-
---- Page 76 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Recomendações gerais para o Plano de Ação Climática
 • Incluir a contabilização das emissões dos setores de Agricultura, Florestas e Uso
 da Terra - AFOLU e Processos Industriais e Uso de Produtos - IPPU na revisão do
@@ -3761,13 +3024,7 @@ os sólidos e efluentes.
 nerável.
 • Estabelecer medidas que apoiem famílias de baixa renda, garantindo mínimo de
 consumo de energia para o bem-estar, e universalizar o acesso a serviços essenciais.
-
---- Page 77 ---
-
 5. CONSIDERAÇÕES
-
---- Page 78 ---
-
 Nas cidades o combate à mudança do clima possui um sentido
 de urgência mais forte: onde se concentram pessoas, atividades e
 sistemas que tanto produzem quanto sofrem mais duramente os
@@ -3811,16 +3068,6 @@ ver grandes transformações em busca de um futuro mais resiliente,
 justo e inclusivo, tornando a cidade uma referência de consciência
 e ambição em um dos momentos mais desafiantes que a humani-
 dade enfrenta.
-
---- Page 79 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 REFERÊNCIAS BIBLIOGRÁFICAS
 C40. Guia para estrutura e escrever um Plano de Ação Climática. Londres, UK: C40, 2017.
 C40. Action Selection and Prioritisation (ASAP) tool. , 2020. Disponível em:
@@ -3857,16 +3104,6 @@ quisa/38/47001?ano=2010&tipo=grafico. Acesso em: 15 fev. 2022.
 IBGE. Regiões de influência das cidades: 2018. Rio de Janiero, RJ: IBGE, 2020. E-book.
 Disponível em: https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=deta-
 lhes&id=2101728. Acesso em: 24 jun. 2022.
-
---- Page 80 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 IBGE. Estimativas da População Residente no Brasil e Unidades da Federação com data
 de referência em 1o de julho de 2021. Rio de Janeiro, RJ: Instituto Brasileiro de Geografia
 e Estatística, 2021 a. Disponível em: https://ftp.ibge.gov.br/Estimativas_de_Populacao/Es-
@@ -3903,16 +3140,6 @@ Disponível em: https://brasil.un.org/pt-br/sdgs. Acesso em: 25 out. 2022.
 ONU, U. For a livable climate: Net-zero commitments must be backed by credible ac-
 tion. 2022b. Disponível em: https://www.un.org/en/climatechange/net-zero-coalition.
 Acesso em: 25 out. 2022.
-
---- Page 81 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 ONU-HABITAT. State of Latin American and Caribbean cities: Towards a new urban tran-
 sition. Nairobi: Programa das Nações Unidas para os Assentamentos Humanos, 2012. Rela-
 tório Anual. Disponível em: https://unhabitat.org/state-of-latin-american-and-caribbean-
@@ -3952,16 +3179,6 @@ ckel and J.C. Minx (eds.)]., n. Cambridge University Press,Cambridge, United Kin
 and New York, NY, USA, 2014.
 SNIS. Diagnósticos SNIS 2021/2022 (Ano de referência 2020). 2021. Disponível em:
 http://www.snis.gov.br/diagnosticos. Acesso em: 31 mar. 2022.
-
---- Page 82 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 TEIXEIRA, R. L. P.; PESSOA, Z. S.; ARAÚJO, A. C. B.; DIAS, E. M. S. Adaptação climática
 no contexto das cidades brasileiras: reflexões à luz da Agenda 2030 para o Desenvol-
 vimento Sustentável. v. 21, n. 46, p. 05–24, 2020. Disponível em: https://www.periodicos.
@@ -3972,16 +3189,6 @@ d%5D=250750. Acesso em: 1 jul. 2022.
 WRI; ICLEI; C40. Global Protocol for Community-Scale Greenhouse Gas Emission Inven-
 tories. 2014. Disponível em: https://www.wri.org/research/global-protocol-community-s-
 cale-greenhouse-gas-emission-inventories. Acesso em: 28 abr. 2021.
-
---- Page 83 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 GLOSSÁRIO
 Adaptação: Corresponde ao processo pelo qual a sociedade humana se ajusta ao clima e
 seus efeitos, sejam os atuais ou os previstos. A adaptação é promovida por estratégias e
@@ -4016,16 +3223,6 @@ climática salienta a desproporção nas respostas às medidas de mitigação e 
 que se configuram de forma desigual, devido à falta de acesso a melhoria na renda e aos
 serviços básicos de cidadania (saúde, segurança, educação e infraestruturas públicas em
 geral).
-
---- Page 84 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 Mitigação: Ações humanas que visam reduzir as emissões dos gases de efeito estufa
 (GEE) ou potencializar a eficiência de remover essas emissões. As ações de mitigação
 requerem uma ação conjunta envolvendo os setores público, privado e civil, além da ava-
@@ -4048,16 +3245,6 @@ tos das mudanças do clima. Vulnerabilidade engloba uma variedade de conceitos e
 mentos, incluindo a sensibilidade ou susceptibilidade a danos e a falta de capacidade de
 resposta ou de adaptação. O nível de vulnerabilidade pode variar conforme os conceitos
 e elementos levados em consideração.
-
---- Page 85 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 LISTA DE ACRÔNIMOS E SIGLAS
 ACA Aliança pela Ação Climática
 BAU Business as Usual
@@ -4095,16 +3282,6 @@ POGERD Portal de Gerenciamento de Riscos e Desastres
 PROGEM Procuradoria Geral do Município
 RMJP Região Metropolitana de João Pessoa
 SbN Soluções baseadas na Natureza
-
---- Page 86 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 SECITEC Secretaria Municipal de Ciência e Tecnologia
 SEDEC Secretaria de Educação e Cultura do Município de João Pessoa
 SEDES Secretaria de Desenvolvimento Social
@@ -4138,16 +3315,6 @@ USF Unidades de Saúde da Família
 WFN Water Footprint Network
 WRI World Resources Institute
 ZEIS Zonas Especiais de Interesse Social
-
---- Page 87 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 AGRADECIMENTOS
 O Plano de Ação Climática de João Pessoa foi resultado de um trabalho colaborativo e
 multidisciplinar de diversas pessoas que contribuíram com seus conhecimentos e experi-
@@ -4160,16 +3327,6 @@ tantes de ONGs, especialistas e cidadãos pessoenses. Assim, o Plano de Ação C
 que está sendo entregue para a cidade como um produto de excelência, digno de uma
 cidade que se preocupa com seu futuro, com a qualidade de vida do seu povo e com a
 sustentabilidade do planeta para essa e para as futuras gerações.
-
---- Page 88 ---
-
-AOSSEP
-OÃOJ
-ED
-ACITÁMILC
-OÃÇA
-ED
-ONALP
 EQUIPE TÉCNICA
 PREFEITURA DA CIDADE DE Secretaria de Habitação Social
 JOÃO PESSOA
@@ -4243,9 +3400,6 @@ Secretaria de Desenvolvimento Urbano
 Júnior | WayCarbon
 Secretaria de Infraestrutura
 Beatriz Ferreira, Analista de
-
---- Page 89 ---
-
 Sustentabilidade Júnior | WayCarbon
 Diego Braga, Analista de Sustentabilidade
 Pleno | WayCarbon
@@ -4280,6 +3434,3 @@ Commons
 Fotos aéreas - Jandui Junior
 PROJETO GRÁFICO E DIAGRAMAÇÃO
 Flávio Vilela - flaviovilela.com.br
-
---- Page 90 ---
-

@@ -1,7 +1,4 @@
 
-
---- Page 1 ---
-
 SUMÁRIO
 EXECUTIVO
 O ABC+, Plano Setorial para Adaptação à Mudança do Clima e Baixa Emissão de
@@ -18,9 +15,6 @@ Baixa Emissão de Carbono na Agricultura - Plano ABC, novas bases estratégicas
 foram incorporadas, ratificando-se o fomento àquelas tecnologias de produção que
 agregam maior eficiência produtiva, conservam solo, água e vegetação, e promovem
 maior controle das emissões de GEE.
-
---- Page 2 ---
-
 Suas ações operacionais estão estruturadas sobre três estratégias conceituais: na
 Abordagem Integrada da Paisagem (AIP), com enfoque no aumento da capacidade
 adaptativa dos sistemas de produção agropecuária, nas contribuições para
@@ -59,9 +53,6 @@ ABC
 capacidade de adaptação à mudança do clima e mitigação de GEE, com base em
 critérios científicos, será contínuo. Eventuais incorporações serão efetivadas nas
 futuras revisões do ABC+, previstas para ocorrerem com frequência bianual.
-
---- Page 3 ---
-
 Para o período de 2020 a 2030, tem-se como metas ampliar a área de adoção
 dos SPS em 72,68 milhões de hectares, aumentar em 208,40 milhões de m3 os
 ABC
@@ -112,9 +103,6 @@ agropecuário brasileiro frente à mudança do clima, o ABC+ traz à tona a pote
 do País em produzir e conservar.
 A Tabela 1 apresenta, sinteticamente, os objetivos específicos, eixos estratégicos e ações
 propostas para execução, até 2030.
-
---- Page 4 ---
-
 Tabela 1. Objetivos específicos, respectivos eixos estratégicos e ações propostas para
 execução, até 2030, no Plano Operacional do ABC+.
 Objetivos
@@ -182,9 +170,6 @@ atrelados aos SPS ABC
 ABC subsidiar o acompanhamento e avaliação do ABC+
 Acompanhamento e participação na Atualização do Manual de Crédito
 Rural (MCR)
-
---- Page 5 ---
-
 Objetivos
 Eixo Ações
 Específicos
@@ -253,9 +238,6 @@ resultados
 do ABC+ via Sistema Integrado de Informação do Plano ABC (SINABC)
 Acompanhamento e validação do ABC+ pela Comissão Executiva
 Nacional do Plano ABC (CENABC)
-
---- Page 6 ---
-
 Objetivos
 Eixo Ações
 Específicos
@@ -301,9 +283,6 @@ extensionistas, projetistas, agentes/analistas bancários, produtores
 rurais, associações de classe, pesquisadores, docentes, formadores de
 opinião, público internacional, financiadores de projetos
 de cooperação etc)
-
---- Page 7 ---
-
 1. INTRODUÇÃO
 As recentes projeções climáticas globais e principais cenários resultantes indicam
 que, muito provavelmente, as regiões tropicais serão potencialmente mais afetadas
@@ -323,9 +302,6 @@ das Nações Unidas sobre a Mudança do Clima (UNFCCC), almeja a estabilização
 temperatura média global em até 1,5°C acima do período pré-industrial. Isto, exigirá
 medidas extremas, além de efetivo engajamento global, para que sejam catalisadas
 mudanças e desafios climáticos superiores aos experimentados atualmente.
-
---- Page 8 ---
-
 Neste cenário desafiador para o planeta, o Brasil reafirma seu
 compromisso mundial para o enfrentamento à mudança do clima
 e estende por mais uma década o Plano ABC – Plano Setorial
@@ -351,9 +327,6 @@ de cada estado da federação, que de uma forma ou de outra, participam do
 processo produtivo agropecuário, como secretarias estaduais de agricultura e
 meio ambiente, bancos, cooperativas e associações de produtores, pesquisa,
 assistência técnica, entre outros.
-
---- Page 9 ---
-
 O engajamento da sociedade civil e o apoio do governo federal foram fundamentais
 para viabilizar a incorporação de modelos de financiamento embasados nos
 elementos técnicos dos sistemas de produção. Prazos de carência compatíveis
@@ -393,9 +366,6 @@ e incorpora o conceito de Abordagem Integrada da Paisagem (AIP) à gestão do us
 do solo nas propriedades rurais, microrregiões e territórios.
 Este novo ciclo representa a continuidade do comprometimento de diferentes
 atores do setor agropecuário brasileiro em apoiar os esforços globais de
-
---- Page 10 ---
-
 enfrentamento à mudança do clima, avivando a importância de continuidade das
 ações executadas na década anterior. Destarte, sua execução contribuirá ainda
 mais com os 17 Objetivos de Desenvolvimento Sustentável (ODS) da Agenda
@@ -434,9 +404,6 @@ Ciente do papel essencial exercido pelo setor agropecuário para um modelo de
 desenvolvimento justo e equânime, o Brasil encontra-se cada vez mais preparado
 para ser um dos principais protagonistas no alcance das metas estabelecidas pelos
 países membros da Organização das Nações Unidas (ONU).
-
---- Page 11 ---
-
 1.1 CONTEXTO HISTÓRICO
 Tal movimentação, realizada com substancial apoio das instituições e agentes
 econômicos nacionais, foi resultado do amadurecimento e consolidação da
@@ -475,9 +442,6 @@ prazo de alcance até 2025, bem como a redução de 43% das emissões de GEE em
 relação aos níveis de 2005, com prazo até 2030.
 2 https://unfccc.int/files/meetings/cop_15/copenhagen_accord/application/pdf/brazil-
 cphaccord_app2.pdf
-
---- Page 12 ---
-
 Como objetivo de longo prazo, a versão revisada da NDC do Brasil passou a
 incorporar a meta de atingir neutralidade climática em 2050, objetivo factível,
 porém ambicioso, cujo alcance requer estratégias robustas por parte de todos os
@@ -517,9 +481,6 @@ de hectares.
 Além dessas, com o intuito de aportar uma visão mais estratégica para a
 implementação do Plano ABC, e visando facilitar a transição para uma agropecuária
 nacional mais sustentável, foram incorporadas outras duas metas domésticas:
-
---- Page 13 ---
-
 I. promover as ações de reflorestamento no país, expandindo a área com Florestas
 Plantadas (FP) destinada à produção de fibras, madeira e celulose em 3,0 milhões
 de hectares, e;
@@ -554,9 +515,6 @@ de Carbono na Agricultura - ABC+”.
 O ABC+ será executado de 2020 a 2030, com o intuito de consolidar a agropecuária
 nacional alicerçada sobre sistemas sustentáveis, resilientes e produtivos, como
 soluções de adaptação e mitigação embasadas em ciência.
-
---- Page 14 ---
-
 Neste segundo ciclo, a Política Pública continua atuando como instrumento promotor
 da adaptação à mudança do clima, da mitigação de GEE e da sustentabilidade no
 setor agropecuário, incluindo em sua estratégia o conceito de AIP, em alinhamento
@@ -593,9 +551,6 @@ ambiental das propriedades.
 Em sua nova fase, o ABC+ continua a privilegiar áreas já antropizadas, focando
 na eficiência do uso de recursos disponíveis (solo, água e biodiversidade), como
 alicerce para o aumento da produção e da produtividade. Uma das principais
-
---- Page 15 ---
-
 novidades aportadas é a reestruturação e incremento das bases conceituais que o
 fundamentam, com a inserção de conceitos respaldados pela comunidade científica.
 Desenha-se, assim, para a próxima década, uma política pública amadurecida, com
@@ -632,9 +587,6 @@ e manutenção de Sistemas, Práticas, Produtos e Processos de Produção
 Sustentáveis (SPS ), dentro da concepção de uso eficiente de áreas com
 ABC
 aptidão para produção agropecuária.
-
---- Page 16 ---
-
 Assim, aumenta-se o portfólio de SPS , além dos já abrangidos em sua fase
 ABC
 anterior, desde que em consonância com os eixos orientadores para 2020-2030.
@@ -671,9 +623,6 @@ Aliadas a estratégias com alto grau de resiliência, como a utilização de sis
 integração e o uso de raças e cultivares melhorados e diversificados biologicamente,
 tais ações garantem eficiência produtiva, devido ao alto sinergismo entre as práticas,
 e rentabilidade, bem como a conservação dos recursos naturais e dos ecossistemas.
-
---- Page 17 ---
-
 As bases conceituais do ABC+ podem ser associadas a:
 I. efetivos sistemas de contingência, que incluam prevenção, controle e combate
 por meio de sistemas de gestão integrada do risco, de previsão climática e alerta
@@ -708,9 +657,6 @@ prioridades, e capacidade de operacionalização e mobilização de recursos, de
 de uma visão de longo prazo, segundo dinâmica adotada pelas respectivas UF. Sua
 efetivação depende do envolvimento e articulação interna e externa, com o objetivo
 de diminuir a assimetria informacional e potencializar as ações estipuladas.
-
---- Page 18 ---
-
 Para tal, a constituição dos GGE deve ser resultado de uma intensa mobilização
 das partes interessadas, envolvendo representantes governamentais federais,
 estaduais e municipais (como do MAPA; das Secretarias de Agricultura, Meio
@@ -747,9 +693,6 @@ Informações do Plano Setorial para Consolidação de uma Economia de Baixa Emi
 de Carbono na Agricultura (SINABC), e o Comitê Técnico de Acompanhamento do
 Plano Setorial para Consolidação de uma Economia de Baixa Emissão de Carbono na
 Agricultura (CTABC).
-
---- Page 19 ---
-
 O Decreto nº 10.431, de 20 de julho de 2020, institui a Comissão Executiva Nacional
 do Plano Setorial para Consolidação de uma Economia de Baixa Emissão de Carbono
 na Agricultura (CENABC), conforme estruturado na Figura 1.
@@ -783,9 +726,6 @@ abrange ferramentas e tecnologias de informação utilizadas no monitoramento,
 relato e verificação dos dados.
 As informações consolidadas no SINABC subsidiam a próxima camada do sistema
 de governança, o CTABC, no monitoramento, acompanhamento e avaliação do
-
---- Page 20 ---
-
 ABC+, permitindo a consolidação e informação dos dados primários resultantes da
 atuação do setor agropecuário nacional no enfrentamento à mudança do clima.
 A interconexão entre diferentes instâncias federativas (governo federal, estaduais e
@@ -806,9 +746,6 @@ consulta a grupos ampliados de atores e instituições colaboradoras.
 Por meio de um processo circular, suportado pela retroalimentação e avaliação
 contínua das ações, pretende-se manter e fortalecer a transversalidade e
 transparência de atuação do ABC+.
-
---- Page 21 ---
-
 2. PLANO OPERACIONAL
 DO ABC+
 O Plano Operacional (PO) foi construído para orientar o atingimento do escopo
@@ -831,9 +768,6 @@ conceituais constantes no PE, i.e., i) Abordagem Integrada da Paisagem (AIP); ii
 adoção e manutenção de Sistemas, Práticas, Produtos e Processos de Produção
 Sustentáveis (SPS ), e; iii) Interconexão entre adaptação e mitigação.
 ABC
-
---- Page 22 ---
-
 O Plano Operacional do ABC+ está estruturado em nove eixos estratégicos, divididos
 em Programas e Estratégias, segundo os respectivos escopos, conforme detalhado
 no Item 4. Entende-se por “Programa”, o conjunto de ações sob coordenação direta
@@ -854,9 +788,6 @@ possam vir a ser necessárias.
 Complementarmente ao aperfeiçoamento das suas ações, e à integração dinâmica
 de novos conhecimentos apreendidos, estão previstas revisões sistemáticas bianuais
 predefinidas, a partir de seu início de execução.
-
---- Page 23 ---
-
 2.1 OBJETIVO GERAL DO ABC+
 Promover a adaptação à mudança do clima, e o controle das emissões de GEE,
 na agropecuária brasileira, com aumento da eficiência e resiliência dos sistemas
@@ -890,9 +821,6 @@ Oficial da União (DOU).
 Serão realizadas revisões periódicas bianuais, para revisão de tecnologias (SPS ),
 ABC
 ações e metas, bem como para readequá-lo às demandas da sociedade.
-
---- Page 24 ---
-
 A abrangência do ABC+ é nacional, porém com um recorte por bioma, considerando
 suas especificidades. As Unidades Federativas e municípios serão estimulados a
 aderirem formalmente à sua execução, por meio dos Grupos Gestores Estaduais
@@ -933,9 +861,6 @@ Pastagens Degradadas (PRPD)1
 decomposição de raízes ao longo do perfil do
 solo. Reduz a erosão e aumenta a capacidade
 adaptativa a secas prolongadas.
-
---- Page 25 ---
-
 Ampliação da Potencial de mitigação de
 SPS adoção emissões de GEE Contribuições para adaptação
 ABC
@@ -1004,9 +929,6 @@ Florestas Plantadas (FP) 4,00 510,0010 espécies animais e vegetais, com aumento
 da biodiversidade. Possui alto potencial
 para gerar produtos e bioprodutos de
 diferentes usos.
-
---- Page 26 ---
-
 Ampliação da Potencial de mitigação de
 SPS adoção emissões de GEE Contribuições para adaptação
 ABC
@@ -1075,9 +997,6 @@ Intensiva seja de 500 mil animais por ano, com potencial de mitigação de aprox
 kg COeq/animal de 19@.
 2
 Fonte: Elaborada pelos autores.
-
---- Page 27 ---
-
 2.4.1 SISTEMAS, PRÁTICAS, PRODUTOS E PROCESSOS DE
 PRODUÇÃO SUSTENTÁVEIS
 O estímulo à adoção de sistemas, práticas, produtos e processos de produção
@@ -1114,15 +1033,9 @@ respectivas definições, benefícios em termos de promoção de adaptação,
 mitigação e sustentabilidade, metas estimadas até 2030 e indicadores para seu
 monitoramento. São apresentados, ainda, os desafios previstos para sua adoção,
 ampliação e manutenção, se já definidos.
-
---- Page 28 ---
-
 2.4.1.1 PRÁTICAS PARA RECUPERAÇÃO DE PASTAGENS
 DEGRADADAS (PRPD)
 Crédito: Rodrigo da Costa Gomes
-
---- Page 29 ---
-
 Considerando a possibilidade de se utilizar diferentes práticas para recuperar ou
 renovar uma pastagem com algum grau de degradação, o ABC+ amplia o escopo
 da então denominada “Recuperação de Pastagens Degradadas (RPD)”, para Práticas
@@ -1160,9 +1073,6 @@ da pecuária pela utilização da agricultura (Kluthcouski e Cordeiro, 2018).
 Os sistemas de produção pecuária que adotam tecnologias ou estratégias de
 PRPD aumentam a produção de parte aérea e raízes, que ampliam a capacidade de
 sequestro e estoque de carbono no solo ao longo do tempo.
-
---- Page 30 ---
-
 Pastagens recuperadas ou renovadas também são mais produtivas e mais nutritivas,
 o que torna o sistema de produção mais eficiente, e que por sua vez, reduz as
 emissões de metano (CH ) entérico por quilo de carne ou litro de leite produzidos
@@ -1202,9 +1112,6 @@ estabelecimentos agropecuários que recuperaram suas pastagens (em unidades),
 a quantidade de animais (em UA/ha) no início da intervenção e após o término
 de cada ciclo de aferição do ABC+, e a área total (em hectares) de pastagens, com
 algum grau de degradação, que foram recuperadas ou renovadas.
-
---- Page 31 ---
-
 Dentre os desafios a serem considerados para o atingimento da meta estipulada
 para PRPD, têm-se:
 ● Ampliar a produção e promover o ● Oferecer subsídios técnicos
@@ -1246,14 +1153,8 @@ pastagens degradadas; grande porte.
 de pastagens com algum grau
 de degradação, em cada bioma
 brasileiro;
-
---- Page 32 ---
-
 2.4.1.2 SISTEMA PLANTIO DIRETO (SPD)
 Crédito: Ronaldo Trecenti
-
---- Page 33 ---
-
 O Sistema Plantio Direto (SPD) caracteriza-se por um conjunto de tecnologias
 de manejo do solo e de culturas, fundamentado em três princípios da agricultura
 conservacionista:
@@ -1291,9 +1192,6 @@ crescente utilização, ainda não são práticas comuns. Apesar da existência 
 desafios, a integração do SPDH como tecnologia do ABC+ pode selar a entrada da
 cadeia produtiva de hortaliças nas discussões a respeito dos temas relacionados à
 mudança do clima e desenvolvimento sustentável.
-
---- Page 34 ---
-
 Neste contexto, cabe ressaltar que esta cadeia, em particular, apresenta um
 forte impacto socioeconômico, por ter seus produtores majoritariamente
 incluídos na Agricultura Familiar, e estes serem destinados principalmente
@@ -1332,9 +1230,6 @@ Para os próximos dez anos do ABC+, espera-se que o SPD continue sua expansão e
 termos de área, pois promove condições favoráveis ao acúmulo de matéria orgânica
 no solo e, consequentemente, de carbono, adicionado ao solo por intermédio dos
 restos culturais (palha e raízes).
-
---- Page 35 ---
-
 Além disso, o SPD demanda menores quantidades de combustível fóssil em relação
 ao preparo convencional, e aumenta a eficiência de uso da maioria dos nutrientes
 aportados via fertilizante. Isso implica em menores emissões de GEE associados ao
@@ -1377,9 +1272,6 @@ N O, o que resulta na mitigação de 0,24 milhões Mg de C, e, após convertido 
 2
 CO eq utilizando o fator de 3,67, em 0,88 milhões de Mg CO eq mitigados.
 2 2
-
---- Page 36 ---
-
 Como indicadores para o atingimento da meta, serão considerados a quantidade de
 estabelecimentos agropecuários que adotam PD, SPDG, PPR e SPDH (em unidades),
 a área total expandida (em hectares) com Plantio Direto (PD), a área total expandida
@@ -1435,9 +1327,6 @@ nacional, levando em conta as
 SPDH;
 particularidades dos biomas
 brasileiros;
-
---- Page 37 ---
-
 ● Incentivar o redesenho dos ● Promover os benefícios/custos
 sistemas de produção de hortaliças da intercalação entre ciclos de
 e o uso de práticas/processos produção de hortaliças e ciclos
@@ -1455,14 +1344,8 @@ independentemente do tamanho
 da propriedade;
 Serviços Ambientais (PSA) e
 ecossistêmicos.
-
---- Page 38 ---
-
 2.4.1.3 SISTEMAS DE INTEGRAÇÃO (SIN)
 Crédito: Gabriel Faria
-
---- Page 39 ---
-
 “Integração” é o ato ou efeito de integrar ou tornar inteiro, caracterizado pela
 combinação de partes isoladas para a formação de um conjunto que trabalha
 como um todo. Um de seus usos, no Brasil, é para identificar sistemas de produção
@@ -1499,9 +1382,6 @@ inversões térmicas bruscas e geadas, ao mesmo tempo que fornecem madeira e
 diminuem a pressão para extração de madeira nativa. Se utilizados em arranjos
 do tipo ILF, melhoram o microclima e protegem os cultivos mais susceptíveis em
 regiões sujeitas a inversões térmicas bruscas e geadas.
-
---- Page 40 ---
-
 Ainda como cobenefícios, os sistemas de ILPF aumentam a diversificação de produtos
 na propriedade rural, a provisão de bens e serviços ecossistêmicos, a biodiversidade,
 a capacidade de retenção de água no solo e a qualidade nutricional das pastagens.
@@ -1550,9 +1430,6 @@ condução de sistemas de ILPF;
 estar animal, beleza cênica
 - paisagística, manutenção de
 biodiversidade).
-
---- Page 41 ---
-
 SISTEMAS AGROFLORESTAIS (SAF)
 Sistemas Agroflorestais (SAF) são sistemas de uso da terra onde espécies lenhosas
 são utilizadas com culturas agrícolas e/ou com animais, nas mesmas unidades de
@@ -1589,9 +1466,6 @@ o uso do SAF como opção para a recuperação da vegetação nativa em áreas d
 preservação permanente (APP) e reserva legal (RL), principalmente em pequenas
 propriedades, agricultores familiares, e comunidades tradicionais, conforme os
 pressupostos determinados na Lei n° 12.651/2012, Código Florestal Brasileiro (CF).
-
---- Page 42 ---
-
 Os SAF podem fixar grande quantidade de carbono, na biomassa viva e no solo,
 embora seja muito variável em função do tipo do sistema (Jose e Bardhan, 2012).
 O carbono no solo aumenta quando sistemas agropecuários são convertidos para
@@ -1631,9 +1505,6 @@ Isto equivale a um potencial total de mitigação de emissões de GEE equivalent
 2
 IPCC de 3,79 Mg CO eq ha-1 ano-1 (IPCC, 2006).
 2
-
---- Page 43 ---
-
 Como indicadores para o atingimento da meta, serão considerados a quantidade de
 estabelecimentos agropecuários que adotam SAF (em unidades) e a área total (em
 hectares) com SAF.
@@ -1676,14 +1547,8 @@ de SAF, e o estabelecimento e/
 ou aprimoramento das formas de
 processamento, beneficiamento e
 comercialização dos mesmos;
-
---- Page 44 ---
-
 2.4.1.4 FLORESTAS PLANTADAS (FP)
 Crédito: André Kasczeszen
-
---- Page 45 ---
-
 As FP, no âmbito do ABC+, serão fomentadas para o atendimento de duas finalidades:
 produção comercial de madeira, fibras, alimentos, bioenergia e produtos florestais
 não madeireiros (látex, taninos, resinas e bioprodutos) em áreas particulares, e;
@@ -1724,9 +1589,6 @@ Mata Atlântica, por exemplo, podem passar de 10 t de CO até 400 t de CO , quan
 2 2
 3 https://www.florestal.gov.br/documentos/car/boletim-do-car/4418-revisao-boletim-
 -car-encaminhar-07abril2020-1/file
-
---- Page 46 ---
-
 o crescimento da floresta se estabilizará, caso a mesma não esteja submetida ao
 manejo sustentável.
 As FP apresentam outros benefícios, como melhoria das condições de solos e água,
@@ -1762,14 +1624,8 @@ produtos florestais;
 regionalizados sobre potenciais empreendimentos que consumam
 mercados produtores e madeira de florestas plantadas.
 consumidores de FP;
-
---- Page 47 ---
-
 2.4.1.5 BIOINSUMOS (BI)
 Crédito: Mariangela Hungria da Cunha
-
---- Page 48 ---
-
 A importância crescente do uso de microrganismos e outros ativos na
 agropecuária nacional impulsionou o lançamento, pelo governo brasileiro, do
 Programa Nacional de Bioinsumos (BRASIL, 2020). Destes, os inoculantes
@@ -1806,9 +1662,6 @@ caso, atrelada tanto à síntese e processamento, como ao transporte e utilizaç
 desses insumos agropecuários. Assim, quando os fertilizantes químicos são
 substituídos por microrganismos, pode-se ter grande retorno econômico, social,
 ambiental e produtivo.
-
---- Page 49 ---
-
 Esses processos microbianos, atuando isoladamente ou, em geral, em conjunto,
 possuem o poder de impactar fortemente a agropecuária brasileira, melhorando a
 nutrição das plantas e, com isso, favorecendo o seu crescimento e produtividade.
@@ -1849,9 +1702,6 @@ agrária, para as vantagens do uso milho, trigo, arroz e pastagens com
 de inoculantes e coinoculantes braquiárias;
 com bactérias fixadoras de
 nitrogênio e outros MPCP;
-
---- Page 50 ---
-
 ● Fortalecer ações de transferência para as diferentes condições
 de tecnologia e a Assistência edafoclimáticas do Brasil,
 Técnica e Extensão Rural (ATER), cheguem aos agricultores em
@@ -1868,14 +1718,8 @@ selecionadas pela pesquisa e as FBN e MPCP.
 tecnologias desenvolvidas para a
 aplicação de inoculantes e outros
 possíveis bioinsumos, validadas
-
---- Page 51 ---
-
 2.4.1.6 SISTEMAS IRRIGADOS (SI)
 Crédito: Sebastiao José de Araújo
-
---- Page 52 ---
-
 A irrigação é uma técnica milenar que, nos últimos anos, tem se desenvolvido
 rapidamente, apresentando equipamentos e sistemas para as mais distintas
 condições. A história da irrigação confunde-se com a do desenvolvimento e
@@ -1913,9 +1757,6 @@ Este panorama de crescimento tem sido importante em todos os biomas
 brasileiros, com destaque o Cerrado, que mantém os maiores índices de
 crescimento da agricultura irrigada no Brasil, sendo chave para o aumento da
 produção na mesma área.
-
---- Page 53 ---
-
 O Brasil tem um grande potencial de crescimento da agricultura irrigada em áreas
 de intensificação e de ampliação sobre áreas de pastagem. Valores anuais médios
 de crescimento da área irrigada passaram da ordem de 200 mil ha/ano para 250 mil
@@ -1952,9 +1793,6 @@ após 20 anos sob irrigação, acumulando em média 0,825 Mg de C por ha por ano
 mais em relação a uma área de sequeiro.
 Estudos semelhantes realizados por Dionizio et al. (2020) já apontavam o potencial
 mitigador da irrigação também em solos frágeis e arenosos. Neste estudo, quando
-
---- Page 54 ---
-
 comparadas áreas de sequeiro e irrigada, esta última foi capaz de sequestrar
 carbono e restabelecer o conteúdo de carbono orgânico do solo perdido, com taxas
 significativas de 2,6% ao ano, na camada até 0,20 m.
@@ -2007,9 +1845,6 @@ disponibilidade e custo-benefício,
 equipamentos modernos e
 nos projetos de irrigação;
 eficazes no uso da água, e difundir
-
---- Page 55 ---
-
 ● Consolidar as informações sobre o ● Sensibilizar os produtores quanto
 sequestro de carbono a partir da à importância do uso de SI sob
 produção irrigada, isolada ou em bases sustentáveis de produção.
@@ -2019,14 +1854,8 @@ monitoramento dos estoques de
 carbono e das emissões de GEE
 em áreas de produção irrigada,
 nos diferentes biomas, e;
-
---- Page 56 ---
-
 2.4.1.7 MANEJO DE RESÍDUOS DA PRODUÇÃO ANIMAL (MRPA)
 Crédito:CIBogas
-
---- Page 57 ---
-
 Antes denominado “Tratamento de Dejetos Animais (TDA)”, o agora denominado
 “Manejo de Resíduos da Produção Animal (MRPA)” engloba tecnologias para
 o tratamento de todos os tipos de resíduos oriundos da produção animal, como
@@ -2064,9 +1893,6 @@ Ademais, o biogás e biometano são componentes importantes para a diversificaç
 da matriz energética, aumentando a autonomia energética do setor agropecuário
 ao substituírem lenha, Gás liquefeito de Petróleo (GLP), combustíveis veiculares e
 energia elétrica.
-
---- Page 58 ---
-
 Pode, inclusive, ser uma oportunidade de nova fonte de renda, por meio da geração
 distribuída de energia elétrica, reduzindo também os custos de produção. O
 biofertilizante e o composto orgânico, por sua vez, diminuem a dependência de
@@ -2103,9 +1929,6 @@ Os principais desafios para o atingimento das metas propostas são:
 no MRPA menos utilizados, como pesquisa, desenvolvimento e
 carcaças, placentas, entre outros; inovação (P,D&I) em projetos para
 tratamento de dejetos animais;
-
---- Page 59 ---
-
 ● Aprimorar e avançar em estudos agroindústrias, a partir do
 comparativos sobre as tecnologias, aproveitamento do biogás gerado
 utilizando Análise de Ciclo de Vida em estações de tratamento de
@@ -2168,14 +1991,8 @@ nacional; e grande porte.
 ● Incentivar a eficiência energética
 nas propriedades rurais e
 Crédito: CIBiogas
-
---- Page 60 ---
-
 2.4.1.8 TERMINAÇÃO INTENSIVA (TI)
 Crédito: Luis Otavio Bosque
-
---- Page 61 ---
-
 A TI é um dos novos SPS que foram incorporados ao ABC+, devido sua comprovada
 ABC
 eficiência científica em reduzir emissões de GEE e a promover adaptação, ao permitir
@@ -2214,9 +2031,6 @@ digestivo do animal, capazes de reduzir a emissão de GEE, especialmente do gás
 metano, contribuindo para sua mitigação.
 Concomitantemente, tem-se a redução da idade ao abate, em comparação a outros
 regimes alimentares, com aumento da taxa de desfrute dos rebanhos. A TI também
-
---- Page 62 ---
-
 permite alojar animais em áreas menores, liberando áreas de pastagens para outras
 categorias do rebanho, ou mesmo para outros cultivos, contribuindo positivamente
 para o planejamento do uso das pastagens e do uso do território nacional.
@@ -2255,9 +2069,6 @@ todo o território nacional, visando
 do número de animais abatidos
 a expansão de seu uso;
 oriundos de TI;
-
---- Page 63 ---
-
 ● Monitorar e gerenciar aspectos ingredientes de dietas totais e
 potencialmente negativos suplementos (grãos, aditivos,
 decorrentes da intensificação, coprodutos etc), e;
@@ -2295,9 +2106,6 @@ objetivo de apoiar o atendimento aos compromissos assumidos pelo Brasil, bem
 como a outros instrumentos de planejamento do Governo Federal.
 A Tabela 3 elenca as principais normas de hierarquia superior, que regulamentam a
 PNMC, com ênfase no ABC+.
-
---- Page 64 ---
-
 Tabela 3. Base legal Federal que regulamenta a Política Nacional sobre Mudança do Clima.
 Ato Normativo Ementa
 Lei nº 12.114, de 9 de dezembro de Cria o Fundo Nacional sobre Mudança do Clima, altera os artigos 6º e 50 da
@@ -2334,9 +2142,6 @@ II. Programa de Estímulo à Adoção e Manutenção dos SPS ;
 ABC
 III. Programa de Cooperação Estratégica;
 IV. Programa de Valoração e Reconhecimento.
-
---- Page 65 ---
-
 Também, cinco estratégias:
 I. Estratégia de Assistência Técnica e Extensão Rural (ATER), Capacitação e
 Transferência de Tecnologia;
@@ -2388,9 +2193,6 @@ alcance das mesmas. Além disso, são nomeados os potenciais atores envolvidos q
 executarão diretamente junto ao MAPA as ações, quais universidades, institutos
 federais, organizações de pesquisa agropecuária, operadores financeiros, sociedade
 civil organizada, setor produtivo e iniciativa privada.
-
---- Page 66 ---
-
 2.6.1 PROGRAMA DE ESTÍMULO À ADOÇÃO E
 MANUTENÇÃO DOS SPS
 ABC
@@ -2439,9 +2241,6 @@ alinhados às diferentes necessidades, e realidades ambientais e técnicas, de
 cada região do País. O foco das atividades será na produção sustentável e que
 promove a conservação dos recursos naturais, em especial o solo e a água,
 tendo como unidade de planejamento as microbacias hidrográficas;
-
---- Page 67 ---
-
 4. Disponibilização de insumos básicos para apoiar a adoção e manutenção dos
 SPS nos estabelecimentos de agricultores familiares, assentados da reforma
 ABC
@@ -2511,9 +2310,6 @@ associações de classe,
 para inclusão no
 OCB, ATER
 ABC+
-
---- Page 68 ---
-
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
 focal envolvidos 2020-2025 2025-2030 2020 - 2030
@@ -2592,9 +2388,6 @@ adequados a cada
 institutos federais de
 bioma
 educação, ATER
-
---- Page 69 ---
-
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
 focal envolvidos 2020-2025 2025-2030 2020 - 2030
@@ -2677,9 +2470,6 @@ para adoção e
 manutenção dos
 SPS
 ABC
-
---- Page 70 ---
-
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
 focal envolvidos 2020-2025 2025-2030 2020 - 2030
@@ -2765,9 +2555,6 @@ solar fotovoltaica
 do estado e municipal,
 ATER
 * ação contínua realizada à medida que os recursos financeiros necessários forem liberados.
-
---- Page 71 ---
-
 2.6.2 ESTRATÉGIA DE ASSISTÊNCIA TÉCNICA E
 EXTENSÃO RURAL (ATER), CAPACITAÇÃO E
 TRANSFERÊNCIA DE TECNOLOGIA
@@ -2809,9 +2596,6 @@ ABC
 rurais quanto a aspectos direta e indiretamente ligados aos SPS (bases
 ABC
 estratégicas, implantação e manutenção, gestão, finanças verdes, entre outros).
-
---- Page 72 ---
-
 Quadro 2. Ações propostas para a estratégia de Assistência Técnica e Extensão Rural (ATER),
 Capacitação e Transferência de Tecnologia no âmbito do ABC+.
 Ponto Atores Meta Meta Total Geral
@@ -2880,9 +2664,6 @@ para implementação SDI/MAPA 27 diálogos - 27 diálogos
 SENAR
 de URT nas
 respectivas UF
-
---- Page 73 ---
-
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
 focal envolvidos 2020-2025 2025-2030 2020 - 2030
@@ -2952,9 +2733,6 @@ ABC
 meio do crédito rural, essa modalidade de crédito mudou o conceito de financiamento
 no âmbito rural, uma vez que o financiamento é de um projeto sustentável, e não
 apenas para a compra de determinados itens ou insumos.
-
---- Page 74 ---
-
 Para sua obtenção, o projeto técnico necessita ser analisado pelo banco, o que
 exige de analistas/agentes financeiros habilidade em verificar determinados
 critérios técnicos necessários. Para tal, uma assistência técnica adequada na hora
@@ -2999,9 +2777,6 @@ ABC
 práticas agropecuárias, e conservacionistas de solo e água, na atualização
 do MCR, para o financiamento de SPS em diferentes linhas de crédito.
 ABC
-
---- Page 75 ---
-
 Também estão previstas ações contínuas de suporte para a ampliação
 de acesso ao crédito rural para produtores de diferentes tamanhos e em
 diferentes regiões brasileiras;
@@ -3066,9 +2841,6 @@ e manutenção
 dos SPS junto à
 ABC
 agricultura familiar
-
---- Page 76 ---
-
 Meta
 Ponto Atores Meta Total Geral
 Ação Atividade 2020-
@@ -3157,9 +2929,6 @@ e manutenção
 dos SPS junto à
 ABC
 agricultura familiar
-
---- Page 77 ---
-
 Meta
 Ponto Atores Meta Total Geral
 Ação Atividade 2020-
@@ -3246,9 +3015,6 @@ anuais específicas
 captadas junto aos
 diferentes atores do
 ABC+
-
---- Page 78 ---
-
 Meta
 Ponto Atores Meta Total Geral
 Ação Atividade 2020-
@@ -3331,9 +3097,6 @@ estimular a adoção
 e manutenção dos
 SPS
 ABC
-
---- Page 79 ---
-
 Meta
 Ponto Atores Meta Total Geral
 Ação Atividade 2020-
@@ -3397,9 +3160,6 @@ SPS , bem como de mecanismos de monitoramento de sua eficácia e avanço.
 ABC
 Sob coordenação da Embrapa, e com apoio de instituições de pesquisa, ensino e
 extensão nacional e internacional, serão realizadas:
-
---- Page 80 ---
-
 1. Identificação, seleção e verificação de novos SPS , quanto a sua capacidade
 ABC
 de aumentar a resiliência, capacidade adaptativa, produtividade e controle das
@@ -3455,9 +3215,6 @@ por Serviços Ambientais e crédito de carbono;
 da resiliência, da capacidade adaptativa, da produtividade e do controle das
 emissões de GEE dos SPS . Buscar-se-á gerar, nesta ação, elaborar métodos
 ABC
-
---- Page 81 ---
-
 e protocolos para a quantificação operacional da mudança no estoque de
 carbono no solo, como resultado de adoção de SPS que possam ser
 ABC,
@@ -3511,9 +3268,6 @@ ABC
 métodos para monitoramento dos compromissos assumidos internacionalmente
 no contexto da NDC brasileira, e suas subsequentes revisões, e que possam ser
 incorporados à Plataforma ABC, e;
-
---- Page 82 ---
-
 7. Incentivo à captação de recursos para financiamento às pesquisas
 agropecuárias voltadas aos SPS . Pretende-se fomentar a criação de um
 ABC
@@ -3578,9 +3332,6 @@ adaptativa dos sistemas de produção
 privadas
 agropecuário, frente aos cenários de mudança
 do clima
-
---- Page 83 ---
-
 Ponto Atores Total Geral
 Ação Atividade
 focal envolvidos 2020 – 2030*
@@ -3658,9 +3409,6 @@ Implementar e intensificar ações de P,D&I em pesquisa, ensino e
 Embrapa 26
 projetos para uso eficiente da água extensão, empresas
 privadas
-
---- Page 84 ---
-
 Ponto Atores Total Geral
 Ação Atividade
 focal envolvidos 2020 – 2030*
@@ -3732,9 +3480,6 @@ agregação de valor aos SPS via certificação, de pesquisa, ensino e
 ABC Embrapa 13
 diferenciação de mercado, rotulagem, pagamentos extensão, empresas
 por serviços, crédito de C e outras formas privadas
-
---- Page 85 ---
-
 Ponto Atores Total Geral
 Ação Atividade
 focal envolvidos 2020 – 2030*
@@ -3822,9 +3567,6 @@ agropecuário
 monitoramento de
 uso da terra, empresas
 privadas
-
---- Page 86 ---
-
 Ponto Atores Total Geral
 Ação Atividade
 focal envolvidos 2020 – 2030*
@@ -3899,9 +3641,6 @@ emissões de GEE e do aumento da resiliência dos
 privadas
 SPS
 ABC
-
---- Page 87 ---
-
 Ponto Atores Total Geral
 Ação Atividade
 focal envolvidos 2020 – 2030*
@@ -3968,9 +3707,6 @@ Monitoramento, Relato e Verificação (MRV), e Monitoramento e Avaliação, de
 seu portfólio de ações e resultados.
 Com base em metodologia verificada e comprovada, será possível avaliar ações de
 transformação dos sistemas de produção agropecuários em todo território nacional
-
---- Page 88 ---
-
 por meio da aplicação de métodos, protocolos e indicadores, para monitorar a
 evolução da sustentabilidade socioeconômica e ambiental promovidas pelos SPS .
 ABC
@@ -4013,9 +3749,6 @@ Embrapa, com representação de todas as unidades descentralizadas (UD).
 As informações advindas da Plataforma ABC permitirão monitorar a adoção
 em áreas dos SPS e suas respectivas contribuições em mitigação de GEE
 ABC
-
---- Page 89 ---
-
 e para o aumento da resiliência. Cabe ainda à Plataforma ABC a aplicação
 de mecanismos de MRV, para o monitoramento operacional e sistematizado
 do estoque de carbono no solo, e a realização do zoneamento de áreas
@@ -4063,9 +3796,6 @@ e SIGABC, estão previstas reuniões periódicas com os integrantes do CTABC.
 Pretende-se, ademais, consolidar o relacionamento institucional entre os
 órgãos e as entidades participantes do SINABC. Também, avaliar e executar
 as demandas do CENABC, e;
-
---- Page 90 ---
-
 6. Monitoramento do ABC+ pela Comissão Executiva Nacional do Plano ABC
 (CENABC). O CENABC é o único responsável pela divulgação oficial dos
 resultados alcançados pelo setor agropecuário brasileiro em seus esforços de
@@ -4138,9 +3868,6 @@ ABC
 da adoção dos
 SPS .
 ABC
-
---- Page 91 ---
-
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
 focal envolvidos 2020-2025 2025-2030 2020 - 2030
@@ -4223,9 +3950,6 @@ de SPS para
 ABC
 operacionalização da
 Plataforma ABC
-
---- Page 92 ---
-
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
 focal envolvidos 2020-2025 2025-2030 2020 - 2030
@@ -4305,9 +4029,6 @@ transacionados no
 mercado de capitais
 relacionados ao
 ABC+
-
---- Page 93 ---
-
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
 focal envolvidos 2020-2025 2025-2030 2020 - 2030
@@ -4380,9 +4101,6 @@ SDI/MAPA
 dinâmica do uso INPE; Embrapa; do uso da terra no setor agropecuário
 da terra no setor MapBiomas
 agropecuário
-
---- Page 94 ---
-
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
 focal envolvidos 2020-2025 2025-2030 2020 - 2030
@@ -4470,9 +4188,6 @@ entre os órgãos Observatório
 e as entidades ABC e CNA
 participantes do
 SINABC
-
---- Page 95 ---
-
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
 focal envolvidos 2020-2025 2025-2030 2020 - 2030
@@ -4535,9 +4250,6 @@ ABC
 para cada situação;
 2. Apoiar o desenvolvimento e incentivar o uso de mecanismos para
 reconhecimento e valorização de propriedades, produtores, organizações
-
---- Page 96 ---
-
 e produtos oriundos de SPS . Uma vez feita a identificação dos critérios e
 ABC
 mecanismos mais apropriados, o apoio ao desenvolvimento e incentivo de
@@ -4598,9 +4310,6 @@ a estimular a integração e disponibilidade de informações voltadas a aumenta
 resiliência e a capacidade adaptativa dos sistemas de produção agropecuário.
 A gestão de riscos nas atividades rurais torna-se cada vez mais relevante, em função
 da crescente frequência de eventos climáticos adversos e extremos. A existência de
-
---- Page 97 ---
-
 instrumentos de gestão de risco climático é um diferencial para os produtores rurais,
 trazendo maior segurança à sua produção.
 Para execução dessa estratégia são propostas duas ações:
@@ -4648,9 +4357,6 @@ de tomada de decisão e meta-análises por núcleo, que será discutido como
 modelo de gestão de dados para a inteligência climática para agricultura. É
 previsto, ainda, a ampliação da articulação entre institutos e órgãos do MAPA,
 e de outros ministérios, para a integração de seus sistemas de informações e
-
---- Page 98 ---
-
 produtos, considerando a natureza multisetorial e multiescalar dos desafios
 envolvidos na governança nacional, estadual e mesorregional. Isto facilitará
 o acompanhamento das condições de segurança alimentar e hídrica na
@@ -4719,9 +4425,6 @@ de risco climático parceiras
 aperfeiçoados aperfeiçoados aperfeiçoados
 (ZARC) em sinergia
 ao ABC+
-
---- Page 99 ---
-
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
 focal envolvidos 2020-2025 2025-2030 2020 - 2030
@@ -4794,9 +4497,6 @@ visibilidade positiva do Brasil no mundo.
 As cooperações são fundamentais para que o alcance dos SPSABC seja ainda maior, e
 estratégicas para que a experiência exitosa do ABC+ seja compartilhada com outros
 países, inclusive via transferência de tecnologia.
-
---- Page 100 ---
-
 Para o cumprimento dos objetivos desse Programa, são propostas ações que visam a:
 1. Prospecção de fontes de financiamento para elaboração de projetos de
 cooperação, visando a ampliação das ações do ABC+. Para tal, será elaborada uma
@@ -4848,9 +4548,6 @@ conceituais conceituais conceituais
 de cooperação, que
 apoiem a ampliação
 das ações do ABC+
-
---- Page 101 ---
-
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
 focal envolvidos 2020-2025 2025-2030 2020 - 2030
@@ -4923,9 +4620,6 @@ municipal capacitação para as SDI/MAPA entidades 20 25 45
 cursos cursos cursos
 diferentes fontes de executoras; fontes de
 financiamento financiamento e outros
-
---- Page 102 ---
-
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
 focal envolvidos 2020-2025 2025-2030 2020 - 2030
@@ -4987,9 +4681,6 @@ específicos (SPS , gestão de negócio do empreendimento rural, Programa
 ABC
 ABC+, entre outros). Atividades específicas, direcionadas aos 27 GGE, também
 serão realizadas.
-
---- Page 103 ---
-
 Quadro 9. Ações propostas para Estratégia de Comunicação e Sensibilização, no âmbito do ABC+.
 Ponto Atores Meta Meta Total Geral
 Ação Atividade
@@ -5066,18 +4757,8 @@ de técnicos,
 extensionistas,
 projetistas e
 produtores rurais
-
---- Page 104 ---
-
-
-
---- Page 105 ---
-
 3. REFERÊNCIAS
 BIBLIOGRÁFICAS
-
---- Page 106 ---
-
 ABID - ASSOCIAÇÃO BRASILEIRA DE IRRIGAÇÃO E DRENAGEM. Contribuição
 da CSEI-Abimaq com estimativas sobre a área irrigada no Brasil. Item, n. 122-123,
 2020.
@@ -5105,9 +4786,6 @@ Diário Oficial da União, 27 maio 2020. v. 100, Seção 1, p. 105.
 BRASIL. Decreto nº 10.431, de 20 de julho de 2020. Institui a Comissão Executiva
 Nacional do Plano Setorial para Consolidação de uma Economia de Baixa Emissão
 de Carbono na Agricultura.
-
---- Page 107 ---
-
 BRASIL. Decreto nº 10.606, de 22 de janeiro de 2021. Institui o Sistema Integrado
 de Informações do Plano Setorial para Consolidação de uma Economia de Baixa
 Emissão de Carbono na Agricultura e o Comitê Técnico de Acompanhamento do
@@ -5144,9 +4822,6 @@ N.O. de; SOARES, L. H. de B.; URQUIAGA, S.; BODDEY, R. M. Impact of the
 intensification of beef production in Brazil on greenhouse gas emissions and land
 use. Agricultural Systems, [S.L.], v. 143, p. 86-96, mar. 2016. DOI: 10.1016/J.
 AGSY.2015.12.007.
-
---- Page 108 ---
-
 CARVALHO, J. L. N.; RAUCCI, G. S.; CERRI, C. E. P.; BERNOUS, M.; FEIGL, B.
 J.; WRUCK, F. J..; CERRI, C .C. Impact of pasture, agriculture and crop-livestock
 systems on soil C stocks in Brazil. Soil and Tillage Research, v. 110, n. 1, p. 175-
@@ -5181,9 +4856,6 @@ FREITAS, P.L. de; LANDERS, J.N. The Transformation of Agriculture in Brazil
 Through Development and Adoption of Zero Tillage Conservation Agriculture.
 International Soil And Water Conservation Research, [S.L.], v. 2, n. 1, p. 35-46, mar.
 2014. DOI: http://dx.doi.org/10.1016/s2095-6339(15)30012-5.
-
---- Page 109 ---
-
 FUENTES LLANILLO, R.; TELLES, T. S; SOARES JUNIOR, D.; DE MELO, T. R.;
 FRIEDRICH, T.; KASSAM, A. Expansion of no-tillage practice in conservation
 agriculture in Brazil. Soil & Tillage Research, v. 208, 1 abr. 2021. DOI: https://doi.
@@ -5218,9 +4890,6 @@ IPCC INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE. Guidelines for
 National Greenhouse Gas Inventories, Prepared by the National Greenhouse Gas
 Inventories Programme. EGGLESTON, H.S., BUENDIA, L., MIWA, K., NGARA, T.;
 TANABE K. (eds). Published: IGES, Japan. 2006.
-
---- Page 110 ---
-
 JOSE, S.; BARDHAN, S. Agroforestry for biomass production and carbon
 sequestration: an overview. Agroforestry Systems, [S.L.], v. 86, n. 2, p. 105-111,
 out. 2012. DOI: http://dx.doi.org/10.1007/s10457-012-9573-x.
@@ -5252,9 +4921,6 @@ VICENTE, L.E.; PEREIRA, S.E.M.; LOEBMANN, D. G. dos S. W.; VICENTE, A. K.
 Mitigação das emissões de Gases de Efeitos Estufa pela adoção das tecnologias
 do Plano ABC: estimativas parciais. Documento, 122. Jaguariúna: Embrapa Meio
 Ambiente, 2020. 35 p.
-
---- Page 111 ---
-
 MERTEN, G.H.; ARAÚJO, A.G.; BISCAIA, R.C.M.; BARBOSA, G.M.C.; CONTE,
 O. No-till surface runoff and soil losses in southern Brazil. Soil And Tillage
 Research, [S.L.], v. 152, p. 85-93, set. 2015. DOI: http://dx.doi.org/10.1016/j.
@@ -5287,9 +4953,6 @@ Publishers, p.499, 1993.
 SÁ, J. C. M.; LAL, R.; CERRI, C. C.; LORENZ, K.; HUNGRIA, M.; CARVALHO, P. C.
 F. Low carbon agriculture in South America to mitigate global climate change and
 advance food security. Environment International, v. 98, p. 102-112, jan. 2017.
-
---- Page 112 ---
-
 SALTON, J. C; TOMAZI, M. Sistema radicular de plantas e qualidade do solo.
 Dourados, MS: Embrapa Agropecuária Oeste, 2014. 5 p. Disponível em: https://
 www.infoteca.cnptia.embrapa.br/bitstream/doc/1005326/1/COT198.pdf. Acesso
@@ -5315,9 +4978,6 @@ ed1_2020_vfinal.pdf. Acesso em ago/2021
 VETAAS, O. R.. Micro-site effects of trees and shrubs in dry savannas. Journal
 of Vegetation Science, v. 3, n. 3, p. 337-344, jun. 1992. DOI: http://dx.doi.
 org/10.2307/3235758.
-
---- Page 113 ---
-
 4. ANEXO
 Conjunto de documentos consultados no processo de elaboração do ABC+
 AGROICONE, 2020. Relatório técnico. Plano ABC: Evidências do período 2010-
@@ -5353,9 +5013,6 @@ Kyoto Protocol and the Paris Agreement, including those carried out under
 the Subsidiary Body for Scientific and Technological Advice. https://www4.
 unfccc.int/sites/SubmissionsStaging/Documents/202003311910---Brazil.%20
 Submission.%20.pdf
-
---- Page 114 ---
-
 BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Coletânea de
 fatores de emissão e remoção de gases de efeito estufa da agricultura brasileira.
 Eleneide Doff Sotta, Fernanda Garcia Sampaio, Juan Vicente Guadalupe Gallardo
@@ -5390,10 +5047,3 @@ Florestas-e-da-Agricultura-no-Brasil.pdf
 FBMC - FÓRUM BRASILEIRO DE MUDANÇA DO CLIMA. Estratégia de Longo
 Prazo para Descarbonização da Economia Brasileira Documento do Fórum Brasileiro
 de Mudança Do Clima. 2019.
-
---- Page 115 ---
-
-
-
---- Page 116 ---
-
