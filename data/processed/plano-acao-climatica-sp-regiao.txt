@@ -1,302 +1,6 @@
 
 
---- Page 2 ---
-
-GOVERNO DO ESTADO DE SÃO PAULO
-GOVERNADOR João Doria
-SECRETARIA DE INFRAESTRUTURA E MEIO AMBIENTE
-SECRETÁRIO Marcos Rodrigues Penido
-SECRETÁRIO EXECUTIVO Luiz Ricardo Santoro
-SUBSECRETARIA DE MEIO AMBIENTE
-SUBSECRETÁRIO Eduardo Trani
-COORDENADORIA DE EDUCAÇÃO AMBIENTAL
-COORDENADORA Maria de Lourdes Rocha Freire
-COORDENADORIA DE PLANEJAMENTO AMBIENTAL
-COORDENADOR Gil Kuchembuck Scatena
-INSTITUTO DE PESQUISAS AMBIENTAIS
-COORDENADOR Marcelo Sodré
-ASSESSORIA INTERNACIONAL
-CHEFE Jussara Carvalho
-PROGRAMA MUNICÍPIO VERDEAZUL
-COORDENADOR José Walter Figueiredo Silva
-CASA MILITAR
-SECRETÁRIO-CHEFE DA CASA MILITAR E COORDENADOR ESTADUAL DE PROTEÇÃO E DEFESA CIVIL
-Coronel PM Alexandre Monclús Romanek
-GIZ - DEUTSCHE GESELLSCHAFT FÜR INTERNATIONALE ZUSAMMENARBEIT GMBH
-DIRETORA DE PROJETOS Ana Carolina Câmara
-
---- Page 3 ---
-
-GUIA DE ADAPTAÇÃO E
-RESILIÊNCIA CLIMÁTICA
-PARA MUNICÍPIOS E REGIÕES
-
---- Page 4 ---
-
-GOVERNO DO ESTADO DE SÃO PAULO
-SECRETARIA DE INFRAESTRUTURA E MEIO AMBIENTE
-AUTORES
-Thaís Schneider – Consultora/GIZ
-Patrícia Betti – Consultora/GIZ
-Claudio Jose Ferreira – IPA/SIMA
-Danielle P. Julião – PMVA/SIMA
-Sandra Jules Gomes da Silva – CPLA/SIMA
-ORGANIZADORES
-Jussara Carvalho – AINT/SIMA
-Danielle P. Julião – PMVA/SIMA
-Armin Deitenbach – Assessor Técnico/GIZ
-Thaís Schneider – Consultora/GIZ
-Patrícia Betti – Consultora/GIZ
-COLABORADORES
-Marco Aurélio Nalon – IPA/SIMA
-Nádia Gilma B. de Lima – IPA/SIMA
-Rita Zanetti – CEA/SIMA
-Tais de Paula Zanirato (2º Sargento PM) – Divisão de Prevenção/Casa Militar
-Tiago Luiz Lourençon (1º Tenente PM) – Divisão de Prevenção/Casa Militar
-Bianca Mazzuchelli – AINT/SIMA
-Margareth Sabella – AINT/SIMA
-Paula Moreira – Assessora Técnica/GIZ
-Lucas Neiva – Consultor/GIZ
-PROJETO GRÁFICO E EDITORAÇÃO
-Renata Fontenelle – Consultora/GIZ
-ILUSTRAÇÕES
-Capa Bianca Rondon de Andrade – Consultora/GIZ
-Página 55 Daniel J. F. Souza - Estagiário/GIZ
-Este guia foi produzido com base no estudo "Proposta de estrutura e orientações sobre os conteúdos dos
-planos municipais e regionais de adaptação e resiliência à mudança do clima", formulado pela consultora
-Fabiana Barbi no contexto do Projeto Municípios Paulistas Resilientes (PMPR).
-1ª edição
-São Paulo, 2021
-O presente trabalho foi desenvolvido no âmbito do Projeto ProAdapta – Apoio ao Governo do Brasil na
-Implementação da sua Agenda Nacional de Adaptação à Mudança do Clima. O ProAdapta é fruto da
-parceria entre o Ministério do Meio Ambiente do Brasil (MMA) e o Ministério Federal do Meio Ambiente,
-Proteção da Natureza e Segurança Nuclear da Alemanha (BMU, sigla em alemão), no contexto da Iniciativa
-Internacional para o Clima (IKI, sigla em alemão), e é implementado pela Deutsche Gesellschaft für Internationale
-Zusammenarbeit (GIZ) GmbH. O trabalho foi elaborado através do convênio para a cooperação técnica entre
-o Governo do Estado de São Paulo, por meio de sua Secretaria de Infraestrutura e Meio Ambiente (SIMA),
-e a GIZ para o desenvolvimento de projetos para aumento da resiliência do Estado de São Paulo frente aos
-riscos advindos das alterações climáticas.
-Direitos reservados de distribuição e comercialização. Permitida a reprodução desde que citada a fonte.
-© Secretaria de Infraestrutura e Meio Ambiente (SIMA) 2021. Av. Prof. Frederico Hermann Jr., 345 - Pinheiros,
-São Paulo - SP – Brasil – CEP 05459-900
-
---- Page 5 ---
-
-APRESENTAÇÃO
-A mudança do clima constitui um dos maiores desafios a serem enfrentados na atualidade,
-que demanda preparação e respostas em todos os níveis de governança. Nessa conjuntura,
-é de central importância a articulação de esforços para o planejamento de medidas que
-possam reduzir os riscos e danos associados a esse fenômeno. Entre os avanços realizados
-pelo Estado de São Paulo nesse sentido, o presente guia é oferecido como recurso de
-orientação e apoio para a elaboração de planos de adaptação e resiliência à mudança
-do clima nas esferas local e regional, de modo a contribuir para o fortalecimento desse
-processo no estado como um todo.
-O material foi elaborado no contexto do Projeto Municípios Paulistas Resilientes (PMPR),
-por meio da parceria técnica entre a Secretaria de Infraestrutura e Meio Ambiente do
-Estado de São Paulo (SIMA-SP) e o Projeto ProAdapta – Apoio ao Governo do Brasil na
-Implementação da sua Agenda Nacional de Adaptação à Mudança do Clima, desenvolvido
-no âmbito da Cooperação Técnica entre o Brasil e a Alemanha, com a assessoria da
-Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
-A abordagem proposta foi concebida a partir da análise de experiências e diretrizes
-nacionais e internacionais para o planejamento climático, englobando fundamentos de
-importantes acordos e compromissos mundiais, como a Convenção-Quadro das Nações
-Unidas sobre a Mudança do Clima (UNFCCC), a Convenção sobre Diversidade Biológica
-(CDB) e os Objetivos de Desenvolvimento Sustentável (ODS).
-O resultado é um guia inovador, que integra, em uma mesma metodologia, as perspectivas
-da adaptação e da construção de resiliência, bem como o enfoque em ecossistemas, gênero
-e direitos humanos. Trata-se, também, de um material orientado para a prática, que
-oferece instrumentos de apoio para a construção dos planos e recomendações para que
-esse processo ocorra de forma inclusiva, participativa e com igualdade de oportunidades
-entre todas as pessoas.
-Como recurso adicional, o guia acompanha um kit de ferramentas para facilitar a
-elaboração dos planos, que é composto pelos seguintes instrumentos:
-- Um conjunto de matrizes em formato editável para a aplicação da metodologia
-proposta.
-- Um formulário para a redação dos planos a partir do modelo sugerido.
-O material se destina principalmente a gestoras e gestores públicos e ao pessoal técnico
-envolvido com a temática de adaptação e resiliência no âmbito municipal e regional no
-estado de São Paulo, bem como a membros de projetos e organizações que atuam na
-área e a tomadores e tomadoras de decisões em todos os níveis e esferas de governança.
-De forma mais ampla, o guia também é oferecido como legado da experiência do projeto
-para outros estados e pessoas interessadas no tema, na perspectiva de contribuir para a
-implementação da adaptação e o aumento da resiliência climática em todo o país.
-A todas e a todos, boa leitura!
-
---- Page 6 ---
-
-SUMÁRIO
-INTRODUÇÃO 7
-Como utilizar este guia 8
-PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA 10
-Por que fazer um plano para o enfrentamento da mudança do clima 11
-Estratégias de enfrentamento e resposta: mitigação, adaptação e resiliência 13
-Diretrizes transversais 19
-Enfoque em ecossistemas 19
-Perspectiva de gênero e direitos humanos 22
-Governança: equidade e participação 25
-O planejamento da adaptação e resiliência nos níveis local e regional 29
-Especificidades municipais 31
-Especificidades regionais 34
-PARTE II - CICLO DE ELABORAÇÃO DO PLANO 37
-Passo a passo: visão geral do ciclo 38
-Etapa 1: Aplicação da lente climática 44
-Etapa 2: Avaliação do risco climático 53
-Etapa 3: Identificação de medidas de adaptação e resiliência 74
-Etapa 4: Seleção e priorização das medidas de adaptação e resiliência 83
-Etapa 5: Implementação 87
-Etapa 6: Monitoramento e avaliação 96
-Etapa 7: Comunicação do plano e de seus resultados 103
-PARTE III - COMPOSIÇÃO DO PLANO 106
-Proposta de estrutura e conteúdo 107
-Roteiro de produção 108
-GLOSSÁRIO 113
-REFERÊNCIAS 116
-ANEXOS 119
-Anexo A – Lente de gênero e direitos humanos: visão geral 119
-Anexo B – Análise de gênero e direitos humanos 124
-Anexo C – A plataforma geotecnológica 129
-Anexo D – Cadeias de impactos 131
-Anexo E – Apoio e financiamento para projetos de adaptação e resiliência 133
-
---- Page 7 ---
-
-seõiger
-e
-soipícinum
-arap
-acitámilc
-aicnêiliser
-e
-oãçatpada
-ed
-aiuG
-INTRODUÇÃO
-Diante da emergência imposta pelos impactos associados à mudança do clima, a questão
-climática tem se tornado um componente prioritário no planejamento urbano, econômico,
-social e territorial. Nesse cenário, os agentes públicos (governamentais ou não) possuem
-o papel central de organizar e incentivar ações e respostas para tal desafio.
-Isso é ainda mais evidente no nível municipal, por ser a esfera de governança que está
-mais próxima da população, das empresas e dos serviços locais. Há, também, questões a
-serem tratadas por mais de um município ou por uma região, como os impactos sobre as
-áreas costeiras e os recursos hídricos, por exemplo. O ponto positivo é que muitas dessas
-respostas trazem diversos cobenefícios, contribuindo para que as regiões e os municípios
-sejam mais saudáveis, sustentáveis, competitivos e inclusivos.
-Nos níveis local e regional, o planejamento da adaptação e resiliência à mudança do clima
-pode ocorrer de diferentes formas – seja pela elaboração de planos específicos com esse
-foco, seja por meio de sua integração a outros planos, políticas públicas e projetos. De
-modo a colaborar nesse processo, este guia oferece um modelo de planejamento que pode
-ser utilizado em interface com diversos instrumentos de gestão e governança.
-A metodologia proposta compreende sete etapas que se inter-relacionam, organizadas
-na forma de um ciclo, que se aplica tanto à construção do plano quanto à sua revisão e
-atualização. Como diretrizes para todo o processo, o ciclo integra os princípios do enfoque
-em ecossistemas, da perspectiva de gênero e direitos humanos e da governança
-com equidade e participação. Tratam-se de três aspectos fundamentais para a diminuição
-das vulnerabilidades e o aumento da resiliência diante da mudança do clima, que também
-podem contribuir para o avanço em relação a diferentes temáticas previstas entre os
-Objetivos de Desenvolvimento Sustentável (ODS), estabelecidos no âmbito da Organização
-das Nações Unidas (ONU).
-Ao longo do material, são apresentadas as bases conceituais para a aplicação do ciclo de
-elaboração do plano, além de referências e fontes adicionais para aprofundamento dos
-conhecimentos. Como ferramenta de acesso a informações relevantes para o planejamento,
-recomenda-se a utilização de plataformas como a do DataGEO (Infraestrutura de Dados
-Espaciais Ambientais do Estado de São Paulo – IDEA-SP), de acesso público, aliadas a
-outras fontes e bancos de dados, de acordo com as necessidades de cada município ou
-região. Também é apresentada no guia a estrutura da plataforma geotecnológica do Projeto
-Municípios Paulistas Resilientes (PMPR) para visualização, tratamento e discussão dos dados,
-desenvolvida no contexto da iniciativa-piloto de capacitação promovida por meio do mesmo.
-De maneira complementar, são sinalizados no documento os pontos de sinergia do
-planejamento com outras iniciativas de que muitos dos municípios paulistas já participam
-e que possuem interfaces com a questão do clima: o Programa Município VerdeAzul (PMVA),
-coordenado pela Secretaria de Infraestrutura e Meio Ambiente de São Paulo (SIMA-SP), o
-Programa Município Resiliente, gerido pela Coordenadoria Estadual de Proteção e Defesa
-Civil (CEPDEC), e a Campanha Construindo Cidades Resilientes – MCR2030 (referente à
-nomenclatura da iniciativa em inglês, Making Cities Resilient 2030), promovida em nível
-mundial pelo Escritório das Nações Unidas para a Redução do Risco de Desastres (UNDRR).
-7
-
---- Page 8 ---
-
-Introdução
-seõiger
-e
-soipícinum
-arap
-acitámilc
-aicnêiliser
-e
-oãçatpada
-ed
-aiuG
-Como utilizar este guia
-A primeira parte do documento aborda a importância de
-elaborar o plano de adaptação e resiliência, as noções
-básicas sobre tais estratégias de resposta e enfrentamento,
-as diretrizes transversais para o planejamento e suas
-especificidades nos níveis municipal e regional.
-A segunda parte do guia detalha as etapas e os
-procedimentos propostos para o planejamento, trazendo
-os seguintes tópicos:
-- A visão geral do ciclo de elaboração do plano e as
-recomendações para a aplicação das diretrizes trans-
-versais nesse processo.
-- A descrição de cada etapa do ciclo, com as instruções
-para sua realização.
-- Os instrumentos de apoio oferecidos para cada
-etapa, que correspondem a matrizes para o
-levantamento, a sistematização e a análise das
-informações a serem consideradas na elaboração do
-plano, com exemplos que demonstram como utilizá-
-las. Os modelos das matrizes para preenchimento
-estão disponíveis em arquivos editáveis no kit de
-ferramentas complementares ao guia.
-A terceira parte do documento traz uma proposta de estrutura
-e roteiro para a composição do plano, integrando as
-informações obtidas ao longo das etapas do planejamento.
-O roteiro também pode ser utilizado para o preenchimento
-do formulário com a estrutura sugerida para o plano que faz
-parte do kit de ferramentas complementares.
-8
-
---- Page 9 ---
-
-Introdução
-seõiger
-e
-soipícinum
-arap
-acitámilc
-aicnêiliser
-e
-oãçatpada
-ed
-aiuG
-Ao final, encontra-se um glossário com os principais conceitos en-
-volvidos na temática, conforme adotados no guia, que também pode
-ser utilizado como modelo para inclusão no plano.
-Na seção de anexos, são disponibilizados:
-- Um quadro com a síntese das recomendações da lente de gênero
-e direitos humanos para todas as etapas do planejamento.
-- As orientações para a preparação de uma análise de gênero e
-direitos humanos como recurso para embasar a aplicação dessa
-perspectiva na elaboração do plano.
-- A descrição de como funciona a plataforma geotecnológica do
-Projeto Municípios Paulistas Resilientes (PMPR).
-- As instruções sobre uma prática complementar para a
-identificação dos impactos da mudança do clima a serem
-considerados no plano (cadeias de impactos).
-- Uma relação de fontes de apoio e financiamento para projetos
-de adaptação e resiliência que podem ser acessados pelos
-municípios ou pelas regiões.
-9
-
---- Page 10 ---
-
-PARTE I
-O PLANEJAMENTO
-DA ADAPTAÇÃO E
-DA RESILIÊNCIA
-
---- Page 11 ---
+--- Page 1 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -327,7 +31,7 @@ Figura 1. Efeitos e impactos da mudança do clima já observados no Brasil
 Fonte: Seclima/Defesa Civil/IPA/SP
 11
 
---- Page 12 ---
+--- Page 2 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -360,7 +64,7 @@ Climáticas (PEMC), que prevê o desenvolvimento de ações para prevenção e a
 aos impactos climáticos, abrangendo planos com foco em regiões e setores específicos.
 12
 
---- Page 13 ---
+--- Page 3 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -393,7 +97,7 @@ como as de origem solar e eólica
 Figura 2. Exemplos de ações de mitigação
 13
 
---- Page 14 ---
+--- Page 4 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -435,7 +139,7 @@ freáticos.
 Figura 3. Exemplos de medidas de adaptação
 14
 
---- Page 15 ---
+--- Page 5 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -472,7 +176,7 @@ integrada. A Figura 5 destaca a interface entre as duas estratégias de enfrenta
 resposta à mudança do clima.
 15
 
---- Page 16 ---
+--- Page 6 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -488,7 +192,7 @@ aiuG
 16
 Fonte: Acervo CFB
 
---- Page 17 ---
+--- Page 7 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -532,7 +236,7 @@ de planejamento, assim como as premissas relacionadas à perspectiva de gênero 
 direitos humanos e à governança, que são detalhadas na próxima seção.
 17
 
---- Page 18 ---
+--- Page 8 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -573,7 +277,7 @@ Página da Campanha do Governo do Estado de São Paulo
 http://www.defesacivil.sp.gov.br/cidades-resilientes/
 18
 
---- Page 19 ---
+--- Page 9 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -611,7 +315,7 @@ Figura 6. Exemplos de serviços ecossistêmicos
 Fonte: Adaptado de GIZ (2019)
 19
 
---- Page 20 ---
+--- Page 10 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -652,7 +356,7 @@ projetados não se concretizem;
 proporcionam.
 20
 
---- Page 21 ---
+--- Page 11 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -697,7 +401,7 @@ fortemente estimulado que os planos de adaptação e resiliência à mudança do
 mentem as medidas AbE.
 21
 
---- Page 22 ---
+--- Page 12 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -747,7 +451,7 @@ assalariadas, participando com maior força de atividades diretamente afetadas p
 dança do clima (Torres et al., 2019).
 22
 
---- Page 23 ---
+--- Page 13 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -803,7 +507,7 @@ suas Contribuições Nacionalmente Determinadas (NDC – Nationally Determined C
 emissões de GEEs e aumento da resiliência climática.
 23
 
---- Page 24 ---
+--- Page 14 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -854,7 +558,7 @@ climáticas na dimensão de gênero
 https://repositorio.cepal.org/bitstream/handle/11362/46643/1/S2000925_pt.pdf
 24
 
---- Page 25 ---
+--- Page 15 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -906,7 +610,7 @@ na representação dos diferentes grupos e instituições envolvidos, com igual 
 de homens e mulheres. Vale notar que, historicamente, os espaços públicos e de tomada
 25
 
---- Page 26 ---
+--- Page 16 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -963,7 +667,7 @@ Resilientes (PMPR). A gravação está disponível em: https://www.youtube.com/w
 Goss&ab_channel=Infraeambiente
 26
 
---- Page 27 ---
+--- Page 17 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -1020,7 +724,7 @@ ainda com o apoio técnico do ICLEI (mais detalhes sobre essa iniciativa são ap
 próxima seção do guia).
 27
 
---- Page 28 ---
+--- Page 18 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -1048,7 +752,7 @@ Menezes, L. S. Relatório de análise comparativa entre arranjos institucionais 
 governança municipal às mudanças do clima. GIZ/Projeto ProAdapta, 2020.
 28
 
---- Page 29 ---
+--- Page 19 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -1108,7 +812,7 @@ pluviais.
 econômicas
 29
 
---- Page 30 ---
+--- Page 20 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -1186,7 +890,7 @@ planejamento do uso da zona
 costeira.
 30
 
---- Page 31 ---
+--- Page 21 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -1257,7 +961,7 @@ no estado de São Paulo que são abordadas neste guia, cujos detalhes se encontr
 seguir.
 31
 
---- Page 32 ---
+--- Page 22 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -1304,7 +1008,7 @@ CEPDEC 12-610-2020.
 Mais informações em: http://www.defesacivil.sp.gov.br/programa-municipio-resiliente/
 32
 
---- Page 33 ---
+--- Page 23 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -1359,7 +1063,7 @@ proporcionada pelos ecossistemas naturais.
 Mais informações em: http://www.defesacivil.sp.gov.br/cidades-resilientes/
 33
 
---- Page 34 ---
+--- Page 24 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -1403,7 +1107,7 @@ podem orientar ou apoiar a elaboração dos planos regionais de adaptação e re
 bem como exemplos de planos já desenvolvidos em algumas regiões paulistas.
 34
 
---- Page 35 ---
+--- Page 25 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -1454,7 +1158,7 @@ Mais informações em:
 https://www.infraestruturameioambiente.sp.gov.br/portalzee/
 35
 
---- Page 36 ---
+--- Page 26 ---
 
 PARTE I - O PLANEJAMENTO DA ADAPTAÇÃO E DA RESILIÊNCIA
 seõiger
@@ -1500,14 +1204,14 @@ Mais informações em:
 https://www.campinas.sp.gov.br/governo/meio-ambiente/reconectaRMC.php
 36
 
---- Page 37 ---
+--- Page 27 ---
 
 PARTE II
 CICLO DE
 ELABORAÇÃO
 DO PLANO
 
---- Page 38 ---
+--- Page 28 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -1551,7 +1255,7 @@ teriormente adaptado pela GIZ (2011; 2016). Tais diretrizes fundamentaram a meto
 (2018b) e consistem em uma referência geral para o presente guia.
 38
 
---- Page 39 ---
+--- Page 29 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -1594,7 +1298,7 @@ resultados e as lições aprendidas no processo.
 comunicação do plano e de seus resultados.
 39
 
---- Page 40 ---
+--- Page 30 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -1662,7 +1366,7 @@ propósitos de cada uma delas e as orientações metodológicas para sua utiliza
 sistematizados no Quadro 2.
 40
 
---- Page 41 ---
+--- Page 31 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -1726,7 +1430,7 @@ maior resiliência à mu- capacitação sobre o tema, por meio de debates, curso
 dança do clima. palestras, fóruns e seminários, por exemplo.
 41
 
---- Page 42 ---
+--- Page 32 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -1790,7 +1494,7 @@ humanos, com uma formação equilibrada quanto à repre-
 sentação das diferentes instituições e grupos sociais.
 42
 
---- Page 43 ---
+--- Page 33 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -1855,7 +1559,7 @@ As próximas seções do documento detalham cada etapa do ciclo de elaboração 
 com as respectivas orientações e instrumentos de apoio para sua realização.
 43
 
---- Page 44 ---
+--- Page 34 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -1894,7 +1598,7 @@ considerada em um planejamento, como uma política pública, um projeto ou um in
 territorial, por exemplo.
 44
 
---- Page 45 ---
+--- Page 35 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -1937,7 +1641,7 @@ lacunas de informações que podem demandar o desenvolvimento de estudos especí
 para a avaliação do risco climático na próxima etapa do ciclo de elaboração do plano.
 45
 
---- Page 46 ---
+--- Page 36 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -1983,7 +1687,7 @@ e utilizar os cenários de riscos atuais e futuros” recomendado pela Campanha 
 Cidades Resilientes – MCR2030.
 46
 
---- Page 47 ---
+--- Page 37 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2020,7 +1724,7 @@ de elaboração do plano estão disponíveis em arquivos editáveis no kit de fe
 complementares a este guia.
 47
 
---- Page 48 ---
+--- Page 38 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2071,7 +1775,7 @@ escopo do plano e de seus objetivos específicos preliminares, conforme
 as instruções apresentadas na sequência.
 48
 
---- Page 49 ---
+--- Page 39 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2152,7 +1856,7 @@ município.
 Fonte: Adaptado de MMA (2018b)
 49
 
---- Page 50 ---
+--- Page 40 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2199,7 +1903,7 @@ sistemas de interesse a serem contemplados. Faça esse detalhamento com o auxíl
 Matriz 1.2, conforme os exemplos que se encontram na sequência.
 50
 
---- Page 51 ---
+--- Page 41 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2229,7 +1933,7 @@ do risco climático na próxima etapa do ciclo de planejamento e serão revisado
 mesma, de acordo com seus resultados.
 51
 
---- Page 52 ---
+--- Page 42 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2278,7 +1982,7 @@ devido à modificação da paisagem e dos ecossistemas.
 ... ...
 52
 
---- Page 53 ---
+--- Page 43 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2316,7 +2020,7 @@ do sistema (grau em que ele pode ser afetado) e a sua capacidade
 de adaptação.
 53
 
---- Page 54 ---
+--- Page 44 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2349,7 +2053,7 @@ ser aplicada a lente de gênero e direitos humanos. A Figura 14 exemplifica como
 avaliação do risco climático por meio de seus componentes tendo em conta tal perspectiva.
 54
 
---- Page 55 ---
+--- Page 45 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2385,7 +2089,7 @@ Moradias localizadas em áreas próximas a
 morros e rios
 55
 
---- Page 56 ---
+--- Page 46 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2456,7 +2160,7 @@ de ocorrência potenciais
 Figura 14. Exemplo de avaliação a partir dos componentes do risco climático
 56
 
---- Page 57 ---
+--- Page 47 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2490,7 +2194,7 @@ Na sequência, são detalhadas as orientações para a condução desta etapa do
 elaboração do plano.
 57
 
---- Page 58 ---
+--- Page 48 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2534,7 +2238,7 @@ Os resultados desta análise serão considerados na sequência, dando continuida
 2 do ciclo de elaboração do plano.
 58
 
---- Page 59 ---
+--- Page 49 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2592,7 +2296,7 @@ ainda menos oportunidades de acesso à mantenha estável.
 informação.
 59
 
---- Page 60 ---
+--- Page 50 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2644,7 +2348,7 @@ Indeterminada Indeterminada ?
 Fonte: Adaptado de MMA (2018b)
 60
 
---- Page 61 ---
+--- Page 51 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2685,7 +2389,7 @@ matriz. Então, siga as instruções para avaliá-los, considerando os parâmetr
 as condições e tendências reconhecidas no tópico anterior.
 61
 
---- Page 62 ---
+--- Page 52 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2726,7 +2430,7 @@ afetados. Procure verificar se há ameaças/perigos climáticos a serem consider
 esse foco.
 62
 
---- Page 63 ---
+--- Page 53 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2770,7 +2474,7 @@ o que ou quem está exposto e onde. O Quadro 4 traz alguns exemplos de indicador
 podem ser utilizados para identificar a exposição.
 63
 
---- Page 64 ---
+--- Page 54 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2817,7 +2521,7 @@ traz alguns exemplos de variáveis e indicadores que podem ser utilizados para r
 os fatores que a determinam.
 64
 
---- Page 65 ---
+--- Page 55 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2871,7 +2575,7 @@ e consequente diagnóstico das árvores do município” e “AU8 – Mapeamento
 vegetal no perímetro urbano”.
 65
 
---- Page 66 ---
+--- Page 56 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2928,7 +2632,7 @@ Conselho Municipal de Meio Ambiente (PMVA/BIO1)
 - Percentual de representatividade de mulheres, negros, indígenas,
 66
 
---- Page 67 ---
+--- Page 57 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -2979,7 +2683,7 @@ centros de saúde?
 Urbana?
 67
 
---- Page 68 ---
+--- Page 58 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3016,7 +2720,7 @@ que serão utilizados na continuação da etapa 2, para a avaliação de impacto
 e riscos/necessidade de ação.
 68
 
---- Page 69 ---
+--- Page 59 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3086,7 +2790,7 @@ estiagem
 Fonte: Adaptado de MMA (2018b)
 69
 
---- Page 70 ---
+--- Page 60 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3128,7 +2832,7 @@ climático
 Figura 16. Avaliação do grau de impactos potenciais e riscos
 70
 
---- Page 71 ---
+--- Page 61 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3178,7 +2882,7 @@ Os resultados obtidos neste ponto serão utilizados, na sequência, para a conso
 objetivos específicos a serem contemplados no plano de adaptação e resiliência.
 71
 
---- Page 72 ---
+--- Page 62 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3227,7 +2931,7 @@ de chuvas intensas. adaptação.
 Fonte: Adaptado de MMA (2018b)
 72
 
---- Page 73 ---
+--- Page 63 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3266,7 +2970,7 @@ resiliência capazes de minimizar os riscos identificados, dando continuidade ao
 elaboração do plano.
 73
 
---- Page 74 ---
+--- Page 64 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3303,7 +3007,7 @@ adaptação Sensibilidade
 Figura 17. Focos de ação para as medidas de adaptação e resiliência
 74
 
---- Page 75 ---
+--- Page 65 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3352,7 +3056,7 @@ Na coluna ao lado, identifique as medidas de adaptação e resiliência que pode
 utilizadas para reduzir os riscos relacionados aos impactos potenciais, incluindo medidas AbE.
 75
 
---- Page 76 ---
+--- Page 66 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3400,7 +3104,7 @@ tecnológica.
 (por exemplo: IPTU Verde).
 76
 
---- Page 77 ---
+--- Page 67 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3454,7 +3158,7 @@ enfoque em gênero e direitos humanos.
 comunicação e aplicativos para celular.
 77
 
---- Page 78 ---
+--- Page 68 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3513,7 +3217,7 @@ pela rede internacional Amigos e Amigas da AbE (FEBA, sigla em inglês para Frie
 Ecosystem-based Adaptation).
 78
 
---- Page 79 ---
+--- Page 69 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3566,7 +3270,7 @@ cos (IBPES), esses diferentes benefícios vêm sendo abordados por meio do conce
 para as Pessoas (CNP), ou, em inglês, Nature’s Contributions to People (NCP), de forma mais ampla (BPBES, 2019).
 79
 
---- Page 80 ---
+--- Page 70 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3621,7 +3325,7 @@ impactos potenciais considerados no plano. Vale notar, também, que o planejamen
 implementação dessas medidas requerem uma visão sistêmica e cooperação intersetorial. O
 80
 
---- Page 81 ---
+--- Page 71 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3704,7 +3408,7 @@ próximo passo do ciclo de elaboração do plano é selecionar quais delas serã
 de acordo com critérios a serem definidos para o município ou a região.
 81
 
---- Page 82 ---
+--- Page 72 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3750,7 +3454,7 @@ Construir cisternas.
 Fonte: Adaptado de MMA (2018b)
 82
 
---- Page 83 ---
+--- Page 73 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3789,7 +3493,7 @@ promoção da equidade. Uma opção é utilizar a classificação apresentada no
 Indique na Matriz 4 os critérios estabelecidos.
 83
 
---- Page 84 ---
+--- Page 74 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3829,7 +3533,7 @@ de pobreza e demais grupos sociais menos assistidos.
 Fonte: Adaptado de WWF-Brasil (2017)
 84
 
---- Page 85 ---
+--- Page 75 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3862,7 +3566,7 @@ A próxima etapa do ciclo de planejamento consiste em desenvolver o plano de aç
 implementar as medidas selecionadas.
 85
 
---- Page 86 ---
+--- Page 76 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3899,7 +3603,7 @@ Construir cisternas. ...
 Fonte: Adaptado de MMA (2018b)
 86
 
---- Page 87 ---
+--- Page 77 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3944,7 +3648,7 @@ atividades, de modo que elas promovam a igualdade social e minimizem efeitos neg
 não intencionais.
 87
 
---- Page 88 ---
+--- Page 78 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -3996,7 +3700,7 @@ para cuidar de crianças e/ou transporte para que mães e pais
 possam frequentar as capacitações.
 88
 
---- Page 89 ---
+--- Page 79 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4050,7 +3754,7 @@ Mobilidade urbana - Plano de Mobilidade
 Saúde - Plano Municipal de Combate à Dengue
 89
 
---- Page 90 ---
+--- Page 80 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4105,7 +3809,7 @@ ddaa DDeeffeessaa CCiivviill
 ppootteenncciiaalliiddaaddeess ddoo uussoo ddoo ssoolloo
 90
 
---- Page 91 ---
+--- Page 81 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4165,7 +3869,7 @@ O Quadro 13, por sua vez, traz exemplos de estratégias no nível regional, divi
 setor, que podem incorporar ações de adaptação e resiliência.
 91
 
---- Page 92 ---
+--- Page 82 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4203,7 +3907,7 @@ medidas complementares para garantir o seu bom funcionamento, elas também devem
 ser previstas no plano, conforme as orientações apresentadas na sequência.
 92
 
---- Page 93 ---
+--- Page 83 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4295,7 +3999,7 @@ viveiro municipal.
 a criação do viveiro.
 93
 
---- Page 94 ---
+--- Page 84 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4332,7 +4036,7 @@ monitoramento e a avaliação das medidas a serem implementadas, como é detalha
 na sequência.
 94
 
---- Page 95 ---
+--- Page 85 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4373,7 +4077,7 @@ possua o certificado de produção legal e sustentável.
 Fonte: Adaptado de MMA (2018b)
 95
 
---- Page 96 ---
+--- Page 86 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4412,7 +4116,7 @@ planejada para o cumprimento do objetivo em questão.
 Em seguida, determine as metas individuais de cada medida.
 96
 
---- Page 97 ---
+--- Page 87 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4460,7 +4164,7 @@ O Quadro 14 mostra um exemplo de índices de monitoramento estabelecidos no Plan
 Adaptação às Mudanças Climáticas da cidade de Fortaleza (CE).
 97
 
---- Page 98 ---
+--- Page 88 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4499,7 +4203,7 @@ Mudanças Climáticas
 Fonte: Fortaleza (2019)
 98
 
---- Page 99 ---
+--- Page 89 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4546,7 +4250,7 @@ com que periodicidade eles devem ser reunidos e analisados;
 quem será responsável pelas atividades.
 99
 
---- Page 100 ---
+--- Page 90 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4598,7 +4302,7 @@ de organizações da sociedade civil, de diferentes grupos sociais e de redes na
 e internacionais de cooperação entre municípios, entre outros. Também é necessário
 100
 
---- Page 101 ---
+--- Page 91 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4634,7 +4338,7 @@ Uma vez preparado o plano de ação para o monitoramento e a avaliação das med
 do plano e de seus resultados. Os detalhes para tanto são apresentados na seção seguinte.
 101
 
---- Page 102 ---
+--- Page 92 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4701,7 +4405,7 @@ plano
 Fonte: Adaptado de MMA (2018b)
 102
 
---- Page 103 ---
+--- Page 93 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4740,7 +4444,7 @@ como essa reforçam as Leis de Transparência (nº 6.924/2009) e de Acesso à In
 (nº 12.527/2011), além de minimizarem o risco de perda dos dados.
 103
 
---- Page 104 ---
+--- Page 94 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4770,7 +4474,7 @@ para a composição do plano e sua redação propriamente dita, integrando as in
 levantadas ao longo de todas as etapas do ciclo de planejamento.
 104
 
---- Page 105 ---
+--- Page 95 ---
 
 PARTE II – CICLO DE ELABORAÇÃO DO PLANO
 seõiger
@@ -4806,13 +4510,13 @@ Custos envolvidos
 ...
 105
 
---- Page 106 ---
+--- Page 96 ---
 
 PARTE III
 COMPOSIÇÃO DO
 PLANO
 
---- Page 107 ---
+--- Page 97 ---
 
 seõiger
 e
@@ -4858,7 +4562,7 @@ informações e definições obtidas por meio do ciclo de planejamento.
 107
 PARTE III – COMPOSIÇÃO DO PLANO
 
---- Page 108 ---
+--- Page 98 ---
 
 seõiger
 e
@@ -4901,7 +4605,7 @@ e outros grupos.
 108
 PARTE III – COMPOSIÇÃO DO PLANO
 
---- Page 109 ---
+--- Page 99 ---
 
 seõiger
 e
@@ -4952,7 +4656,7 @@ adaptação e resiliência” para cada um deles. Assim, todas as medidas que at
 109
 PARTE III – COMPOSIÇÃO DO PLANO
 
---- Page 110 ---
+--- Page 100 ---
 
 seõiger
 e
@@ -4998,7 +4702,7 @@ estratégias
 110
 PARTE III – COMPOSIÇÃO DO PLANO
 
---- Page 111 ---
+--- Page 101 ---
 
 seõiger
 e
@@ -5046,7 +4750,7 @@ resultados
 111
 PARTE III – COMPOSIÇÃO DO PLANO
 
---- Page 112 ---
+--- Page 102 ---
 
 seõiger
 e
@@ -5080,7 +4784,7 @@ ao conteúdo principal do plano, inclua no documento uma seção de anexos.
 112
 PARTE III – COMPOSIÇÃO DO PLANO
 
---- Page 113 ---
+--- Page 103 ---
 
 seõiger
 e
@@ -5139,7 +4843,7 @@ Pulse da ONU (UN Global Pulse, 2013).
 www.un.org/en/global-issues/human-rights
 113
 
---- Page 114 ---
+--- Page 104 ---
 
 GLOSSÁRIO
 seõiger
@@ -5201,7 +4905,7 @@ sociedades, há diferenças e tecnológicos que podem ou não ser
 desigualdades em relação às realizados (IPCC, 2014).
 114
 
---- Page 115 ---
+--- Page 105 ---
 
 GLOSSÁRIO
 seõiger
@@ -5246,7 +4950,7 @@ provisão, reguladores, culturais e de
 suporte.
 115
 
---- Page 116 ---
+--- Page 106 ---
 
 seõiger
 e
@@ -5328,7 +5032,7 @@ https://www.cooperacaobrasil-alemanha.com/Mata_ natural%20de%20S%C3%A3o%20Bento%
 Atlantica/Criterios_AbE_FEBA.pdf
 116
 
---- Page 117 ---
+--- Page 107 ---
 
 REFERÊNCIAS
 seõiger
@@ -5422,7 +5126,7 @@ Brasília, DF: MMA, 2000. Disponível em: https://
 www.gov.br/mma/pt-br/textoconvenoportugus.pdf
 117
 
---- Page 118 ---
+--- Page 108 ---
 
 REFERÊNCIAS
 seõiger
@@ -5500,7 +5204,7 @@ www.unwomen.org/en/digital-library/publica-
 tions/2018/1/gender-equality-and-big-data
 118
 
---- Page 119 ---
+--- Page 109 ---
 
 seõiger
 e
@@ -5560,7 +5264,7 @@ a integração bem-sucedida de gênero e direitos
 humanos.
 119
 
---- Page 120 ---
+--- Page 110 ---
 
 ANEXOS
 seõiger
@@ -5623,7 +5327,7 @@ cuidar de crianças e de intérpretes de
 Libras, etc.
 120
 
---- Page 121 ---
+--- Page 111 ---
 
 ANEXOS
 seõiger
@@ -5700,7 +5404,7 @@ consequências de cada problema central.
 cada grupo social.
 121
 
---- Page 122 ---
+--- Page 112 ---
 
 ANEXOS
 seõiger
@@ -5764,7 +5468,7 @@ entrevistas, grupos focais, debates e
 mapeamentos comunitários.
 122
 
---- Page 123 ---
+--- Page 113 ---
 
 ANEXOS
 seõiger
@@ -5804,7 +5508,7 @@ comunicação sensível às questões de
 gênero e direitos humanos.
 123
 
---- Page 124 ---
+--- Page 114 ---
 
 ANEXOS
 seõiger
@@ -5859,7 +5563,7 @@ ao longo das etapas do planejamento – por exemplo, na identificação de impac
 podem afetar os diferentes gêneros e grupos sociais de forma específica.
 124
 
---- Page 125 ---
+--- Page 115 ---
 
 ANEXOS
 seõiger
@@ -5926,7 +5630,7 @@ família) e os dos homens, ao espaço público
 Figura B.1. Exemplo de elaboração da árvore de problemas
 125
 
---- Page 126 ---
+--- Page 116 ---
 
 ANEXOS
 seõiger
@@ -6007,7 +5711,7 @@ medicinal tradicional e suplementos
 nutricionais.
 126
 
---- Page 127 ---
+--- Page 117 ---
 
 ANEXOS
 seõiger
@@ -6071,7 +5775,7 @@ ambiente.
 Fonte: Adaptado de WHO (2012)
 127
 
---- Page 128 ---
+--- Page 118 ---
 
 ANEXOS
 seõiger
@@ -6103,7 +5807,7 @@ climate change programmes. 2012. Disponível em: <https://www.who.int/globalchan
 publications/Mainstreaming_Gender_Climate.pdf>.
 128
 
---- Page 129 ---
+--- Page 119 ---
 
 ANEXOS
 seõiger
@@ -6154,7 +5858,7 @@ O catalogador de informações espaciais GEONETWORK tem como função integrar e
 documentar os dados produzidos no ambiente de análise, possibilitando o acesso e a
 129
 
---- Page 130 ---
+--- Page 120 ---
 
 ANEXOS
 seõiger
@@ -6179,7 +5883,7 @@ DADO QGIS + GEOSERVER GEONETWORK MAPSTORE
 GEOPACKAGE
 130
 
---- Page 131 ---
+--- Page 121 ---
 
 ANEXOS
 seõiger
@@ -6226,7 +5930,7 @@ possível identificar subimpactos, que devem ser considerados no detalhamento da
 sensibilidade e da capacidade adaptativa.
 131
 
---- Page 132 ---
+--- Page 122 ---
 
 ANEXOS
 seõiger
@@ -6285,7 +5989,7 @@ doméstica
 Figura D.1. Exemplo de cadeia de impactos com enfoque em gênero e direitos humanos
 132
 
---- Page 133 ---
+--- Page 123 ---
 
 ANEXOS
 seõiger
