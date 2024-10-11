@@ -1,38 +1,55 @@
 import torch
 from transformers import BertTokenizer, BertModel
 from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
+from typing import List
+
+# Initialize the tokenizer
+tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
 class SemanticChunker:
-    def __init__(self, model_name='distilbert-base-uncased', threshold=0.8, batch_size=5):
+    def __init__(self, model_name='distilbert-base-uncased', threshold=0.8, batch_size=5, max_tokens=7000):
+        # Usando o modelo DistilBERT, que é mais leve em memória
         self.tokenizer = BertTokenizer.from_pretrained(model_name)
         self.model = BertModel.from_pretrained(model_name)
         self.threshold = threshold
         self.batch_size = batch_size
+        self.max_tokens = max_tokens  # Set max tokens based on model's token limit
 
     def get_embeddings(self, sentences):
+        # Truncamento para evitar processamento de sequências muito grandes
         inputs = self.tokenizer(sentences, return_tensors='pt', padding=True, truncation=True, max_length=512)
         with torch.no_grad():
             outputs = self.model(**inputs)
+        # Extraindo a média das representações dos tokens
         return outputs.last_hidden_state.mean(dim=1).numpy()
 
-    def chunk_text(self, text):
+    def ensure_token_limit(self, text: str, max_tokens: int) -> str:
+        """Truncate the input text if it exceeds the token limit."""
+        tokens = tokenizer.tokenize(text)
+        if len(tokens) > max_tokens:
+            # Truncate to the max tokens and convert back to text
+            tokens = tokens[:max_tokens]
+            return tokenizer.convert_tokens_to_string(tokens)
+        return text
+
+    def chunk_text(self, text: str) -> List[str]:
         sentences = text.split('. ')
         chunks = []
         
+        # Processando as sentenças em lotes para reduzir o consumo de memória
         for i in range(0, len(sentences), self.batch_size):
             batch_sentences = sentences[i:i+self.batch_size]
-            embeddings = self.get_embeddings(batch_sentences)
-
-            current_chunk = [batch_sentences[0]]
-            for j in range(1, len(batch_sentences)):
-                similarity = cosine_similarity([embeddings[j-1]], [embeddings[j]])[0][0]
-                if similarity < self.threshold:
-                    chunks.append(' '.join(current_chunk))
-                    current_chunk = [batch_sentences[j]]
-                else:
-                    current_chunk.append(batch_sentences[j])
             
-            if current_chunk:
-                chunks.append(' '.join(current_chunk))
+            # Join batch sentences into one chunk
+            current_chunk = ' '.join(batch_sentences)
+            
+            # Ensure the current chunk is within the token limit
+            current_chunk = self.ensure_token_limit(current_chunk, self.max_tokens)
+            
+            # Tokenize and get embeddings for the current chunk
+            chunk_embeddings = self.get_embeddings([current_chunk])
+
+            chunks.append(current_chunk)
 
         return chunks
