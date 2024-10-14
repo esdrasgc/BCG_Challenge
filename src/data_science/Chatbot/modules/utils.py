@@ -3,10 +3,9 @@ from typing import List
 import openai
 import os
 from dotenv import load_dotenv
-from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 import pandas as pd
-import ast
+import db
 
 load_dotenv()
 
@@ -14,7 +13,11 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 openai.api_key = openai_api_key
 client = openai.OpenAI(api_key=openai_api_key)
+embeddings = OpenAIEmbeddings(model='text-embedding-ada-002')
 
+def embeddings_postgres():
+    query_sql = "SELECT content, embedding FROM semanticembeddingfast"
+    return db.fetch_data(query_sql)
 
 
 def generate_embeddings(input: List[str], client = client, model='text-embedding-ada-002')-> List[float]:
@@ -25,43 +28,65 @@ def generate_embeddings(input: List[str], client = client, model='text-embedding
     total_tokens = embedding.usage.total_tokens
     embeddings = [data.embedding for data in embedding.data]
     return embedding.data[0].embedding
+
+
 def _get_cos(vec_a: list, vec_b: list):
     vec_a = np.array(vec_a)
     vec_b = np.array(vec_b)
-    return vec_a.dot(vec_b) / (np.linalg.norm(vec_a) * np.linalg.norm(vec_b))
+    # Calcular o cosseno da similaridade
+    similarity = vec_a.dot(vec_b) / (np.linalg.norm(vec_a) * np.linalg.norm(vec_b))
+    return similarity
 
 def query_toEmbedding(query:str):
   embedding_vector = generate_embeddings(query)
   return embedding_vector
-embeddings = OpenAIEmbeddings(model='text-embedding-ada-002')
-db = FAISS.load_local(r"C:\Users\felip\Desktop\dab", embeddings, allow_dangerous_deserialization=True)
-def retriever(query:str, k:int = 4, db = db):
+
+def retriever(query:str, db,  k:int = 4):
   query_embeddings = query_toEmbedding(query = query)
-  topk = db.similarity_search_by_vector(query_embeddings, k=k)
-  return topk
+  results = db[[2, 3]] 
+  similars = []
+  for content, embedding_str in results.values:
+      # Convert the embedding string (stored as text in Postgres) back into a list of floats
+      embedding_list = [float(x) for x in embedding_str.strip("[]").split(",")]
+      
+      # Calculate cosine similarity
+      similarity = _get_cos(query_embeddings, embedding_list)
 
-df = pd.read_csv(r'C:\Users\felip\Programação\Bcg\chatbot\faiss.csv')
-def retriever_with_score(query:str, df = df, k:int = 4, db = db):
-  topk = retriever(query, k, db)
-  query_embeddings = query_toEmbedding(query=query)
-  scores = []
-  #results_with_scores = []
-  for doc in topk:
-      doc_content = doc.page_content
-      matching_row = df[df["content"] == doc_content]  # Supondo que cada documento tenha um campo 'embedding'
-      if not matching_row.empty:
-            doc_embedding = matching_row.iloc[0]["embedding"]  # Acessa o primeiro resultado
-            doc_embedding = ast.literal_eval(doc_embedding)
-            query_embeddings = np.array(query_embeddings, dtype=np.float32)
-            doc_embedding = np.array(doc_embedding, dtype=np.float32)
+      
+      # Store the result along with the similarity score
+      similars.append((content, similarity))
 
-            # Calcular a similaridade do cosseno entre o embedding da consulta e o documento
-            score = _get_cos(query_embeddings, doc_embedding)
-            scores.append(score)
-      else:
-          print(f"Documento não encontrado no DataFrame: {doc_content}")
-      # Adicionar o documento e seu score à lista de resultados
-      #results_with_scores.append((doc, score))
+  # Sort the results by similarity, from highest to lowest
+  sorted_similars = sorted(similars, key=lambda x: x[1], reverse=True)
 
-  return topk, scores
+  # Return the top-k results
+  return sorted_similars[:k]
+    
 
+def retriever_with_score(query: str, db, k: int = 4):
+    """
+    Performs a search in the Postgres database and returns the most similar documents with their scores.
+    """
+    # Generate the embedding for the query
+    query_embeddings = generate_embeddings(query)
+
+    # Fetch stored embeddings from Postgres
+    results = db[[2, 3]]  # Assuming 'content' is the text and 'embedding' is the embedding string
+
+    results_with_scores = []
+    for content, embedding_str in results.values:
+        # Convert the embedding string (stored as text) back into a list of floats
+        embedding_list = [float(x) for x in embedding_str.strip("[]").split(",")]
+
+        # Calculate cosine similarity
+        
+        similarity = _get_cos(query_embeddings, embedding_list)
+
+        # Store the result along with the similarity score
+        results_with_scores.append((content, similarity))
+
+    # Sort the results by similarity, from highest to lowest
+    sorted_results = sorted(results_with_scores, key=lambda x: x[1], reverse=True)
+
+    # Return the top-k results
+    return sorted_results[:k]

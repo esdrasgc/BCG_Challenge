@@ -8,6 +8,7 @@ import langgraph
 import memory
 import nodes
 import edges
+from IPython.display import Image, display
 
 
 class GraphState(TypedDict):
@@ -23,41 +24,71 @@ class GraphState(TypedDict):
 
     query: str
     generation: str
+    choice: str
     context: List[str]
     messages: List[str]
+    count: int
 
 def graph_init():
     workflow = StateGraph(GraphState)
-
-    # Define the nodes
+    workflow.add_node("first_prompt?", nodes.first_prompt)
+    workflow.add_node("city_node", nodes.city_node)
+    workflow.add_node('decider', nodes.decider)
     workflow.add_node("web_search", nodes.web_search)  # web search
     workflow.add_node("retrieve", nodes.retrieve)  # retrieve
-    workflow.add_node("DoSearch", nodes.same)
-    workflow.add_node("treshhold_check", nodes.treshhold_check)  # grade documents
-    workflow.add_node("generate", nodes.generate)  # generatae
+    workflow.add_node("same", nodes.same)
+    workflow.add_node("treshold_check", nodes.treshold_check)  # grade documents
     workflow.add_node("transform_query", nodes.transform_query)  # transform_query
+    workflow.add_node("generate", nodes.generate)  # generate
 
-    # Build graph
+
+
+    # Build graph with the edges
     workflow.add_conditional_edges(
         START,
+        edges.its_the_first,
+        {
+            "first_prompt?": "first_prompt?",
+            "decider": "decider",
+        },
+    )                      #If it is the first prompt goes to the city_node
+
+    workflow.add_conditional_edges(
+        "first_prompt?",
+        edges.City_router,
+        {
+            "no_city": "decider",
+            "Has_city": "city_node",
+        },
+    )
+
+    workflow.add_edge("city_node", "decider")
+
+    workflow.add_conditional_edges(
+        "decider",
         edges.route_question,
         {
-            "Need": "DoSearch",
-            "vectorstore": "retrieve",
+            "Need": "same",
+            "general": "retrieve",
+            "small_city": "retrieve",
+            "medium_city":"retrieve",
+            "big_city" : "retrieve",
+
         },
     )
     workflow.add_conditional_edges(
-        "DoSearch",  
-        edges.DoSearch,    
+        "same",
+        edges.DoSearch,
         {
-            "web_search": "web_search", 
-            "generate": "generate",      
+            "web_search": "web_search",
+            "generate": "generate",
         },
     )
+
     workflow.add_edge("web_search", "generate")
-    workflow.add_edge("retrieve", "treshhold_check")
+    workflow.add_edge("retrieve", "treshold_check")
     workflow.add_conditional_edges(
-        "treshhold_check",
+        "treshold_check",
         edges.decide_to_generate,
         {
             "transform_query": "transform_query",
@@ -97,3 +128,5 @@ def chatbot(graph):
             print("Conversa encerrada. Até mais!")
             break
         chat(config, graph, query)
+
+
