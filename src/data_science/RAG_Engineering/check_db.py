@@ -78,10 +78,10 @@ def main():
         listar_tabelas(conn)
 
         # Verificar estrutura da tabela semanticEmbedding
-        checar_estrutura_tabela(conn, 'semanticembedding')
+        checar_estrutura_tabela(conn, 'semanticembeddingfast')
 
         # Visualizar os primeiros dados da tabela e exibir no formato pandas
-        visualizar_dados(conn, 'semanticembedding', limite=5)
+        visualizar_dados(conn, 'semanticembeddingfast', limite=5)
 
         # Fechar a conexão
         conn.close()

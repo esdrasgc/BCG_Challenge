@@ -14,6 +14,7 @@ model = llm.model_init()
     ###Router
 class InitialChoice(BaseModel):
     """Route a user query based on the presence and size of the city."""
+    
     datasource: Literal["web_search", "general", "small_city", "medium_city", "large_city"] = Field(
         ...,
         description="Route to web search, general vectorstore, or general vectorstore plus other based on the city size",
@@ -21,10 +22,21 @@ class InitialChoice(BaseModel):
 
 
 def router_func(query:str):
+  """
+  Route a user query to the appropriate path based on the content of the query.
+  
+  args:
+    query (str): The user input.
+
+    Returns:
+        str: the llm decision ("web_search", "general", "small_city", "medium_city", "big_city").
+  """
+  
+  
   system = """You are an expert at routing a user question to diferent paths. You have five paths, the web-search, the general vectorstore, the general vectorstore plus a vectorstore of a small city, the general vectorstore plus a vectorstore of a medium city, the general vectorstore plus a vectorstore of a big city.
   The vectorstore contains documents in portuguese related to climate plans for cities in Brazil.
   So if the query is related to the topic use the vectorstore, if some city is mentioned in the query, clasify the message based on the city size. Otherwise, use web-search.
-  Just return your chosen path based on the query as the output"""
+  Just return your chosen path based on the query as the output. Give the output in lowercase."""
   route_prompt = ChatPromptTemplate.from_messages(
       [
           ("system", system),
@@ -45,6 +57,17 @@ class Search_need(BaseModel):
 
 
 def need_of_search(query:str):
+  """ 
+    Determine if a web search is necessary based on the user query.
+  
+    Args:
+        query (str): The user input.
+    
+    Returns:
+        str: Binary score for tell the necessity of web search.
+
+  """
+
   structured_model_needs = model.with_structured_output(Search_need)
 
   # Prompt
@@ -55,7 +78,7 @@ def need_of_search(query:str):
   Your response format should strictly follow this structure:
   - binary_score: 'yes' or 'no'
 
-  Do not provide any other information or explanations."""
+  Do not provide any other information or explanations. Respond in lowercase."""
 
   need_prompt = ChatPromptTemplate.from_messages(
     [
@@ -67,7 +90,7 @@ def need_of_search(query:str):
   return needs_chain.invoke({"query": query})
 
 
-
+    ###Tell if a city is mentioned
 class Has_City(BaseModel):
     """Binary score saying if the prompt has any city"""
 
@@ -76,21 +99,30 @@ class Has_City(BaseModel):
     )
 
 def Hascity_func(query:str):
-  model = llm.model_init()
-  structured_llm_grader = model.with_structured_output(Has_City)
+    '''
+    Determine if a city is mentioned in the user query.
+
+    Args:
+        query (str): The user input.
+    
+    Returns:
+        str: Binary score saying if the prompt has any city.
+    '''
+
+    structured_llm_grader = model.with_structured_output(Has_City)
 
   # Prompt
-  system = """You are a geography specialist who knows very well city names. Give a binary score 'yes' or 'no' score to indicate whether the user query mention any city in the world."""
-  city_prompt = ChatPromptTemplate.from_messages(
-      [
-          ("system", system),
-          ("human", "User query: {query}"),
-      ]
-  )
-  retrieval_grader = city_prompt | structured_llm_grader
+    system = """You are a geography specialist who knows very well city names. Give a binary score 'yes' or 'no' score to indicate whether the user query mention any city in the world. Responds in lowercase."""
+    city_prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", system),
+            ("human", "User query: {query}"),
+        ]
+    )
+    retrieval_grader = city_prompt | structured_llm_grader
 
-  response = retrieval_grader.invoke({"query": query})
-  return response
+    response = retrieval_grader.invoke({"query": query})
+    return response
 
 
 
@@ -99,13 +131,13 @@ def Hascity_func(query:str):
 
 def route_question(state):
     """
-    Route question to web search or RAG.
+    Route question to web search or the type of RAG to use.
 
     Args:
         state (dict): The current graph state
 
     Returns:
-        str: Next node to call
+        str: the path to follow ("web_search", "general", "small_city", "medium_city", "big_city").
     """
 
     print("---ROUTE QUESTION---")
@@ -156,6 +188,15 @@ def DoSearch(state):
 
 
 def its_the_first(state):
+    """
+    Check if this is the first interaction in the chat history.
+
+    Args:
+        state (dict): The current state (not used in this function but passed for compatibility).
+
+    Returns:
+        str: "first_prompt?" if no previous messages exist, otherwise "decider".
+    """
     chat_history = memory.get_chat_history()
     if len(chat_history.messages) == 0:
         return "first_prompt?"
@@ -196,12 +237,21 @@ def decide_to_generate(state):
     return "generate"
     
 def City_router(state):
-  print("---CITY QUESTION---")
-  query = state["query"]
-  response = Hascity_func(query)
-  if response.binary_score == "no":
-      print("---No city, going to router---")
-      return "no_city"
-  elif response.binary_score == "yes":
-      print("---City info---")
-      return "Has_city"
+    """
+    Route the question based on the presence of a city in the query.
+
+    Args:
+        state (dict): The current graph state containing the query.
+    
+    Returns:
+        str: The path to follow, based on: "no_city" or "Has_city".
+    """
+    print("---CITY QUESTION---")
+    query = state["query"]
+    response = Hascity_func(query)
+    if response.binary_score == "no":
+        print("---No city, going to router---")
+        return "no_city"
+    elif response.binary_score == "yes":
+        print("---City info---")
+        return "Has_city"
