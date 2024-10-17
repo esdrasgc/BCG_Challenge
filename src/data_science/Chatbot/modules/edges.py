@@ -15,7 +15,7 @@ model = llm.model_init()
 class InitialChoice(BaseModel):
     """Route a user query based on the presence and size of the city."""
     
-    datasource: Literal["web_search", "general", "small_city", "medium_city", "large_city"] = Field(
+    datasource: Literal["web_search", "general", "small_city", "medium_city", "big_city"] = Field(
         ...,
         description="Route to web search, general vectorstore, or general vectorstore plus other based on the city size",
     )
@@ -144,7 +144,7 @@ def route_question(state):
     choice = state["choice"] 
     if choice == "web_search":
         print("---ROUTE QUESTION TO WEB SEARCH---")
-        return "Need" #Ver se vai esse nome mesmo
+        return "Need" 
     elif choice == "general":
         print("---ROUTE QUESTION TO GENERAL RAG---")
         return "general"
