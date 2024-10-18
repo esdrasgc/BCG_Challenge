@@ -30,6 +30,7 @@ class GraphState(TypedDict):
     context: List[str]
     messages: List[str]
     count: int
+    infos: str
 
 def graph_init():
     """
@@ -144,7 +145,7 @@ def chat(config, graph, query: str = None):
           print(f"Node '{key}':")
           # Optional: print full state at each node
           # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
-      print("\n---\n")
+      print("\n---\n")    
   print(value["generation"])
 
 def chatbot(graph):

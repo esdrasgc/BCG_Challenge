@@ -223,7 +223,7 @@ def city_node(state):
     Returns:
       dict: The state dictionary with the original query included.
   """
-
+  info = state.get("infos", '')
   query = state["query"]
   #messages = state.get("messages", " ")  Coloco isso na memória?
   structured_llm_grader = model.with_structured_output(City_name)
@@ -253,7 +253,7 @@ def city_node(state):
   climate_chain = climate_prompt | model
   climate_response = climate_chain.invoke({"response": response, "docs": docs})
   print(climate_response.content)
-  return {"query": query}   
+  return {"query": query, "infos": climate_response.content}   
 
 
 def transform_query(state):
