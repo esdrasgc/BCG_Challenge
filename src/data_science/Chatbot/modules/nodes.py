@@ -225,7 +225,7 @@ def city_node(state):
   """
   info = state.get("infos", '')
   query = state["query"]
-  #messages = state.get("messages", " ")  Coloco isso na memória?
+  
   structured_llm_grader = model.with_structured_output(City_name)
   system = """You are a geography specialist who knows very well city names. In a query in which there is a city name for sure, just return this city name."""
   city_prompt = ChatPromptTemplate.from_messages(
@@ -240,7 +240,7 @@ def city_node(state):
   climate_query = f"Aspectos climáticos de {response}"
   docs = search_tool(climate_query)
   climate_system = """You are a climate specialist who is well-acquainted with the climatic characteristics of cities and responds always in portuguese.
-  Given a city name, provide general climatic characteristics of that city and the problems it faces related to those aspects.
+  Given a city name, provide general climatic characteristics of that city and the 3 most important problems it faces related to those aspects.
   You will just give a brief response of the climatic characteristics, and just give the problems in bullet points, without explaining what the problem is."""
   
 
