@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Depends
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
 from langchain_community.vectorstores import FAISS
@@ -7,16 +7,11 @@ import openai
 import uvicorn
 from dotenv import load_dotenv
 from uuid import UUID, uuid4
-
-
+from db import create_db_and_tables, get_session
+from sqlmodel import Session, select
 import os
-import sys
-# Adicionar o diretório raiz do projeto ao sys.path
-script_dir = os.path.dirname(os.path.abspath(__file__))
-project_root = os.path.abspath(os.path.join(script_dir, '..'))
-sys.path.append(project_root)
-
 import graph
+from api_models import *
 
 load_dotenv()
 
@@ -27,14 +22,6 @@ embeddings = OpenAIEmbeddings(model='text-embedding-ada-002')
 
 app = FastAPI()
 app_graph = graph.graph_init()
-
-# app.add_middleware(
-#     CORSMiddleware,
-#     allow_origins=['*'],
-#     allow_credentials=False,
-#     allow_methods=['*'],
-#     allow_headers=['*'],
-# )
 
 # Modelos de requisição e resposta
 class QueryRequest(BaseModel):
@@ -47,29 +34,84 @@ class ResponseModel(BaseModel):
 
 app = FastAPI()
 
+@app.on_event("startup")
+def on_startup():
+    create_db_and_tables()
 # Inicializar o grafo de estado
 state_graph = graph.graph_init()
 
-class QueryRequest(BaseModel):
-    session_id: UUID | None = None
-    query: str
+@app.get("/chat", response_model=ChatListingResponse)
+def list_chats(session: Session = Depends(get_session)):
+    chats = session.exec(select(ChatInDB)).all()
+    return ChatListingResponse(chats=[chat.to_listing() for chat in chats])
 
-class QueryResponse(BaseModel):
-    session_id: UUID
-    response: str
+@app.post("/chat", response_model=InitChatResponse)
+def new_chat(request: InitChatRequest, session: Session = Depends(get_session)):
+    session_id = uuid4()
+    config = {"configurable": {"session_id": session_id}}
+    response = ""
+    prompt_inicial = f'Olá, sou gestor da cidade {request.city.name}-{request.state.abbreviation}.'
+    for output in state_graph.stream({"query": prompt_inicial}, config, stream_mode="updates"):
+        for node, updates in output.items():
+            print(f"Node '{node}': {updates}")
+    
+    # response_kpis = updates['infos']
+    ## save key indicators in db
 
-@app.post("/chat", response_model=QueryResponse)
-def chat_endpoint(request: QueryRequest):
-    if request.session_id is None:
-        request.session_id = uuid4()
-    config = {"configurable": {"session_id": request.session_id}}
+    chat = ChatInDB(
+        id = uuid4(),
+        city = request.city.name, 
+        state= request.state.abbreviation,
+        session_id=session_id,
+        messages=[],
+        key_indicators=[]
+    )
+    session.add(chat)
+    session.commit()
+    session.refresh(chat)
+    return InitChatResponse(session_id=session_id, id=chat.id)
+
+@app.get("/chat/{chat_id}", response_model=ChatResponse)
+def get_chat(chat_id: UUID, session: Session = Depends(get_session)):
+    chat = session.get(ChatInDB, chat_id)
+    if chat is None:
+        raise HTTPException(status_code=404, detail="Chat not found")
+    return chat.to_response()
+
+@app.post("/message", response_model=MessageResponse)
+def new_message(request: MessageRequest, session: Session = Depends(get_session)):
+    chat = session.get(ChatInDB, request.chat_id)
+    if chat is None:
+        raise HTTPException(status_code=404, detail="Chat not found")
+    ## save user message in db
+    user_message = MessageInDB(
+        id = uuid4(),
+        chat_id = chat.id,
+        content= request.query,
+        is_user=True,
+    )
+    session.add(user_message)
+    session.commit()
+
+    config = {"configurable": {"session_id": chat.session_id}}
     response = ""
     for output in state_graph.stream({"query": request.query}, config, stream_mode="updates"):
         for node, updates in output.items():
             print(f"Node '{node}': {updates}")
     # Supondo que o estado final contém a chave 'generation'
     response = updates['generation']
-    return QueryResponse(response=response, session_id=request.session_id)
+    ## save bot message in db
+    bot_message = MessageInDB(
+        id = uuid4(),
+        chat_id = chat.id,
+        content= response,
+        is_user=False,
+    )
+    session.add(bot_message)
+    session.commit()
+    session.refresh(bot_message)
+    return bot_message.to_response()
+
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)

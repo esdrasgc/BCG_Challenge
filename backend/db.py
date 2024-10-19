@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 # Load environment variables from .env
 load_dotenv()
 
+### CONEXÃO DAS FUNÇÕES DE CHATBOT COM O BANCO DE DADOS ####
 def connect_db():
     """
     Establish a connection to the database and return both the connection and cursor objects.
@@ -56,3 +57,28 @@ def fetch_all_data():
     
     query_sql = "SELECT * FROM semanticembeddingfast"
     return fetch_data(query_sql)
+
+##### CONEXÃO DA API COM O BANCO DE DADOS #########
+from sqlmodel import Session, SQLModel, create_engine
+from api_models import *
+
+## -------------------------- configuração do BD ----------------------------------- ##
+
+DB_USER = os.getenv("DB_USER")
+DB_PASSWORD = os.getenv("DB_PASSWORD")
+DB_HOST = os.getenv("DB_HOST")
+DB_PORT = os.getenv("DB_PORT")
+DB_NAME = os.getenv("DB_NAME")
+# HOST_GATEWAY = os.getenv("HOST_GATEWAY")
+
+# ----------------- Database ----------------- #
+
+postgres_url = f"postgresql+psycopg2://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+engine = create_engine(postgres_url, echo=True)
+
+def create_db_and_tables():
+    SQLModel.metadata.create_all(engine)
+
+def get_session():
+    with Session(engine) as session:
+        yield session
