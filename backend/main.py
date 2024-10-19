@@ -34,6 +34,20 @@ class ResponseModel(BaseModel):
 
 app = FastAPI()
 
+# Define allowed origins
+origins = [
+    "http://localhost:3000",  # React default port
+    # Add other origins if necessary
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 @app.on_event("startup")
 def on_startup():
     create_db_and_tables()
@@ -54,14 +68,11 @@ def new_chat(request: InitChatRequest, session: Session = Depends(get_session)):
     for output in state_graph.stream({"query": prompt_inicial}, config, stream_mode="updates"):
         for node, updates in output.items():
             print(f"Node '{node}': {updates}")
-    
-    # response_kpis = updates['infos']
-    ## save key indicators in db
 
     chat = ChatInDB(
-        id = uuid4(),
-        city = request.city.name, 
-        state= request.state.abbreviation,
+        id=uuid4(),
+        city=request.city.name,
+        state=request.state.abbreviation,
         session_id=session_id,
         messages=[],
         key_indicators=[]
@@ -69,7 +80,28 @@ def new_chat(request: InitChatRequest, session: Session = Depends(get_session)):
     session.add(chat)
     session.commit()
     session.refresh(chat)
-    return InitChatResponse(session_id=session_id, id=chat.id)
+
+    # Initialize key indicators (dummy data for now)
+    # Replace this with actual key indicators from your `updates`
+    key_indicators = [
+        KeyIndicatorsInDB(
+            id=uuid4(),
+            value=1.0,  # Replace with actual value
+            name="Sample KPI",
+            detail="Detail about Sample KPI",
+            chat_id=chat.id
+        )
+    ]
+    session.add_all(key_indicators)
+    session.commit()
+
+    return InitChatResponse(
+        session_id=session_id,
+        id=chat.id,
+        city=chat.city,
+        state=chat.state
+    )
+
 
 @app.get("/chat/{chat_id}", response_model=ChatResponse)
 def get_chat(chat_id: UUID, session: Session = Depends(get_session)):

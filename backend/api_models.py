@@ -15,7 +15,10 @@ class InitChatRequest(SQLModel):
 
 class InitChatResponse(SQLModel):
     id: UUID
-    session_id : UUID
+    session_id: UUID
+    city: str
+    state: str
+
 
 class ChatListingResponse(SQLModel):
     chats : list["ChatInList"]
@@ -89,7 +92,8 @@ class MessageInDB(SQLModel, table=True):
     def to_response(self):
         return MessageResponse(
             response=self.content,
-            is_user=self.is_user
+            is_user=self.is_user,
+            id=self.id
         )
 
 class MessageResponse(SQLModel):
