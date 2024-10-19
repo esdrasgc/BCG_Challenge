@@ -177,7 +177,8 @@ def generate(state, config = None):
     chat_history.add_user_message(query)
     chat_history.add_ai_message(generation)  #Ver se isso não gera repetições e se adiciona certo
     state["messages"] = messages
-    return {"context": context, "query": query, "generation": generation, "messages": messages}
+    infos = state.get("infos", " ")
+    return {"context": context, "query": query, "generation": generation, "messages": messages, "infos": infos}
 
 
 def same(state):
@@ -223,7 +224,6 @@ def city_node(state):
     Returns:
       dict: The state dictionary with the original query included.
   """
-  info = state.get("infos", '')
   query = state["query"]
   #messages = state.get("messages", " ")  Coloco isso na memória?
   structured_llm_grader = model.with_structured_output(City_name)

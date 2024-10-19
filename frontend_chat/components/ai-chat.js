@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { use, useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { ScrollArea } from "@/components/ui/scroll-area";
@@ -32,10 +32,12 @@ function Chat() {
       .then((data) => { 
         console.log(data);
         setCities(data.city);
+        
         setKey_indicators(data.key_indicators);
       });
   }, [id]);
 
+  console.log(messages);
   const toggleKpi = () => setIsKpiOpen(!isKpiOpen);
 
   const handleSendMessage = () => {
@@ -78,6 +80,12 @@ function Chat() {
     console.log("Downloading report...");
   };
 
+  const handleCleanLocalSStora = () => {
+    localStorage.removeItem("id");
+    window.location.reload();
+  };
+
+
   return (
     <div className="flex h-screen">
       {/* Main Chat Area */}
@@ -116,7 +124,19 @@ function Chat() {
             ) : (
               // Chat Messages Area
               <div className="p-4 space-y-4">
+                {
+                  cities?(
+                <div key={0} 
+                    className={`p-3 rounded-lg shadow bg-blue-100}`}>
+                    <p className="font-semibold">AI:</p>
+                    <p>Ola gestor climático da cidade de {cities}. Como posso ajuda-lo hoje?</p>
+                  </div>
+                  ):(
+                    <></>
+                  )
+                }
                 {messages.map((msg, index) => (
+
                   <div 
                     key={index} 
                     className={`p-3 rounded-lg shadow ${
@@ -167,24 +187,28 @@ function Chat() {
         {isKpiOpen && (
           <div className="p-6">
             <div className="flex justify-between items-center mb-6">
-              <h1 className="text-4xl font-semibold">{cities}</h1>
+              <h1 className="text-3xl font-semibold">{cities}</h1>
               <Button variant="ghost" size="icon" onClick={toggleKpi}>
                 <X className="h-5 w-5" />
               </Button>
             </div>
+            <div>
+              <Button variant="outline" size="lg" className="w-full mb-4" onClick={handleCleanLocalSStora}>Alterar Município</Button>
+              {/* <button onClick={handleCleanLocalSStora} className="" >Mudar cidade</button> */}
+            </div>
             <div className="pb-6 border-b border-gray-200">
-              <h2 className="text-xl font-bold tracking-wide text-gray-600">KPIs & Artefatos</h2>
+              <h2 className="text-xl font-bold tracking-wide text-gray-600">Principais Indicadores</h2>
             </div>
             <div className="space-y-6 pt-6">
               {/* KPI Cards */}
               {key_indicators.map((item, index) => (
                 <div key={index} className="bg-gray-100 p-5 rounded-lg shadow-sm">
-                  <h3 className="font-semibold text-lg text-gray-500 mb-1">{index + 1} Índice</h3>
-                  <p className="text-xl font-extrabold text-gray-900">{item.content}</p>
+                  <h3 className="font-semibold text-m text-gray-500 mb-1">{index + 1} Índice</h3>
+                  <p className="text-l font-extrabold text-gray-900">{item.content}</p>
                 </div>
               ))}
               {/* Download Button */}
-              <Button 
+              {/* <Button 
                 variant="outline" 
                 size="lg" 
                 className="w-full flex items-center justify-center mt-4"
@@ -192,7 +216,7 @@ function Chat() {
               >
                 <Download className="h-5 w-5 mr-2" />
                 Baixar Relatório Completo
-              </Button>
+              </Button> */}
             </div>
           </div>
         )}

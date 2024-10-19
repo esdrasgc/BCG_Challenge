@@ -12,6 +12,8 @@ from sqlmodel import Session, select
 import os
 import graph
 from api_models import *
+import re
+import memory
 
 load_dotenv()
 
@@ -21,7 +23,6 @@ client = openai.OpenAI(api_key=openai_api_key)
 embeddings = OpenAIEmbeddings(model='text-embedding-ada-002')
 
 app = FastAPI()
-app_graph = graph.graph_init()
 
 # Modelos de requisição e resposta
 class QueryRequest(BaseModel):
@@ -51,8 +52,20 @@ app.add_middleware(
 @app.on_event("startup")
 def on_startup():
     create_db_and_tables()
-# Inicializar o grafo de estado
-state_graph = graph.graph_init()
+
+
+class StateGraph:
+    state_graph = None
+
+    @classmethod
+    def init_state_graph(cls):
+        memory.chat_history.clear()
+        cls.state_graph = None
+        cls.state_graph = graph.graph_init()
+
+    @classmethod
+    def get_state_graph(cls):
+        return cls.state_graph
 
 @app.get("/chat", response_model=ChatListingResponse)
 def list_chats(session: Session = Depends(get_session)):
@@ -61,6 +74,8 @@ def list_chats(session: Session = Depends(get_session)):
 
 @app.post("/chat", response_model=InitChatResponse)
 def new_chat(request: InitChatRequest, session: Session = Depends(get_session)):
+    StateGraph.init_state_graph()
+    state_graph = StateGraph.get_state_graph()
     session_id = uuid4()
     config = {"configurable": {"session_id": session_id}}
     response = ""
@@ -81,20 +96,22 @@ def new_chat(request: InitChatRequest, session: Session = Depends(get_session)):
     session.commit()
     session.refresh(chat)
 
-    # key_indicators = updates['infos']
-    # print("\n\n\n\n\n\n------------------------------ Key Indicators ------------------------------")
-    # print(key_indicators)
-    # print("---------------------------------------------------------------------------\n\n\n\n\n\n")
+    key_indicators_raw = updates['infos']
+
+    ## get the strings between "-" and "." on key_indicators as list
+    pattern = re.escape('-') + '(.*?)' + re.escape('\n')
+    key_indicators = re.findall(pattern, key_indicators_raw)
+
     # Initialize key indicators (dummy data for now)
     # Replace this with actual key indicators from your `updates`
-    key_indicators = [
-        KeyIndicatorsInDB(
-            id=uuid4(),
-            content="Key Indicator 1",
-            chat_id=chat.id
-        )
-    ]
-    session.add_all(key_indicators)
+    for key_indicator in key_indicators:
+        print(key_indicator)
+        key_indicator_in_db = KeyIndicatorsInDB(
+                id=uuid4(),
+                content=key_indicator.replace(".", ""),
+                chat_id=chat.id
+            )
+        session.add(key_indicator_in_db)
     session.commit()
 
     return InitChatResponse(
@@ -126,6 +143,8 @@ def new_message(request: MessageRequest, session: Session = Depends(get_session)
     )
     session.add(user_message)
     session.commit()
+
+    state_graph = StateGraph.get_state_graph()
 
     config = {"configurable": {"session_id": chat.session_id}}
     response = ""

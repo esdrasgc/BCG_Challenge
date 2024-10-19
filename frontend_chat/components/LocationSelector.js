@@ -10,6 +10,7 @@ export default function LocationSelector() {
   const [cities, setCities] = useState([]);
   const [selectedCity, setSelectedCity] = useState(null);
   const [loadingCities, setLoadingCities] = useState(false);
+  const [loading, setLoading] = useState(false);
 
   useEffect(() => {
     // Fetch states from the IBGE API and map to simplified types
@@ -59,7 +60,9 @@ export default function LocationSelector() {
   }, [selectedState]);
 
   const handleSubmit = () => {
+
     if (selectedState && selectedCity) {
+      setLoading(true);
       fetch("http://localhost:8000/chat", {
         method: "POST",
         headers: {
@@ -69,9 +72,10 @@ export default function LocationSelector() {
       })
       .then((response) => response.json())
       .then((response) => {
-        
+
         if (response.id) {
           localStorage.setItem("id", response.id);
+          setLoading(false);
           window.location.reload();
         } else {
           console.error("Error starting chat:", response.statusText);
@@ -84,13 +88,14 @@ export default function LocationSelector() {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-gray-50 p-4">
       <div className="w-full max-w-md bg-white p-6 rounded-lg shadow-md">
-        <h2 className="text-2xl font-semibold mb-4">Start Chat</h2>
+        <h2 className="text-xl font-semibold mb-4 text-gray-900">Bem vindo ao assistente climático!</h2>
+        <h2 className="text-l font-semibold mb-4 text-gray-600">Para iniciar, por favor, selecione a UF e Município</h2>
         <Autocomplete
           options={states}
           getOptionLabel={(option) => `${option.name} (${option.abbreviation})`}
           value={selectedState}
           onChange={(event, newValue) => setSelectedState(newValue)}
-          renderInput={(params) => <TextField {...params} label="Select State" variant="outlined" />}
+          renderInput={(params) => <TextField {...params} label="Selecione o estado" variant="outlined" />}
           className="mb-4"
         />
         <Autocomplete
@@ -101,7 +106,7 @@ export default function LocationSelector() {
           renderInput={(params) => (
             <TextField
               {...params}
-              label="Select City"
+              label="Selecione o município"
               variant="outlined"
               InputProps={{
                 ...params.InputProps,
@@ -124,7 +129,15 @@ export default function LocationSelector() {
           onClick={handleSubmit}
           disabled={!selectedState || !selectedCity}
         >
-          Start Chat
+
+          {
+            loading ? (
+              <CircularProgress color="inherit" size={20}  />
+            ) : (
+              "Start Chat"
+            )
+          }
+    
         </Button>
       </div>
     </div>
