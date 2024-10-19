@@ -29,6 +29,7 @@ class GraphState(TypedDict):
     context: List[str]
     messages: List[str]
     count: int
+    infos: str
 
 def graph_init():
     """

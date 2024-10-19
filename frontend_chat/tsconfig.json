@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/ai-chat.js", "components/LocationSelector.js", "components/ui/scroll-area.js", "app/page.js"],
   "exclude": ["node_modules"]
 }

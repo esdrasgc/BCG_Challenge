@@ -81,14 +81,16 @@ def new_chat(request: InitChatRequest, session: Session = Depends(get_session)):
     session.commit()
     session.refresh(chat)
 
+    # key_indicators = updates['infos']
+    # print("\n\n\n\n\n\n------------------------------ Key Indicators ------------------------------")
+    # print(key_indicators)
+    # print("---------------------------------------------------------------------------\n\n\n\n\n\n")
     # Initialize key indicators (dummy data for now)
     # Replace this with actual key indicators from your `updates`
     key_indicators = [
         KeyIndicatorsInDB(
             id=uuid4(),
-            value=1.0,  # Replace with actual value
-            name="Sample KPI",
-            detail="Detail about Sample KPI",
+            content="Key Indicator 1",
             chat_id=chat.id
         )
     ]

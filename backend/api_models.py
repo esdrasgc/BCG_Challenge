@@ -33,6 +33,7 @@ class ChatRequest(SQLModel):
 
 class ChatResponse(SQLModel):
     id: UUID
+    city: str
     messages : list["MessageResponse"]
     key_indicators : list["KeyIndicatorsResponse"]
 
@@ -47,6 +48,7 @@ class ChatInDB(SQLModel, table = True):
     def to_response(self):
         return ChatResponse(
             id=self.id,
+            city=self.city,
             messages=[message.to_response() for message in self.messages],
             key_indicators=[key_indicator.to_response() for key_indicator in self.key_indicators]
         )
@@ -60,23 +62,17 @@ class ChatInDB(SQLModel, table = True):
 
 class KeyIndicatorsInDB(SQLModel, table=True):
     id: UUID = Field(primary_key=True)
-    value: float
-    name: str
-    detail: str
+    content: str
     chat_id: UUID = Field(foreign_key="chatindb.id", ondelete="CASCADE")
     chat: "ChatInDB" = Relationship(back_populates="key_indicators")
 
     def to_response(self):
         return KeyIndicatorsResponse(
-            value=self.value,
-            name=self.name,
-            detail=self.detail
+            content=self.content
        )
 
 class KeyIndicatorsResponse(SQLModel):
-    value: float
-    name: str
-    detail: str
+    content: str
 
 class MessageRequest(SQLModel):
     chat_id: UUID
