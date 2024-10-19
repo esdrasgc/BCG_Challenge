@@ -13,12 +13,5 @@ services:
       - pgdata:/var/lib/postgresql/data
       - ./init-db:/docker-entrypoint-initdb.d
 
-
-  adminer:
-    container_name: adminer_vector
-    image: adminer:latest
-    ports:
-      - 8089:8080
-
 volumes:
   pgdata:
