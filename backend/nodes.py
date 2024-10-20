@@ -35,9 +35,14 @@ def search_tool(query:str):
     Returns:
         The result of the web search.
     """
-
     web_search_tool = DuckDuckGoSearchRun()
-    return web_search_tool.invoke(query)
+    try:
+        # Try performing the search
+        return web_search_tool.invoke(query)
+    
+    except Exception as e:
+        # Handle any exception by returning an empty string
+        return " " 
 
 
 def query_rewriter(query:str):
