@@ -4,21 +4,20 @@ services:
     container_name: postgres_vector
     restart: always
     environment:
-      POSTGRES_USER: usuario
-      POSTGRES_PASSWORD: senha
-      POSTGRES_DB: vector_db
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
     ports:
       - "5432:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
       - ./init-db:/docker-entrypoint-initdb.d
+    networks:
+      - chat-network
 
-
-  adminer:
-    container_name: adminer_vector
-    image: adminer:latest
-    ports:
-      - 8089:8080
+networks:
+  chat-network:
+    external: true
 
 volumes:
   pgdata:

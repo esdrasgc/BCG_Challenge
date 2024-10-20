@@ -4,6 +4,7 @@ from psycopg2.extras import execute_values
 import pandas as pd
 from dotenv import load_dotenv
 import logging
+from pathlib import Path
 
 # Configuração do logger
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -54,7 +55,8 @@ def inserir_dados(conn, csv_file):
 
 def main():
     # Caminho da pasta onde os arquivos embedados estão
-    embedded_files_dir = 'embedded_files'
+
+    embedded_files_dir = Path(__file__).parent / 'embedded_files'
     
     # Conectar ao banco de dados
     try:
@@ -72,14 +74,18 @@ def main():
     # Criar a tabela, se necessário
     criar_tabela(conn)
     
+
+
+    embedded_files_dir = Path(embedded_files_dir)
+
     # Processar todos os arquivos CSV da pasta 'embedded_files'
-    for csv_file in os.listdir(embedded_files_dir):
-        if csv_file.endswith('.csv'):
-            csv_path = os.path.join(embedded_files_dir, csv_file)
+    for csv_file in embedded_files_dir.iterdir():
+        if csv_file.suffix == '.csv':
             try:
-                inserir_dados(conn, csv_path)
+                inserir_dados(conn, csv_file)
             except Exception as e:
-                logger.error(f"Erro ao inserir dados do arquivo {csv_file}: {e}")
+                logger.error(f"Erro ao inserir dados do arquivo {csv_file.name}: {e}")
+
     
     # Fechar a conexão com o banco de dados
     conn.close()

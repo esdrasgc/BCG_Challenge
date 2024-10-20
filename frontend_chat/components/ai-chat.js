@@ -1,6 +1,6 @@
 "use client";
 
-import { use, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { ScrollArea } from "@/components/ui/scroll-area";
@@ -11,8 +11,7 @@ import {
   BarChart, 
   FileText, 
   Type, 
-  Languages, 
-  Download 
+  Languages
 } from "lucide-react";
 
 function Chat() {
@@ -75,10 +74,10 @@ function Chat() {
       });
   };
 
-  const handleDownloadReport = () => {
-    // Logic to download the report
-    console.log("Downloading report...");
-  };
+  // const handleDownloadReport = () => {
+  //   // Logic to download the report
+  //   console.log("Downloading report...");
+  // };
 
   const handleCleanLocalSStora = () => {
     localStorage.removeItem("id");

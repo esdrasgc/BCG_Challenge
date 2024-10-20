@@ -41,7 +41,7 @@ def main():
     start_time = time.time()
     
     # Define the path to the bronze folder
-    bronze_folder = r'..\..\..\data\bronze'
+    bronze_folder = r'..\..\data\bronze'
     
     # Initialize the SemanticChunker
     chunker = SemanticChunker(threshold=0.75, batch_size=5)
