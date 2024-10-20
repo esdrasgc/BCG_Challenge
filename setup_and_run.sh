@@ -1,2 +1,2 @@
-./setup
-./run
+./setup.sh
+./run.sh

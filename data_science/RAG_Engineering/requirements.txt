@@ -1,0 +1,14 @@
+backports.tarfile
+importlib-metadata
+importlib-resources
+jaraco.collections
+openai
+pandas
+pip-chill
+platformdirs
+psycopg2-binary
+python-dotenv
+scikit-learn
+tomli
+torch
+transformers

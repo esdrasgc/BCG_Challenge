@@ -1,6 +1,4 @@
-cd ..
-
-cd vector_db
+cd vector_db/
 
 docker-compose up -d
 

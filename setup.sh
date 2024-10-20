@@ -8,7 +8,7 @@ cd vector_db
 
 docker compose down
 
-docker compose up -d
+docker-compose up -d 
 
 cd ..
 
