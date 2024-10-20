@@ -134,24 +134,28 @@ function Chat() {
                     <></>
                   )
                 }
-                {messages.map((msg, index) => (
+               {messages.map((msg, index) => (
+                    <div
+                      key={index}
+                      className={`p-3 rounded-lg shadow ${
+                        msg.sender === "AI" ? "bg-white" : "bg-blue-100"
+                      }`}
+                    >
+                      <p className="font-semibold">{msg.sender}:</p>
+                      {msg.sender === "AI" ? (
+                        <div dangerouslySetInnerHTML={{ __html: msg.text }} />
+                      ) : (
+                        <p>{msg.text}</p>
+                      )}
+                    </div>
+                  ))}
+                  {digitando && (
+                    <div className="p-3 bg-white rounded-lg shadow">
+                      <p className="font-semibold">AI:</p>
+                      <p>Digitando...</p>
+                    </div>
+                  )}
 
-                  <div 
-                    key={index} 
-                    className={`p-3 rounded-lg shadow ${
-                      msg.sender === "AI" ? "bg-white" : "bg-blue-100"
-                    }`}
-                  >
-                    <p className="font-semibold">{msg.sender}:</p>
-                    <p>{msg.text}</p>
-                  </div>
-                ))}
-                {digitando && (
-                  <div className="p-3 bg-white rounded-lg shadow">
-                    <p className="font-semibold">AI:</p>
-                    <p>Digitando...</p>
-                  </div>
-                )}
               </div>
             )}
           </ScrollArea>
@@ -196,7 +200,7 @@ function Chat() {
               {/* <button onClick={handleCleanLocalSStora} className="" >Mudar cidade</button> */}
             </div>
             <div className="pb-6 border-b border-gray-200">
-              <h2 className="text-xl font-bold tracking-wide text-gray-600">Principais Indicadores</h2>
+              <h2 className="text-xl font-bold tracking-wide text-gray-600">Desafios climáticos</h2>
             </div>
             <div className="space-y-6 pt-6">
               {/* KPI Cards */}

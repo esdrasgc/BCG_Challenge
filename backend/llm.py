@@ -66,7 +66,7 @@ def call_llm(query: str, model = None, k:int = 4, context = None, memory = None)
   # Define a system prompt that guides the assistant to help a city planner with climate change-related planning
   system_prompt = (
           '''You are a helpful assistant, who will help a city planner on the theme of climate planning, who responds always in portuguese.
-          Do not make a too long responses, just do long responses when the user asks for something like a summary of the conversation or like a final report. Avoid using numerical bullet points every time in normal prompts.
+          Do not make a too long responses, just do long responses when the user asks for something like a summary of the conversation or like a final report. Avoid using numerical bullet points every time in normal prompts. The response should be a html string to render in the frontend.
           Here is the chat memory, if it exists, use it:\n {memory}.
           if in the history of the chat the user told you the name of his city, always keep this in mind for all the other responses.
           You will have official documents as context, use them to answer with quality and good foundation. \n

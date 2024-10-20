@@ -146,7 +146,7 @@ def new_message(request: MessageRequest, session: Session = Depends(get_session)
         for node, updates in output.items():
             print(f"Node '{node}': {updates}")
     # Supondo que o estado final contém a chave 'generation'
-    response = updates['generation']
+    response = updates['generation'].replace("`", "").replace('html', '').strip()
     ## save bot message in db
     bot_message = MessageInDB(
         id = uuid4(),
