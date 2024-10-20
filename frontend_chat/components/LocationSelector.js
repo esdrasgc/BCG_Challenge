@@ -60,7 +60,6 @@ export default function LocationSelector() {
   }, [selectedState]);
 
   const handleSubmit = () => {
-
     if (selectedState && selectedCity) {
       setLoading(true);
       fetch("http://localhost:8000/chat", {
@@ -72,7 +71,6 @@ export default function LocationSelector() {
       })
       .then((response) => response.json())
       .then((response) => {
-
         if (response.id) {
           localStorage.setItem("id", response.id);
           setLoading(false);
@@ -81,10 +79,13 @@ export default function LocationSelector() {
           console.error("Error starting chat:", response.statusText);
         }
       })
-      ({ state: selectedState, city: selectedCity });
+      .catch((error) => {
+        console.error("Error with fetch:", error);
+        setLoading(false);  // Make sure to handle loading state even on error
+      });
     }
   };
-
+  
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-gray-50 p-4">
       <div className="w-full max-w-md bg-white p-6 rounded-lg shadow-md">

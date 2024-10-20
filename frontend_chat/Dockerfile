@@ -1,6 +1,6 @@
 # frontend_chat/Dockerfile
 
-# Stage 1: Build the React app
+# Stage 1: Build the Next.js app
 FROM node:18-alpine AS build
 
 # Set working directory
@@ -15,20 +15,29 @@ RUN npm install
 # Copy the rest of the frontend code
 COPY . .
 
-# Build the React app
+# Build the Next.js app
 RUN npm run build
 
-# Stage 2: Serve the React app with Nginx
-FROM nginx:stable-alpine
+# (Optional) Export the app as a static site
+# Uncomment the next line if you want to use static export
+# RUN npm run export
 
-# Copy the build output to Nginx's html directory
-COPY --from=build /app/build /usr/share/nginx/html
+# Stage 2: Serve the Next.js app
+# If using server-side rendering
+# FROM node:18-alpine AS production
 
-# Copy custom Nginx configuration if needed
-# COPY nginx.conf /etc/nginx/nginx.conf
+# WORKDIR /app
 
-# Expose port 80
-EXPOSE 80
+# # Copy only necessary files from build stage
+# COPY --from=build /app/package*.json ./
+# COPY --from=build /app/.next ./.next
+# COPY --from=build /app/public ./public
 
-# Start Nginx
-CMD ["nginx", "-g", "daemon off;"]
+# # Install only production dependencies
+# RUN npm install --production
+
+# Expose the port Next.js runs on
+EXPOSE 3000
+
+# Start the Next.js server
+CMD ["npm", "start"]

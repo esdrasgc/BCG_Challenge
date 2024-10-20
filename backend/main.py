@@ -35,15 +35,9 @@ class ResponseModel(BaseModel):
 
 app = FastAPI()
 
-# Define allowed origins
-origins = [
-    "http://localhost:3000",  # React default port
-    # Add other origins if necessary
-]
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
+    allow_origins=['*'],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

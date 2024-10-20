@@ -2,6 +2,8 @@
 
 ./setup_python.sh
 
+docker network create chat-network
+
 cd vector_db
 
 docker compose down
