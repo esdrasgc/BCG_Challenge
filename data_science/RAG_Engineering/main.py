@@ -7,7 +7,7 @@ from openai_utils import generate_embeddings
 from db_utils import connect_to_db, criar_tabela, insert_data
 
 
-# Configurando o logger
+# Setting up the logger
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 logging.getLogger("openai").setLevel(logging.WARNING)
