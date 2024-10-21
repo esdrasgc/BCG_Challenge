@@ -6,21 +6,21 @@ from dotenv import load_dotenv
 import logging
 from pathlib import Path
 
-# Configuração do logger
+# Setting up the logger
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-# Carregar as variáveis de ambiente do arquivo .env
+# Load environment variables from the .env file
 load_dotenv()
 
-# Configurações do banco de dados
+# Database configuration
 DB_HOST = os.getenv('DB_HOST')
 DB_PORT = os.getenv('DB_PORT')
 DB_NAME = os.getenv('DB_NAME')
 DB_USER = os.getenv('DB_USER')
 DB_PASSWORD = os.getenv('DB_PASSWORD')
 
-# Função para criar a tabela se ela ainda não existir
+# Function to create the table if it does not already exist
 def criar_tabela(conn):
     with conn.cursor() as cur:
         cur.execute("""
@@ -34,18 +34,18 @@ def criar_tabela(conn):
         conn.commit()
     logger.info("Tabela 'semanticEmbeddingFast' criada ou já existente.")
 
-# Função para carregar e inserir dados no banco de dados
+# Function to load and insert data into the database
 def inserir_dados(conn, csv_file):
-    # Carregar o CSV, ignorando o índice
+    # Load the CSV, ignoring the index
     df = pd.read_csv(csv_file, sep=';', index_col=0)
     
-    # Obter o nome do arquivo sem extensão para usar na coluna 'document'
+    # Get the file name without extension to use in the 'document' column
     document_name = os.path.splitext(os.path.basename(csv_file))[0]
 
-    # Preparar os dados para inserção
+    # Prepare the data for insertion
     ingestion_data = [(document_name, row['content'], row['embedding']) for _, row in df.iterrows()]
     
-    # Inserir os dados no banco
+    # Insert the data into the database
     insert_command = "INSERT INTO semanticEmbeddingFast (document, content, embedding) VALUES %s"
     
     with conn.cursor() as cur:
@@ -54,11 +54,10 @@ def inserir_dados(conn, csv_file):
     logger.info(f"Dados do arquivo {csv_file} inseridos com sucesso.")
 
 def main():
-    # Caminho da pasta onde os arquivos embedados estão
-
+    # Path to the folder where the embedded files are located
     embedded_files_dir = Path(__file__).parent / 'embedded_files'
     
-    # Conectar ao banco de dados
+    # Connect to the database
     try:
         conn = psycopg2.connect(
             host=DB_HOST,
@@ -71,14 +70,14 @@ def main():
         logger.error(f"Erro ao conectar ao banco de dados: {e}")
         return
     
-    # Criar a tabela, se necessário
+    # Create the table if necessary
     criar_tabela(conn)
     
 
 
     embedded_files_dir = Path(embedded_files_dir)
 
-    # Processar todos os arquivos CSV da pasta 'embedded_files'
+    # Process all CSV files in the 'embedded_files' folder
     for csv_file in embedded_files_dir.iterdir():
         if csv_file.suffix == '.csv':
             try:
@@ -87,7 +86,7 @@ def main():
                 logger.error(f"Erro ao inserir dados do arquivo {csv_file.name}: {e}")
 
     
-    # Fechar a conexão com o banco de dados
+    # Close the connection to the database
     conn.close()
     logger.info("Conexão com o banco de dados fechada.")
 
