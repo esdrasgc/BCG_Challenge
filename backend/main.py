@@ -93,7 +93,7 @@ def new_chat(request: InitChatRequest, session: Session = Depends(get_session)):
     key_indicators_raw = updates['infos']
 
     ## get the strings between "-" and "." on key_indicators as list
-    pattern = re.escape('-') + '(.*?)' + re.escape('\n')
+    pattern = re.escape('- ') + '(.*?)' + re.escape('\n')
     key_indicators = re.findall(pattern, key_indicators_raw)
 
     # Initialize key indicators (dummy data for now)
