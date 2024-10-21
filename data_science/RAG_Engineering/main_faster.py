@@ -14,11 +14,11 @@ logger = logging.getLogger(__name__)
 load_dotenv()
 
 # Configurações do banco de dados
-DB_HOST = os.getenv('DB_HOST', 'localhost')
-DB_PORT = os.getenv('DB_PORT', '5432')
-DB_NAME = os.getenv('DB_NAME', 'vector_db')
-DB_USER = os.getenv('DB_USER', 'usuario')
-DB_PASSWORD = os.getenv('DB_PASSWORD', 'senha')
+DB_HOST = os.getenv('DB_HOST')
+DB_PORT = os.getenv('DB_PORT')
+DB_NAME = os.getenv('DB_NAME')
+DB_USER = os.getenv('DB_USER')
+DB_PASSWORD = os.getenv('DB_PASSWORD')
 
 # Função para criar a tabela se ela ainda não existir
 def criar_tabela(conn):
