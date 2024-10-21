@@ -4,7 +4,7 @@
 
 docker network create chat-network
 
-cd vector_db
+cd vector_db/
 
 docker compose down
 

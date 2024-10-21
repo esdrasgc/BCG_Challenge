@@ -1,4 +1,8 @@
-# Project Setup Instructions
+# Climate advisor assistant
+
+The climate advisor project is a chatbot using Retrieval-Augmented Generation (RAG) techniques to assist municipal managers in creating climate adaptation plans.
+
+## Setup and run the Chatbot
 
 ### Prerequisites
 
@@ -15,7 +19,7 @@ For the setup of the enviroment, you can run the command:
 ./setup.sh
 ```
 It will guide you to creating the .env file (if there is none), installing python (if it's not present), and then creating an enviroment to install all the libs.  
-Then it creates an docker netowrk named "chat_network", initiates the postgresql container and ingest the data from the documents, saved in the "data_science\RAG_Engineering\embedded_files" folder. 
+Then it creates an docker network named "chat-network", initiates the postgresql container and ingest the data from the documents, saved in the "data_science\RAG_Engineering\embedded_files" folder. 
 
 ### Running the chatbot:
 
@@ -33,19 +37,76 @@ If you want to run a command and come back only when it's ready, you can run the
 ```
 It calls both of the scripts described before. 
 
-### Setting Up the Vector Database
-1. Navigate to the `vector_db` folder:
-   ```bash
-   cd vector_db
-    ```
-2.Run the following command to start the vector database in detached mode:
+## Project breakdown
+
+### Vector_db
+
+In the vector-db dir is a simple postgresql database with the vector extension added to it. To run it, you should create a docker network named "chat-network" and then run the docker container. Use the commands:
+
+```bash
+docker network create chat-network
+cd vector_db/
+docker-compose up -d 
+```
+
+### Preprocessing data
+
+In this dir there is two scripts to get the raw data from the pdfs from the "data/raw" and make some simple text extractation and cleaning, and saves them to the "data/bronze" dir. To use them you can run the scripts:
+
+```bash
+python preprocessing_data/raw_to_pre_processed.py
+python preprocessing_data/pre_processed_to_bronze.py
+```
+
+
+### Data science
+
+This dir contains the logic to tokenize the text, separate it in chunks and save it on DB (RAG_Engineering) and a CLI implementation on the RAG assistant (Chatbot), using graph for decisions and openai for generating the response. 
+
+
+
+### Backend
+
+The backend is a fastapi app, using SQLmodel to save the messages and interactions with the chat. The dir contains the main.py and api_models.py files, to implement the API, and a copy from the files of chatbot cli implementation, with some adaptations to make it work as an API.  
+To run it, you can use: 
+
+docker:
 ```bash
 docker compose up -d
 ```
-This will initialize the Vector DB using Docker.
 
-### Creating the Tables
-To create the required tables in the database, run the Python script located at data_science/src/RAG_engeneering/main.py:
+or running the app directly (ensure the database is available):
 ```bash
-python data_science/src/RAG_engeneering/main.py
+cd backend/
+python main.py
 ```
+
+### Frontend
+
+The frontend is a next application with a simple UI. It has two pages:
+1. Location Selection: It displays a select box to all the states and cities from Brazil
+2. Chatbot: The chatbot page with some Key Challenges of the city  
+
+You can run it using:  
+
+docker:
+```bash
+docker compose up -d
+```
+
+or npm:
+
+To run it in the development mode:
+```bash
+npm run dev
+```
+
+To run it in production mode:
+```bash
+npm run build
+npm run start
+```
+Obs.: you will need to have node and npm installed to run these commands. It's not a prerequisite of the project because you can run it using docker.
+
+
+
