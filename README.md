@@ -12,6 +12,8 @@ Ensure you have the following programs installed:
 - Pip
 - Bash
 
+Obs.: make sure that all the scripts in the root dir are enabled to execution
+
 ### Setup for chatbot utilization:
 
 For the setup of the enviroment, you can run the command:
@@ -36,6 +38,8 @@ If you want to run a command and come back only when it's ready, you can run the
 ./setup_and_run.sh
 ```
 It calls both of the scripts described before. 
+
+
 
 ## Project breakdown
 
