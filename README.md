@@ -61,8 +61,27 @@ python preprocessing_data/pre_processed_to_bronze.py
 
 ### Data science
 
-This dir contains the logic to tokenize the text, separate it in chunks and save it on DB (RAG_Engineering) and a CLI implementation on the RAG assistant (Chatbot), using graph for decisions and openai for generating the response. 
+This dir contains the logic to tokenize the text, separate it in chunks and save it on DB (RAG_Engineering) and a CLI implementation on the RAG assistant (Chatbot), using graph for decisions and openai for generating the response.
 
+#### Rag Engineering
+
+Here the txt files are transformed in embbedings, using a Semantic chunker to make sure the context is maintained, and saved into the embedded_files dir, then ingest to the database. To use this you can run the command:
+```bash
+python data_science/RAG_Engineering/main.py
+```
+
+Since the data is already in the embedded_files dir, you can use the command below to ingest the data into the database.
+```bash
+python data_science/RAG_Engineering/main_faster.py
+```
+
+#### Chatbot
+
+It's the CLI implementation of the assistant, mainly used for developing and testing. To use the CLI chat you may run the commands:
+```bash
+cd data_science/Chatbot/modules
+python main.py
+```
 
 
 ### Backend
