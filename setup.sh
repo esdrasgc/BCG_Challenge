@@ -1,6 +1,7 @@
 ./setup_env.sh
 
 cp .env ./vector_db/
+cp .env ./backend/
 
 ./setup_python.sh
 
@@ -14,7 +15,7 @@ docker-compose up -d
 
 cd ..
 
-source /venv/bin/activate
+source ./venv/bin/activate
 
 python ./data_science/RAG_Engineering/main_faster.py
 
