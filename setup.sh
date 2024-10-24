@@ -18,3 +18,7 @@ source /venv/bin/activate
 
 python ./data_science/RAG_Engineering/main_faster.py
 
+cd vector_db/
+
+docker-compose down
+
