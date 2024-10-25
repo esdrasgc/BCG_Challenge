@@ -62,7 +62,7 @@ def main():
     n_failures = 0
     # Connect to the database
     while trying_connection:
-        if n_failures >= 3:
+        if n_failures >= 12:
             logger.error("Número máximo de tentativas de conexão excedido.")
             trying_connection = False
             return
