@@ -13,6 +13,10 @@ Ensure you have the following programs installed:
 - Bash
 
 Obs.: make sure that all the scripts in the root dir are enabled to execution
+You can do this by running:
+```bash
+chmod 777 *.sh 
+```
 
 ### Setup for chatbot utilization:
 
@@ -22,6 +26,16 @@ For the setup of the enviroment, you can run the command:
 ```
 It will guide you to creating the .env file (if there is none), installing python (if it's not present), and then creating an enviroment to install all the libs.  
 Then it creates an docker network named "chat-network", initiates the postgresql container and ingest the data from the documents, saved in the "data_science\RAG_Engineering\embedded_files" folder. 
+
+Obs.: The Script will create a postgresql database using the enviromnent variables:
+```env
+DB_HOST
+DB_USER
+DB_PASSWORD
+DB_PORT
+DB_NAME
+```
+So the script makes sure to clean the env variables (with the unset_env_vars script) in you local machine to evict conflict of previous data affecting the container creation and connection. 
 
 ### Running the chatbot:
 
