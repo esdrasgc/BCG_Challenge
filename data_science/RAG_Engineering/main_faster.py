@@ -64,6 +64,7 @@ def main():
     while trying_connection:
         if n_failures >= 3:
             logger.error("Número máximo de tentativas de conexão excedido.")
+            trying_connection = False
             return
         try:
             conn = psycopg2.connect(
@@ -73,10 +74,12 @@ def main():
                 user=DB_USER,
                 password=DB_PASSWORD
             )
+            trying_connection = False
         except Exception as e:
-            # logger.error(f"Erro ao conectar ao banco de dados: {e}")
+            logger.error(f"Erro ao conectar ao banco de dados: {e}. Tentando novamente em 2 segundos.")
             time.sleep(2)
             n_failures += 1
+            trying_connection = True
             
     
     # Create the table if necessary
