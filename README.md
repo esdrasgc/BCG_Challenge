@@ -29,7 +29,7 @@ To run the chatbot, you can use the command:
 ```bash
 ./run.sh
 ```
-In the fisrt time, it will build the backend and frontend aplications to a docker image. When the script is completed, the [localhost](http://localhost) should display the frontend of the chatbot implementation. Please wait like for a minute before click the button "start chat", after this little time the bot will be ready to use. 
+In the fisrt time, it will build the backend and frontend aplications to a docker image. When the script is completed, the [localhost](http://localhost) should display the frontend of the chatbot implementation. Please wait about a minute before clicking the 'start chat' button. After this short time, the bot will be ready to use. 
 
 ### Setup and run:
 
