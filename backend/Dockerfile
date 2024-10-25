@@ -26,5 +26,5 @@ RUN chmod +x /wait-for-it.sh
 # Expose the port FastAPI runs on
 EXPOSE 8000
 
-# Command to run the FastAPI app, waiting for the database first
-CMD ["./wait-for-it.sh", "db:5432", "--", "uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Command to run the FastAPI app with Uvicorn
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]

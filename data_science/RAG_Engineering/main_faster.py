@@ -5,6 +5,7 @@ import pandas as pd
 from dotenv import load_dotenv
 import logging
 from pathlib import Path
+import time
 
 # Setting up the logger
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -57,18 +58,26 @@ def main():
     # Path to the folder where the embedded files are located
     embedded_files_dir = Path(__file__).parent / 'embedded_files'
     
+    trying_connection = True
+    n_failures = 0
     # Connect to the database
-    try:
-        conn = psycopg2.connect(
-            host=DB_HOST,
-            port=DB_PORT,
-            dbname=DB_NAME,
-            user=DB_USER,
-            password=DB_PASSWORD
-        )
-    except Exception as e:
-        logger.error(f"Erro ao conectar ao banco de dados: {e}")
-        return
+    while trying_connection:
+        if n_failures >= 3:
+            logger.error("Número máximo de tentativas de conexão excedido.")
+            return
+        try:
+            conn = psycopg2.connect(
+                host=DB_HOST,
+                port=DB_PORT,
+                dbname=DB_NAME,
+                user=DB_USER,
+                password=DB_PASSWORD
+            )
+        except Exception as e:
+            # logger.error(f"Erro ao conectar ao banco de dados: {e}")
+            time.sleep(2)
+            n_failures += 1
+            
     
     # Create the table if necessary
     criar_tabela(conn)

@@ -16,6 +16,7 @@ services:
       - ./backend:/app
     networks:
       - chat-network
+    restart: always
 
   frontend:
     build:
@@ -28,6 +29,7 @@ services:
       - backend
     networks:
       - chat-network
+    restart: always
 
 networks:
   chat-network:
