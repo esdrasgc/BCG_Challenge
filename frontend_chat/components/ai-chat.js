@@ -1,52 +1,45 @@
-"use client";
+'use client'
 
-import { useEffect, useState } from "react";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { ScrollArea } from "@/components/ui/scroll-area";
-import { 
-  MessageSquare, 
-  BarChart2, 
-  X, 
-  BarChart, 
-  FileText, 
-  Type, 
-  Languages
-} from "lucide-react";
+import { useEffect, useState } from 'react'
+import { Button } from "@/components/ui/button"
+import { Input } from "@/components/ui/input"
+import { ScrollArea } from "@/components/ui/scroll-area"
+import { MessageSquare, BarChart2, X, BarChart, FileText, Type, Languages, Leaf } from "lucide-react"
 
-function Chat() {
-  const [isKpiOpen, setIsKpiOpen] = useState(false);
-  const [hasChatStarted, setHasChatStarted] = useState(true);
-  const [digitando, setDigitando] = useState(false); // 'digitando' means 'typing' in Portuguese
-  const [id, setId] = useState(localStorage.getItem("id"));
-  const [cities, setCities] = useState([]);
-  const [key_indicators, setKey_indicators] = useState([]);
-  const [prompt, setPrompt] = useState("");
-  const [messages, setMessages] = useState([]); // State to store messages
+export default function ClimateAssistant() {
+  const [isKpiOpen, setIsKpiOpen] = useState(true)
+  const [hasChatStarted, setHasChatStarted] = useState(true)
+  const [digitando, setDigitando] = useState(false)
+  const [id, setId] = useState(localStorage.getItem("id"))
+  const [cities, setCities] = useState([])
+  const [key_indicators, setKey_indicators] = useState([])
+  const [prompt, setPrompt] = useState("")
+  const [messages, setMessages] = useState([])
 
   useEffect(() => {
-    // Fetch chat data when component mounts
-    fetch(`http://localhost:8000/chat/${id}`)
-      .then((response) => response.json())
-      .then((data) => { 
-        console.log(data);
-        setCities(data.city);
-        
-        setKey_indicators(data.key_indicators);
-      });
-  }, [id]);
+    if (id) {
+      fetch(`http://localhost:8000/chat/${id}`)
+        .then((response) => response.json())
+        .then((data) => {
+          console.log(data)
+          setCities(data.city)
+          setKey_indicators(data.key_indicators)
+        })
+    }
+  }, [id])
 
-  console.log(messages);
-  const toggleKpi = () => setIsKpiOpen(!isKpiOpen);
+  console.log(messages)
+
+  const toggleKpi = () => setIsKpiOpen(!isKpiOpen)
 
   const handleSendMessage = () => {
-    if (prompt.trim() === "") return;
-    const userMessage = { sender: "Você", text: prompt }; // 'Você' means 'You' in Portuguese
-    setMessages((prevMessages) => [...prevMessages, userMessage]);
-    setPrompt("");
-    setDigitando(true);
-    sendPrompt(prompt);
-  };
+    if (prompt.trim() === "") return
+    const userMessage = { sender: "Você", text: prompt }
+    setMessages((prevMessages) => [...prevMessages, userMessage])
+    setPrompt("")
+    setDigitando(true)
+    sendPrompt(prompt)
+  }
 
   const sendPrompt = (prompt) => {
     fetch("http://localhost:8000/message", {
@@ -60,183 +53,180 @@ function Chat() {
       }),
     })
       .then((response) => response.json())
-      .then((data) => { 
-        console.log(data);
-        const aiMessage = { sender: "AI", text: data.response };
-        setMessages((prevMessages) => [...prevMessages, aiMessage]);
-        setDigitando(false);
+      .then((data) => {
+        console.log(data)
+        const aiMessage = { sender: "AI", text: data.response }
+        setMessages((prevMessages) => [...prevMessages, aiMessage])
+        setDigitando(false)
       })
       .catch((error) => {
-        console.error(error);
-        const errorMessage = { sender: "AI", text: "Desculpe, ocorreu um erro ao processar sua mensagem." };
-        setMessages((prevMessages) => [...prevMessages, errorMessage]);
-        setDigitando(false);
-      });
-  };
+        console.error(error)
+        const errorMessage = { sender: "AI", text: "Desculpe, ocorreu um erro ao processar sua mensagem." }
+        setMessages((prevMessages) => [...prevMessages, errorMessage])
+        setDigitando(false)
+      })
+  }
 
-  // const handleDownloadReport = () => {
-  //   // Logic to download the report
-  //   console.log("Downloading report...");
-  // };
-
-  const handleCleanLocalSStora = () => {
-    localStorage.removeItem("id");
-    window.location.reload();
-  };
-
+  const handleCleanLocalStorage = () => {
+    localStorage.removeItem("id")
+    window.location.reload()
+  }
 
   return (
-    <div className="flex h-screen">
-      {/* Main Chat Area */}
-      <div className="flex-1 flex flex-col">
-        <div className="flex-1 overflow-hidden">
-          <ScrollArea className="h-full">
+    <div className="flex flex-col h-screen bg-background text-foreground">
+      {/* Minimalistic Header */}
+      <header className="bg-background border-b border-border p-4">
+        <div className="container mx-auto flex justify-between items-center">
+          <div className="flex items-center space-x-2">
+            <Leaf className="h-7 w-7 text-green-800" />
+            <h1 className="text-2xl font-semibold text-green-800">Climate AI</h1>
+
+          </div>
+          {cities && (
+            <div className="text-sm font-medium text-muted-foreground">
+              {cities}
+            </div>
+          )}
+        </div>
+      </header>
+
+      {/* Main Content */}
+      <div className="flex flex-1 overflow-hidden">
+        {/* Chat Area */}
+        <div className="flex-1 flex flex-col">
+          <ScrollArea className="flex-1 p-4">
             {!hasChatStarted ? (
-              // Initial UI before the chat starts
               <div className="flex flex-col h-full items-center justify-center">
-                <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-400 to-accent w-fit bg-clip-text text-transparent mb-4">
+                <h1 className="text-4xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent mb-4">
                   Olá, Gestor
                 </h1>
-                <h2 className="text-4xl text-secondary mb-12">
+                <h2 className="text-2xl text-muted-foreground mb-8">
                   Como posso te ajudar?
                 </h2>
-                <div className="grid grid-cols-2 gap-6 w-full max-w-2xl px-4">
-                  {/* Example Buttons */}
-                  <Button variant="outline" size="lg" className="h-32 text-lg flex flex-col items-center justify-center" onClick={handleSendMessage}>
-                    <BarChart className="h-8 w-8 mb-2" />
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full max-w-2xl">
+                  <Button variant="outline" className="h-24 text-sm flex flex-col items-center justify-center" onClick={() => { setHasChatStarted(true); handleSendMessage(); }}>
+                    <BarChart className="h-6 w-6 mb-2" />
                     Analise o clima de BH
                   </Button>
-                  <Button variant="outline" size="lg" className="h-32 text-lg flex flex-col items-center justify-center" onClick={handleSendMessage}>
-                    <FileText className="h-8 w-8 mb-2" />
+                  <Button variant="outline" className="h-24 text-sm flex flex-col items-center justify-center" onClick={() => { setHasChatStarted(true); handleSendMessage(); }}>
+                    <FileText className="h-6 w-6 mb-2" />
                     Crie report da cidade Jau
                   </Button>
-                  <Button variant="outline" size="lg" className="h-32 text-lg flex flex-col items-center justify-center" onClick={handleSendMessage}>
-                    <Type className="h-8 w-8 mb-2" />
+                  <Button variant="outline" className="h-24 text-sm flex flex-col items-center justify-center" onClick={() => { setHasChatStarted(true); handleSendMessage(); }}>
+                    <Type className="h-6 w-6 mb-2" />
                     Índice de poluição de Florianópolis
                   </Button>
-                  <Button variant="outline" size="lg" className="h-32 text-lg flex flex-col items-center justify-center" onClick={handleSendMessage}>
-                    <Languages className="h-8 w-8 mb-2" />
-                    Principais problemas climáticos de SP 
+                  <Button variant="outline" className="h-24 text-sm flex flex-col items-center justify-center" onClick={() => { setHasChatStarted(true); handleSendMessage(); }}>
+                    <Languages className="h-6 w-6 mb-2" />
+                    Principais problemas climáticos de SP
                   </Button>
                 </div>
               </div>
             ) : (
-              // Chat Messages Area
-              <div className="p-4 space-y-4">
-                {
-                  cities?(
-                <div key={0} 
-                    className={`p-3 rounded-lg shadow bg-blue-100}`}>
-                    <p className="font-semibold">AI:</p>
-                    <p>Ola gestor climático da cidade de {cities}. Como posso ajuda-lo hoje?</p>
+              <div className="space-y-4">
+                {cities && (
+                  <div className="flex justify-start">
+                    <div className="max-w-[80%] p-3 rounded-lg bg-green-800/15 text-secondary-foreground">
+                      <p className="font-medium mb-1">AI</p>
+                      <p>Olá gestor climático da cidade de {cities}. Como posso ajudá-lo hoje?</p>
+                    </div>
                   </div>
-                  ):(
-                    <></>
-                  )
-                }
-               {messages.map((msg, index) => (
-                    <div
-                      key={index}
-                      className={`p-3 rounded-lg shadow ${
-                        msg.sender === "AI" ? "bg-white" : "bg-blue-100"
-                      }`}
-                    >
-                      <p className="font-semibold">{msg.sender}:</p>
+                )}
+                {messages.map((msg, index) => (
+                  <div key={index} className={`flex ${msg.sender === "AI" ? "justify-start" : "justify-end"}`}>
+                    <div className={`max-w-[80%] p-3 rounded-lg ${msg.sender === "AI" ? "bg-green-800/15 text-secondary-foreground" : "bg-primary text-primary-foreground"}`}>
+                      <p className="font-medium mb-1">{msg.sender}</p>
                       {msg.sender === "AI" ? (
                         <div dangerouslySetInnerHTML={{ __html: msg.text }} />
                       ) : (
                         <p>{msg.text}</p>
                       )}
                     </div>
-                  ))}
-                  {digitando && (
-                    <div className="p-3 bg-white rounded-lg shadow">
-                      <p className="font-semibold">AI:</p>
+                  </div>
+                ))}
+                {digitando && (
+                  <div className="flex justify-start">
+                    <div className="max-w-[80%] p-3 rounded-lg bg-secondary text-secondary-foreground">
+                      <p className="font-medium mb-1">AI</p>
                       <p>Digitando...</p>
                     </div>
-                  )}
-
+                  </div>
+                )}
               </div>
             )}
           </ScrollArea>
-        </div>
-        {/* Input Area */}
-        <div className="p-4 bg-white border-t">
-          <div className="flex space-x-2">
-            <Input 
-              value={prompt}
-              onChange={(e) => setPrompt(e.target.value)}
-              onKeyDown={(e) => {
-                if (e.key === 'Enter') {
-                  handleSendMessage();
-                }
-              }}
-              placeholder="Digite sua mensagem aqui..." 
-              className="flex-1" 
-            />
-            <Button size="lg" onClick={handleSendMessage} disabled={digitando}>
-              <MessageSquare className="h-5 w-5 mr-2" />
-              Enviar
-            </Button>
-          </div>
-        </div>
-      </div>
-      {/* KPI Panel */}
-      <div
-        className={`${
-          isKpiOpen ? "w-80" : "w-0"
-        } transition-all duration-300 bg-white border-l overflow-hidden`}
-      >
-        {isKpiOpen && (
-          <div className="p-6">
-            <div className="flex justify-between items-center mb-6">
-              <h1 className="text-3xl font-semibold">{cities}</h1>
-              <Button variant="ghost" size="icon" onClick={toggleKpi}>
-                <X className="h-5 w-5" />
+          {/* Input Area */}
+          <div className="p-4 bg-background border-t border-border">
+            <div className="flex space-x-2">
+              <Input
+                value={prompt}
+                onChange={(e) => setPrompt(e.target.value)}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter') {
+                    handleSendMessage()
+                  }
+                }}
+                placeholder="Digite sua mensagem aqui..."
+                className="flex-1"
+              />
+              <Button onClick={handleSendMessage} disabled={digitando}>
+                <MessageSquare className="h-5 w-5 mr-2" />
+                Enviar
               </Button>
             </div>
-            <div>
-              <Button variant="outline" size="lg" className="w-full mb-4" onClick={handleCleanLocalSStora}>Alterar Município</Button>
-              {/* <button onClick={handleCleanLocalSStora} className="" >Mudar cidade</button> */}
-            </div>
-            <div className="pb-6 border-b border-gray-200">
-              <h2 className="text-xl font-bold tracking-wide text-gray-600">Desafios climáticos</h2>
-            </div>
-            <div className="space-y-6 pt-6">
-              {/* KPI Cards */}
-              {key_indicators.map((item, index) => (
-                <div key={index} className="bg-gray-100 p-5 rounded-lg shadow-sm">
-                  <h3 className="font-semibold text-m text-gray-500 mb-1">{index + 1} Índice</h3>
-                  <p className="text-l font-extrabold text-gray-900">{item.content}</p>
-                </div>
-              ))}
-              {/* Download Button */}
-              {/* <Button 
-                variant="outline" 
-                size="lg" 
-                className="w-full flex items-center justify-center mt-4"
-                onClick={handleDownloadReport}
-              >
-                <Download className="h-5 w-5 mr-2" />
-                Baixar Relatório Completo
-              </Button> */}
-            </div>
           </div>
-        )}
+        </div>
+
+        {/* KPI Panel */}
+        <div className={`${isKpiOpen ? "w-80" : "w-0"} transition-all duration-300 bg-background border-l border-border overflow-hidden`}>
+          {isKpiOpen && (
+            <div className="h-full flex flex-col">
+              <div className="p-4 border-b border-border">
+                <div className="flex justify-between items-center mb-4">
+                  <h2 className="text-xl font-semibold">{cities}</h2>
+                  <Button variant="ghost" 
+                          size="icon" 
+                          className="hover:bg-green-800 hover:text-white transition-colors duration-200" 
+                          onClick={toggleKpi}>
+                    <X className="h-4 w-3 " />
+                  </Button>
+                </div>
+                <Button 
+                  variant="outline" 
+                  size="medium" 
+                  className="w-full bg-white text-green-800 hover:bg-green-800 hover:text-white transition-colors duration-200" 
+                  onClick={handleCleanLocalStorage}
+                >
+                  Alterar Município
+                </Button>
+              </div>
+              <ScrollArea className="flex-1 p-4">
+                <h3 className="text-sm font-medium text-muted-foreground mb-2">Desafios climáticos:</h3>
+                <div className="space-y-2">
+                  {key_indicators.map((item, index) => (
+                    <div key={index} className="bg-secondary/50 p-3 rounded-md">
+                      <h4 className="text-xs font-medium text-muted-foreground mb-1">{index + 1} Índice</h4>
+                      <p className="text-xl font-medium">{item.content}</p>
+                    </div>
+                  ))}
+                </div>
+              </ScrollArea>
+            </div>
+          )}
+        </div>
       </div>
+
       {/* KPI Toggle Button */}
       {!isKpiOpen && (
         <Button
           variant="outline"
           size="icon"
-          className="fixed right-4 top-4"
+          className="fixed right-4 top-16"
           onClick={toggleKpi}
         >
           <BarChart2 className="h-4 w-4" />
         </Button>
       )}
     </div>
-  );
+  )
 }
-
-export default Chat;

@@ -1,8 +1,9 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { Autocomplete, TextField, Button, CircularProgress } from "@mui/material";
-import axios from "axios"; 
+import { Autocomplete, TextField, Button as MuiButton, CircularProgress } from "@mui/material";
+import axios from "axios";
+import { Leaf } from "lucide-react";
 
 export default function LocationSelector() {
   const [states, setStates] = useState([]);
@@ -13,7 +14,6 @@ export default function LocationSelector() {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    // Fetch states from the IBGE API and map to simplified types
     const fetchStates = async () => {
       try {
         const response = await axios.get(
@@ -34,7 +34,6 @@ export default function LocationSelector() {
 
   useEffect(() => {
     if (selectedState) {
-      // Fetch cities based on the selected state and map to simplified types
       const fetchCities = async () => {
         setLoadingCities(true);
         try {
@@ -81,65 +80,74 @@ export default function LocationSelector() {
       })
       .catch((error) => {
         console.error("Error with fetch:", error);
-        setLoading(false);  // Make sure to handle loading state even on error
+        setLoading(false);
       });
     }
   };
   
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-gray-50 p-4">
-      <div className="w-full max-w-md bg-white p-6 rounded-lg shadow-md">
-        <h2 className="text-xl font-semibold mb-4 text-gray-900">Bem vindo ao assistente climático!</h2>
-        <h2 className="text-l font-semibold mb-4 text-gray-600">Para iniciar, por favor, selecione a UF e Município</h2>
-        <Autocomplete
-          options={states}
-          getOptionLabel={(option) => `${option.name} (${option.abbreviation})`}
-          value={selectedState}
-          onChange={(event, newValue) => setSelectedState(newValue)}
-          renderInput={(params) => <TextField {...params} label="Selecione o estado" variant="outlined" />}
-          className="mb-4"
-        />
-        <Autocomplete
-          options={cities}
-          getOptionLabel={(option) => option.name}
-          value={selectedCity}
-          onChange={(event, newValue) => setSelectedCity(newValue)}
-          renderInput={(params) => (
-            <TextField
-              {...params}
-              label="Selecione o município"
-              variant="outlined"
-              InputProps={{
-                ...params.InputProps,
-                endAdornment: (
-                  <>
-                    {loadingCities ? <CircularProgress color="inherit" size={20} /> : null}
-                    {params.InputProps.endAdornment}
-                  </>
-                ),
-              }}
-            />
-          )}
-          disabled={!selectedState}
-          className="mb-4"
-        />
-        <Button
-          variant="contained"
-          color="primary"
-          fullWidth
-          onClick={handleSubmit}
-          disabled={!selectedState || !selectedCity}
-        >
+    <div className="flex flex-col min-h-screen bg-gray-50">
+      {/* Header */}
+      <header className="bg-green-50 border-b border-green-200 p-4">
+        <div className="container mx-auto flex justify-between items-center">
+          <div className="flex items-center space-x-2">
+            <Leaf className="h-6 w-6 text-green-800" />
+            <h1 className="text-xl font-semibold text-green-800">Climate AI</h1>
+          </div>
+        </div>
+      </header>
 
-          {
-            loading ? (
-              <CircularProgress color="inherit" size={20}  />
+      {/* Main Content */}
+      <div className="flex-1 flex items-center justify-center p-4">
+        <div className="w-full max-w-md bg-white p-6 rounded-lg shadow-md">
+          <h2 className="text-xl font-semibold mb-4 text-gray-900">Bem vindo ao assistente climático!</h2>
+          <h2 className="text-l font-semibold mb-4 text-gray-600">Para iniciar, por favor, selecione a UF e Município</h2>
+          <Autocomplete
+            options={states}
+            getOptionLabel={(option) => `${option.name} (${option.abbreviation})`}
+            value={selectedState}
+            onChange={(event, newValue) => setSelectedState(newValue)}
+            renderInput={(params) => <TextField {...params} label="Selecione o estado" variant="outlined" />}
+            className="mb-4"
+          />
+          <Autocomplete
+            options={cities}
+            getOptionLabel={(option) => option.name}
+            value={selectedCity}
+            onChange={(event, newValue) => setSelectedCity(newValue)}
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                label="Selecione o município"
+                variant="outlined"
+                InputProps={{
+                  ...params.InputProps,
+                  endAdornment: (
+                    <>
+                      {loadingCities ? <CircularProgress color="inherit" size={20} /> : null}
+                      {params.InputProps.endAdornment}
+                    </>
+                  ),
+                }}
+              />
+            )}
+            disabled={!selectedState}
+            className="mb-4"
+          />
+          <MuiButton
+            variant="contained"
+            color="primary"
+            fullWidth
+            onClick={handleSubmit}
+            disabled={!selectedState || !selectedCity}
+          >
+            {loading ? (
+              <CircularProgress color="inherit" size={20} />
             ) : (
               "Start Chat"
-            )
-          }
-    
-        </Button>
+            )}
+          </MuiButton>
+        </div>
       </div>
     </div>
   );
