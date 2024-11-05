@@ -201,7 +201,7 @@ export default function ClimateAssistant() {
                 </Button>
               </div>
               <ScrollArea className="flex-1 p-4">
-                <h3 className="text-sm font-medium text-muted-foreground mb-2">Desafios climáticos:</h3>
+                <h3 className="text-sm font-medium text-muted-foreground mb-2">Desafios climáticos do município:</h3>
                 <div className="space-y-2">
                   {key_indicators.map((item, index) => (
                     <div key={index} className="bg-secondary/50 p-3 rounded-md">
